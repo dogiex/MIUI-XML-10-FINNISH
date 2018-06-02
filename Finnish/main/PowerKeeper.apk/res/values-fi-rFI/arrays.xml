@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="hmode_app_groups">
+        <item>Mukautettu</item>
+        <item>Virransäästö</item>
+    </string-array>
+    <string-array name="thermal_entries">
+        <item>Oletus lämpötilan säätötila</item>
+        <item>Suorituskykytila</item>
+    </string-array>
+    <string-array name="power_mode_entries">
+        <item>Suorituskyky</item>
+        <item>Tasapainoitettu</item>
+    </string-array>
+</resources>
