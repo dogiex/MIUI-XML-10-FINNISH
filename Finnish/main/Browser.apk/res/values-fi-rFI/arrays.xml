@@ -1,5 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+
+    <!-- miui 10 muutos -->
+
+    <string-array name="pref_navscreen_layoutstate_choices">
+        <item>Pystysuora näkymä</item>
+        <item>Vaakasuora näkymä</item>
+     </string-array>
+
+     <!-- miui 10 muutos -->
+
+
     <string-array name="pref_fling_on_border_gesture_entries">
         <item>Sivu takaisin eteenpäin</item>
         <item>Vaihda välilehtiä</item>
