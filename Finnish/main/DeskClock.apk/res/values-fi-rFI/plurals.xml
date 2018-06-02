@@ -1,5 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <!-- ei vielä käännetty -->
+    <plurals name="second">
+        <item quantity="other">%d seconds</item>
+        <item quantity="one">%d second</item>
+     </plurals>
+     <!-- ei vielä käännetty -->
     <plurals name="alarm_alert_snooze_set">
         <item quantity="other">Torkutetaan %d minuuttia.</item>
         <item quantity="one">Torkutetaan %d minuutti.</item>

@@ -1,5 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <!-- ei vielä käännetty -->
+  <string name="passport_talkback_image_captcha">Image verification code</string>
+     <string name="passport_talkback_switch_image_captcha">Switch to image verification code</string>
+     <string name="passport_talkback_switch_voice_captcha">Switch to voice verification code</string>
+     <string name="passport_talkback_voice_captcha">Play voice verification code</string>
+     <!-- ei vielä käännetty -->
   <string name="about_device_info">Näytä laitteen tiedot</string>
   <string name="access_token_expired_warning">Weibo Tili on vanhentunut</string>
   <string name="access_token_invalid_warning">Weibo Tili on väärin</string>

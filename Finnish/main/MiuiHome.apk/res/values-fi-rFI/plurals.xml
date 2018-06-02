@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <!-- ei vielä käännetty -->
+    <plurals name="announce_for_unread">
+        <item quantity="other">%2$s unread from %1$s</item>
+     </plurals>
+     <!-- ei vielä käännetty -->
     <plurals name="announce_for_drag">
         <item quantity="other">Raahataan %1$d kohdetta</item>
         <item quantity="one">Raahataan %1$d kohdetta</item>

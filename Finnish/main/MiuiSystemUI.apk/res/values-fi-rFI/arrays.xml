@@ -1,5 +1,53 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <!-- ei vielä käännetty -->
+    <string-array name="battery_options">
+        <item>Always show percentage</item>
+        <item>Show percentage when charging (default)</item>
+        <item>"Don't show this icon"</item>
+     </string-array>
+     <string-array name="clock_options">
+        <item>Show hours, minutes, and seconds</item>
+        <item>Show hours and minutes (default)</item>
+        <item>"Don't show this icon"</item>
+     </string-array>
+     <string-array name="miui_volume_timer_segments_title">
+        <item>Off</item>
+        <item>Half hour</item>
+        <item>1 hour</item>
+        <item>2 hours</item>
+        <item>8 Hours</item>
+     </string-array>
+     <string-array name="nav_bar_buttons">
+        <item>Clipboard</item>
+        <item>Keycode</item>
+        <item>Keyboard switcher</item>
+        <item>None</item>
+     </string-array>
+     <string-array name="nav_bar_layouts">
+        <item>Normal</item>
+        <item>Compact</item>
+        <item>Left-leaning</item>
+        <item>Right-leaning</item>
+     </string-array>
+     <string-array name="origin_carrier_names">
+        <item>"CHINA  MOBILE"</item>
+        <item>CMCC</item>
+        <item>CHN-UNICOM</item>
+        <item>China Mobile</item>
+        <item>China Mobile (HD)</item>
+        <item>China Unicom</item>
+        <item>China Telecom</item>
+        <item>CHN-CT</item>
+        <item>中国移动</item>
+        <item>中国联通</item>
+        <item>中国电信</item>
+        <item>中國移動</item>
+        <item>中國聯通</item>
+        <item>中國電信</item>
+        <item>Searching for Service</item>
+     </string-array>
+    <!-- ei vielä käännetty -->
     <string-array name="wifi_status">
         <item></item>
         <item>Etsitään...</item>

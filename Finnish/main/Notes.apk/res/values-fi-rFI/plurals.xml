@@ -1,5 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <!-- ei vielä käännetty -->
+    <plurals name="record_last_ten_seconds_reminder">
+        <item quantity="other">%d seconds left</item>
+        <item quantity="one">%d second left</item>
+     </plurals>
+     <plurals name="word_count">
+        <item quantity="other">%s Characters</item>
+        <item quantity="one">%s Character</item>
+     </plurals>
+     <!-- ei vielä käännetty -->
     <plurals name="cloud_state_unsynced_count">
         <item quantity="other">%1$s ei ole synkronoitu</item>
         <item quantity="one">%1$s ei ole synkronoitu</item>

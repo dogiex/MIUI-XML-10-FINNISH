@@ -1,5 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <!-- ei vielä käännetty -->
+    <plurals name="power_center_battery_temperature">
+        <item quantity="other">%d ℃</item>
+        <item quantity="one">%d ℃</item>
+     </plurals>
+     <plurals name="power_center_battery_volume">
+        <item quantity="other">%d mAh</item>
+        <item quantity="one">%d mAh</item>
+     </plurals>
+     <!-- ei vielä käännetty -->
     <plurals name="fw_blocked_count_call">
         <item quantity="other">%1$d puhelua henkilöltä %2$s ja muilta</item>
         <item quantity="one">%1$d puhelu henkilöltä %2$s</item>

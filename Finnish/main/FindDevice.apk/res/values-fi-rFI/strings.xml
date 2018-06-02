@@ -1,5 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <!-- ei vielä käännetty -->
+  <string name="find_device_notice">Go to&lt;br /&gt;&lt;b&gt;&lt;font color=#e84700&gt;i.mi.com&lt;/font&gt;&lt;/b&gt;&lt;br /&gt;to locate, lock, or restore your device.</string>
+  <!-- ei vielä käännetty -->
   <string name="activate_xiaomi_account">Aktivoi tämä laite</string>
   <string name="adding_or_updating_account">Päivitetään tiliä…</string>
   <string name="app_name">Etsi laite</string>

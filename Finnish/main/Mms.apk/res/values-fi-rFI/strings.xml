@@ -1,5 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <!-- ei vielä käännetty -->
+  <string name="notification_channel_description">Notifications from Messaging</string>
+  <string name="notification_channel_name">Messaging</string>
+  <string name="notification_copy">Copy OTP</string>
+  <string name="status_bar_notification_info_overflow">999+</string>
+  <string name="toast_pending_hangup_msg">Message will be sent after the call ends</string>
+  <string name="url_scan_again">Check again</string>
+  <!-- ei vielä käännetty -->
   <string name="action_firewall_setting">Estolista</string>
   <string name="activity_not_found">Tälle toiminnolle ei löytynyt sovellusta</string>
   <string name="activity_not_found_uri">Tälle toiminnolle ei löytynyt sovellusta</string>

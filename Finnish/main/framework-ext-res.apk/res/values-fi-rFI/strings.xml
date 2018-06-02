@@ -1,5 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <!-- ei vielä käännetty -->
+  <string name="miui_forbid_poweroff_when_device_locked">"Can't power off, device is locked."</string>
+  <string name="super_resolution_maintain_tips">"Super resolution isn't available yet."</string>
+  <string name="wifi_assistant_wifi_no_internet">This WLAN network has no access to the internet</string>
+  <string name="wifi_assistant_wifi_no_internet_detail">Tap to view details</string>
+  <!-- ei vielä käännetty -->
   <string name="activity_package_delete_confirm_title">Huomio</string>
   <string name="add_frequent_phrases">Lisää usein käytettyjä lauseita</string>
   <string name="all_call_livetalk_enable">Käytetään top-up pakettia kotimaan- ja ulkomaanpuheluihin</string>

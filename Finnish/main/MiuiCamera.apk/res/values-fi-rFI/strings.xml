@@ -1,5 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <!-- ei vielä käännetty -->
+  <string name="accessibility_ai_scene_off">AI camera is off</string>
+  <string name="accessibility_ai_scene_on">AI camera</string>
+  <string name="hint_ae_af_lock">Auto focus / auto exposure has been locked</string>
+  <!-- ei vielä käännetty -->
   <string name="access_sd_fail">SD-korttia ei voi käyttää.</string>
   <string name="accessibility_audio_shutter_bg">Audio Shutter background</string>
   <string name="accessibility_back_preview_status">Takakameran esikatselu</string>

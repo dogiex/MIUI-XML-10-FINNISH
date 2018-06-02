@@ -704,6 +704,7 @@ Kun olet laittanut tiedoston \"music.mp3\" SD-kortin hakemistoon, napauta näytt
   <string name="get_template_finger">Extract Image:get template finger</string>
   <string name="hint">it could take a long time, please wait patient.</string>
   <string name="hint_frr_far_enroll_template">关掉后录入的手指将不进行测试，只作为其他手指的样本</string>
+  <string name="hwversion_label">Laitteistoversio</string>
   <string name="image_a">图像面积</string>
   <string name="image_q">图像质量</string>
   <string name="image_quality">图像质量:</string>
