@@ -1,34 +1,34 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <!-- ei vielä käännetty -->
+    <!-- miui 10 valmis -->
     <string-array name="battery_options">
-        <item>Always show percentage</item>
-        <item>Show percentage when charging (default)</item>
-        <item>"Don't show this icon"</item>
+        <item>Näytä aina prosentti</item>
+        <item>Näytä prosentti ladattaessa (oletus)</item>
+        <item>Älä näytä tätä kuvaketta</item>
      </string-array>
      <string-array name="clock_options">
-        <item>Show hours, minutes, and seconds</item>
-        <item>Show hours and minutes (default)</item>
-        <item>"Don't show this icon"</item>
+        <item>Näytä tunnit, minuutit ja sekunnit</item>
+        <item>Näytä tunnit ja minuutit (oletus)</item>
+        <item>Älä näytä tätä kuvaketta</item>
      </string-array>
      <string-array name="miui_volume_timer_segments_title">
-        <item>Off</item>
-        <item>Half hour</item>
-        <item>1 hour</item>
-        <item>2 hours</item>
-        <item>8 Hours</item>
+        <item>Pois käytöstä</item>
+        <item>Puoli tuntia</item>
+        <item>1 tunti</item>
+        <item>2 tuntia</item>
+        <item>8 tuntia</item>
      </string-array>
      <string-array name="nav_bar_buttons">
-        <item>Clipboard</item>
-        <item>Keycode</item>
-        <item>Keyboard switcher</item>
-        <item>None</item>
+        <item>Leikepöytä</item>
+        <item>Avainkoodi</item>
+        <item>Näppäimistön vaihtaja</item>
+        <item>Ei mitään</item>
      </string-array>
      <string-array name="nav_bar_layouts">
-        <item>Normal</item>
-        <item>Compact</item>
-        <item>Left-leaning</item>
-        <item>Right-leaning</item>
+        <item>Normaali</item>
+        <item>Kompakti</item>
+        <item>Vasemmalle painottuva</item>
+        <item>Oikealle painottuva</item>
      </string-array>
      <string-array name="origin_carrier_names">
         <item>"CHINA  MOBILE"</item>
@@ -45,9 +45,9 @@
         <item>中國移動</item>
         <item>中國聯通</item>
         <item>中國電信</item>
-        <item>Searching for Service</item>
+        <item>Etsitään Palvelua</item>
      </string-array>
-    <!-- ei vielä käännetty -->
+    <!-- miui 10 valmis -->
     <string-array name="wifi_status">
         <item></item>
         <item>Etsitään...</item>
