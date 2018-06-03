@@ -25,7 +25,7 @@ Jos tahdot auttaa kääntämään tätä projektia se tapahtuu pull requesteilla
 
 [Lisätietoja forkkauksesta löydät täältä](https://guides.github.com/activities/forking)  
 [Käännöksen tarkistus scriptin löydät täältä](https://translators.xiaomi.eu/XML_MIUI10-Finnish-fi.html)  
-[Alkuperäiset käännösmuutokset jota seurataan](https://github.com/ingbrzy/Xiaomi.eu-MIUIv10-XML-Compare)  
+[Alkuperäiset käännösmuutokset jota seurataan](https://github.com/ingbrzy/Xiaomi.eu-MIUIv10-XML-Compare/commits/master/chiron)  
 
 ## Wiki
 [Wiki -sivuilla](https://github.com/dogiex/MIUI-XML-10-FINNISH/wiki) on ohjeet bugien ilmoittamiseen ja kaikenlaista muuta hyödyllistä tietoa. Lukekaa ihmeessä läpi.
