@@ -1,16 +1,16 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <!-- ei vielä käännetty -->
-  <string name="candy">Candy</string>
-  <string name="fairyland">Fairyland</string>
-  <string name="fieldtrip">Field trip</string>
-  <string name="glee">Glee</string>
-  <string name="kungfu">Kung fu</string>
-  <string name="mountainspring">Mountain spring</string>
-  <string name="notice_audition">Nature sounds</string>
-  <string name="spaceage">Space age</string>
-  <string name="vigor">Vigor</string>
-  <!-- ei vielä käännetty -->
+  <!-- miui 10 valmis -->
+  <string name="candy">Karkki</string>
+  <string name="fairyland">Satumaa</string>
+  <string name="fieldtrip">Luokkaretki</string>
+  <string name="glee">Ilo</string>
+  <string name="kungfu">Kung-fu</string>
+  <string name="mountainspring">Vuorijousi</string>
+  <string name="notice_audition">Luontoäänet</string>
+  <string name="spaceage">Avaruusikä</string>
+  <string name="vigor">Elinvoima</string>
+  <!-- miui 10 valmis -->
   <string name="acousticguitar">Akustinen kitara</string>
   <string name="add_frequent_phrases">Lisää usein käytettyjä lauseita</string>
   <string name="alarmclock">Herätyskello</string>
