@@ -2026,7 +2026,7 @@ jonka määritit manuaalisesti (%2$s). Vaihdetaanko SIM-kortin sijainniksi %3$s?
   <string name="summary_mms">Estä tekstiviesti spämmi automaattisesti</string>
   <string name="summary_network_switch">Salli Tietoturva sovelluksen yhdistää internetiin</string>
   <string name="summary_never_flow_verify">Operaattorisi ei ole vahvistanut tätä numeroa</string>
-  <string name="summary_payment_risk">Näyttää, että maksuympäristä ei ole turvallinen</string>
+  <string name="summary_payment_risk">Näyttää, että maksuympäristö ei ole turvallinen</string>
   <string name="summary_permission">Vältä ei-toivottuja maksuja suojaa henkilökohtaiset tiedot</string>
   <string name="summary_permission_root">Näyttää, että tällä laitteella on root oikeus. Se saattaa vahingoittaa laitteesi tietoturvaa.</string>
   <string name="summary_power_optimizer">Vähennä laitteesi suorituskykyä, kun akun taso on alhainen</string>
