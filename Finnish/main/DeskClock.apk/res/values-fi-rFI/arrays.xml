@@ -1,150 +1,150 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <!-- ei vielä käännetty -->
+     <!-- miui 10 valmis -->
     <string-array name="countries_names_miui">
-        <item>"Coate d'Ivoire"</item>
+        <item>Norsunluurannikko</item>
         <item>Ghana</item>
-        <item>Ethiopia</item>
+        <item>Etiopia</item>
         <item>Algeria</item>
         <item>Malawi</item>
-        <item>Republic of the Congo</item>
-        <item>Egypt</item>
-        <item>Morocco</item>
+        <item>Kongon tasavalta</item>
+        <item>Egypti</item>
+        <item>Marokko</item>
         <item>Guinea</item>
         <item>Senegal</item>
-        <item>Tanzania</item>
-        <item>Republic of the Djibouti</item>
+        <item>Tansania</item>
+        <item>Djiboutin tasavalta</item>
         <item>Sierra Leone</item>
         <item>Botswana</item>
         <item>Zimbabwe</item>
-        <item>South Africa</item>
+        <item>Etelä-Afrikka</item>
         <item>Uganda</item>
-        <item>Republic of the Sudan</item>
-        <item>Rwanda</item>
-        <item>Democratic Republic of the Congo</item>
+        <item>Sudanin tasavalta</item>
+        <item>Ruanda</item>
+        <item>Kongon demokraattinen tasavalta</item>
         <item>Nigeria</item>
         <item>Lesotho</item>
         <item>Somalia</item>
-        <item>Kenya</item>
-        <item>Sao Tome and Principe</item>
+        <item>Kenia</item>
+        <item>Sao Tome ja Principe</item>
         <item>Mali</item>
         <item>Libya</item>
         <item>Tunisia</item>
-        <item>United States</item>
-        <item>Argentina</item>
+        <item>Yhdysvallat</item>
+        <item>Argentiina</item>
         <item>Aruba</item>
         <item>Paraguay</item>
         <item>Barbados</item>
         <item>Belize</item>
-        <item>Colombia</item>
-        <item>Argentina</item>
-        <item>Mexico</item>
+        <item>Kolumbia</item>
+        <item>Argentiina</item>
+        <item>Meksiko</item>
         <item>Venezuela</item>
-        <item>Cayman Islands</item>
-        <item>United States</item>
+        <item>Caymansaaret</item>
+        <item>Yhdysvallat</item>
         <item>Costa Rica</item>
         <item>Curaçao</item>
-        <item>Canada</item>
-        <item>United States</item>
-        <item>United States</item>
-        <item>Dominican Republic</item>
-        <item>Canada</item>
+        <item>Kanada</item>
+        <item>Yhdysvallat</item>
+        <item>Yhdysvallat</item>
+        <item>Dominikaaninen tasavalta</item>
+        <item>Kanada</item>
         <item>El Salvador</item>
-        <item>Brazil</item>
-        <item>Turks and Caicos Islands</item>
+        <item>Brasilia</item>
+        <item>Turks- ja Caicossaaret</item>
         <item>Grenada</item>
         <item>Guatemala</item>
         <item>Guyana</item>
-        <item>Canada</item>
-        <item>Cuba</item>
-        <item>United States</item>
-        <item>United States</item>
-        <item>United States</item>
-        <item>United States</item>
-        <item>United States</item>
-        <item>United States</item>
-        <item>United States</item>
-        <item>United States</item>
-        <item>Jamaica</item>
+        <item>Kanada</item>
+        <item>Kuuba</item>
+        <item>Yhdysvallat</item>
+        <item>Yhdysvallat</item>
+        <item>Yhdysvallat</item>
+        <item>Yhdysvallat</item>
+        <item>Yhdysvallat</item>
+        <item>Yhdysvallat</item>
+        <item>Yhdysvallat</item>
+        <item>Yhdysvallat</item>
+        <item>Jamaika</item>
         <item>Bolivia</item>
         <item>Peru</item>
-        <item>United States</item>
-        <item>United States</item>
+        <item>Yhdysvallat</item>
+        <item>Yhdysvallat</item>
         <item>Nicaragua</item>
         <item>Martinique</item>
-        <item>United States</item>
-        <item>Mexico</item>
-        <item>United States</item>
+        <item>Yhdysvallat</item>
+        <item>Meksiko</item>
+        <item>Yhdysvallat</item>
         <item>Uruguay</item>
-        <item>Canada</item>
-        <item>The Bahamas</item>
-        <item>United States</item>
-        <item>United States</item>
-        <item>United States</item>
-        <item>United States</item>
+        <item>Kanada</item>
+        <item>Bahama</item>
+        <item>Yhdysvallat</item>
+        <item>Yhdysvallat</item>
+        <item>Yhdysvallat</item>
+        <item>Yhdysvallat</item>
         <item>Panama</item>
-        <item>United States</item>
-        <item>Trinidad and Tobago</item>
+        <item>Yhdysvallat</item>
+        <item>Trinidad ja Tobago</item>
         <item>Haiti</item>
         <item>Puerto Rico</item>
-        <item>Dominican Republic</item>
-        <item>Brazil</item>
-        <item>Canada</item>
-        <item>Saint Kitts and Nevis</item>
+        <item>Dominikaaninen tasavalta</item>
+        <item>Brasilia</item>
+        <item>Kanada</item>
+        <item>Saint Kitts ja Nevis</item>
         <item>Saint Lucia</item>
-        <item>U.S. Virgin Islands</item>
-        <item>Mexico</item>
-        <item>Canada</item>
-        <item>Canada</item>
-        <item>Canada</item>
-        <item>Antarctica</item>
-        <item>Svalbard and Jan Mayen</item>
-        <item>Kazakhstan</item>
-        <item>Jordan</item>
-        <item>Russia</item>
-        <item>Kazakhstan</item>
-        <item>Iraq</item>
+        <item>Yhdysvaltain Neitsytsaaret</item>
+        <item>Meksiko</item>
+        <item>Kanada</item>
+        <item>Kanada</item>
+        <item>Kanada</item>
+        <item>Antarktis</item>
+        <item>Svalbard ja Jan Mayen</item>
+        <item>Kazakstan</item>
+        <item>Jordania</item>
+        <item>Venäjä</item>
+        <item>Kazakstan</item>
+        <item>Irak</item>
         <item>Bahrain</item>
-        <item>Azerbaijan</item>
-        <item>Thailand</item>
-        <item>Lebanon</item>
-        <item>India</item>
-        <item>Syria</item>
+        <item>Azerbaidžan</item>
+        <item>Taimaa</item>
+        <item>Libanon</item>
+        <item>Intia</item>
+        <item>Syyria</item>
         <item>Bangladesh</item>
-        <item>United Arab Emirates</item>
-        <item>the State of Palestine</item>
-        <item>the State of Palestine</item>
+        <item>Yhdistyneet Arabiemiirikunnat</item>
+        <item>Palestiinan valtio</item>
+        <item>Palestiinan valtio</item>
         <item>Vietnam</item>
-        <item>China</item>
+        <item>Kiina</item>
         <item>Indonesia</item>
         <item>Israel</item>
         <item>Afghanistan</item>
         <item>Pakistan</item>
         <item>Nepal</item>
-        <item>Malaysia</item>
+        <item>Malesia</item>
         <item>Kuwait</item>
-        <item>China</item>
-        <item>Philippines</item>
+        <item>Kiina</item>
+        <item>Filippiinit</item>
         <item>Oman</item>
-        <item>Cambodia</item>
-        <item>North Korea</item>
+        <item>Kambodža</item>
+        <item>Pohjois-Korea</item>
         <item>Qatar</item>
         <item>Myanmar</item>
-        <item>Saudi Arabia</item>
-        <item>China</item>
-        <item>South Korea</item>
-        <item>China</item>
+        <item>Saudi-Arabia</item>
+        <item>Kiina</item>
+        <item>Etelä-Korea</item>
+        <item>Kiina</item>
         <item>Singapore</item>
-        <item>China</item>
+        <item>Kiina</item>
         <item>Iran</item>
         <item>Israel</item>
-        <item>Japan</item>
+        <item>Japani</item>
         <item>Mongolia</item>
         <item>Bermuda</item>
-        <item>Spain</item>
-        <item>Cape Verde</item>
-        <item>Iceland</item>
-        <item>Falkland Islands</item>
+        <item>Espanja</item>
+        <item>Kap Verde</item>
+        <item>Islanti</item>
+        <item>Falklandinsaaret</item>
         <item>Australia</item>
         <item>Australia</item>
         <item>Australia</item>
@@ -154,152 +154,150 @@
         <item>Australia</item>
         <item>Australia</item>
         <item>Australia</item>
-        <item>Canada</item>
-        <item>Canada</item>
-        <item>Canada</item>
+        <item>Kanada</item>
+        <item>Kanada</item>
+        <item>Kanada</item>
         <item>Chile</item>
-        <item>Netherlands</item>
+        <item>Alankomaat</item>
         <item>Andorra</item>
-        <item>Greece</item>
-        <item>United Kingdom</item>
+        <item>Kreikka</item>
+        <item>Yhdistynyt kuningaskunta</item>
         <item>Serbia</item>
-        <item>Germany</item>
+        <item>Saksa</item>
         <item>Slovakia</item>
-        <item>Belgium</item>
+        <item>Belgia</item>
         <item>Romania</item>
-        <item>Hungary</item>
+        <item>Unkari</item>
         <item>Moldova</item>
-        <item>Denmark</item>
-        <item>Ireland</item>
+        <item>Tanska</item>
+        <item>Irlanti</item>
         <item>Gibraltar</item>
-        <item>Finland</item>
-        <item>Isle of Man</item>
-        <item>Turkey</item>
-        <item>Portugal</item>
-        <item>United Kingdom</item>
-        <item>Luxembourg</item>
-        <item>Spain</item>
+        <item>Suomi</item>
+        <item>Mansaari</item>
+        <item>Turkki</item>
+        <item>Portugali</item>
+        <item>Yhdistynyt kuningaskunta</item>
+        <item>Luxemburg</item>
+        <item>Espanja</item>
         <item>Malta</item>
-        <item>Belarus</item>
+        <item>Valko-Venäjä</item>
         <item>Monaco</item>
-        <item>Russia</item>
-        <item>Norway</item>
-        <item>France</item>
-        <item>Czechia</item>
+        <item>Venäjä</item>
+        <item>Norja</item>
+        <item>Ranska</item>
+        <item>Tšekki</item>
         <item>Latvia</item>
-        <item>Italy</item>
+        <item>Italia</item>
         <item>San Marino</item>
-        <item>Bosnia and Herzegovina</item>
-        <item>Ukraine</item>
-        <item>Macedonia</item>
+        <item>Bosnia ja Hertsegovina</item>
+        <item>Ukraina</item>
+        <item>Makedonia</item>
         <item>Bulgaria</item>
-        <item>Sweden</item>
-        <item>Estonia</item>
-        <item>Vatican City</item>
-        <item>Austria</item>
-        <item>Lithuania</item>
-        <item>Poland</item>
-        <item>Croatia</item>
-        <item>Switzerland</item>
-        <item>Madagascar</item>
-        <item>Maldives</item>
+        <item>Ruotsi</item>
+        <item>Viro</item>
+        <item>Vatikaanivaltio</item>
+        <item>Itävalta</item>
+        <item>Liettua</item>
+        <item>Puola</item>
+        <item>Kroatia</item>
+        <item>Sveitsi</item>
+        <item>Madagaskar</item>
+        <item>Malediivit</item>
         <item>Mauritius</item>
-        <item>New Zealand</item>
-        <item>Fiji</item>
+        <item>Uusi-Seelanti</item>
+        <item>Fidži</item>
         <item>Guam</item>
-        <item>United States</item>
+        <item>Yhdysvallat</item>
         <item>Australia</item>
-        <item>New Caledonia</item>
+        <item>Uusi-Kaledonia</item>
         <item>Samoa</item>
-        <item>French Polynesia</item>
-        <item>Antigua and Barbuda</item>
-        <item>United States</item>
-        <item>United States</item>
-        <item>Canada</item>
-        <item>United States</item>
-        <item>United States</item>
-        <item>United States</item>
-        <item>United States</item>
-        <item>United States</item>
-        <item>United States</item>
-        <item>Canada</item>
-        <item>United States</item>
-        <item>United States</item>
-        <item>United States</item>
-        <item>United States</item>
-        <item>United States</item>
-        <item>United States</item>
+        <item>Ranskan Polynesia</item>
+        <item>Antigua ja Barbuda</item>
+        <item>Yhdysvallat</item>
+        <item>Yhdysvallat</item>
+        <item>Kanada</item>
+        <item>Yhdysvallat</item>
+        <item>Yhdysvallat</item>
+        <item>Yhdysvallat</item>
+        <item>Yhdysvallat</item>
+        <item>Yhdysvallat</item>
+        <item>Yhdysvallat</item>
+        <item>Kanada</item>
+        <item>Yhdysvallat</item>
+        <item>Yhdysvallat</item>
+        <item>Yhdysvallat</item>
+        <item>Yhdysvallat</item>
+        <item>Yhdysvallat</item>
+        <item>Yhdysvallat</item>
         <item>El Salvador</item>
-        <item>United States</item>
-        <item>United States</item>
-        <item>United States</item>
-        <item>United States</item>
-        <item>United States</item>
-        <item>United States</item>
-        <item>United States</item>
-        <item>United States</item>
-        <item>United States</item>
-        <item>United States</item>
-        <item>United States</item>
-        <item>United States</item>
-        <item>United States</item>
-        <item>United States</item>
-        <item>United States</item>
-        <item>United States</item>
-        <item>United States</item>
-        <item>United States</item>
-        <item>United States</item>
-        <item>United States</item>
-        <item>United States</item>
-        <item>United States</item>
-        <item>United States</item>
+        <item>Yhdysvallat</item>
+        <item>Yhdysvallat</item>
+        <item>Yhdysvallat</item>
+        <item>Yhdysvallat</item>
+        <item>Yhdysvallat</item>
+        <item>Yhdysvallat</item>
+        <item>Yhdysvallat</item>
+        <item>Yhdysvallat</item>
+        <item>Yhdysvallat</item>
+        <item>Yhdysvallat</item>
+        <item>Yhdysvallat</item>
+        <item>Yhdysvallat</item>
+        <item>Yhdysvallat</item>
+        <item>Yhdysvallat</item>
+        <item>Yhdysvallat</item>
+        <item>Yhdysvallat</item>
+        <item>Yhdysvallat</item>
+        <item>Yhdysvallat</item>
+        <item>Yhdysvallat</item>
+        <item>Yhdysvallat</item>
+        <item>Yhdysvallat</item>
+        <item>Yhdysvallat</item>
+        <item>Yhdysvallat</item>
         <item>Qatar</item>
-        <item>China</item>
-        <item>India</item>
-        <item>India</item>
-        <item>Japan</item>
+        <item>Kiina</item>
+        <item>Intia</item>
+        <item>Intia</item>
+        <item>Japani</item>
         <item>Pakistan</item>
-        <item>India</item>
-        <item>Spain</item>
-        <item>Germany</item>
-        <item>Italy</item>
-        <item>Germany</item>
+        <item>Intia</item>
+        <item>Espanja</item>
+        <item>Saksa</item>
+        <item>Italia</item>
+        <item>Saksa</item>
         <item>Vietnam</item>
-        <item>Turkey</item>
-        <item>India</item>
-        <item>Brazil</item>
-        <item>South Africa</item>
+        <item>Turkki</item>
+        <item>Intia</item>
+        <item>Brasilia</item>
+        <item>Etelä-Afrikka</item>
         <item>Pakistan</item>
-        <item>Brazil</item>
-        <item>United States</item>
-        <item>United States</item>
-        <item>United Kingdom</item>
-        <item>United States</item>
-        <item>United States</item>
-        <item>China</item>
-        <item>India</item>
-        <item>United States</item>
-        <item>Brazil</item>
-        <item>United States</item>
+        <item>Brasilia</item>
+        <item>Yhdysvallat</item>
+        <item>Yhdysvallat</item>
+        <item>Yhdistynyt kuningaskunta</item>
+        <item>Yhdysvallat</item>
+        <item>Yhdysvallat</item>
+        <item>Kiina</item>
+        <item>Intia</item>
+        <item>Yhdysvallat</item>
+        <item>Brasilia</item>
+        <item>Yhdysvallat</item>
         <item>Liberia</item>
         <item>Sri Lanka</item>
-        <item>Mexico</item>
-        <item>India</item>
-        <item>United Kingdom</item>
-        <item>Ukraine</item>
-        <item>Russia</item>
-        <item>Poland</item>
-        <item>Poland</item>
-        <item>Germany</item>
-        <item>Finland</item>
+        <item>Meksiko</item>
+        <item>Intia</item>
+        <item>Yhdistynyt kuningaskunta</item>
+        <item>Ukraina</item>
+        <item>Venäjä</item>
+        <item>Puola</item>
+        <item>Puola</item>
+        <item>Saksa</item>
+        <item>Suomi</item>
         <item>Israel</item>
         <item>Puerto Rico</item>
         <item>Honduras</item>
         <item>Suriname</item>
         <item>Ecuador</item>
      </string-array>
-     <!--// ei vielä käännetty -->
-     <!-- miui 10 valmis -->
      <string-array name="timer_duration">
         <item>Yhteensä %1$s</item>
         <item>Yhteensä %2$s</item>
