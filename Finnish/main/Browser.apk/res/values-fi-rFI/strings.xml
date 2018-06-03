@@ -1,23 +1,23 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
 
-  <!-- miui 10 muutos -->
+  <!-- miui 10 muutos valmis -->
 
-  <string name="action_one_touch">Open notifications</string>
-  <string name="action_skip">Skip</string>
-  <string name="enter_infoflow_guide">Slide up to see news</string>
-  <string name="hot_words_item_ads_mark">Ads</string>
-  <string name="info_flow_description">Info channel</string>
-  <string name="message_notice_push">Latest hot spots no longer miss!</string>
-  <string name="pref_navscreen_layoutstate_title">Multi-window management</string>
-  <string name="refresh_description">Refresh</string>
-  <string name="save_file_suffix">file</string>
-  <string name="short_video_description">Video channel</string>
-  <string name="short_video_tip">Look! Fun video</string>
-  <string name="suggestion_clear_record_message">Do you confirm empty input record?</string>
-  <string name="title_notice_push">Notice reminding</string>
+  <string name="action_one_touch">Avaa ilmoitukset</string>
+  <string name="action_skip">Ohita</string>
+  <string name="enter_infoflow_guide">Katso uutiset pyyhkäisemällä ylöspäin</string>
+  <string name="hot_words_item_ads_mark">Mainokset</string>
+  <string name="info_flow_description">Info-kanava</string>
+  <string name="message_notice_push">Älä missaa viimeisimpiä kuumia uutisia!</string>
+  <string name="pref_navscreen_layoutstate_title">Usean ikkunan hallinta</string>
+  <string name="refresh_description">Päivitä</string>
+  <string name="save_file_suffix">tiedosto</string>
+  <string name="short_video_description">Video-kanava</string>
+  <string name="short_video_tip">Katso! Hauska video</string>
+  <string name="suggestion_clear_record_message">Vahvistatko tyhjät syöttökentät?</string>
+  <string name="title_notice_push">Ilmoituksen muistutus</string>
 
-  <!-- miui 10 muutos -->
+  <!-- miui 10 muutos valmis -->
 
 
   <string name="abc_action_bar_home_description">Siirry aloitussivulle</string>
