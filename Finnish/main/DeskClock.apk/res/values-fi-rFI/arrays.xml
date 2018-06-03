@@ -298,16 +298,18 @@
         <item>Suriname</item>
         <item>Ecuador</item>
      </string-array>
+     <!--// ei vielä käännetty -->
+     <!-- miui 10 valmis -->
      <string-array name="timer_duration">
-        <item>Total %1$s</item>
-        <item>Total %2$s</item>
-        <item>Total %1$s%2$s</item>
-        <item>Total %3$s</item>
-        <item>Total %1$s%3$s</item>
-        <item>Total %2$s%3$s</item>
-        <item>Total %1$s%2$s%3$s</item>
+        <item>Yhteensä %1$s</item>
+        <item>Yhteensä %2$s</item>
+        <item>Yhteensä %1$s%2$s</item>
+        <item>Yhteensä %3$s</item>
+        <item>Yhteensä %1$s%3$s</item>
+        <item>Yhteensä %2$s%3$s</item>
+        <item>Yhteensä %1$s%2$s%3$s</item>
      </string-array>
-     <!-- ei vielä käännetty -->
+     <!--// miui 10 valmis -->
     <string-array name="alarm_set">
         <item>Herätykseen on aikaa alle minuutti.</item>
         <item>Herätykseen on aikaa %1$s.</item>
