@@ -1,20 +1,20 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <!-- ei vielä käännetty -->
-  <string name="announce_for_checked">%1$s, checked</string>
-  <string name="announce_for_move">Move to row %1$d column %2$d</string>
-  <string name="announce_for_move_hotseat">Move to dock position %1$d</string>
-  <string name="announce_for_unchecked">%1$s, unchecked</string>
-  <string name="backup_fail">Failed to backup launcher.</string>
+  <!-- miui 10 valmis -->
+  <string name="announce_for_checked">%1$s, tarkistettu</string>
+  <string name="announce_for_move">Siirry riviin %1$d sarakkeeseen %2$d</string>
+  <string name="announce_for_move_hotseat">Siirry telakan sijaintiin %1$d</string>
+  <string name="announce_for_unchecked">%1$s, ei tarkistettu</string>
+  <string name="backup_fail">Käynnistimen varmuuskopiointi epäonnistui.</string>
   <string name="icon_reorganize_channel">图标整理</string>
-  <string name="notification_reset_description">%1$s%1$s Can reset launcher to %2$s</string>
-  <string name="notification_reset_duration">In two hours,</string>
-  <string name="notification_reset_title">Auto clean up finished</string>
-  <string name="quick_app">Quick App</string>
-  <string name="refresh">Refresh</string>
-  <string name="reset_fail">Reset failed</string>
-  <string name="reset_title">reset</string>
-  <!-- ei vielä käännetty -->
+  <string name="notification_reset_description">%1$s%1$s Voi palauttaa käynnistimen %2$s</string>
+  <string name="notification_reset_duration">2 tunnin kuluttua,</string>
+  <string name="notification_reset_title">Automaattinen puhdistus valmistui</string>
+  <string name="quick_app">Pikasovellus</string>
+  <string name="refresh">Päivitä</string>
+  <string name="reset_fail">Palautus epäonnistui</string>
+  <string name="reset_title">Palautus</string>
+  <!-- miui 10 valmis -->
   <string name="action_add_to_workspace">Lisää työtilaan</string>
   <string name="activity_not_found">Sovellusta ei ole asennettu laitteellesi</string>
   <string name="add_screen">Lisää näyttö</string>
