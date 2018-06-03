@@ -1,28 +1,32 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
 
-  <!-- ei vielä käännetty -->
+  <!-- miui 10 valmis -->
 
-  <string name="action_bar_date_button_title">Calculate date</string>
-  <string name="anniversary_secondary_tag">Anniversary</string>
-  <string name="birthday_born">birth date</string>
-  <string name="clear_net_mock_success">Net mock clear success</string>
-  <string name="countdown_secondary_tag">Countdown</string>
-  <string name="date_calculate_hint">Learn what date it is after a number of days</string>
-  <string name="date_jump_hint">Jump to a certain day directly</string>
-  <string name="date_jump_title">Jump to date</string>
-  <string name="edit_event_birthday_reminder_3_days_before">Remind 3 days in advance as well</string>
-  <string name="guide_card_import">Import</string>
-  <string name="guide_card_primary_text">Import friend birthday</string>
-  <string name="guide_card_second_text">Batch import, buddy birthday is not missing</string>
-  <string name="guide_card_title">Import birthdays</string>
-  <string name="receive_net_mock_success">Net mock receive success</string>
-  <string name="tab_title_agenda">Events</string>
-  <string name="tab_title_day">Day</string>
-  <string name="tab_title_month">Month</string>
-  <string name="tab_title_week">Week</string>
+  <string name="action_bar_date_button_title">Laske päivämäärä</string>
+  <string name="anniversary_secondary_tag">Vuosipäivä</string>
+  <string name="birthday_born">Syntymäpäivä</string>
+  <!-- Net mock ??? -->
+  <string name="clear_net_mock_success">Net mock tyhjentäminen onnistui</string>
+  <!-- Net mock ??? -->
+  <string name="countdown_secondary_tag">Lähtölaskenta</string>
+  <string name="date_calculate_hint">Selvitä mikä päivämäärä on tietyn päivän jälkeen</string>
+  <string name="date_jump_hint">Siirry suoraan tiettyyn päivään</string>
+  <string name="date_jump_title">Siirry päivämäärään</string>
+  <string name="edit_event_birthday_reminder_3_days_before">Muistuta myös 3 päivää etukäteen</string>
+  <string name="guide_card_import">Tuo</string>
+  <string name="guide_card_primary_text">Tuo ystävien syntymäpäivät</string>
+  <string name="guide_card_second_text">Älä koskaan unohda tärkeitä päiviä</string>
+  <string name="guide_card_title">Tuo syntymäpäiviä</string>
+  <!-- Net mock ??? -->
+  <string name="receive_net_mock_success">Net mock vastaanottaminen onnistui</string>
+  <!-- Net mock ??? -->
+  <string name="tab_title_agenda">Tapahtumat</string>
+  <string name="tab_title_day">Päivä</string>
+  <string name="tab_title_month">Kuukausi</string>
+  <string name="tab_title_week">Viikko</string>
 
-  <!-- ei vielä käännetty -->
+  <!-- miui 10 valmis -->
   
   <string name="accessibility_add_attendee">Lisää osallistuja</string>
   <string name="accessibility_add_reminder">Lisää muistutus</string>
