@@ -237,7 +237,6 @@
      <string name="config_rat_3g">3G</string>
      <string name="config_rat_4g">4G</string>
      <string name="config_rat_unknown" />
-     <string name="config_statusBarComponent">com.android.systemui.statusbar.phone.StatusBar</string>
      <string name="confirm">Selvä</string>
      <string name="confirm_pin_msg">Anna Pin-koodi uudelleen</string>
      <string name="custom_lock_wallpaper_enter">Siirry</string>
@@ -522,12 +521,6 @@ Try again in %2$d seconds."</string>
      <string name="lb_guidedactions_item_enabled_chevron_alpha">1.0</string>
      <string name="lb_guidedactions_item_unselected_description_text_alpha">0.5</string>
      <string name="lb_guidedactions_item_unselected_text_alpha">1.0</string>
-     <string name="lb_guidedactions_width_weight">0.71428573</string>
-     <string name="lb_guidedactions_width_weight_two_panels">1.1917808</string>
-     <string name="lb_guidedbuttonactions_width_weight">0.45</string>
-     <string name="lb_guidedstep_height_weight">2.0</string>
-     <string name="lb_guidedstep_height_weight_translucent">1.0</string>
-     <string name="lb_guidedstep_keyline">40.0</string>
      <string name="lb_media_player_error">MediaPlayer error code %1$d extra %2$d</string>
      <string name="lb_navigation_menu_contentDescription">Navigation menu</string>
      <string name="lb_onboarding_accessibility_next">Next</string>
@@ -612,13 +605,11 @@ You're also connected to %3$s, which can monitor your personal network activity.
 
 For more information, contact your admin."</string>
      <string name="monitoring_description_ca_cert_settings">Open trusted credentials</string>
-     <string name="monitoring_description_ca_cert_settings_separator">" "</string>
      <string name="monitoring_description_do_body">"Your admin can monitor and manage settings, corporate access, apps, data associated with your device, and your device's location information."</string>
      <string name="monitoring_description_do_body_vpn">"You're connected to %1$s, which can monitor your network activity, including emails, apps, and websites."</string>
      <string name="monitoring_description_do_header_generic">Your device is managed by %1$s.</string>
      <string name="monitoring_description_do_header_with_name">%1$s uses %2$s to manage your device.</string>
      <string name="monitoring_description_do_learn_more">Learn more</string>
-     <string name="monitoring_description_do_learn_more_separator">" "</string>
      <string name="monitoring_description_network_logging">"Your admin has turned on network logging, which monitors traffic on your device.
 
 For more information, contact your admin."</string>
@@ -674,7 +665,6 @@ You're also connected to a VPN, which can monitor your network activity."</strin
      <string name="notification_default_channel_desc">"This app doesn't have notification categories"</string>
      <string name="notification_done">Done</string>
      <string name="notification_group_collapse_button_text">Fold</string>
-     <string name="notification_group_divider_symbol">" • "</string>
      <string name="notification_header_default_channel">Notifications</string>
      <string name="notification_hidden_by_policy_text">Content is hidden</string>
      <string name="notification_info_channel_disabled_text">"You won't receive %2$s notifications from %1$s."</string>
@@ -709,9 +699,7 @@ You're also connected to a VPN, which can monitor your network activity."</strin
      <string name="phone_locked_string">Phone has been locked</string>
      <string name="pip_close">Close PIP</string>
      <string name="pip_fullscreen">Full screen</string>
-     <string name="pip_menu_bounds">596 280 1324 690</string>
      <string name="pip_notification_unknown_title">(No title program)</string>
-     <string name="pip_settings_bounds">662 756 1142 1026</string>
      <string name="plugins">Plugins</string>
      <string name="power_notification_controls_description">"With power notification controls, you can set an importance level from 0 to 5 for an app's notifications. 
 
@@ -1509,7 +1497,6 @@ Saat lisätietoja järjestelmänvalvojalta."</string>
   <string name="monitoring_description_personal_profile_named_vpn">Henkilökohtainen profiilisi on yhteydessä sovellukseen %1$s, joka voi valvoa verkkotoimintaasi, esimerkiksi sähköposteja, sovelluksia ja verkkosivustoja.</string>
   <string name="monitoring_description_two_named_vpns">Olet yhteydessä sovelluksiin %1$s ja %2$s, jotka voivat valvoa verkkotoimintaasi, esimerkiksi sähköposteja, sovelluksia ja verkkosivustoja.</string>
   <string name="monitoring_description_vpn_settings">Avaa VPN-asetukset</string>
-  <string name="monitoring_description_vpn_settings_separator">" "</string>
   <string name="monitoring_subtitle_ca_certificate">CA-varmenteet</string>
   <string name="monitoring_subtitle_network_logging">Lokitiedostojen tallennus</string>
   <string name="monitoring_subtitle_vpn">VPN</string>
