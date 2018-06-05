@@ -351,6 +351,7 @@ siirtyäksesi Toiseen tilaan Lukitusnäytöltä"</string>
   <string name="switching_files">Siirretään tiedostoja…</string>
   <string name="switching_photos">Siirretään kuvia…</string>
   <string name="temporary_no_set">Ei nyt</string>
+  <string name="this_function_can_not_use_in_second_space">Tätä toimintoa voi käyttää vain Ensimmäisessä tilassa</string>
   <string name="title_choose_app_status">Valitse sovelluksen tyyppi</string>
   <string name="title_switch_file">Poistetaanko nämä tiedostot?</string>
   <string name="title_switch_photo">Poistetaanko nämä kuvat?</string>

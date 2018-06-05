@@ -2,11 +2,11 @@
 <resources>
   <!-- miui 10 valmis -->
   <string name="accessibility_ai_scene_off">AI kamera pois käytöstä</string>
-  <string name="accessibility_ai_scene_on">AI kamera</string>
+  <string name="accessibility_ai_scene_on">AI kamera käytössä</string>
   <string name="hint_ae_af_lock">Automaattinen tarkennus / automaattinen valotus on lukittu</string>
   <!-- miui 10 valmis -->
   <string name="access_sd_fail">SD-korttia ei voi käyttää.</string>
-  <string name="accessibility_audio_shutter_bg">Audio Shutter background</string>
+  <string name="accessibility_audio_shutter_bg">Äänisulkijan tausta</string>
   <string name="accessibility_back_preview_status">Takakameran esikatselu</string>
   <string name="accessibility_beauty_panel_closed">Kaunista-valikko on piilotettu</string>
   <string name="accessibility_beauty_panel_open">Kaunista-valikko on avattu</string>

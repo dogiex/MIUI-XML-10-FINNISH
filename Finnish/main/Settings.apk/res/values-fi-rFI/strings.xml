@@ -4814,7 +4814,8 @@ Se on Googlen tapa synkronoida tietoja, ja sen avulla voit käyttää yhteystiet
   <string name="toast_lockscreen_glogin_empty_password">Syötä salasana</string>
   <string name="toast_need_login">Kirjaudu sisään Mi Tilillesi</string>
   <string name="total">Älä häiritse</string>
-  <string name="total_info">Mykistää äänet ja poistaa värinän käytöstä kaikilta paitsi herätyksiltä</string>
+  <string name="total_info">Mykistä äänet %1$s paitsi hälytyksiltä</string>
+  <string name="total_info_sub">ja poista värinä käytöstä</string>
   <string name="total_memory">Muistia yhteensä</string>
   <string name="total_size">%s yhteensä</string>
   <string name="total_size_label">Yhteensä</string>
