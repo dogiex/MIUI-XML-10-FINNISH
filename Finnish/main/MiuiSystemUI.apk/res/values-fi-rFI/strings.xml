@@ -805,8 +805,6 @@ You're also connected to a VPN, which can monitor your network activity."</strin
      <string name="quick_settings_settings_label">Settings</string>
      <string name="quick_settings_sync_label">Sync</string>
      <string name="quick_settings_tethering_label">Tethering</string>
-     <string name="quick_settings_tiles_retail_mode">cell,batterysaver,powermode,flashlight,rotation,location</string>
-     <string name="quick_settings_tiles_stock">cell,wifi,flashlight,mute,screenshot,bt,autobrightness,airplane,screenlock,drivemode,rotation,edit,vibrate,hotspot,papermode,sync,quietmode,powermode,screenbutton,batterysaver,midrop</string>
      <string name="quick_settings_time_label">Time</string>
      <string name="quick_settings_user_label">Me</string>
      <string name="quick_settings_user_new_user">New user</string>
@@ -1594,8 +1592,6 @@ Saat lisätietoja järjestelmänvalvojalta."</string>
   <string name="quick_settings_disclosure_vpns">Laite on yhteydessä VPN:iin.</string>
   <string name="quick_settings_done">Valmis</string>
   <string name="quick_settings_more_settings">Lisää asetuksia</string>
-  <string name="quick_settings_tiles">oletus</string>
-  <string name="quick_settings_tiles_default">wifi,cell,battery,dnd,flashlight,rotation,bt,airplane,location</string>
   <string name="quick_settings_wifi_detail_empty_text">Wi-Fi verkkoja ei saatavilla</string>
   <string name="quick_settings_wifi_label">Wi-Fi</string>
   <string name="quick_settings_wifi_nearby">Valitse lähellä oleva verkko</string>
