@@ -402,10 +402,6 @@ prioriteetti"</string>
      <string name="keyguard_charged">Ladattu</string>
      <string name="keyguard_charging_info_battery_used_time_text">Akkukäytöllä</string>
      <string name="keyguard_charging_info_click_to_detail">Näytä tiedot</string>
-     <string name="keyguard_charging_info_data_c">%s ℃</string>
-     <string name="keyguard_charging_info_data_ma">%s mA</string>
-     <string name="keyguard_charging_info_data_percent">%s %%</string>
-     <string name="keyguard_charging_info_data_v">%s V</string>
      <string name="keyguard_charging_info_drained_power_percent_text">Kuluttanut</string>
      <string name="keyguard_charging_info_last_charge_time">d.M. H:mm</string>
      <string name="keyguard_charging_info_last_charge_today_time">Tänään %s</string>
@@ -417,7 +413,6 @@ prioriteetti"</string>
      <string name="keyguard_charging_info_tip_text4">Älä käytä laitettasi aktiivisesti latauksen aikana välttääksesi laitteen ylikuumenemisen.</string>
      <string name="keyguard_charging_info_tip_text5">Akut latautuvat pidempään jos ne kuumenevat tavallista enemmän.</string>
      <string name="keyguard_charging_info_tip_text6">Sammuta näyttö ja laita laitteesi pois viilentääksesi sen.</string>
-     <string name="keyguard_fancy_colon"></string>
      <string name="keyguard_indication_charging_time">Ladataan (%s kunnes täynnä)</string>
      <string name="keyguard_indication_charging_time_fast">Ladataan nopeasti (%s kunnes täynnä)</string>
      <string name="keyguard_indication_charging_time_slowly">Ladataan hitaasti (%s kunnes täynnä)</string>
@@ -1436,7 +1431,6 @@ Jos otat datan uudelleen käyttöön, operaattorisi saattaa laskuttaa siitä."</
   <string name="launch_defaults_none">Oletuksia ei asetettu.</string>
   <string name="launch_defaults_some">Joitakin oletuksia on asetettu.</string>
   <string name="legacy_vpn_name">VPN</string>
-  <string name="list_delimeter">", "</string>
   <string name="lland">L Land</string>
   <string name="loading_desktop">Odota hetki…</string>
   <string name="local_backup_password_summary_change">Vaihda tai poista salasana koko Aloitusnäytön varmuuskopioista.</string>
