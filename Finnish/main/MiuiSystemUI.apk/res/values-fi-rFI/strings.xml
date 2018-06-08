@@ -529,7 +529,7 @@ Yritä uudelleen %2$d sekunnin kuluttua."</string>
      <string name="lb_playback_controls_high_quality_enable">Ota korkea kuvanlaatu käyttöön</string>
      <string name="lb_playback_controls_more_actions">Lisää toimintoja</string>
      <string name="lb_playback_controls_pause">Pysäytä</string>
-     <string name="lb_playback_controls_picture_in_picture">Siirry Picture In Picture -tilaan</string>
+     <string name="lb_playback_controls_picture_in_picture">Siirry Kuva-kuvassa -tilaan</string>
      <string name="lb_playback_controls_play">Toista</string>
      <string name="lb_playback_controls_repeat_all">Toista kaikki</string>
      <string name="lb_playback_controls_repeat_none">Älä toista</string>
@@ -605,69 +605,69 @@ Lisätietoja saat ottamalla yhteyttä järjestelmänvalvojaasi."</string>
      <string name="monitoring_description_do_header_generic">Laitettasi hallinnoi %1$s.</string>
      <string name="monitoring_description_do_header_with_name">%1$s käyttää %2$s laitteesi hallinnointia varten.</string>
      <string name="monitoring_description_do_learn_more">Lisätietoja</string>
-     <string name="monitoring_description_network_logging">"Your admin has turned on network logging, which monitors traffic on your device.
+     <string name="monitoring_description_network_logging">"Järjestelmänvalvojasi on ottanut verkon kirjaamisen käyttöön, joka voi valvoa laitteesi liikennettä.
 
-For more information, contact your admin."</string>
-     <string name="monitoring_description_vpn">"You gave an app permission to set up a VPN connection.
+Voit kysyä lisätietoja ottamalla yhteyttä järjestelmänvalvojaasi."</string>
+     <string name="monitoring_description_vpn">"Annoit sovellukselle käyttöoikeuden määrittää VPN-yhteyden.
 
-This app can monitor your device and network activity, including emails, apps, and websites."</string>
-     <string name="monitoring_description_vpn_profile_owned">"Your work profile is managed by %1$s.
+Tämä sovellus voi valvoa laitettasi ja sen verkon käyttöä, mukaan lukien sähköposteja, sovelluksia ja verkkosivuja."</string>
+     <string name="monitoring_description_vpn_profile_owned">"Työprofiiliasi hallinnoi %1$s.
 
-Your admin is capable of monitoring your network activity including emails, apps, and websites.
+Järjestelmänvalvojasi voi valvoa verkon käyttöäsi, mukaan lukien sähköposteja, sovelluksia ja verkkosivuja.
 
-For more information, contact your admin.
+Voit kysyä lisätietoja ottamalla yhteyttä järjestelmänvalvojaasi.
 
-You're also connected to a VPN, which can monitor your network activity."</string>
-     <string name="monitoring_title_profile_owned">Profile monitoring</string>
-     <string name="mr_button_content_description">Cast button</string>
-     <string name="mr_cast_button_connected">Cast button. Connected</string>
-     <string name="mr_cast_button_connecting">Cast button. Connecting</string>
-     <string name="mr_cast_button_disconnected">Cast button. Disconnected</string>
-     <string name="mr_chooser_searching">Finding devices</string>
-     <string name="mr_chooser_title">Cast to</string>
-     <string name="mr_controller_album_art">Album art</string>
-     <string name="mr_controller_casting_screen">Casting screen</string>
-     <string name="mr_controller_close_description">Close</string>
-     <string name="mr_controller_collapse_group">Collapse</string>
-     <string name="mr_controller_disconnect">Disconnect</string>
-     <string name="mr_controller_expand_group">Expand</string>
-     <string name="mr_controller_no_info_available">No info available</string>
-     <string name="mr_controller_no_media_selected">No media selected</string>
-     <string name="mr_controller_pause">Pause</string>
-     <string name="mr_controller_play">Play</string>
-     <string name="mr_controller_stop">Stop</string>
-     <string name="mr_controller_stop_casting">Stop casting</string>
-     <string name="mr_controller_volume_slider">Volume slider</string>
-     <string name="mr_system_route_name">System</string>
-     <string name="mr_user_route_category_name">Devices</string>
-     <string name="nav_bar">Navigation bar</string>
-     <string name="nav_bar_default">(default)</string>
-     <string name="nav_bar_layout">Layout</string>
-     <string name="no_tiles_add">No tiles to add</string>
-     <string name="notification_all_categories">All categories</string>
-     <string name="notification_app_settings">Customize: %1$s</string>
-     <string name="notification_channel_alerts">Alerts</string>
-     <string name="notification_channel_controls_closed_accessibility">Notification controls for %1$s closed</string>
-     <string name="notification_channel_controls_opened_accessibility">Notification controls for %1$s opened</string>
-     <string name="notification_channel_disabled">"You won't get these notifications anymore."</string>
-     <string name="notification_channel_general">General Messages</string>
-     <string name="notification_channel_location">Location</string>
-     <string name="notification_channel_screenshot">Screenshots</string>
-     <string name="notification_channel_storage">Storage</string>
-     <string name="notification_channel_switch_accessibility">Allow notifications from this channel</string>
-     <string name="notification_channel_tv_pip">Picture-in-Picture</string>
+Olet myös yhteydessä VPN-palvelimeen, joka voi valvoa verkon käyttöäsi."</string>
+     <string name="monitoring_title_profile_owned">Profiilin valvonta</string>
+     <string name="mr_button_content_description">Suoratoisto-painike</string>
+     <string name="mr_cast_button_connected">Suoratoisto-painike. Yhdistetty</string>
+     <string name="mr_cast_button_connecting">Suoratoisto-painike. Yhdistetään</string>
+     <string name="mr_cast_button_disconnected">Suoratoisto-painike. Yhteys katkaistu</string>
+     <string name="mr_chooser_searching">Etsitään laitteita</string>
+     <string name="mr_chooser_title">Suoratoista laitteeseen</string>
+     <string name="mr_controller_album_art">Albumin kuva</string>
+     <string name="mr_controller_casting_screen">Suoratoistetaan näyttö</string>
+     <string name="mr_controller_close_description">Sulje</string>
+     <string name="mr_controller_collapse_group">Kutista</string>
+     <string name="mr_controller_disconnect">Katkaise yhteys</string>
+     <string name="mr_controller_expand_group">Laajenna</string>
+     <string name="mr_controller_no_info_available">Tietoa ei saatavilla</string>
+     <string name="mr_controller_no_media_selected">Mediaa ei valittu</string>
+     <string name="mr_controller_pause">Pysäytä</string>
+     <string name="mr_controller_play">Toista</string>
+     <string name="mr_controller_stop">Lopeta</string>
+     <string name="mr_controller_stop_casting">Lopeta suoratoisto</string>
+     <string name="mr_controller_volume_slider">Äänenvoimakkuuden liukusäädin</string>
+     <string name="mr_system_route_name">Järjestelmä</string>
+     <string name="mr_user_route_category_name">Laitteet</string>
+     <string name="nav_bar">Navigointipalkki</string>
+     <string name="nav_bar_default">(oletus)</string>
+     <string name="nav_bar_layout">Ulkoasu</string>
+     <string name="no_tiles_add">Ei lisättäviä laattoja</string>
+     <string name="notification_all_categories">Kaikki kategoriat</string>
+     <string name="notification_app_settings">Mukauta: %1$s</string>
+     <string name="notification_channel_alerts">Hälytykset</string>
+     <string name="notification_channel_controls_closed_accessibility">Ilmoituksien ohjaimet kohteelle %1$s suljettu</string>
+     <string name="notification_channel_controls_opened_accessibility">Ilmoituksien ohjaimet kohteelle %1$s avattu</string>
+     <string name="notification_channel_disabled">Et saa näitä ilmoituksia enää.</string>
+     <string name="notification_channel_general">Yleiset viestit</string>
+     <string name="notification_channel_location">Sijainti</string>
+     <string name="notification_channel_screenshot">Kuvakaappaukset</string>
+     <string name="notification_channel_storage">Tallennustila</string>
+     <string name="notification_channel_switch_accessibility">Salli ilmoitukset tästä kanavasta</string>
+     <string name="notification_channel_tv_pip">Kuva-kuvassa</string>
      <string name="notification_channels_list_desc_2">%1$s, %2$s</string>
-     <string name="notification_default_channel_desc">"This app doesn't have notification categories"</string>
-     <string name="notification_done">Done</string>
-     <string name="notification_group_collapse_button_text">Fold</string>
-     <string name="notification_header_default_channel">Notifications</string>
-     <string name="notification_hidden_by_policy_text">Content is hidden</string>
-     <string name="notification_info_channel_disabled_text">"You won't receive %2$s notifications from %1$s."</string>
-     <string name="notification_info_channel_enabled_text">You will receive %2$s notifications from %1$s.</string>
+     <string name="notification_default_channel_desc">Tällä sovelluksella ei ole ilmoituskategorioita</string>
+     <string name="notification_done">Valmis</string>
+     <string name="notification_group_collapse_button_text">Kutista</string>
+     <string name="notification_header_default_channel">Ilmoitukset</string>
+     <string name="notification_hidden_by_policy_text">Sisältö on piilotettu</string>
+     <string name="notification_info_channel_disabled_text">Et saa %2$s ilmoituksia kohteelta %1$s.</string>
+     <string name="notification_info_channel_enabled_text">Saat %2$s ilmoituksia kohteelta %1$s.</string>
      <string name="notification_menu_accessibility">%1$s %2$s</string>
-     <string name="notification_menu_filter_description">Unimportant notifications</string>
-     <string name="notification_menu_filter_secondary_text">All notifications of %s will appear in a separate folder.</string>
-     <string name="notification_menu_filter_title">Unimportant</string>
+     <string name="notification_menu_filter_description">Ei tärkeät ilmoitukset</string>
+     <string name="notification_menu_filter_secondary_text">Kaikki %s ilmoitukset näkyvät erillisessä kansiossa.</string>
+     <string name="notification_menu_filter_title">Ei tärkeä</string>
      <string name="notification_menu_gear_description">Notification controls</string>
      <string name="notification_menu_remove_from_filter_secondary_text">All important notifications of %s will appear directly on the Notification shade.</string>
      <string name="notification_menu_remove_from_filter_title">Important</string>
