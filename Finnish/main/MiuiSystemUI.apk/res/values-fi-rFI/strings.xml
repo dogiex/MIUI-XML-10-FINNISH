@@ -668,171 +668,171 @@ Olet myös yhteydessä VPN-palvelimeen, joka voi valvoa verkon käyttöäsi."</s
      <string name="notification_menu_filter_description">Ei tärkeät ilmoitukset</string>
      <string name="notification_menu_filter_secondary_text">Kaikki %s ilmoitukset näkyvät erillisessä kansiossa.</string>
      <string name="notification_menu_filter_title">Ei tärkeä</string>
-     <string name="notification_menu_gear_description">Notification controls</string>
-     <string name="notification_menu_remove_from_filter_secondary_text">All important notifications of %s will appear directly on the Notification shade.</string>
-     <string name="notification_menu_remove_from_filter_title">Important</string>
-     <string name="notification_menu_snooze_description">Notification snooze options</string>
-     <string name="notification_more_settings">More settings</string>
-     <string name="notification_num_channels">%d notification categories</string>
-     <string name="notification_tap_again">Tap again to open</string>
-     <string name="open_camera_hint_text">Swipe left to open camera</string>
-     <string name="open_remote_center_hint_text">Swipe right to open Mi Remote</string>
-     <string name="orb_search_action">Search Action</string>
-     <string name="other">Other</string>
-     <string name="overview">Overview</string>
-     <string name="phone_hint">Swipe from icon for Phone</string>
-     <string name="phone_label">Open Phone</string>
-     <string name="phone_locked_foget_password">Forgot password?</string>
-     <string name="phone_locked_foget_password_mehod_back">Back</string>
-     <string name="phone_locked_foget_password_method">Forgot password?</string>
-     <string name="phone_locked_foget_password_method_content">&lt;Data&gt;You have to &amp;lt;font color=#a5220e&amp;gt;erase all data &amp;lt;/font&amp;gt; on your device, including photos and contacts, and then set a new Lock screen password.&lt;/Data&gt;</string>
-     <string name="phone_locked_foget_password_method_next">Next</string>
-     <string name="phone_locked_foget_password_ok">Got it</string>
-     <string name="phone_locked_forget_password_suggesstion_one_content">&lt;Data&gt;Power off your device, press and hold the &amp;lt;font color=#a5220e&amp;gt;Power button&amp;lt;/font&amp;gt; and the &amp;lt;font color=#a5220e&amp;gt;Volume up button&amp;lt;/font&amp;gt; simultaneously until you see the Mi logo.&lt;/Data&gt;</string>
-     <string name="phone_locked_forget_password_suggesstion_two_content">&lt;Data&gt;Select &amp;lt;font color=#a5220e&amp;gt;\"Wipe &amp;amp;amp; Reset\"&amp;lt;/font&amp;gt; and wait until the device reboots.&lt;/Data&gt;</string>
-     <string name="phone_locked_forget_password_suggesstions_title">How to erase data?</string>
-     <string name="phone_locked_string">Phone has been locked</string>
-     <string name="pip_close">Close PIP</string>
-     <string name="pip_fullscreen">Full screen</string>
-     <string name="pip_notification_unknown_title">(No title program)</string>
-     <string name="plugins">Plugins</string>
-     <string name="power_notification_controls_description">"With power notification controls, you can set an importance level from 0 to 5 for an app's notifications. 
+     <string name="notification_menu_gear_description">Ilmoituksen hallinta</string>
+     <string name="notification_menu_remove_from_filter_secondary_text">Kaikki %s tärkeät ilmoitukset ilmestyy suoraan Ilmoitusalueelle.</string>
+     <string name="notification_menu_remove_from_filter_title">Tärkeä</string>
+     <string name="notification_menu_snooze_description">Ilmoituksen torkutusasetukset</string>
+     <string name="notification_more_settings">Lisäasetukset</string>
+     <string name="notification_num_channels">%d ilmoituskategoriaa</string>
+     <string name="notification_tap_again">Avaa napauttamalla uudelleen</string>
+     <string name="open_camera_hint_text">Avaa kamera pyyhkäisemällä vasemmalle</string>
+     <string name="open_remote_center_hint_text">Avaa Mi Kaukosäädin pyyhkäisemällä oikealle</string>
+     <string name="orb_search_action">Hae toimintoa</string>
+     <string name="other">Muu</string>
+     <string name="overview">Yleiskatkaus</string>
+     <string name="phone_hint">Avaa Puhelin -sovellus pyyhkäisemällä kuvakkeesta</string>
+     <string name="phone_label">Avaa Puhelin -sovellus</string>
+     <string name="phone_locked_foget_password">Unohtuiko salasana?</string>
+     <string name="phone_locked_foget_password_mehod_back">Takaisin</string>
+     <string name="phone_locked_foget_password_method">Unohtuiko salasana?</string>
+     <string name="phone_locked_foget_password_method_content">Sinun täytyy poistaa kaikki laitteessa olevat tiedot, mukaan lukien kuvat ja yhteystiedot ja sen jälkeen aseta uusi Lukitusnäytön salasana.</string>
+     <string name="phone_locked_foget_password_method_next">Seuraava</string>
+     <string name="phone_locked_foget_password_ok">Selvä</string>
+     <string name="phone_locked_forget_password_suggesstion_one_content">Sammuta laitteesi, paina pohjassa yhtä aikaa Virta -painiketta ja Äänenvoimakkuus ylös -painiketta, kunnes näet Mi logon.</string>
+     <string name="phone_locked_forget_password_suggesstion_two_content">Valitse \"Tyhjennä &amp; Nollaa\" ja odota kunnes laite käynnistyy uudelleen.</string>
+     <string name="phone_locked_forget_password_suggesstions_title">Kuinka tiedot poistetaan?</string>
+     <string name="phone_locked_string">Puhelin on lukittu</string>
+     <string name="pip_close">Sulje PIP</string>
+     <string name="pip_fullscreen">Koko näyttö</string>
+     <string name="pip_notification_unknown_title">(Ei otsikkoa ohjelma)</string>
+     <string name="plugins">Liitännäiset</string>
+     <string name="power_notification_controls_description">"Ilmoituksien hallinnan avulla voit asettaa sovelluksen ilmoituksille tärkeysjärjestyksen 0:sta 5:een. 
 
-"&lt;b&gt;Level 5&lt;/b&gt;" 
-- Show at the top of the notification list 
-- Allow full screen interruption 
-- Always peek 
+"&lt;b&gt;Taso 5&lt;/b&gt;" 
+- Näytä ilmoitusluettelon ylimpänä 
+- Salli koko näytössä keskeyttäminen 
+- Kurkista aina 
 
-"&lt;b&gt;Level 4&lt;/b&gt;" 
-- Prevent full screen interruption 
-- Always peek 
+"&lt;b&gt;Taso 4&lt;/b&gt;" 
+- Estä koko näytössä keskeyttäminen 
+- Kurkista aina 
 
-"&lt;b&gt;Level 3&lt;/b&gt;" 
-- Prevent full screen interruption 
-- Never peek 
+"&lt;b&gt;Taso 3&lt;/b&gt;" 
+- Estä koko näytössä keskeyttäminen 
+- Älä kurkista ikinä 
 
-"&lt;b&gt;Level 2&lt;/b&gt;" 
-- Prevent full screen interruption 
-- Never peek 
-- Never make sound and vibration 
+"&lt;b&gt;Taso 2&lt;/b&gt;" 
+- Estä koko näytössä keskeyttäminen 
+- Älä kurkista ikinä 
+- Älä ikinä päästä ääntä ja värinää 
 
-"&lt;b&gt;Level 1&lt;/b&gt;" 
-- Prevent full screen interruption 
-- Never peek 
-- Never make sound or vibrate 
-- Hide from lock screen and status bar 
-- Show at the bottom of the notification list 
+"&lt;b&gt;Taso 1&lt;/b&gt;" 
+- Estä koko näytössä keskeyttäminen 
+- Älä kurkista ikinä 
+- Älä ikinä päästä ääntä tai värinää 
+- Piilota lukitusnäytöltä ja ilmoituspalkista 
+- Näytä ilmoitusluettelon pohjimmaisena 
 
-"&lt;b&gt;Level 0&lt;/b&gt;" 
-- Block all notifications from the app"</string>
+"&lt;b&gt;Taso 0&lt;/b&gt;" 
+- Estä sovelluksen kaikki ilmoitukset"</string>
      <string name="profile_owned_footer">Profiilia saatetaan valvoa</string>
-      <string name="qs_customize">Allow long-press customize in Quick Settings</string>
-     <string name="qs_customize_info">Info</string>
-     <string name="qs_customize_remove">Remove</string>
-     <string name="qs_customize_title">Edit</string>
-     <string name="qs_dnd_keep">Keep</string>
-     <string name="qs_dnd_prompt_app">DND was turned on by an app (%s).</string>
-     <string name="qs_dnd_prompt_auto_rule">DND was turned on by an automatic rule (%s).</string>
-     <string name="qs_dnd_prompt_auto_rule_app">DND was turned on by an automatic rule or app.</string>
-     <string name="qs_dnd_replace">Replace</string>
-     <string name="qs_dnd_until">Until %s</string>
-     <string name="qs_edit">Edit</string>
-     <string name="qs_paging">Use the new Quick settings</string>
-     <string name="qs_rearrange">Rearrange Quick settings</string>
-     <string name="quick_settings">Quick settings</string>
-     <string name="quick_settings_autobrightness_label">Auto brightness</string>
-     <string name="quick_settings_batterysaver_label">Battery saver</string>
-     <string name="quick_settings_bluetooth_multiple_devices_label">Bluetooth (%d Devices)</string>
-     <string name="quick_settings_bluetooth_off_label">Bluetooth is off</string>
+      <string name="qs_customize">Salli Pika-asetuksissa pitkän painalluksen mukauttaminen</string>
+     <string name="qs_customize_info">Tiedot</string>
+     <string name="qs_customize_remove">Poista</string>
+     <string name="qs_customize_title">Muokkaa</string>
+     <string name="qs_dnd_keep">Säilytä</string>
+     <string name="qs_dnd_prompt_app">Sovellus (%s) otti Älä häiritse -tilan käyttöön.</string>
+     <string name="qs_dnd_prompt_auto_rule">Automaattinen sääntö (%s) otti Älä häiritse -tilan käyttöön.</string>
+     <string name="qs_dnd_prompt_auto_rule_app">Automaattinen sääntö tai sovellus otti Älä häiritse -tilan käyttöön.</string>
+     <string name="qs_dnd_replace">Korvaa</string>
+     <string name="qs_dnd_until">%s asti</string>
+     <string name="qs_edit">Muokkaa</string>
+     <string name="qs_paging">Käytä uusia Pika-asetuksia</string>
+     <string name="qs_rearrange">Järjestä Pika-asetukset uudelleen</string>
+     <string name="quick_settings">Pika-asetukset</string>
+     <string name="quick_settings_autobrightness_label">Automaattinen kirkkaus</string>
+     <string name="quick_settings_batterysaver_label">Virransäästö</string>
+     <string name="quick_settings_bluetooth_multiple_devices_label">Bluetooth (%d Laitetta)</string>
+     <string name="quick_settings_bluetooth_off_label">Bluetooth pois käytöstä</string>
      <string name="quick_settings_brightness_dialog_auto_brightness_label">AUTO</string>
-     <string name="quick_settings_brightness_dialog_title">Brightness</string>
-     <string name="quick_settings_brightness_label">Brightness</string>
-     <string name="quick_settings_cast_detail_empty_text">No devices available</string>
-     <string name="quick_settings_cast_device_default_description">Ready to cast</string>
-     <string name="quick_settings_cast_device_default_name">Unnamed device</string>
-     <string name="quick_settings_cast_title">Cast</string>
-     <string name="quick_settings_casting">Casting</string>
-     <string name="quick_settings_cellular_detail_data_limit">%s limit</string>
-     <string name="quick_settings_cellular_detail_data_usage">Data usage</string>
-     <string name="quick_settings_cellular_detail_data_used">%s used</string>
-     <string name="quick_settings_cellular_detail_data_warning">%s warning</string>
-     <string name="quick_settings_cellular_detail_over_limit">Over limit</string>
-     <string name="quick_settings_cellular_detail_remaining_data">Remaining data</string>
-     <string name="quick_settings_cellular_detail_title">Mobile data</string>
-     <string name="quick_settings_color_space_label">Color correction mode</string>
-     <string name="quick_settings_connected">Connected</string>
-     <string name="quick_settings_dnd_alarms_label">Alarms only</string>
-     <string name="quick_settings_dnd_label">Do not disturb</string>
-     <string name="quick_settings_dnd_none_label">Total silence</string>
-     <string name="quick_settings_dnd_priority_label">Priority only</string>
-     <string name="quick_settings_drivemode_label">Car mode</string>
+     <string name="quick_settings_brightness_dialog_title">Kirkkaus</string>
+     <string name="quick_settings_brightness_label">Kirkkaus</string>
+     <string name="quick_settings_cast_detail_empty_text">Laitteita ei käytettävissä</string>
+     <string name="quick_settings_cast_device_default_description">Valmis suoratoistamaan</string>
+     <string name="quick_settings_cast_device_default_name">Nimeämätön laite</string>
+     <string name="quick_settings_cast_title">Suoratoista</string>
+     <string name="quick_settings_casting">Suoratoistetaan</string>
+     <string name="quick_settings_cellular_detail_data_limit">%s raja</string>
+     <string name="quick_settings_cellular_detail_data_usage">Datan käyttö</string>
+     <string name="quick_settings_cellular_detail_data_used">%s käytetty</string>
+     <string name="quick_settings_cellular_detail_data_warning">%s varoitus</string>
+     <string name="quick_settings_cellular_detail_over_limit">Yli rajan</string>
+     <string name="quick_settings_cellular_detail_remaining_data">Jäljellä oleva data</string>
+     <string name="quick_settings_cellular_detail_title">Mobiilidata</string>
+     <string name="quick_settings_color_space_label">Värinkorjaustila</string>
+     <string name="quick_settings_connected">Yhdistetty</string>
+     <string name="quick_settings_dnd_alarms_label">Vain hälytykset</string>
+     <string name="quick_settings_dnd_label">Älä häiritse</string>
+     <string name="quick_settings_dnd_none_label">Täysi mykistys</string>
+     <string name="quick_settings_dnd_priority_label">Vain prioriteetti</string>
+     <string name="quick_settings_drivemode_label">Autotila</string>
      <string name="quick_settings_dual_location_label">Kaksois-GPS</string>
-     <string name="quick_settings_edit_label">Edit</string>
-     <string name="quick_settings_flashlight_label">Flashlight</string>
+     <string name="quick_settings_edit_label">Muokkaa</string>
+     <string name="quick_settings_flashlight_label">Taskulamppu</string>
      <string name="quick_settings_hotspot_label">Hotspot</string>
-     <string name="quick_settings_ime_label">Input method</string>
-     <string name="quick_settings_inversion_label">Invert colors</string>
-     <string name="quick_settings_location_label">Location</string>
-     <string name="quick_settings_location_off_label">Location is off</string>
-     <string name="quick_settings_media_device_label">Media device</string>
+     <string name="quick_settings_ime_label">Syöttötapa</string>
+     <string name="quick_settings_inversion_label">Käännä värit</string>
+     <string name="quick_settings_location_label">Sijainti</string>
+     <string name="quick_settings_location_off_label">Sijainti pois käytöstä</string>
+     <string name="quick_settings_media_device_label">Media-laite</string>
      <string name="quick_settings_midrop_label">Mi Drop</string>
-     <string name="quick_settings_mute_label">Mute</string>
+     <string name="quick_settings_mute_label">Mykistä</string>
      <string name="quick_settings_nfc_label">NFC</string>
-     <string name="quick_settings_nfc_off">NFC is disabled</string>
-     <string name="quick_settings_nfc_on">NFC is enabled</string>
-     <string name="quick_settings_night_display_label">Night light</string>
-     <string name="quick_settings_notifications_label">Notifications</string>
-     <string name="quick_settings_papermode_label">Reading mode</string>
-     <string name="quick_settings_powermode_label">Performance mode</string>
-     <string name="quick_settings_quietmode_label">DND</string>
-     <string name="quick_settings_reset_confirmation_button">Hide</string>
-     <string name="quick_settings_reset_confirmation_message">It will reappear the next time you turn it on in the Settings.</string>
-     <string name="quick_settings_reset_confirmation_title">Hide %1$s?</string>
-     <string name="quick_settings_rotation_locked_label">Rotation locked</string>
-     <string name="quick_settings_rotation_locked_landscape_label">Landscape</string>
-     <string name="quick_settings_rotation_locked_portrait_label">Portrait</string>
-     <string name="quick_settings_rotation_unlocked_label">Auto-rotate</string>
-     <string name="quick_settings_rssi_emergency_only">Emergency calls only</string>
+     <string name="quick_settings_nfc_off">NFC pois käytöstä</string>
+     <string name="quick_settings_nfc_on">NFC käytössä</string>
+     <string name="quick_settings_night_display_label">Yövalo</string>
+     <string name="quick_settings_notifications_label">Ilmoitukset</string>
+     <string name="quick_settings_papermode_label">Lukutila</string>
+     <string name="quick_settings_powermode_label">Suorituskykytila</string>
+     <string name="quick_settings_quietmode_label">Älä häiritse</string>
+     <string name="quick_settings_reset_confirmation_button">Piilota</string>
+     <string name="quick_settings_reset_confirmation_message">Se ilmestyy uudelleen seuraavalla kerralla, kun otat sen käyttöön Asetuksissa.</string>
+     <string name="quick_settings_reset_confirmation_title">Piilotetaanko %1$s?</string>
+     <string name="quick_settings_rotation_locked_label">Kierto lukittu</string>
+     <string name="quick_settings_rotation_locked_landscape_label">Vaakasuunta</string>
+     <string name="quick_settings_rotation_locked_portrait_label">Pystysuunta</string>
+     <string name="quick_settings_rotation_unlocked_label">Automaattinen kierto</string>
+     <string name="quick_settings_rssi_emergency_only">Vain hätäpuhelut</string>
      <string name="quick_settings_rssi_label">RSSI</string>
-     <string name="quick_settings_screenbutton_label">Buttons</string>
-     <string name="quick_settings_screenlock_label">Lock screen</string>
-     <string name="quick_settings_screenshot_label">Screenshot</string>
-     <string name="quick_settings_settings_label">Settings</string>
-     <string name="quick_settings_sync_label">Sync</string>
+     <string name="quick_settings_screenbutton_label">Painikkeet</string>
+     <string name="quick_settings_screenlock_label">Lukitusnäyttö</string>
+     <string name="quick_settings_screenshot_label">Kuvakaappaus</string>
+     <string name="quick_settings_settings_label">Asetukset</string>
+     <string name="quick_settings_sync_label">Synkronointi</string>
      <string name="quick_settings_tethering_label">Tethering</string>
-     <string name="quick_settings_time_label">Time</string>
-     <string name="quick_settings_user_label">Me</string>
-     <string name="quick_settings_user_new_user">New user</string>
-     <string name="quick_settings_user_title">User</string>
-     <string name="quick_settings_vibrate_label">Vibrate</string>
-     <string name="quick_settings_wifi_no_network">No network</string>
-     <string name="quick_settings_wifi_not_connected">Not connected</string>
-     <string name="quick_settings_wifi_off_label">WLAN is off</string>
-     <string name="quick_settings_wifi_on_label">WLAN is on</string>
-     <string name="quick_settings_work_mode_label">Work mode</string>
-     <string name="recent_menu_item_info">Info</string>
-     <string name="recent_menu_item_lock">Lock</string>
-     <string name="recent_menu_item_multi_window">Split</string>
-     <string name="recent_menu_item_unlock">Unlock</string>
-     <string name="recents_accessibility_split_screen_left">Split screen to the left</string>
-     <string name="recents_accessibility_split_screen_right">Split screen to the right</string>
-     <string name="recents_accessibility_split_screen_top">Split screen to the top</string>
+     <string name="quick_settings_time_label">Aika</string>
+     <string name="quick_settings_user_label">Minä</string>
+     <string name="quick_settings_user_new_user">Uusi käyttäjä</string>
+     <string name="quick_settings_user_title">Käyttäjä</string>
+     <string name="quick_settings_vibrate_label">Värinä</string>
+     <string name="quick_settings_wifi_no_network">Ei verkkoa</string>
+     <string name="quick_settings_wifi_not_connected">Ei yhteyttä</string>
+     <string name="quick_settings_wifi_off_label">Wi-Fi pois käytöstä</string>
+     <string name="quick_settings_wifi_on_label">Wi-Fi käytössä</string>
+     <string name="quick_settings_work_mode_label">Työtila</string>
+     <string name="recent_menu_item_info">Tiedot</string>
+     <string name="recent_menu_item_lock">Lukitse</string>
+     <string name="recent_menu_item_multi_window">Jaa näyttö</string>
+     <string name="recent_menu_item_unlock">Poista lukitus</string>
+     <string name="recents_accessibility_split_screen_left">Jaa näyttö vasemmalle</string>
+     <string name="recents_accessibility_split_screen_right">Jaa näyttö oikealle</string>
+     <string name="recents_accessibility_split_screen_top">Jaa näyttö ylös</string>
      <string name="regrettable_lack_of_easter_egg">¯\\_(ツ)_/¯</string>
-     <string name="remove_from_settings">Remove from Settings</string>
-     <string name="remove_from_settings_prompt">Remove System UI Tuner from Settings and stop using all of its features?</string>
-     <string name="report_rejected_touch">Report rejected touch</string>
-     <string name="reset">Reset</string>
-     <string name="right_icon">Right icon</string>
-     <string name="right_keycode">Right keycode</string>
-     <string name="right_nav_bar_button_type">Extra right button type</string>
-     <string name="running_foreground_services_msg">Tap for details on battery and data usage</string>
-     <string name="running_foreground_services_title">Apps running in background</string>
-     <string name="save">Save</string>
-     <string name="screenshot_failed_title">"Couldn't capture screenshot."</string>
-     <string name="screenshot_failed_to_capture_text">"Taking screenshots isn't allowed by the app or your organization"</string>
-     <string name="screenshot_failed_to_save_text">"Can't save screenshot due to limited storage space."</string>
-     <string name="screenshot_failed_to_save_unknown_text">An error occurred while saving screenshot.</string>
-     <string name="search_menu_title">Search</string>
+     <string name="remove_from_settings">Poista Asetuksista</string>
+     <string name="remove_from_settings_prompt">Poistetaanko Järjestelmän UI-viritin Asetuksista ja lopetetaanko sen kaikkien ominaisuuksien käyttäminen?</string>
+     <string name="report_rejected_touch">Ilmoita hylätty kosketus</string>
+     <string name="reset">Nollaa</string>
+     <string name="right_icon">Oikea kuvake</string>
+     <string name="right_keycode">Oikea avainkoodi</string>
+     <string name="right_nav_bar_button_type">Ylimääräisen oikean painikkeen tyyppi</string>
+     <string name="running_foreground_services_msg">Katso akun ja datan käytön tiedot napauttamalla</string>
+     <string name="running_foreground_services_title">Taustalla käynnissä olevat sovellukset</string>
+     <string name="save">Tallenna</string>
+     <string name="screenshot_failed_title">Kuvakaappausta ei voitu ottaa.</string>
+     <string name="screenshot_failed_to_capture_text">Sovellus tai organisaatio ei salli kuvakaappauksen ottamista</string>
+     <string name="screenshot_failed_to_save_text">Kuvakaappausta ei voi tallentaa rajoitetun tallennustilan takia.</string>
+     <string name="screenshot_failed_to_save_unknown_text">Kuvakaappauksen tallentamisen aikana tapahtui virhe.</string>
+     <string name="search_menu_title">Haku</string>
      <string name="show_battery_percentage">Show embedded battery percentage</string>
      <string name="show_battery_percentage_summary">Show battery level percentage inside the status bar icon when not charging</string>
      <string name="show_brightness">Show brightness in Quick settings</string>
