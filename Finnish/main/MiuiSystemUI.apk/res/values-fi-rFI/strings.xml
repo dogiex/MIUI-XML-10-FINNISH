@@ -1696,7 +1696,6 @@ Saat lisätietoja järjestelmänvalvojalta."</string>
   <string name="status_bar_network_flow_limit">"   Kuukausittainen raja: %1$s   "</string>
   <string name="status_bar_network_flow_purchase">"   Osta &gt;"</string>
   <string name="status_bar_network_flow_today">Tänään: %1$s</string>
-  <string name="status_bar_network_name_separator">|</string>
   <string name="status_bar_no_recent_apps">Ei viimeaikaisia sovelluksia</string>
   <string name="status_bar_notification_inspect_item_title">Sovellustiedot</string>
   <string name="status_bar_recent_guide_all">"Pyyhkäise ylös sulkeaksesi
