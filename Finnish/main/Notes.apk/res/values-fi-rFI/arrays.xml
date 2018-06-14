@@ -1,33 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <!-- ei vielä käännetty -->
+    <!-- MIUI 10 valmis -->
     <string-array name="first_guide_contents">
-        <item>Welcome to Notes!</item>
-        <item>Take notes</item>
-        <item>You can use text, images, and voice recordings in your notes. A rich library of styles and fonts will make your simple scribbles look stunning.</item>
-        <item>Checklists and reminders come to help when you need basic and effective tools for planning your next trip or putting together a grocery list.</item>
-        <item>Share notes</item>
-        <item>You can generate scrolling screenshots in Notes automatically, and them share them with your friends.</item>
-        <item>Create&amp;switch between folders</item>
-        <item>Press the arrow below to create a new folder or switch between existing ones.</item>
-     </string-array>
-     <string-array name="first_guide_images">
-        <item>guide_first_00</item>
-        <item>guide_first_01</item>
-        <item>guide_first_02</item>
-        <item>guide_first_03</item>
-        <item>guide_first_04</item>
-        <item></item>
+        <item>Tervetuloa Muistiinpanoihin!</item>
+        <item>Tee muistiinpanoja</item>
+        <item>Voit käyttää muistiinpanoissasi tekstiä, kuvia ja ääninauhoitteita. Monipuolinen kirjasto tyylejä ja fontteja tekee yksinkertaisista tuherruksistasi näyttäviä.</item>
+        <item>Tarkistuslistat ja muistutukset auttavat sinua seuraavan kauppalistan tai matkan suunnittelemisessa.</item>
+        <item>Jaa muistiinpanoja</item>
+        <item>Voit luoda pitkän kuvakaappauksen Muistiinpanoissa automaattisesti, jonka voit sen jälkeen jakaa kavereidesi kanssa.</item>
+        <item>Luo &amp; vaihda kansioiden välillä</item>
+        <item>Paina alla olevaa nuolta luodaksesi uuden kansion tai vaihtaaksesi olemassa olevien kansioiden välillä.</item>
      </string-array>
      <string-array name="second_guide_contents">
-        <item>Voice notes</item>
-        <item>Create notes using our built-in speech-to-text engine attaching the original recordings of your voice to the notes.</item>
+        <item>Äänimuistiinpanot</item>
+        <item>Liitä alkuperäinen ääninauhoitus muistiinpanoihin luodaksesi muistiinpanoja sisäänrakennetulla puheesta-tekstiksi moottorilla.</item>
      </string-array>
-     <string-array name="second_guide_images">
-        <item>guide_second_00</item>
-        <item></item>
-     </string-array>
-     <!-- ei vielä käännetty -->
+     <!-- MIUI 10 valmis -->
     <string-array name="attachment_chooser">
         <item>Kamera</item>
         <item>Galleria</item>
