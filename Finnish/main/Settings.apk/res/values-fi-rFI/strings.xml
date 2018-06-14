@@ -4439,7 +4439,6 @@ Laitteeseesi asennettu luotettu varmenne tekee tämän mahdolliseksi."</string>
   <string name="status_bar_settings_all_app_display_loading">Odota hetki…</string>
   <string name="status_bar_settings_app_notification_preferences">Sovellusasetukset</string>
   <string name="status_bar_settings_basic_settings">Asetukset</string>
-  <string name="status_bar_settings_carrier_sim">"SIM-kortti %1$s: "</string>
   <string name="status_bar_settings_custom_carrier">Muokkaa operaattorin nimeä</string>
   <string name="status_bar_settings_custom_wifi_name">Muokkaa Wi-Fi nimeä</string>
   <string name="status_bar_settings_enable_notification">Näytä ilmoitukset</string>
