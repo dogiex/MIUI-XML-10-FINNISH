@@ -1,13 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <!-- ei vielä käännetty -->
+  <!-- miui 10 valmis -->
   <string name="China_Mobile">China Mobile</string>
      <string name="China_Mobile_HD">China Mobile (HD)</string>
      <string name="China_Telecom">China Telecom</string>
      <string name="China_Unicom">China Unicom</string>
      <string name="abbrev_wday_month_day_no_year">EEEEMMMMd</string>
      <string name="abbrev_wday_month_day_no_year_alarm">EEEMMMd</string>
-     <string name="abc_action_bar_home_description">Siirry aloitukseen</string>
+     <string name="abc_action_bar_home_description">Siirry alkuun</string>
      <string name="abc_action_bar_up_description">Siirry ylös</string>
      <string name="abc_action_menu_overflow_description">Lisää</string>
      <string name="abc_action_mode_done">Valmis</string>
@@ -176,15 +176,15 @@
      <string name="accessibility_three_bars">Kolme palkkia.</string>
      <string name="accessibility_two_bars">Kaksi palkkia.</string>
      <string name="accessibility_unlock_button">Poista lukitus</string>
-     <string name="accessibility_unlock_without_fingerprint">Unlock without using your fingerprint</string>
-     <string name="accessibility_voice_assist_button">Voice Assist</string>
-     <string name="accessibility_volume_collapse">Collapse</string>
-     <string name="accessibility_volume_expand">Expand</string>
-     <string name="accessibility_vpn_on">VPN on.</string>
-     <string name="accessibility_waiting_for_fingerprint">Waiting for fingerprint</string>
-     <string name="accessibility_wifi_name">Connected to %s.</string>
-     <string name="accessibility_work_mode">Work mode</string>
-     <string name="accessibility_zero_bars">Zero bars.</string>
+     <string name="accessibility_unlock_without_fingerprint">Poista lukitus ilman sormenjälkeäsi</string>
+     <string name="accessibility_voice_assist_button">Ääniavustus</string>
+     <string name="accessibility_volume_collapse">Kutista</string>
+     <string name="accessibility_volume_expand">Laajenna</string>
+     <string name="accessibility_vpn_on">VPN käytössä.</string>
+     <string name="accessibility_waiting_for_fingerprint">Odotetaan sormenjälkeä</string>
+     <string name="accessibility_wifi_name">Yhdistetty verkkoon %s.</string>
+     <string name="accessibility_work_mode">Työtila</string>
+     <string name="accessibility_zero_bars">Nolla palkkia.</string>
      <string name="activity_launch_on_secondary_display_failed_text">Sovellus ei tue käynnistämistä toisessa näytössä.</string>
      <string name="activity_not_found">Sovellus ei ole asennettu laitteellesi</string>
      <string name="add_tile">Lisää laatta</string>
@@ -997,7 +997,7 @@ Kaikki käyttäjät voivat päivittää kaikkien käyttäjien sovelluksia."</str
      <string name="zen_priority_introduction">Sinua ei häiritä äänillä tai värinällä, paitsi hälytyksillä, muistutuksilla, tapahtumilla ja määrittelemiltäsi soittajilta. Sinä</string>
      <string name="zen_silence_introduction">Tämä estää KAIKKI äänet ja värinät, mukaan lukien hälytykset, musiikin, videot ja pelit.</string>
      <string name="zen_silence_introduction_voice">Tämä estää KAIKKI äänet ja värinät, mukaan lukien hälytykset, musiikin, videot ja pelit. Voit silti soittaa puheluita.</string>
-     <!-- ei vielä käännetty -->
+     <!-- miui 10 valmis -->
   <string name="accessibility_action_divider_bottom_full">Bottom full screen</string>
   <string name="accessibility_action_divider_left_30">Left 30%</string>
   <string name="accessibility_action_divider_left_50">Left 50%</string>
