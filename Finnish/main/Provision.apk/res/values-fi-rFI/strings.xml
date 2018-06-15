@@ -1,9 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-	<!-- MIUI 10 valmis -->
-     <string name="sim_card_detection_mobile_not_available">SIM-kortti ei voinut yhdistää verkkoon</string>
-     <string name="sim_scard_detecting_check_mobile_not_available">SIM-korttisi ei voinut yhdistää operaattorin verkkoon. Varmista, että saldoasi on tarpeeksi ja yritä yhdistää uudelleen.</string>
-     <!-- MIUI 10 valmis -->
   <string name="accessibility_enabled">Esteettömyys käytössä.</string>
   <string name="agree">Hyväksy</string>
   <string name="agree_terms">Olen lukenut ja hyväksyn Palveluehdot ja Tietosuojakäytännön.</string>
