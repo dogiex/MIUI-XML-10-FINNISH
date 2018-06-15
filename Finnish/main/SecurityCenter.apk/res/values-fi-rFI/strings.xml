@@ -1,15 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <!-- ei vielä käännetty -->
-  <string name="gamebox_qq_not_find">Install QQ and try again.</string>
-     <string name="gamebox_wechat_not_find">Install WeChat and try again.</string>
-     <string name="gb_msg_not_shielded_summary">Show</string>
-     <string name="gs_gamebox">In-game shortcuts</string>
-     <string name="gs_gamebox_detail">Show in-game shortcut panel</string>
-     <string name="midrop_post_notification_contentText">"Try Mi Drop. It's fast and ad-free."</string>
-     <string name="midrop_post_notification_contentTitle">Need to transfer files?</string>
-     <string name="screenrecord_not_find">Install the latest version of Screen Recorder and try again.</string>
-     <!-- ei vielä käännetty -->
+  <!-- MIUI 10 valmis -->
+  <string name="gamebox_qq_not_find">Asenna QQ ja yritä uudelleen.</string>
+     <string name="gamebox_wechat_not_find">Asenna WeChat ja yritä uudelleen.</string>
+     <string name="gb_msg_not_shielded_summary">Näytä</string>
+     <string name="gs_gamebox">Pelin sisäiset pikakuvakkeet</string>
+     <string name="gs_gamebox_detail">Näytä pelin sisäinen pikakuvakepaneeli</string>
+     <string name="midrop_post_notification_contentText">Kokeile Mi Drop:ia. Se on nopea ja ilman mainoksia.</string>
+     <string name="midrop_post_notification_contentTitle">Tarvitsetko tiedostojen siirtämistä?</string>
+     <string name="screenrecord_not_find">Asenna viimeisin versio Näytön Nauhoittajasta ja yritä uudelleen.</string>
+     <!-- MIUI 10 valmis -->
   <string name="Phonepass">Salli puhelut</string>
   <string name="SMS_and_MMS">Teksti- ja multimediaviestit</string>
   <string name="SMSpass">Salli tekstiviestit</string>
