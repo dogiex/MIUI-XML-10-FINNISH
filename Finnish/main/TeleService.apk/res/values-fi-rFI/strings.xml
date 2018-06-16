@@ -1,20 +1,20 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <!-- ei vielä käännetty -->
-  <string name="voice_service_cannot_call_notification_content">You may face connectivity problems while trying to make calls.</string>
-     <string name="voice_service_cannot_call_notification_title">"Can't make calls in the current network"</string>
-     <string name="voice_service_switch_summary">Turn on to be able to use VoLTE call functionality in VoLTE networks</string>
-     <string name="voice_service_switch_title">Use VoLTE call services</string>
-     <string name="voice_service_warning_dialog_body">"This tablet supports VoLTE calls in 4G networks. Make sure the networks that your device is connected to support this functionality. VoLTE services are provided by your carrier. Contact your local carrier to learn if VoLTE is not supported in your area.
+  <!-- MIUI 10 valmis -->
+  <string name="voice_service_cannot_call_notification_content">Saatat kohdata yhteysongelmia, jos yrität soittaa puheluita.</string>
+   <string name="voice_service_cannot_call_notification_title">Et voi soittaa puheluita nykyisessä verkossa</string>
+   <string name="voice_service_switch_summary">Ota käyttöön käyttääksesi VoLTE-puhelutoimintoa VoLTE-verkoissa</string>
+   <string name="voice_service_switch_title">Käytä VoLTE-puhelupalveluita</string>
+   <string name="voice_service_warning_dialog_body">"Tämä tabletti tukee VoLTE-puheluita 4G-verkoissa. Varmista, että verkot joihin laitteesi on yhdistetty tukee tätä ominaisuutta. VoLTE-palveluiden tarjoaja on operaattorisi. Ota yhteyttä paikalliseen operaattoriisi, jos haluat tietää, eikö VoLTE-toimintoa tueta alueellasi.
 
-If you see _ in your status bar, VoLTE calls aren't available. If you can't make or receive calls, or your calls are interrupted, make sure your network is compatible with VoLTE.
+Jos näet _ tilapalkissasi, VoLTE-puhelut ei ole käytettävissä. Jos et voi soittaa tai vastaanottaa puheluita tai puhelusi keskeytyvät varmista, että verkkosi on VoLTE-yhteensopiva.
 
-This tablet doesn't have an earpiece. You can switch to hands-free mode or use earphones to make calls."</string>
-     <string name="voice_service_warning_dialog_cancel">Cancel</string>
-     <string name="voice_service_warning_dialog_ok">Got it</string>
-     <string name="voice_service_warning_dialog_ok_timer">Got it (%d)</string>
-     <string name="voice_service_warning_dialog_title">VoLTE calls</string>
-     <!-- ei vielä käännetty -->
+Tällä tabletilla ei ole korvakuuloketta. Voit vaihtaa hands-free-tilaan tai käyttää kuulokkeita soittaaksesi puheluita."</string>
+  <string name="voice_service_warning_dialog_cancel">Peruuta</string>
+  <string name="voice_service_warning_dialog_ok">Selvä</string>
+  <string name="voice_service_warning_dialog_ok_timer">Selvä (%d)</string>
+  <string name="voice_service_warning_dialog_title">VoLTE-puhelut</string>
+  <!-- MIUI 10 valmis -->
   <string name="PERSOSUBSTATE_RUIM_CORPORATE_ENTRY">RUIM corporate unlock PIN</string>
   <string name="PERSOSUBSTATE_RUIM_CORPORATE_ERROR">RUIM Corporate unlock request unsuccessful.</string>
   <string name="PERSOSUBSTATE_RUIM_CORPORATE_IN_PROGRESS">Requesting RUIM corporate unlock…</string>
