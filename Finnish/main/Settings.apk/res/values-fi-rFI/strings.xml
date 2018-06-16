@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <!-- ei vielä käännetty -->
+  <!-- MIUI 10 valmis -->
   <string name="aod_mode_time_summary">Ajasta milloin laitteesi tulisi siirtyä Aina päällä -tilaan</string>
      <string name="aod_mode_time_title">Ajastus</string>
      <string name="aod_mode_turn_off">Pois käytöstä</string>
@@ -22,7 +22,7 @@
      <string name="super_resolution_reboot_tips">Toiminnon käyttöön ottamisen jälkeen käynnistä sovellukset uudelleen, jotta se tulee voimaan.</string>
      <string name="super_resolution_title">Super-resoluutio</string>
      <string name="wifi_assistant">Wi-Fi avustaja</string>
-     <string name="wifi_assistant_auto_confirm_data_message">Tällä Wi-Fi-verkolla ei ole internetiä. Laitteesi käyttää mobiilidataa sen sijaan. Voit poistaa Wi-Fi avustajan käytöstä Asetuksista.</string>
+     <string name="wifi_assistant_auto_confirm_data_message">Tällä Wi-Fi-verkolla ei ole internetyhteyttä. Laitteesi käyttää mobiilidataa sen sijaan. Voit poistaa Wi-Fi avustajan käytöstä Asetuksista.</string>
      <string name="wifi_assistant_confirm_always">Älä näytä uudelleen</string>
      <string name="wifi_assistant_confirm_connection_title">Vahvista</string>
      <string name="wifi_assistant_data_prompt">Näytä tiedonsiirtovaroitus</string>
@@ -31,33 +31,33 @@
 1. Kun Wi-Fi-yhteys on heikko, Wi-Fi avustaja yrittää yhdistää laitteesi toisiin käytettävissä oleviin Wi-Fi-verkkoihin.
 2. Jos kaikki käytettävissä olevat Wi-Fi-yhteydet ovat heikkoja ja mobiilidata on otettu käyttöön, Wi-Fi avustaja vaihtaa mobiilidataan."</string>
      <string name="wifi_assistant_disconnect">Katkaise yhteys</string>
-     <string name="wifi_assistant_explicitly_confirm_data_message">This WLAN network has no access to the internet. Use mobile data instead?</string>
-     <string name="wifi_assistant_explicitly_confirm_disconnect">This WLAN network has no access to the internet. Disconnect now?</string>
-     <string name="wifi_assistant_explicitly_confirm_wifi_message">This WLAN network has no access to the internet. Other WLAN networks are available. Switch networks?</string>
-     <string name="wifi_assistant_keep_connection">Stay connected</string>
-     <string name="wifi_assistant_off">Off</string>
+     <string name="wifi_assistant_explicitly_confirm_data_message">Tällä Wi-Fi-verkolla ei ole internetyhteyttä. Käytetäänkö mobiilidataan sen sijaan?</string>
+     <string name="wifi_assistant_explicitly_confirm_disconnect">Tällä Wi-Fi-verkolla ei ole internetyhteyttä. Katkaistaanko yhteys nyt?</string>
+     <string name="wifi_assistant_explicitly_confirm_wifi_message">Tällä Wi-Fi-verkolla ei ole internetyhteyttä. Toisia Wi-Fi-verkkoja on käytettävissä. Vaihdetaanko verkkoja?</string>
+     <string name="wifi_assistant_keep_connection">Pysy yhdistettynä</string>
+     <string name="wifi_assistant_off">Pois käytöstä</string>
      <string name="wifi_assistant_ok">OK</string>
-     <string name="wifi_assistant_on">On</string>
-     <string name="wifi_assistant_setup_wifi_assistant">Set up</string>
-     <string name="wifi_assistant_summary">Switch between WLAN networks and mobile data when WLAN connection is poor</string>
-     <string name="wifi_assistant_switch_data">Use mobile data</string>
-     <string name="wifi_assistant_switch_wifi">Switch networks</string>
-     <string name="wifi_connection_management">Manage WLAN connections</string>
-     <string name="wifi_eap_options_advanced">Advanced options</string>
-     <string name="wifi_eap_options_simple">Simple options</string>
-     <string name="wifi_network_optimization">Optimized connection</string>
-     <string name="wifi_other_connection_mode">Other connectivity options</string>
-     <string name="wifi_property">WLAN properties</string>
-     <string name="wifi_remembered_disabled_auto_connect">Saved. Auto connection is off.</string>
-     <string name="wifi_traffic_priority">WLAN speed mode</string>
-     <string name="wifi_traffic_priority_extreme">Extreme mode</string>
-     <string name="wifi_traffic_priority_extreme_summary">Give most of the bandwidth to the app in the foreground. Background processes might not be able to connect to the network.</string>
-     <string name="wifi_traffic_priority_off">Off</string>
-     <string name="wifi_traffic_priority_on">On</string>
-     <string name="wifi_traffic_priority_regular">Regular mode</string>
-     <string name="wifi_traffic_priority_regular_summary">Share bandwidth between background processes and the app in the foreground</string>
-     <string name="wifi_traffic_priority_summary">Prioritize connection speed automatically</string>
-     <!-- ei vielä käännetty -->
+     <string name="wifi_assistant_on">Käytössä</string>
+     <string name="wifi_assistant_setup_wifi_assistant">Määritä</string>
+     <string name="wifi_assistant_summary">Vaihda Wi-Fi-verkkojen ja mobiilidatan välillä, kun Wi-Fi-yhteys on heikko</string>
+     <string name="wifi_assistant_switch_data">Käytä mobiilidataa</string>
+     <string name="wifi_assistant_switch_wifi">Vaihda verkkoja</string>
+     <string name="wifi_connection_management">Hallinnoi Wi-Fi-yhteyksiä</string>
+     <string name="wifi_eap_options_advanced">Lisäasetukset</string>
+     <string name="wifi_eap_options_simple">Asetukset</string>
+     <string name="wifi_network_optimization">Optimaalinen yhteys</string>
+     <string name="wifi_other_connection_mode">Muut yhteysasetukset</string>
+     <string name="wifi_property">Wi-Fi-ominaisuudet</string>
+     <string name="wifi_remembered_disabled_auto_connect">Tallennettu. Automaattinen yhdistäminen pois käytöstä.</string>
+     <string name="wifi_traffic_priority">Wi-Fi nopeustila</string>
+     <string name="wifi_traffic_priority_extreme">Äärimmäinen tila</string>
+     <string name="wifi_traffic_priority_extreme_summary">Anna suurin osa kaistanleveydestä etualalla olevalle sovellukselle. Taustaprosessit ei välttämättä pysty yhdistämään verkkoon.</string>
+     <string name="wifi_traffic_priority_off">Pois käytöstä</string>
+     <string name="wifi_traffic_priority_on">Käytössä</string>
+     <string name="wifi_traffic_priority_regular">Tavallinen tila</string>
+     <string name="wifi_traffic_priority_regular_summary">Jaa kaistanleveys taustaprosessien ja etualalla olevan sovelluksen kanssa</string>
+     <string name="wifi_traffic_priority_summary">Priorisoi yhteyden nopeus automaattisesti</string>
+     <!-- MIUI 10 valmis -->
   <string name="Accounts_settings_title">Tilit</string>
   <string name="abc_action_bar_home_description">Siirry etusivulle</string>
   <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
