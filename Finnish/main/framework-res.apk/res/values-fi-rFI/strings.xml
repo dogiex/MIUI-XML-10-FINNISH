@@ -612,7 +612,6 @@ Käy osoitteessa "google.com/accounts/recovery.</string>
   <string name="kg_reordering_delete_drop_target_text">Poista</string>
   <string name="kg_sim_pin_instructions">Anna SIM-kortin PIN-koodi</string>
   <string name="kg_sim_unlock_progress_dialog_message">SIM-kortin lukitusta poistetaan…</string>
-  <string name="kg_text_message_separator">" – "</string>
   <string name="kg_too_many_failed_attempts_countdown">Yritä uudelleen %1$d sekunnin kuluttua.</string>
   <string name="kg_too_many_failed_password_attempts_dialog_message">"Olet kirjoittanut salasanan väärin %1$d kertaa.
 
