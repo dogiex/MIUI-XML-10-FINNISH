@@ -59,6 +59,8 @@
   <string name="ai_scene_mode_use_hint_text">"AI-kamera tunnistaa näkymän automaattisesti
 ja optimoi valokuvasi näiden tietojen perusteella"</string>
   <string name="audio_focus_exit_button_text">Poista Äänitarkennus käytöstä</string>
+  <string name="beauty_fragment_tab_name_3d_beauty">Kauneus</string>
+  <string name="beauty_fragment_tab_name_3d_remodeling">Muotoillaan uudelleen</string>
   <string name="beauty_fragment_tab_name_beauty">Kauneus</string>
   <string name="beauty_fragment_tab_name_makeup">Edistynyt</string>
   <string name="bokeh_use_hint">Syvyystehoste</string>
@@ -118,13 +120,21 @@ ja optimoi valokuvasi näiden tietojen perusteella"</string>
   <string name="dual_camera_lowlight_toast">Näyttää siltä, että on liian pimeää.</string>
   <string name="dual_camera_too_close_toast">Kamera on liian lähellä kohdetta.</string>
   <string name="dual_camera_use_hint">Varmista, että kohde ei ole 2 metriä pidemmällä.</string>
+  <string name="edit_chin">Leuka</string>
   <string name="edit_eye_large">Suuret silmät</string>
   <string name="edit_face_ruddy">Punertava</string>
   <string name="edit_face_slender">Hoikka</string>
+  <string name="edit_lips">Huulet</string>
+  <string name="edit_neck">Kaula</string>
+  <string name="edit_nose">Nenä</string>
+  <string name="edit_risorius">Hymylihas</string>
   <string name="edit_skin_smooth">Sileä</string>
   <string name="edit_skin_white">Sävy</string>
+  <string name="edit_slim_nose">Nenä</string>
+  <string name="edit_smile">Hymy</string>
   <string name="error_fail_to_start_audio_capture">Äänenkaappauksen aloittaminen epäonnistui</string>
   <string name="face_age_info">Ikä: %d</string>
+  <string name="face_analyze_info">Ikä: %2$s (%1$s)</string>
   <string name="face_analyze_info_female">Nainen</string>
   <string name="face_analyze_info_male">Mies</string>
   <string name="face_beauty_advanced">Pro</string>
@@ -156,6 +166,7 @@ ja optimoi valokuvasi näiden tietojen perusteella"</string>
   <string name="front_camera_hint_text_place">"Selfien ottaminen on helpompaa
 jos käännät puhelimesi"</string>
   <string name="front_camera_hint_text_rotate">Käännä puhelimesi</string>
+  <string name="hibernate_hint">Herätä Kamera napauttamalla näyttöä</string>
   <string name="hine_hht">"Vähäisellä valoisuudella kamera ottaa usean kuvan
 ja luo otoksen, jossa kuvassa on vähiten kohinaa."</string>
   <string name="hint_device_water_mark">Kuvan vesileima lisätään automaattisesti.</string>
@@ -167,7 +178,11 @@ ja luo otoksen, jossa kaikki ovat parhaimmillaan."</string>
   <string name="hunt_dual_water_mark">Kaksoiskameran vesileima lisätään automaattisesti.</string>
   <string name="image_file_name_format">"'IMG'_yyyyMMdd_HHmmss"</string>
   <string name="install_confirmed">Asenna</string>
-  <string name="message_snap_double_confirm">Äänenvoimakkuuspainikkeen pitkä painallus käynnistää NFC:n nyt. Korvataanko tämä ominaisuus?</string>
+  <string name="lens_dirty_detected_content">"Kamerasi linssi on likainen,
+puhdista kamerasi linssi parempia kuvia varten."</string>
+  <string name="lens_dirty_detected_title_back">Takakameran linssi on likainen</string>
+  <string name="lens_dirty_detected_title_front">Etukameran linssi on likainen</string>
+  <string name="message_snap_double_confirm">Äänenvoimakkuuspainikkeen pitkä painallus käynnistää tällä hetkellä NFC:n. Korvataanko tämä ominaisuus?</string>
   <string name="module_name_beauty">Kauneus</string>
   <string name="module_name_capture">Kuva</string>
   <string name="module_name_fun">Lyhyt video</string>
@@ -187,6 +202,7 @@ ja luo otoksen, jossa kaikki ovat parhaimmillaan."</string>
   <string name="pano_how_to_use_prompt_start">Napauta nuolta vaihtaaksesi suuntaa ja aloita panoroimaan hitaasti.</string>
   <string name="pano_how_to_use_prompt_to_move">Aloita panoroimaan hitaasti</string>
   <string name="path_settings">Järjestelmäsovellukset/Kamera/Asetukset</string>
+  <string name="popup_tip_3d_beauty_intro_text">3D-Kauneus</string>
   <string name="portait_effect_entry_blackwhite">M&amp;V</string>
   <string name="portait_effect_entry_cool">Minttu</string>
   <string name="portait_effect_entry_fairytale">Lapsuus</string>
@@ -330,6 +346,8 @@ ja tuo henkilöt esiin."</string>
   <string name="pref_camera_picturesize_entry_16_9">16:9</string>
   <string name="pref_camera_picturesize_entry_18_9">18:9</string>
   <string name="pref_camera_picturesize_entry_4_3">4:3</string>
+  <string name="pref_camera_picturesize_entry_fullscreen">Koko näyttö 16:9</string>
+  <string name="pref_camera_picturesize_entry_standard">Normaali 4:3</string>
   <string name="pref_camera_picturesize_title_simple_mode">Kameran kehys</string>
   <string name="pref_camera_portrait_mode_entry_off">Muotokuvatila pois käytöstä</string>
   <string name="pref_camera_portrait_mode_entry_on">Muotokuvatila käytössä</string>
@@ -434,6 +452,10 @@ ja tuo henkilöt esiin."</string>
   <string name="pref_skin_beautify_slim_title">Hoikka</string>
   <string name="pref_skin_beautify_smooth_title">Sileä</string>
   <string name="pref_video_captrue_ability_title">Valokuvan ottaminen nauhoituksen aikana</string>
+  <string name="pref_video_encoder_default">h264</string>
+  <string name="pref_video_encoder_entry_h264">H.264 Korkea yhteensopivuus</string>
+  <string name="pref_video_encoder_entry_h265">H.265 Korkea suorituskyky</string>
+  <string name="pref_video_encoder_title">Videon enkooderi</string>
   <string name="pref_video_focusmode_entry_auto">Napauta</string>
   <string name="pref_video_focusmode_entry_continuous">CAF (automaattitarkennus)</string>
   <string name="pref_video_focusmode_title">Tarkennustila</string>

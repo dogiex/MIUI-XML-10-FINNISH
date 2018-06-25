@@ -5,15 +5,11 @@
   <string name="announce_for_move">Siirry riviin %1$d sarakkeeseen %2$d</string>
   <string name="announce_for_move_hotseat">Siirry telakan sijaintiin %1$d</string>
   <string name="announce_for_unchecked">%1$s, ei tarkistettu</string>
-  <string name="backup_fail">Käynnistimen varmuuskopiointi epäonnistui.</string>
-  <string name="icon_reorganize_channel">图标整理</string>
-  <string name="notification_reset_description">%1$s%1$s Voi palauttaa käynnistimen %2$s</string>
-  <string name="notification_reset_duration">2 tunnin kuluttua,</string>
-  <string name="notification_reset_title">Automaattinen puhdistus valmistui</string>
-  <string name="quick_app">Pikasovellus</string>
-  <string name="refresh">Päivitä</string>
-  <string name="reset_fail">Palautus epäonnistui</string>
-  <string name="reset_title">Palautus</string>
+  <string name="backup_fail">Käynnistintä ei voitu varmuuskopioida</string>
+  <string name="icon_reorganize_channel">Järjestä kuvakkeita</string>
+  <string name="notification_reset_title">Kuvakkeet järjestettiin onnistuneesti</string>
+  <string name="quick_app">Pikasovellukset</string>
+  
   <!-- miui 10 valmis -->
   <string name="action_add_to_workspace">Lisää työtilaan</string>
   <string name="activity_not_found">Sovellusta ei ole asennettu laitteellesi</string>
@@ -285,7 +281,12 @@
   <string name="recommend_apps_switch_title">Mainostetut sovellukset</string>
   <string name="recommend_apps_tips">Tämä ominaisuus vaatii internetyhteyden toimiakseen normaalisti. Poista tämä ominaisuus käytöstä napauttamalla tämän kansion nimeä.</string>
   <string name="recommend_loading">Ladataan</string>
-  <string name="reset_scene_prompt">Näyttö palautetaan oletus ulkoasuksi.</string>
+  <string name="refresh">Päivitä</string>
+  <string name="reset_description_first_time">Voit palauttaa ulkoasun kohteesta %1$s 2 tunnin sisällä</string>
+  <string name="reset_description_others">Voit palauttaa ulkoasun kohteesta %1$s</string>
+  <string name="reset_fail">Ei voitu palauttaa</string>
+  <string name="reset_scene_prompt">Näyttö palautetaan oletusulkoasuksi.</string>
+  <string name="reset_title">Palauta</string>
   <string name="screen_cells_config_title">Aloitusnäytön ulkoasu</string>
   <string name="screen_locked_toast">Aloitusnäytön ulkoasu on lukittu.</string>
   <string name="screen_number">%d näyttö</string>

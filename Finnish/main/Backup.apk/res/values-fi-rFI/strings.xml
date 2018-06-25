@@ -1,5 +1,65 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <!-- 8.6.11 -->
+  <string name="feature_title_contacts">Yhteystiedot</string>
+  <string name="feature_title_sms">Viestit</string>
+  <string name="flash_drive_backup_btn">Varmuuskopioi USB-asemalle</string>
+  <string name="flash_drive_backup_note">"Varmuuskopioi sovellukset USB-asemalle.
+Varmista, että USB-asemassa on tarpeeksi tallennustilaa ennen aloittamista."</string>
+  <string name="flash_drive_backup_restore">USB-varmuuskopiot</string>
+  <string name="flash_drive_connection_failed">USB-asema poistettu</string>
+  <string name="flash_drive_restore_btn">Palauta USB-asemalta</string>
+  <string name="flash_drive_search_backup_files">"Etsitään USB-varmuuskopiota…
+Älä muuta tai nimeä uudelleen varmuuskopioituja tiedostoja."</string>
+  <string name="lack_perm_msg">Mi Mover tarvitsee seuraavat käyttöoikeudet: &lt;b&gt;%s&lt;/b&gt;.</string>
+  <string name="lack_perm_title">Käyttöoikeuksia vaaditaan</string>
+  <string name="perm_camera">Kamera</string>
+  <string name="perm_location">Sijainti</string>
+  <string name="perm_read_call_log">Lukea puheluhistoriaa</string>
+  <string name="perm_read_contacts">Lukea yhteystietoja</string>
+  <string name="perm_read_phone_state">Lukea puhelimen tilaa</string>
+  <string name="perm_read_sms">Lukea tekstiviestejä</string>
+  <string name="perm_storage">Lukea ja kirjoittaa ulkoiselle tallennustilalle</string>
+  <string name="storage_sd_card">SD-kortti</string>
+  <string name="storage_usb">USB-asema</string>
+  <string name="trans_install_guide_button_start">Aloita</string>
+  <string name="trans_install_guide_page_title">Asenna Mi Mover vanhaan puhelimeesi</string>
+  <string name="trans_install_guide_scan_install_tip">"Skannaa tämä QR-koodi vanhalla puhelimellasi
+ladataksesi ja asentaaksesi Mi Moverin."</string>
+  <string name="trans_install_guide_step1_content">Skannaa QR-koodi vanhalla puhelimellasi ladataksesi ja asentaaksesi \"Mi Moverin\".</string>
+  <string name="trans_install_guide_step1_title">Vaihe 1</string>
+  <string name="trans_install_guide_step2_content">Asennuksen jälkeen napauta alapuolella olevaa \"Aloita\" painiketta.</string>
+  <string name="trans_install_guide_step2_title">Vaihe 2</string>
+  <string name="trans_intro_desc_4_market">Mi Mover käyttää Wi-Fiä tiedostojen siirtämiseen. Sen takia siirron aikana et voi yhdistää internetiin käyttäen Wi-Fiä kummallakaan laitteella. Voit silti käyttää mobiilidataa sen sijaan.</string>
+  <string name="trans_intro_desc_9_method_1_dec">Siirry Aloitusnäyttö &gt; Työkalut &gt; Palaute.</string>
+  <string name="trans_intro_desc_9_method_1_title">1. Jaa palautteesi käyttäen \"Palaute\" sovellusta.</string>
+  <string name="trans_intro_desc_9_method_2_dec">Lähetä palautteesi osoitteeseen miui-mover@xiaomi.com.</string>
+  <string name="trans_intro_desc_9_method_2_title">2. Lähetä meille sähköposti</string>
+  <string name="trans_intro_desc_9_method_3_dec">Mi Moverin QQ-ryhmä: 687338378</string>
+  <string name="trans_intro_desc_9_method_3_title">3. Ilmoita ongelmista QQ:ssa</string>
+  <string name="trans_intro_desc_old_market">Napauta \"Aloita\". Skannaa QR-koodi uudella puhelimella, odota kunnes Mi Mover tietää, mitkä tiedostot lähetetään ja napauta \"Lähetä\".</string>
+  <string name="trans_intro_question_9_market">%d. Palaute.</string>
+  <string name="trans_open_camera_failed_message">Käynnistä laitteesi uudelleen tai tarkista onko Mi Moverin sallittua käyttää &lt;b&gt;Kameraa&lt;/b&gt;.</string>
+  <string name="trans_open_camera_failed_title">Kameraan ei voitu yhdistää</string>
+  <string name="trans_open_location_button">Ota käyttöön</string>
+  <string name="trans_open_location_message">Ota sijaintipalvelut käyttöön saadaksesi luettelon käytettävistä Wi-Fi-verkoista.</string>
+  <string name="trans_open_location_title">Ota sijaintipalvelut käyttöön</string>
+  <string name="trans_operate_tip_for_other_android">Avaa Mi Mover vanhalla laitteellasi ja napauta \"Aloita\" ja skannaa yllä oleva QR-koodi.</string>
+  <string name="trans_success_dialog_button_market_favourable_comment">Arvostele Mi Mover</string>
+  <string name="trans_success_dialog_market_comment_title">"Uusi laitteesi tuntuu nyt kuin kodilta.
+Tykkäsitkö Mi Moverista?"</string>
+<string name="usb_backup_select_data_too_large">"Valitut tiedostot on suuria. Varmista, että USB-asemalla on tarpeeksi tallennustilaa.
+Siirrä vain tärkeät kohteet."</string>
+  <string name="usb_restore_select_data_too_large">"Varmuuskopiointitiedostot ovat suuria. Niiden palauttamisessa saattaa kestää hetken.
+Vain tärkeiden kohteiden palauttaminen on nopeampaa."</string>
+  <string name="usb_trans_native_no_space">"Laitteellasi on käytettävissä vain %s.
+Vapauta tilaa tai luo useampi pienempi siirto."</string>
+  <string name="usb_trans_old_phone_low_space_msg">Tallennustilaa tarvitaan lisää varmuuskopioidesi pakkaamista varten. Siirron jatkamiseksi ei ole tarpeeksi tallenustilaa. Voit vapauttaa tilaa ja poistaa tarpeettomat tiedostot Tietoturva -sovelluksessa tai yrittää siirtää vain tärkeät kohteet.</string>
+  <string name="usb_trans_old_phone_low_space_title">Tallennustilaa ei ole tarpeeksi</string>
+  <string name="usb_trans_select_data_no_space">"USB-asemallasi on käytettävissä vain %s.
+Vapauta tilaa tai siirrä vain tärkeät kohteet."</string>
+  <!-- // 8.6.11 -->
+
   <string name="abort_backup_confirm">Varmuuskopiointi ei ole vielä valmis. Lopetetaanko kuitenkin?</string>
   <string name="abort_restore_confirm">Palauttaminen ei ole valmis. Lopetetaanko silti?</string>
   <string name="account_contact_backup_info">Google Tili, Mi Tili, ja Yhteystietojen tiedot</string>
@@ -260,7 +320,8 @@ http://www.miliao.com
   <string name="password">Salasana</string>
   <string name="password_null">Salasana ei voi olla tyhjä</string>
   <string name="pause">Pysäytä</string>
-  <string name="platform_chooser_item_android">Tuo Android -laitteesta</string>
+  <string name="platform_chooser_item_android_mi">Mi Puhelin</string>
+  <string name="platform_chooser_item_android_others">Muut merkit</string>
   <string name="platform_chooser_item_ios">Tuo iOS -laitteesta</string>
   <string name="platform_chooser_title">Valitse vanha laite</string>
   <string name="progress_backup_hint">Varmuuskopioidaan…</string>
@@ -373,8 +434,9 @@ Vapauta vähintään %s."</string>
   <string name="trans_backingup_no_items">Synkronoidaan…</string>
   <string name="trans_button_cancel">Peruuta</string>
   <string name="trans_calculating">Lasketaan…</string>
-  <string name="trans_calculating_app_sd_size">Lasketaan kokoa: %s</string>
-  <string name="trans_calculating_base_size">Lasketaan tietojen kokoa</string>
+  <string name="trans_calculating_app_sd_description">SD-kortin tiedot</string>
+  <string name="trans_calculating_media_description">Mediatiedostot</string>
+  <string name="trans_calculating_tip">Lasketaan %s…</string>
   <string name="trans_cancel_confirm">Lähetys käynnissä, lopetetaanko nyt?</string>
   <string name="trans_cancelling">Peruutetaan…</string>
   <string name="trans_connect_failed_device_incompatible">Laite ei ole yhteensopiva. Peruuta lähetys ja yritä uudelleen.</string>
@@ -483,7 +545,7 @@ Sen jälkeen napauta [Yhdistä uudelleen] skannataksesi QR-koodin."</string>
 Pidä laitteet lähellä toisiaan."</string>
   <string name="trans_receiving_completed">Vastaanotettu onnistuneesti</string>
   <string name="trans_restoring">Palautetaan…</string>
-  <string name="trans_restoring_no_items">Synkronoidaan kohteita</string>
+  <string name="trans_restoring_no_items">Haetaan tietoja…</string>
   <string name="trans_retry">Yritä uudelleen</string>
   <string name="trans_scan_invalid_qrcode">QR-koodi on virheellinen</string>
   <string name="trans_scan_qr_code_tips">Skannaa QR-koodi käyttäen uutta laitetta</string>

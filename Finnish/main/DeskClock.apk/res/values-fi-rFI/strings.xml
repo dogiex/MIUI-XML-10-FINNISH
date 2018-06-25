@@ -39,7 +39,7 @@
   <string name="timer_running">Ajastin on käynnissä</string>
   <string name="timer_running_hint">Jatka</string>
   <string name="timer_start_timer">Käynnistä ajastin</string>
-  <string name="worldclock_input_hint_text">Syötä maa tai kaupunki</string>
+  <string name="worldclock_input_hint_text">Anna kaupunki</string>
   <string name="worldclock_search_city">Valitse kaupunki</string>
   <string name="worldclock_world_time">Aikavyöhykkeet</string>
   <string name="worldcolock_timezone_current">Nykyinen: %1$s</string>
@@ -154,6 +154,7 @@
   <string name="more_settings">Asetukset</string>
   <string name="never">Kerran</string>
   <string name="oneshot_alarm">Poista hälytyksen jälkeen</string>
+  <string name="open_keep_screen">Näyttö pidetään päällä</string>
   <string name="pause">Tauko</string>
   <string name="percentage_sign">%</string>
   <string name="remind_ringtone">Soittoääni</string>
@@ -167,6 +168,7 @@
   <string name="setting_alarm_arriving_summary">Lähetä ilmoitus ennen hälytystä</string>
   <string name="setting_alarm_arriving_title">Ilmoitus ennen hälytystä</string>
   <string name="settings">Asetukset</string>
+  <string name="shut_down_keep_screen">Näyttöä ei pidetä päällä</string>
   <string name="shutdown_alarm_disable_summary">Herätys ei soi laite sammutettuna</string>
   <string name="shutdown_alarm_enable_summary">Herätys soi laite sammutettuna</string>
   <string name="shutdown_alarm_title">Sammutetun laitteen hälytys</string>

@@ -186,7 +186,7 @@
   <string name="micloud_main_multi_user_error_message">"Kirjauduit sisään samalla tilillä, kuin Ensimmäisessä tilassa, joka johti Mi Pilven virheeseen.
 Käytä eri tiliä."</string>
   <string name="micloud_main_multi_user_error_title">Mi Pilven virhe</string>
-  <string name="micloud_main_network_abnormal">Verkkoon ei voi yhdistää</string>
+  <string name="micloud_main_network_abnormal">Tarkista verkkoasetuksesi</string>
   <string name="micloud_main_network_error">Verkkoon ei voi yhdistää</string>
   <string name="micloud_main_query_again">Lähetä uusi pyyntö</string>
   <string name="micloud_main_query_error_message">Joidenkin palveluiden synkronoinnin valmistumista ei voitu vahvistaa</string>

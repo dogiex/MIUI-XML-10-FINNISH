@@ -1,9 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <!-- miui 10 valmis -->
-  <string name="clean_long_msg">"Puhdistetaan %1$d tiedostoa, %2$d valmiina 
-%3$d%% kohdetta/sekunti aikaa jäljellä:%4$s"</string>
-  <!-- miui 10 valmis -->
   <string name="RF_DalvikCacheLeftovers">软件的系统残留 (Dalvik-Cache)</string>
   <string name="activity_title_ad">Mainokset</string>
   <string name="activity_title_apk">Paketit</string>
@@ -115,7 +111,7 @@
   <string name="byteShort">t</string>
   <string name="cache_title_empty_folder">Tyhjä kansio (%d)</string>
   <string name="cache_title_empty_folder2">Tyhjä kansio</string>
-  <string name="cache_title_system_cache">Järjestelmän välimuisti</string>
+  <string name="cache_title_system_cache">Datavälimuisti</string>
   <string name="cached_garbage">Välimuisti</string>
   <string name="call_log">Puhelulokit</string>
   <string name="cancel">Peruuta</string>

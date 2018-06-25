@@ -162,12 +162,6 @@
   <string name="search_setting_description">Hae tekstiä muistioistasi</string>
   <string name="select_account_prompt">Synkronoi muistiot</string>
   <string name="set_alarm_description">Aseta hälytys</string>
-  <string name="sina_share_fail">Lähettäminen epäonnistui</string>
-  <string name="sina_share_fail_content_repeat">Olet jo jakanut tämän</string>
-  <string name="sina_share_pendding">Lähetetään…</string>
-  <string name="sina_share_success">Lähetetty</string>
-  <string name="sina_token_expired_warning">Weibo tili on vanhentunut, lisää tili uudelleen</string>
-  <string name="sina_token_invalid_warning">Weibo tili on virheellinen, lisää tili uudelleen</string>
   <string name="snippet_image_stub">[Kuva]</string>
   <string name="snippet_image_template">[Kuva %1$s]</string>
   <string name="sns_action_send">Lähetä</string>

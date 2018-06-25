@@ -46,7 +46,6 @@
   <string name="account_settings_notify_summary">Lähetä ilmoitus, kun sähköpostiviesti saapuu</string>
   <string name="account_settings_param">Tilin asetukset</string>
   <string name="account_settings_policies">Suojauskäytännöt</string>
-  <string name="account_settings_preference_add_account">Lisää sähköpostitili</string>
   <string name="account_settings_preference_att_save_path">Oletussijainti liitetiedostoille</string>
   <string name="account_settings_preference_head_icon">Profiilikuvat</string>
   <string name="account_settings_preference_notify">Ilmoita</string>
@@ -86,6 +85,7 @@
   <string name="account_setup_exchange_certificate_title">Asiakkaan varmenne</string>
   <string name="account_setup_exchange_device_id_label">Matkapuhelimen ID</string>
   <string name="account_setup_exchange_no_certificate">Ei mitään</string>
+  <string name="account_setup_failed_auth_required">Palvelin ei tue todentamismenetelmiä.</string>
   <string name="account_setup_failed_certificate_inaccessible">Varmenne ei kelpaa tai ole käytettävissä.</string>
   <string name="account_setup_failed_certificate_required">Asiakasvarmenne vaaditaan. Haluatko yhdistää palvelimeen asiakasvarmenteen avulla?</string>
   <string name="account_setup_failed_check_credentials_message">Palvelin lähetti virheilmoituksen. Tarkista käyttäjänimesi ja salasanasi ja yritä uudelleen.</string>
@@ -562,6 +562,7 @@
   <string name="login139">Kirjaudu sisään China Mobilella</string>
   <string name="login_failed_ticker">Kirjautuminen tiliin %s epäonnistui.</string>
   <string name="login_failed_title">Kirjautuminen ei onnistu</string>
+  <string name="login_mail">Kirjaudu Sähköpostiin</string>
   <string name="login_support_tip_text">Tukee kaikkia yleisimpiä sähköpostitilejä</string>
   <string name="long_press_to_select_tip">Valitse yksi keskustelu koskettamalla sitä pitkään ja valitse sitten lisää keskusteluja koskettamalla niitä.</string>
   <string name="long_string">pitkäääääääääääääääääääääääääääääääääääääääääääääääääääääääääääääääääääääääääääääääääääääääääääääääääääääääääääääääääääääääääääääää</string>
@@ -572,7 +573,6 @@
   <string name="mail_header_network_not_available">Ei verkkoyhteyttä.</string>
   <string name="mailbox_list_account_selector_combined_view">Yhdistetty näkymä</string>
   <string name="mailbox_name_display_ad">Mainokset</string>
-  <string name="mailbox_name_display_add_account">Lisää sähköpostitili</string>
   <string name="mailbox_name_display_circular">Ilmoitukset</string>
   <string name="mailbox_name_display_drafts">Luonnokset</string>
   <string name="mailbox_name_display_inbox">Postilaatikko</string>
@@ -676,6 +676,7 @@
   <string name="multiple_new_message_notification_item"><b>%1$s</b> %2$s</string>
   <string name="mute">Ohita</string>
   <string name="navigation_menu">Navigointivalikko</string>
+  <string name="need_get_qq_mail">QQ-sähköposti tarvitaan</string>
   <string name="network_error">Ei yhteyttä</string>
   <string name="network_invaild">Verkkoon ei voi yhdistää</string>
   <string name="network_not_available">Verkkoyhteyttä ei voi muodostaa</string>
@@ -727,6 +728,10 @@ Kokeile toista postilaatikkoa."</string>
   <string name="open_external_storage_and_calendar_permission">Salli Sähköpostin käyttää tallennustilaa ja kalenteritietoja Asetuksissa</string>
   <string name="open_external_storage_and_contacts_and_calendar_permission">Salli Sähköpostin käyttää tallennustilaa, yhteystietoja ja kalenteritietoja Asetuksissa</string>
   <string name="open_external_storage_and_contacts_permission">Salli Sähköpostin käyttää tallennustilaa ja yhteystietoja Asetuksissa</string>
+  <string name="open_notification_kingagent">Avaa ilmoitus hautauskohdasta</string>
+  <string name="optimization_suggestion">Optimointiehdotukset</string>
+  <string name="others_mail">Muut</string>
+  <string name="others_mail_des">(Muunna yli 60,0000 Sähköpostia)</string>
   <string name="outbox_alert_button_no_resend">Älä lähetä</string>
   <string name="outbox_alert_button_resend">Lähetä uudelleen</string>
   <string name="outbox_alert_certificate_error">Ota yhteyttä sähköpostisi ylläpitäjään ja päivitä varmenteesi.</string>
@@ -852,6 +857,9 @@ vastaanottaaksesi muistutuksia maksuista ja matkoista"</string>
   <string name="push_wps_confirm_message">Kokeile WPS Officea tämän liitetiedoston avaamiseen.</string>
   <string name="push_wps_confirm_title">Kokeile WPS Officea</string>
   <string name="push_wps_no_response_app">Tämän toimenpiteen käsittelemiseen ei löydetty sovellusta</string>
+  <string name="qq_authorization_help_get">Auta minua saamaan</string>
+  <string name="qq_authorization_know">Todennuskoodin ymmärtäminen</string>
+  <string name="qq_authorization_tips">Älä kehota enää</string>
   <string name="qq_auto_login_failed_cpy_pass_success">Kopioitiin onnistuneesti; siirry takaisin kirjautumissivulle ja liitä teksti täyttääksesi salasanakentän</string>
   <string name="qq_auto_login_failed_dialog_message">Kopioi vahvistuskoodi ja palaa sen jälkeen takaisin kirjautumissisuvlle ja napauta \"Syötä käyttäjänimi ja salasana kirjautuaksesi\"; liitä täyttääksesi salasanakenttä ja kirjautuaksesi sisään manuaalisesti</string>
   <string name="qq_auto_login_failed_dialog_positive_label">Kopioi vahvistuskoodi</string>
@@ -865,6 +873,7 @@ vastaanottaaksesi muistutuksia maksuista ja matkoista"</string>
   <string name="qq_login_webview">Kirjautuessasi QQ sovellukseen verkossa, napauta kirjaudu sisään käyttäen salasanaa.</string>
   <string name="qq_next_generation_auth_toast">Ota salasanan suojaaminen käyttöön selaimessasi</string>
   <string name="qq_uthentication_failed">Todennus epäonnistui, kirjaudu sisään uudelleen</string>
+  <string name="qq_verify_code">(Tarvitaan QQ Vahvistuskoodi)</string>
   <string name="qq_webview_loading">Odota hetki…</string>
   <string name="questionnair_body_invisibility">Viestejä ei näytetä</string>
   <string name="questionnair_confirm_delete">Poistetaanko tili?</string>
@@ -966,7 +975,7 @@ vastaanottaaksesi muistutuksia maksuista ja matkoista"</string>
   <string name="saved">Tallennettu, %s</string>
   <string name="saving">Tallennetaan…</string>
   <string name="sdcard_cannot_use">SD-korttia ei voi käyttää</string>
-  <string name="search_bar_text">Hae viestejä ja yhteystietoja</string>
+  <string name="search_bar_text">Hae lähettäjää tai hae yhteystietoa</string>
   <string name="search_hint">Hae sähköposteja</string>
   <string name="search_result">"Hakutulokset "</string>
   <string name="search_tabs_name_all">Kaikki</string>
@@ -1065,6 +1074,7 @@ vastaanottaaksesi muistutuksia maksuista ja matkoista"</string>
   <string name="tap_to_configure">Kosketa ja määritä asetukset</string>
   <string name="tap_to_enable_sync">Ota käyttöön koskettamalla.</string>
   <string name="three_day">3 päivää</string>
+  <string name="title_activity_about">Tietoja</string>
   <string name="to_heading">"Vastaanottaja(t): "</string>
   <string name="toast_bar_fail_synchronization">Verkkoyhteyttä ei voi muodostaa</string>
   <string name="toast_bar_insufficient_memory_space">Sähköposteja ei voi vastaanottaa. Tallennustilaa ei ole tarpeeksi.</string>
@@ -1104,7 +1114,6 @@ Poistetaanko tili?"</string>
   <string name="unread_string">keskustelua ei ole luettu</string>
   <string name="unzip_file_failed">Tiedoston purkaminen epäonnistui</string>
   <string name="update_date_format_templete">HH:mm, d.M.</string>
-  <string name="update_to_wps_mail">Nauti lisää ominaisuuksia WPS Maililla</string>
   <string name="updated_at">Päivitetty viimeksi %1$s</string>
   <string name="upload_log">Lähetä lokitiedostot</string>
   <string name="upload_log_failed">Lokitiedostojen lähettäminen epäonnistui</string>
@@ -1120,6 +1129,8 @@ Poistetaanko tili?"</string>
   <string name="veiled_alternate_text"/>
   <string name="veiled_alternate_text_unknown_person"/>
   <string name="veiled_summary_unknown_person"/>
+  <string name="verify_code">Todenna koodi</string>
+  <string name="version_string">Versio: %s</string>
   <string name="via_domain">via %1$s</string>
   <string name="view_more_conversations">Näytä lisää keskusteluja</string>
   <string name="wait_for_manual_sync_body">"Tätä tiliä ei ole asetettu synkronoimaan automaattisesti.
@@ -1136,6 +1147,7 @@ Kosketa "&lt;b&gt;Synkronoi nyt&lt;/b&gt; synkronoidaksesi sähköpostin kerran,
   <string name="widget_other_views">Muu</string>
   <string name="wipe_account_fail_description">Salli</string>
   <string name="wipe_account_fail_title">Henkilökohtaista tietoa ei voitu poistaa</string>
+  <string name="wps_title">WPS Sähköposti</string>
   <string name="wrong_password">Salasana, jonka syötit on väärin</string>
   <string name="yes">Kyllä</string>
   <string name="you_are_in_mobile_network">Käytetäänkö mobiilidataa lokitietojen lähettämiseen?</string>

@@ -119,4 +119,12 @@
         <item quantity="other">%d sovellusta ei ole käytetty pitkään aikaan, katso sovellukset.</item>
         <item quantity="one">%d sovellusta ei ole käytetty pitkään aikaan, katso sovellukset.</item>
     </plurals>
+    <plurals name="clean_long_msg_p1">
+        <item quantity="other">Puhdistetaan %1$d tiedostoa, %2$d valmiina</item>
+        <item quantity="one">Puhdistetaan %1$d tiedostoa, %2$d valmiina</item>
+    </plurals>
+    <plurals name="clean_long_msg_p2">
+        <item quantity="other">%1$d%% kohdetta/sekunti aikaa jäljellä: %2$s</item>
+        <item quantity="one">%1$d%% kohdetta/sekunti aikaa jäljellä: %2$s</item>
+    </plurals>
 </resources>

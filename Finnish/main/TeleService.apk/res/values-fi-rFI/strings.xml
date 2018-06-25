@@ -1289,7 +1289,8 @@ Laitteesi lukitaan automaattisesti jos yrityksesi menee vielä väärin"</string
   <string name="preferred_network_type_pref_entries_only_3g">Vain 3G</string>
   <string name="preferred_network_type_td_scdma">GSM/TD-SCDMA</string>
   <string name="preferred_network_type_title">Ensisijaisen verkon tyyppi</string>
-  <string name="preferred_phone_account">Ensisijainen puhelutili</string>
+  <string name="preferred_phone_account">Ensisijainen soittotili</string>
+  <string name="preferred_wificall_title">Verkkoasetukset</string>
   <string name="private_num">Salainen numero</string>
   <string name="progress_dialog_exiting_ecm">Poistutaan hätäpuhelujen takaisinsoittotilasta</string>
   <string name="prompt_to_turnoff_volte_when_failed">VoLTE-palvelut ei ole käytettävissä. Poista VoLTE käytöstä soittaaksesi.</string>
@@ -1701,12 +1702,16 @@ Ota yhteyttä operaattoriin, jos ongelma jatkuu."</string>
   <string name="wapi_password_length_is_min">Salasana ei voi alittaa 8 merkin pituutta</string>
   <string name="wapi_password_length_is_min_to_max">Salasanan täytyy olla: 8-64 merkkiä</string>
   <string name="wapi_yes">kyllä</string>
+  <string name="wfcmode_mobile_preferred">Suosi mobiiliverkkoja</string>
+  <string name="wfcmode_wifi_only">Vain Wi-Fi</string>
+  <string name="wfcmode_wifi_preferred">Suosi Wi-Fiä</string>
   <string name="wifi_aggressive_handover">Vaihda herkästi Wi-Fi mobiiliyhteyteen</string>
   <string name="wifi_aggressive_handover_summary">Kun asetus on käytössä, datayhteys siirtyy helpommin Wi-Fistä matkapuhelinverkkoon, jos Wi-Fi-signaali on heikko.</string>
   <string name="wifi_allow_scan_with_traffic">Salli Wi-Fi-verkkovierailuskannaus aina</string>
   <string name="wifi_allow_scan_with_traffic_summary">Salli/estä Wi-Fi-verkkovierailuskannaus liittymässä esiintyvän dataliikenteen perusteella.</string>
   <string name="wifi_auth_password_wrong">Salasana saattaa olla väärin</string>
   <string name="wifi_auto_sel_wapi_cert">Valitse automaattisesti</string>
+  <string name="wifi_call_setting">Wi-Fi-puhelut</string>
   <string name="wifi_calling">Wi-Fi-puhelut</string>
   <string name="wifi_connected_no_internet">Yhdistetty, ei internetyhteyttä.</string>
   <string name="wifi_disabled_by_recommendation_provider">Ei yhteyttä – verkko huonolaatuinen</string>
@@ -1740,6 +1745,8 @@ Tarkista varmenteiden aitous"</string>
 Käyttöoikeustietojen tallennustila saattaa olla pois käytöstä"</string>
   <string name="wifi_wapi_psk_type">Salasanan tyyppi</string>
   <string name="wifi_wapi_user_certificate">Käyttäjän varmenne</string>
+  <string name="wificall_switch_summary">Laitteesi voi vaihtaa Wi-Fi:n ja VoLTE:n välillä, kun yhteys on heikko</string>
+  <string name="wificall_switch_title">Soita puheluita käyttäen Wi-Fiä</string>
   <string name="wild_prompt_str">Muuta jokerimerkiksi</string>
   <string name="window_animation_scale_title">Ikkuna</string>
   <string name="wrong_password">Antamasi salasana on väärin</string>

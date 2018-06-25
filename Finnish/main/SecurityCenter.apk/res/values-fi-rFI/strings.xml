@@ -180,6 +180,7 @@
   <string name="app_manager_defaults_setting">Oletussovellukset</string>
   <string name="app_manager_details_electric_title">Akku</string>
   <string name="app_manager_details_storage_title">Tallennustila</string>
+  <string name="app_manager_details_title">Sovellustiedot</string>
   <string name="app_manager_details_traffic_title">Datan käyttö</string>
   <string name="app_manager_disable">Älä salli</string>
   <string name="app_manager_disable_dlg_text">Jos poistat tämän sovelluksen käytöstä, muut sovellukset ei välttämättä toimi normaalisti.</string>

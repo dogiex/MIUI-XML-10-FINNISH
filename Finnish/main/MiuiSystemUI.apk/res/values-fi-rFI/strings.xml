@@ -651,6 +651,7 @@ Olet myös yhteydessä VPN-palvelimeen, joka voi valvoa verkon käyttöäsi."</s
      <string name="notification_channel_disabled">Et saa näitä ilmoituksia enää.</string>
      <string name="notification_channel_general">Yleiset viestit</string>
      <string name="notification_channel_location">Sijainti</string>
+     <string name="notification_channel_screenbutton">Näytön painike</string>
      <string name="notification_channel_screenshot">Kuvakaappaukset</string>
      <string name="notification_channel_storage">Tallennustila</string>
      <string name="notification_channel_switch_accessibility">Salli ilmoitukset tästä kanavasta</string>
@@ -780,6 +781,9 @@ Olet myös yhteydessä VPN-palvelimeen, joka voi valvoa verkon käyttöäsi."</s
      <string name="quick_settings_nfc_off">NFC pois käytöstä</string>
      <string name="quick_settings_nfc_on">NFC käytössä</string>
      <string name="quick_settings_night_display_label">Yövalo</string>
+     <string name="quick_settings_night_secondary_label_on_at">Päälle klo %s</string>
+     <string name="quick_settings_night_secondary_label_on_at_sunset">Päälle auringonlaskun aikaan</string>
+     <string name="quick_settings_night_secondary_label_until_sunrise">Auringonnousuun asti</string>
      <string name="quick_settings_notifications_label">Ilmoitukset</string>
      <string name="quick_settings_papermode_label">Lukutila</string>
      <string name="quick_settings_powermode_label">Suorituskykytila</string>
@@ -796,6 +800,7 @@ Olet myös yhteydessä VPN-palvelimeen, joka voi valvoa verkon käyttöäsi."</s
      <string name="quick_settings_screenbutton_label">Painikkeet</string>
      <string name="quick_settings_screenlock_label">Lukitusnäyttö</string>
      <string name="quick_settings_screenshot_label">Kuvakaappaus</string>
+     <string name="quick_settings_secondary_label_until">%s asti</string>
      <string name="quick_settings_settings_label">Asetukset</string>
      <string name="quick_settings_sync_label">Synkronointi</string>
      <string name="quick_settings_tethering_label">Tethering</string>
@@ -991,10 +996,10 @@ Kaikki käyttäjät voivat päivittää kaikkien käyttäjien sovelluksia."</str
      <string name="wrong_password">Virheellinen salasana</string>
      <string name="zen_alarm_warning">Et kuule seuraavaa hälytystäsi %1$s</string>
      <string name="zen_alarm_warning_indef">Et kuule seuraavaa hälytystäsi %1$s, ellet poista tätä käytöstä ennen sitä</string>
-     <string name="zen_alarms_introduction">Sinua ei häiritä äänillä tai värinällä, paitsi hälytyksillä. Sinä</string>
+     <string name="zen_alarms_introduction">Sinua ei häiritä äänillä tai värinällä, paitsi hälytyksillä. Kuulet silti kaikki, mitä päätät toistaa, mukaan lukien musiikin, videot ja pelit.</string>
      <string name="zen_mode_and_condition">%1$s. %2$s</string>
      <string name="zen_priority_customize_button">Mukauta</string>
-     <string name="zen_priority_introduction">Sinua ei häiritä äänillä tai värinällä, paitsi hälytyksillä, muistutuksilla, tapahtumilla ja määrittelemiltäsi soittajilta. Sinä</string>
+     <string name="zen_priority_introduction">Sinua ei häiritä äänillä tai värinällä, paitsi hälytyksillä, muistutuksilla, tapahtumilla ja määrittelemiltäsi soittajilta. Kuulet silti kaikki, mitä päätät toistaa, mukaan lukien musiikin, videot ja pelit.</string>
      <string name="zen_silence_introduction">Tämä estää KAIKKI äänet ja värinät, mukaan lukien hälytykset, musiikin, videot ja pelit.</string>
      <string name="zen_silence_introduction_voice">Tämä estää KAIKKI äänet ja värinät, mukaan lukien hälytykset, musiikin, videot ja pelit. Voit silti soittaa puheluita.</string>
      <!-- miui 10 valmis -->
@@ -1242,6 +1247,7 @@ Jatka painamalla Poista ja muunna…"</string>
   <string name="daltonizer_mode_protanomaly">Protanomalia (puna-vihersokeus)</string>
   <string name="daltonizer_mode_tritanomaly">Tritanomalia (sini-keltasokeus)</string>
   <string name="daltonizer_type_overridden">Tämän ohittaa %1$s</string>
+  <string name="data_connection_no_internet">Ei internetiä</string>
   <string name="data_usage_disabled_dialog">"Olet saavuttanut määrittämäsi datakaton.
 
 Jos otat datan uudelleen käyttöön, operaattorisi saattaa laskuttaa siitä."</string>

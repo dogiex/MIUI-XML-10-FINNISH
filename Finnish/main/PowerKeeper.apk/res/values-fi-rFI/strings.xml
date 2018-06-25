@@ -25,10 +25,7 @@ Virransäästö kohtelee tärkeitä sovelluksia valikoivasti."</string>
   <string name="config_suggest_suffix_title">Virransäästö (suositus)</string>
   <string name="confirm">OK</string>
   <string name="current_cloud_addr_is">Pilven hallinnointipalvelimen osoite on:</string>
-  <string name="disable_hide_mode">Poista Virransäästö käytöstä</string>
-  <string name="disable_hide_mode_warning">Poistamalla Virransäästö käytöstä saattaa lisätä laitteesi virrankulutusta.</string>
   <string name="empty_title_apps_container_list">Ei sovelluksia</string>
-  <string name="enable_hide_mode">Ota Virransäästö käyttöön</string>
   <string name="enable_sleep_mode">Ota Lepotila käyttöön optimoidaksesi akun käyttöä yöllä</string>
   <string name="error_filename_too_long">Syöttämäsi tiedostonimi on liian pitkä.</string>
   <string name="extreme_power_config_mode_category">Äärimmäinen tila</string>
