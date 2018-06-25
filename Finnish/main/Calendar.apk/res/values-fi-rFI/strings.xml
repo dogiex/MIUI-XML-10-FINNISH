@@ -5,7 +5,7 @@
 
   <string name="action_bar_date_button_title">Laske päivämäärä</string>
   <string name="anniversary_secondary_tag">Vuosipäivä</string>
-  <string name="birthday_born">Syntymäpäivä</string>
+  <string name="birthday_born">Synnyinpäivä</string>
   <!-- Net mock ??? -->
   <string name="clear_net_mock_success">Net mock tyhjentäminen onnistui</string>
   <!-- Net mock ??? -->
@@ -15,8 +15,8 @@
   <string name="date_jump_title">Siirry päivämäärään</string>
   <string name="edit_event_birthday_reminder_3_days_before">Muistuta myös 3 päivää etukäteen</string>
   <string name="guide_card_import">Tuo</string>
-  <string name="guide_card_primary_text">Tuo ystävien syntymäpäivät</string>
-  <string name="guide_card_second_text">Älä koskaan unohda tärkeitä päiviä</string>
+  <string name="guide_card_primary_text">Tuo ystäviesi syntymäpäivät</string>
+  <string name="guide_card_second_text">Älä koskaan unohda tärkeitä päivämääriä</string>
   <string name="guide_card_title">Tuo syntymäpäiviä</string>
   <!-- Net mock ??? -->
   <string name="receive_net_mock_success">Net mock vastaanottaminen onnistui</string>
@@ -93,7 +93,7 @@
   <string name="birthday_notification_title_today">"%1$s's %3$s"</string>
   <string name="birthday_notification_type_term_lunar"/>
   <string name="birthday_saved">Syntymäpäivä tallennettu</string>
-  <string name="birthday_term">syntymäpäivä</string>
+  <string name="birthday_term">Syntymäpäivä</string>
   <string name="book_card_free">免费</string>
   <string name="book_card_rating_text">|   %1$s 条评论</string>
   <string name="button_day">Päivä</string>
@@ -116,7 +116,7 @@
   <string name="card_manager_no_data">Ei tilauksia vielä</string>
   <string name="card_title_change">Lisää</string>
   <string name="change_response_title">Muuta vastausta</string>
-  <string name="check_reminded_text">查看提醒</string>
+  <string name="check_reminded_text">查看</string>
   <string name="chinese_leap">闰</string>
   <string name="chongsha">冲煞</string>
   <string name="copy_email">Kopioi sähköpostiosoite</string>

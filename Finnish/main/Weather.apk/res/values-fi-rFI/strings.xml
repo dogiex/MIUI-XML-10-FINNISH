@@ -185,7 +185,7 @@ Lisää kaupunki manuaalisesti napauttamalla"</string>
   <string name="network_unavailable">Verkkoyhteyttä ei voi muodostaa.</string>
   <string name="night_not_disturb_settings_summary">Mykistä hälytykset, jotka tulevat klo 23.00 ja 07.00 välisenä aikana</string>
   <string name="night_not_disturb_settings_title">Älä häiritse yöllä</string>
-  <string name="no_data">--</string>
+  <string name="no_data">Ei tietoja</string>
   <string name="no_network_btn">Yritä uudelleen</string>
   <string name="no_vote_ratio">Vastaan %1$s%%</string>
   <string name="open">Avaa</string>

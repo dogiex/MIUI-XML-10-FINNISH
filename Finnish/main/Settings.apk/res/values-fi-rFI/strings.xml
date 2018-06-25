@@ -19,7 +19,7 @@
      <string name="super_resolution_desc">Tee kuvista tarkempia käyttäen AI-algoritmeja</string>
      <string name="super_resolution_maintain">Super-resoluutio ei ole vielä käytettävissä.</string>
      <string name="super_resolution_no_app_tips">Lataa WeChat ja Toutiao ensin.</string>
-     <string name="super_resolution_reboot_tips">Toiminnon käyttöön ottamisen jälkeen käynnistä sovellukset uudelleen, jotta se tulee voimaan.</string>
+     <string name="super_resolution_reboot_tips">Tämä ominaisuus mahdollistaa epäselvien WeChat- ja Toutiao-kuvien parantamisen. Käynnistä sovellukset uudelleen otettuasi ominaisuuden käyttöön.</string>
      <string name="super_resolution_title">Super-resoluutio</string>
      <string name="wifi_assistant">Wi-Fi avustaja</string>
      <string name="wifi_assistant_auto_confirm_data_message">Tällä Wi-Fi-verkolla ei ole internetyhteyttä. Laitteesi käyttää mobiilidataa sen sijaan. Voit poistaa Wi-Fi avustajan käytöstä Asetuksista.</string>
@@ -31,7 +31,7 @@
 1. Kun Wi-Fi-yhteys on heikko, Wi-Fi avustaja yrittää yhdistää laitteesi toisiin käytettävissä oleviin Wi-Fi-verkkoihin.
 2. Jos kaikki käytettävissä olevat Wi-Fi-yhteydet ovat heikkoja ja mobiilidata on otettu käyttöön, Wi-Fi avustaja vaihtaa mobiilidataan."</string>
      <string name="wifi_assistant_disconnect">Katkaise yhteys</string>
-     <string name="wifi_assistant_explicitly_confirm_data_message">Tällä Wi-Fi-verkolla ei ole internetyhteyttä. Käytetäänkö mobiilidataan sen sijaan?</string>
+     <string name="wifi_assistant_explicitly_confirm_data_message">Tällä Wi-Fi-verkolla ei ole internetyhteyttä. Käytetäänkö mobiilidataa sen sijaan?</string>
      <string name="wifi_assistant_explicitly_confirm_disconnect">Tällä Wi-Fi-verkolla ei ole internetyhteyttä. Katkaistaanko yhteys nyt?</string>
      <string name="wifi_assistant_explicitly_confirm_wifi_message">Tällä Wi-Fi-verkolla ei ole internetyhteyttä. Toisia Wi-Fi-verkkoja on käytettävissä. Vaihdetaanko verkkoja?</string>
      <string name="wifi_assistant_keep_connection">Pysy yhdistettynä</string>
@@ -77,7 +77,7 @@
   <string name="abc_searchview_description_voice">Puhehaku</string>
   <string name="abc_shareactionprovider_share_with">Jakaminen:</string>
   <string name="abc_shareactionprovider_share_with_application">Jaa sovelluksessa %s</string>
-  <string name="abc_toolbar_collapse_description">Kutista</string>
+  <string name="abc_toolbar_collapse_description">Tiivistä</string>
   <string name="about_ad_service_instructions">Tietoa mainospalveluista ja yksityisyydestä​</string>
   <string name="about_phone_enter_xiaomi_net">Opi lisää</string>
   <string name="about_settings">Tietoja puhelimesta</string>
@@ -2767,6 +2767,9 @@ Tällä laitteella on muita paikalla olevia käyttäjiä.
   <string name="miui_allow_vibrate">Värinät</string>
   <string name="miui_data_usage_menu_metered">Mobiili hotspotit</string>
   <string name="miui_experience_optimization">Ota MIUI optimointi käyttöön</string>
+  <string name="miui_lab_ai_cloud_closed">AI-ennakkolataus ei ole vielä käytettävissä.</string>
+  <string name="miui_lab_ai_preload_desc">AI-ennakkolataus nopeuttaa sovellusten käynnistämistä</string>
+  <string name="miui_lab_ai_preload_title">AI-ennakkolataus</string>
   <string name="miui_lab_feature_applied">Asetettu</string>
   <string name="miui_lab_feature_off">Pois päältä</string>
   <string name="miui_lab_feature_on">Päällä</string>
@@ -4047,7 +4050,7 @@ Näytön kiinnittäminen:
   <string name="search_status_bar_settings_show_notification_icon">Näytä ilmoituksen kuvakkeet;ilmoituksen kuvakkeet;näytä ilmoituksen kuvakkeet</string>
   <string name="search_status_bar_settings_show_screenshot_notification">Näytä kuvakaappauksen ilmoitus;Kuvakaappauksen ilmoitus;Kuvakaappaus</string>
   <string name="search_status_bar_settings_style">Ilmoituksien &amp; nappuloiden ulkoasu;nappulat;nappuloiden ulkoasu;nappulat erikseen;yhdistetty;erikseen;yhdistä</string>
-  <string name="search_status_bar_settings_toggle_collapse_after_clicked">Kutista kosketuksen jälkeen;piilota;</string>
+  <string name="search_status_bar_settings_toggle_collapse_after_clicked">Tiivistä kosketuksen jälkeen;piilota;</string>
   <string name="search_status_bar_settings_toggle_position">Nappuloiden sijainnit;Nappulat;nappula;vaihda nappuloita;muuta nappuloita</string>
   <string name="search_storage_settings">Tallennustila;Muisti</string>
   <string name="search_sync_settings">Synkronointi;Auto;vain Wi-Fi</string>
@@ -4474,7 +4477,7 @@ Laitteeseesi asennettu luotettu varmenne tekee tämän mahdolliseksi."</string>
   <string name="status_bar_settings_show_wifi_name">Näytä Wi-Fi</string>
   <string name="status_bar_settings_status_bar">Tilapalkki</string>
   <string name="status_bar_settings_style">Ilmoituksien &amp; nappuloiden ulkoasu</string>
-  <string name="status_bar_settings_toggle_collapse_after_clicked">Sulje kosketuksen jälkeen</string>
+  <string name="status_bar_settings_toggle_collapse_after_clicked">Tiivistä kosketuksen jälkeen</string>
   <string name="status_bar_settings_toggle_position">Nappuloiden sijainnit</string>
   <string name="status_bar_settings_user_fold">Ilmoituksien kansio</string>
   <string name="status_bar_settings_user_fold_summary">Kaikki ei tärkeät ilmoitukset ilmestyvät erilliseen kansioon</string>
@@ -5453,6 +5456,7 @@ Napauta plussaa lisätäksesi sanoja."</string>
   <string name="wifi_cellular_data_fallback_summary">Vaihda mobiilidataan, jos Wi-Fi-yhteyttä ei voi muodostaa. Datan käytöstä voi aiheutua maksuja.</string>
   <string name="wifi_cellular_data_fallback_title">Vaihda mobiilidataan automaattisesti</string>
   <string name="wifi_certificate">Varmenne</string>
+  <string name="wifi_click_login_wlan">Vaatii kirjautumisen/valtuutuksen</string>
   <string name="wifi_click_share_wlan">Jaa salasana napauttamalla</string>
   <string name="wifi_config_info">Wi-Fi asetukset</string>
   <string name="wifi_configure_settings_preference_summary_wakeup_off">Wi-Fiä ei oteta uudelleen käyttöön automaattisesti.</string>

@@ -25,7 +25,7 @@
   <string name="abc_searchview_description_voice">Puhehaku</string>
   <string name="abc_shareactionprovider_share_with">Jakaminen:</string>
   <string name="abc_shareactionprovider_share_with_application">Jakaminen: %s</string>
-  <string name="abc_toolbar_collapse_description">Kutista</string>
+  <string name="abc_toolbar_collapse_description">Tiivistä</string>
   <string name="mibi_all_license_message">Olet käyttämässä Mi Krediittiä, joka on Xiaomi Inc.:n tarjoama palvelu. Ennen tämän palvelun käyttämistä, sinun täytyy hyväksyä Palveluehdot, jotka on määritetty %1$s. Napauta OK jos hyväksyt ehdot, jotka on lueteltu %1$s ja %1$s. Sinun täytyy yhdistää internetiin ja paikantaa laitteesi käyttääksesi Mi Krediittiä.</string>
   <string name="mibi_app_name">Mi Krediitti</string>
   <string name="mibi_applock_config">Sovelluslukkoa ei voi asettaa, kun Jaettu näyttö on käytössä.</string>

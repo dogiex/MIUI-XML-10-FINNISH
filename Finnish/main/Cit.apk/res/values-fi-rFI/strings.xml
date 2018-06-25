@@ -27,7 +27,7 @@
   <string name="abc_searchview_description_voice">Äänihaku</string>
   <string name="abc_shareactionprovider_share_with">Jaa</string>
   <string name="abc_shareactionprovider_share_with_application">Jaa sovelluksella %s</string>
-  <string name="abc_toolbar_collapse_description">Romahda</string>
+  <string name="abc_toolbar_collapse_description">Tiivistä</string>
   <string name="action_example">Esimerkkitoiminto</string>
   <string name="action_farr_enroll">FAR FRR:enroll</string>
   <string name="action_farr_verify">FAR FRR:verify</string>

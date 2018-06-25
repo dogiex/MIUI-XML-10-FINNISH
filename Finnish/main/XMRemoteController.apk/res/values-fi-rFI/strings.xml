@@ -18,7 +18,7 @@
   <string name="abc_searchview_description_voice">Äänihaku</string>
   <string name="abc_shareactionprovider_share_with">Jaa sovelluksessa</string>
   <string name="abc_shareactionprovider_share_with_application">Jaa %s kanssa</string>
-  <string name="abc_toolbar_collapse_description">Romahda</string>
+  <string name="abc_toolbar_collapse_description">Tiivistä</string>
   <string name="ac_gree">Gree AC</string>
   <string name="ac_mode_auto">Automaattinen</string>
   <string name="ac_mode_cold">Jäähdytys</string>

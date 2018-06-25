@@ -245,6 +245,8 @@
   <string name="change_to_face_mode">Näytä vain kasvot</string>
   <string name="change_to_photo_mode">Näytä esikatselut kokonaisina</string>
   <string name="change_to_visible">Palautetaanko tämä henkilö?</string>
+  <string name="checked">Valittuna</string>
+  <string name="checked_something">Valittuna %s</string>
   <string name="choose_baby_sexy">Sukupuoli</string>
   <string name="choose_owner_relation">Yhteys</string>
   <string name="choose_people">Valitse henkilön albumi</string>
@@ -792,6 +794,7 @@
   <string name="enable_face_album_title">Lajittele henkilöiden mukaan</string>
   <string name="enable_slim_title">Optimoi</string>
   <string name="enabling_face_feature">Odota hetki…</string>
+  <string name="enter_choice_mode">Siirryttiin jakoikkunaan</string>
   <string name="enter_email_hint">Syötä sähköpostiosoite</string>
   <string name="error_album_not_exist">Albumia ei ole olemassa</string>
   <string name="error_build_thumbnail_action">Lataa alkuperäinen tiedosto</string>
@@ -855,6 +858,7 @@
   <string name="error_unknown_msg">Tapahtui virhe. Lähetä meille palautteesi.</string>
   <string name="error_unknown_tip">Tapahtui virhe.</string>
   <string name="exit">Poistu</string>
+  <string name="exit_choice_mode">Poistuttiin jakoikkunasta</string>
   <string name="exit_share">Poistu albumista</string>
   <string name="exit_share_failed">Poistuminen epäonnistui %1$s</string>
   <string name="exit_share_in_process">Poistutaan albumista \"%s\"…</string>
@@ -888,6 +892,7 @@ Ota ystävistäsi lisää kuvia!"</string>
   <string name="fancy_color_desc">Värit</string>
   <string name="fast_share_auto_render">Kaunista</string>
   <string name="fast_share_auto_render_finish">Kaunistettu</string>
+  <string name="feature_guidance_photo_effects">Kuvatehosteet</string>
   <string name="filter_bi_memory">Muisto</string>
   <string name="filter_bi_mono">Mono</string>
   <string name="filter_bi_pink">Pinkki</string>
@@ -990,8 +995,10 @@ Ota ystävistäsi lisää kuvia!"</string>
   <string name="image_invalid_path">Virheellinen polku</string>
   <string name="image_not_found">Kuvaa ei löydetty</string>
   <string name="image_quota_fulfiled">Liian monta kuvaa. Poista kuvia ja yritä uudelleen.</string>
-  <string name="impunity_declaration_settings">Internet-yhteyden ilmoitus</string>
-  <string name="impunity_declaration_summary">Näytä internet-yhteyden ilmoitus aina kun avaat Gallerian</string>
+  <string name="image_with_time">Kuva otettu %s</string>
+  <string name="image_with_time_and_location">Kuva otettu %1$s. Sijainti: %2$s.</string>
+  <string name="impunity_declaration_settings">Internetyhteyden ilmoitus</string>
+  <string name="impunity_declaration_summary">Näytä internetyhteyden ilmoitus aina kun avaat Gallerian</string>
   <string name="initializing_cloud">Alustetaan…</string>
   <string name="input_a_name">Syötä nimi</string>
   <string name="input_baby_name">Syötä nimi</string>
@@ -1478,6 +1485,7 @@ mukauttaaksesi Galleriasi"</string>
   <string name="sticker_words">Sanat</string>
   <string name="storage_description_primary">Sisäinen tallennustila</string>
   <string name="storage_description_sdcard">SD-kortti</string>
+  <string name="storage_description_usb">USB-tallennustila</string>
   <string name="storage_description_xspace">Kaksoissovelluksen tiedot</string>
   <string name="storage_no_space">Tallennustilaa ei ole tarpeeksi</string>
   <string name="sub_discard_confirm_message">Tallennetaanko muutokset?</string>
@@ -1543,6 +1551,8 @@ mukauttaaksesi Galleriasi"</string>
   <string name="turn_off_and_move">Poista käytöstä ja siirrä</string>
   <string name="turn_on_and_remove">Ota käyttöön ja siirrä</string>
   <string name="turn_on_sync">Ota synkronointi käyttöön</string>
+  <string name="unchecked">Poistettiin valinta</string>
+  <string name="unchecked_something">Poistettiin %s valinta</string>
   <string name="unpublish_failed">Julkaisun lopetus epäonnistui</string>
   <string name="unpublish_succeeded">Albumin julkaisu lopetettiin</string>
   <string name="unpublishing">Peruutetaan…</string>
@@ -1615,6 +1625,8 @@ mukauttaaksesi Galleriasi"</string>
   <string name="video_editor_unsupport_audio_file">Äänitiedostoa ei tueta</string>
   <string name="video_err">Videota ei voi toistaa</string>
   <string name="video_not_exist">Videota ei ole olemassa</string>
+  <string name="video_with_time">Video otettu %s</string>
+  <string name="video_with_time_and_location">Video otettu %1$s. Sijainti: %2$s.</string>
   <string name="view_by_gallery_tip">MIUI Galleria</string>
   <string name="view_face_album">Näytä albumi</string>
   <string name="view_more_face_desc">Näytä lisää henkilöitä</string>

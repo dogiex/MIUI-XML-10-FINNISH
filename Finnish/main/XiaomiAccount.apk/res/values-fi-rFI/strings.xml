@@ -26,6 +26,7 @@
   <string name="account_has_been_set">Vaihda</string>
   <string name="account_limit_update_birthday">Syntymäpäivää ei voi juuri nyt päivittää</string>
   <string name="account_mibi_center">Mi Krediitit</string>
+  <string name="account_mibi_charge">Mi Krediittien lataus</string>
   <string name="account_mipay_info">Mi Pay</string>
   <string name="account_no_set">Ei mitään</string>
   <string name="account_none">Ei mitään</string>
@@ -190,6 +191,7 @@
   <string name="oauth_scopes_intro">%2$s saa seuraavat käyttöoikeudet: %3$s</string>
   <string name="oauth_title">Kirjaudu Mi Tilillä</string>
   <string name="other_devices_title">Muut laitteet</string>
+  <string name="passport_Resend">Lähetä uudelleen</string>
   <string name="passport_access_denied">Pääsy kielletty</string>
   <string name="passport_account_hint_text">Sähköpostiosoite/puhelinnumero/Mi Tilin ID</string>
   <string name="passport_account_identity_title">Vahvista henkilöllisyytesi</string>
@@ -209,6 +211,7 @@
   <string name="passport_back">Takaisin</string>
   <string name="passport_bad_authentication">Väärä käyttäjänimi tai salasana</string>
   <string name="passport_barcode_add_account_prompt">Yhdistä tili skannaamalla QR-koodi uudelleen kirjautumisen jälkeen.</string>
+  <string name="passport_btn_change_account">Vaihda tiliä</string>
   <string name="passport_change_account">Vaihda tiliä</string>
   <string name="passport_change_phone_number">Vaihda numeroita</string>
   <string name="passport_checking_account">Tarkistetaan salasanaa…</string>
@@ -239,6 +242,7 @@ Aktivoi tilisi seuraamalla
   <string name="passport_error_empty_pwd">Syötä salasanasi</string>
   <string name="passport_error_empty_username">Syötä käyttäjänimesi</string>
   <string name="passport_error_empty_vcode">Syötä vahvistuskoodi</string>
+  <string name="passport_error_empty_voice_code">Syötä vahvistuskoodi</string>
   <string name="passport_error_illegal_pwd">Salasana ei kelpaa</string>
   <string name="passport_error_invalid_dev_id">Laitteesi ID ei kelpaa.</string>
   <string name="passport_error_invalid_phone_num">Puhelinnumerosi ei kelpaa</string>
@@ -276,7 +280,10 @@ Aktivoi tilisi seuraamalla
   <string name="passport_input_phone_hint">Syötä puhelinnumero</string>
   <string name="passport_input_vcode_hint">Syötä vahvistuskoodi</string>
   <string name="passport_input_voice_captcha_hint">Anna äänivahvistuksen koodi</string>
+  <string name="passport_input_voice_hint">Anna äänikoodi</string>
   <string name="passport_license_host_unreachable">Verkkoyhteyttä ei voi muodostaa. Voit katsoa tämän sivun osoitteessa %s.</string>
+  <string name="passport_license_info_collapse">Tiivistä</string>
+  <string name="passport_license_info_open">Tiedot</string>
   <string name="passport_loading">Ladataan…</string>
   <string name="passport_login">Kirjaudu sisään</string>
   <string name="passport_login_failed">Kirjautuminen epäonnistui</string>
@@ -289,6 +296,7 @@ Aktivoi tilisi seuraamalla
   <string name="passport_login_title">Kirjaudu sisään Mi Tilillesi</string>
   <string name="passport_login_using_other_ways">Muita tapoja kirjautua sisään</string>
   <string name="passport_message_dialog_title">Tekstiviesti vahvistuskoodeilla</string>
+  <string name="passport_new_user_register">Luo tili</string>
   <string name="passport_next">Seuraava</string>
   <string name="passport_no">Ei</string>
   <string name="passport_notification_title">Kirjautumisvirhe %1$s</string>
@@ -332,6 +340,7 @@ Aktivoi tilisi seuraamalla
   <string name="passport_register_by_email">Luo tili käyttäen sähköpostiosoitetta</string>
   <string name="passport_register_restricted">Liian monta tiliä on liitettynä tämän numeron kanssa, kokeile toista</string>
   <string name="passport_register_restricted_title">Tätä puhelinnumeroa ei voi käyttää</string>
+  <string name="passport_register_using_other_ways">Muita tapoja rekisteröityä</string>
   <string name="passport_registered_phone_num">Puhelin: %s</string>
   <string name="passport_registered_phone_user_ID">Käyttäjän ID: %s</string>
   <string name="passport_registered_phone_user_name">Käyttäjänimi: %s</string>
@@ -389,9 +398,10 @@ Aktivoi tilisi seuraamalla
   <string name="passport_verify">Vahvista</string>
   <string name="passport_verifying_activator_phone">Vahvistetaan puhelimen tietoturvaa…</string>
   <string name="passport_wait_for_sms_prompt">Aloitetaanko alusta nyt? Vahvistusviestissä saattaa kestää jopa 10 minuuttia saapua, kun puhelimesi on operaattorisi verkon kantoalueella.</string>
-  <string name="passport_wrong_captcha">Syöttämäsi koodi on väärin</string>
-  <string name="passport_wrong_phone_number_format">Syöttämäsi puhelinnumeron muoto ei kelpaa</string>
-  <string name="passport_wrong_vcode">Syöttämäsi koodi on väärin</string>
+  <string name="passport_wrong_captcha">Antamasi koodi on väärin</string>
+  <string name="passport_wrong_phone_number_format">Antamasi puhelinnumeron muoto ei kelpaa</string>
+  <string name="passport_wrong_vcode">Antamasi koodi on virheellinen</string>
+  <string name="passport_wrong_voice">Antamasi koodi on virheellinen</string>
   <string name="passport_yes">Kyllä</string>
   <string name="phone_activated">%s aktivoitu</string>
   <string name="phone_num_use_for">Puhelinnumeroa käytetään:</string>

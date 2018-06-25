@@ -14,6 +14,7 @@
   <string name="afternoon">ip.</string>
   <string name="am">ap.</string>
   <string name="birthday">Syntymäpäivä</string>
+  <string name="cancel_description">Peruuta</string>
   <string name="check_phone_error_title">Synkronointi ei käytössä</string>
   <string name="check_phone_io_error">Verkkoyhteyttä ei voi muodostaa</string>
   <string name="chinese_day_1">初一</string>
@@ -88,6 +89,7 @@
   <string name="chinese_symbol_animals_tiger">虎</string>
   <string name="clearable_edittext_clear_description">Tyhjennä</string>
   <string name="close">Sulje</string>
+  <string name="confirm_description">Vahvista</string>
   <string name="copyright">Copyright</string>
   <string name="country_name_ac">AC</string>
   <string name="country_name_ad">AD</string>
@@ -325,7 +327,9 @@
   <string name="date_picker_label_year"/>
   <string name="date_time_done">Valmis</string>
   <string name="date_time_picker_dialog_title">Aseta päivämäärä ja aika</string>
+  <string name="delete_description">Poista</string>
   <string name="deselect_all">Poista valinta</string>
+  <string name="deselect_all_description">Poista kaikki valinnat</string>
   <string name="early_morning">ap.</string>
   <string name="earthly_branches_chen">辰</string>
   <string name="earthly_branches_chou">丑</string>
@@ -481,6 +485,7 @@
   <string name="search_input_description">Hae</string>
   <string name="search_mode_button_back_description">Takaisin</string>
   <string name="select_all">Valitse kaikki</string>
+  <string name="select_all_description">Valitse kaikki</string>
   <string name="select_item">Valitse kohteet</string>
   <string name="send">Lähetä</string>
   <string name="send_sms_for_sync_notice">Lähtevä tekstiviesti saatetaan vaatia tämän palvelun aktivointia varten. Operaattorisi veloittaa sinua tästä viestistä.</string>

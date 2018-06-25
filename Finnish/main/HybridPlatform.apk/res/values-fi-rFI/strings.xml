@@ -30,7 +30,7 @@
   <string name="abc_searchview_description_voice">Äänihaku</string>
   <string name="abc_shareactionprovider_share_with">Jaa</string>
   <string name="abc_shareactionprovider_share_with_application">Jaa käyttäen %s</string>
-  <string name="abc_toolbar_collapse_description">Romahda</string>
+  <string name="abc_toolbar_collapse_description">Tiivistä</string>
   <string name="app_name">hybrid</string>
   <string name="dlg_shortcut_cancel">Ei</string>
   <string name="dlg_shortcut_message">Haluatko luoda pikakuvakkeen sovellukselle %1$s?</string>

@@ -906,6 +906,7 @@ Kosketa tähteä yhteystiedon nimen vieressä
   <string name="preference_phone">Laite</string>
   <string name="preference_phone_more_title">Puheluasetukset</string>
   <string name="preference_remove_duplicate">Yhdistä yhteystietojen kaksoiskappaleet</string>
+  <string name="preference_show_firewall_calllog">Näytä estetyt puhelut soittohistoriassa</string>
   <string name="preference_show_yellowpage_tab_description">Hakemistot ei välttämättä toimi kunnolla, kun tämä ominaisuus on pois käytöstä.</string>
   <string name="preference_show_yellowpage_tab_title">Näytä Hakemistot</string>
   <string name="preference_simple_mode_description">Näytä kuvat ja muut tiedot yhteystietojen luettelonäkymässä</string>

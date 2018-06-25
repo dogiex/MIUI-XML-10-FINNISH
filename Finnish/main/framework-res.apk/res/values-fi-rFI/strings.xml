@@ -1444,7 +1444,7 @@ Pitkäkestoinen kova äänenvoimakkuus saattaa heikentää kuuloa."</string>
   <string name="time_picker_radial_mode_description">Vaihda ajan syöttämiseen kellotilassa.</string>
   <string name="time_picker_text_input_mode_description">Vaihda ajan syöttämiseen tekstitilassa.</string>
   <string name="time_placeholder">--</string>
-  <string name="toolbar_collapse_description">Kutista</string>
+  <string name="toolbar_collapse_description">Tiivistä</string>
   <string name="tooltip_popup_title">Työkaluvinkki</string>
   <string name="turn_off_radio">Poista langaton yhteys käytöstä</string>
   <string name="turn_on_radio">Ota langaton yhteys käyttöön</string>

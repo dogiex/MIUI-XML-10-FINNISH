@@ -77,7 +77,7 @@
   <string name="cd_check_box_checked">valittuna</string>
   <string name="cd_check_box_middle">osittainen valinta</string>
   <string name="cd_check_box_unchecked">ei valittuna</string>
-  <string name="cd_list_item_collapse">pienennetty</string>
+  <string name="cd_list_item_collapse">tiivistetty</string>
   <string name="cd_list_item_expanded">laajennettu</string>
   <string name="cd_percent">prosentti</string>
   <string name="cd_settings">asetukset</string>
@@ -594,6 +594,8 @@
   <string name="wechat_copying_video_dialog_title">Vie Galleriaan</string>
   <string name="wechat_copying_video_empty">Ei vietäviä videoita</string>
   <string name="wechat_copying_video_success">Vienti onnistui</string>
+  <string name="wechat_msg_time_long">d.M.yyyy</string>
+  <string name="wechat_msg_time_short">d.M.</string>
   <string name="wechat_qq_celan_tab_file">Tiedostot</string>
   <string name="wechat_qq_celan_tab_image">Kuvat</string>
   <string name="wechat_qq_celan_tab_video">Videot</string>
@@ -601,6 +603,7 @@
   <string name="wechat_qq_chat_files">Keskusteluhistoria</string>
   <string name="wechat_qq_deep_clean_button_text">Syväpuhdista</string>
   <string name="wechat_qq_normal_files">Roskat</string>
+  <string name="wechat_video_time">%1$s:%2$s</string>
   <string name="white_list_ad_header">Mainos-tiedostot: %d</string>
   <string name="white_list_apk_header">Asennuspaketit: %d</string>
   <string name="white_list_cache_header">Välimuistitiedostot: %d</string>

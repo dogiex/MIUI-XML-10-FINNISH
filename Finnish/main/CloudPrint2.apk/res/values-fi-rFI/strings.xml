@@ -18,7 +18,7 @@
   <string name="abc_searchview_description_voice">Voice search</string>
   <string name="abc_shareactionprovider_share_with">Share with</string>
   <string name="abc_shareactionprovider_share_with_application">Share with %s</string>
-  <string name="abc_toolbar_collapse_description">Collapse</string>
+  <string name="abc_toolbar_collapse_description">Tiivistä</string>
   <string name="accept">Accept</string>
   <string name="account_item">Switch to %1$s</string>
   <string name="account_label">Account</string>

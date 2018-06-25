@@ -35,7 +35,7 @@
      <string name="abc_searchview_description_voice">Äänihaku</string>
      <string name="abc_shareactionprovider_share_with">Jaa</string>
      <string name="abc_shareactionprovider_share_with_application">Jaa sovelluksessa %s</string>
-     <string name="abc_toolbar_collapse_description">Kutista</string>
+     <string name="abc_toolbar_collapse_description">Tiivistä</string>
      <string name="accessibility_accessibility_button">Esteettömyys</string>
      <string name="accessibility_ambient_display_charging">Ladataan</string>
      <string name="accessibility_assistant">Pikavalikko</string>
@@ -178,7 +178,7 @@
      <string name="accessibility_unlock_button">Poista lukitus</string>
      <string name="accessibility_unlock_without_fingerprint">Poista lukitus ilman sormenjälkeäsi</string>
      <string name="accessibility_voice_assist_button">Ääniavustus</string>
-     <string name="accessibility_volume_collapse">Kutista</string>
+     <string name="accessibility_volume_collapse">Tiivistä</string>
      <string name="accessibility_volume_expand">Laajenna</string>
      <string name="accessibility_vpn_on">VPN käytössä.</string>
      <string name="accessibility_waiting_for_fingerprint">Odotetaan sormenjälkeä</string>
@@ -627,7 +627,7 @@ Olet myös yhteydessä VPN-palvelimeen, joka voi valvoa verkon käyttöäsi."</s
      <string name="mr_controller_album_art">Albumin kuva</string>
      <string name="mr_controller_casting_screen">Suoratoistetaan näyttö</string>
      <string name="mr_controller_close_description">Sulje</string>
-     <string name="mr_controller_collapse_group">Kutista</string>
+     <string name="mr_controller_collapse_group">Tiivistä</string>
      <string name="mr_controller_disconnect">Katkaise yhteys</string>
      <string name="mr_controller_expand_group">Laajenna</string>
      <string name="mr_controller_no_info_available">Tietoa ei saatavilla</string>
@@ -659,7 +659,7 @@ Olet myös yhteydessä VPN-palvelimeen, joka voi valvoa verkon käyttöäsi."</s
      <string name="notification_channels_list_desc_2">%1$s, %2$s</string>
      <string name="notification_default_channel_desc">Tällä sovelluksella ei ole ilmoituskategorioita</string>
      <string name="notification_done">Valmis</string>
-     <string name="notification_group_collapse_button_text">Kutista</string>
+     <string name="notification_group_collapse_button_text">Tiivistä</string>
      <string name="notification_header_default_channel">Ilmoitukset</string>
      <string name="notification_hidden_by_policy_text">Sisältö on piilotettu</string>
      <string name="notification_info_channel_disabled_text">Et saa %2$s ilmoituksia kohteelta %1$s.</string>

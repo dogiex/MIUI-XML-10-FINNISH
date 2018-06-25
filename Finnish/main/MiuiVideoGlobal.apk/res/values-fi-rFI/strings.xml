@@ -18,7 +18,7 @@
   <string name="abc_searchview_description_voice">Puhehaku</string>
   <string name="abc_shareactionprovider_share_with">Jakaminen:</string>
   <string name="abc_shareactionprovider_share_with_application">Jakaminen: %s</string>
-  <string name="abc_toolbar_collapse_description">Kutista</string>
+  <string name="abc_toolbar_collapse_description">Tiivistä</string>
   <string name="airkan_control_device_des">Hallitaksesi toistoa, napauta palkkia alareunassa.</string>
   <string name="airkan_device_xiaomi_phone">Puhelimeni</string>
   <string name="airkan_playing">Suoratoistetaan laitteeseen %s</string>

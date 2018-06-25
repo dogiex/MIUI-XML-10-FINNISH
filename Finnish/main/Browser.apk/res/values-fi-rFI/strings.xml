@@ -443,7 +443,7 @@ katsoaksesi avoimia välilehtiä muilta laitteilta."</string>
   <string name="mw_abc_searchview_description_voice">Puhehaku</string>
   <string name="mw_abc_shareactionprovider_share_with">Jakaminen:</string>
   <string name="mw_abc_shareactionprovider_share_with_application">Jakaminen: %s</string>
-  <string name="mw_abc_toolbar_collapse_description">Kutista</string>
+  <string name="mw_abc_toolbar_collapse_description">Tiivistä</string>
   <string name="mw_accessibility_date_picker_month">Kuukausi</string>
   <string name="mw_accessibility_date_picker_week">Viikko</string>
   <string name="mw_accessibility_date_picker_year">Vuosi</string>
@@ -651,7 +651,7 @@ Are you sure you want to navigate away from this page?"</string>
   <string name="mw_mr_controller_album_art">Album art</string>
   <string name="mw_mr_controller_casting_screen">Casting screen</string>
   <string name="mw_mr_controller_close_description">Close</string>
-  <string name="mw_mr_controller_collapse_group">Collapse</string>
+  <string name="mw_mr_controller_collapse_group">Tiivistä</string>
   <string name="mw_mr_controller_disconnect">Disconnect</string>
   <string name="mw_mr_controller_expand_group">Expand</string>
   <string name="mw_mr_controller_no_info_available">No info available</string>

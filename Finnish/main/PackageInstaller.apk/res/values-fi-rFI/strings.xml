@@ -19,7 +19,7 @@
   <string name="abc_searchview_description_voice">Puhehaku</string>
   <string name="abc_shareactionprovider_share_with">Jakaminen:</string>
   <string name="abc_shareactionprovider_share_with_application">Jakaminen: %s</string>
-  <string name="abc_toolbar_collapse_description">Kutista</string>
+  <string name="abc_toolbar_collapse_description">Tiivistä</string>
   <string name="accessibility_display_daltonizer_preference_subtitle">Tämä ominaisuus on kokeellinen ja voi vaikuttaa suorituskykyyn.</string>
   <string name="accessibility_display_daltonizer_preference_title">Värikorjaus</string>
   <string name="accessibility_no_wifi">Ei Wi-Fi-yhteyttä</string>

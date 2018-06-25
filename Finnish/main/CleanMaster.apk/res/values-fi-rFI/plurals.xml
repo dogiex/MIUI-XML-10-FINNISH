@@ -127,4 +127,10 @@
         <item quantity="other">%1$d%% kohdetta/sekunti aikaa jäljellä: %2$s</item>
         <item quantity="one">%1$d%% kohdetta/sekunti aikaa jäljellä: %2$s</item>
     </plurals>
+    <plurals name="wechat_video_time_p1">
+        <item quantity="other">%1$s:</item>
+    </plurals>
+    <plurals name="wechat_video_time_p2">
+        <item quantity="other">%1$s</item>
+    </plurals>
 </resources>

@@ -59,6 +59,7 @@
   <string name="ai_scene_mode_use_hint_text">"AI-kamera tunnistaa näkymän automaattisesti
 ja optimoi valokuvasi näiden tietojen perusteella"</string>
   <string name="audio_focus_exit_button_text">Poista Äänitarkennus käytöstä</string>
+  <string name="back_bokeh_use_hint">Varmista, että kohde ei ole kauempana, kuin 1,5 metriä.</string>
   <string name="beauty_fragment_tab_name_3d_beauty">Kauneus</string>
   <string name="beauty_fragment_tab_name_3d_remodeling">Muotoillaan uudelleen</string>
   <string name="beauty_fragment_tab_name_beauty">Kauneus</string>
