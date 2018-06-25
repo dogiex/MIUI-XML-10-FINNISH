@@ -13,7 +13,7 @@
      </string-array>
      <string-array name="miui_volume_timer_segments_title">
         <item>Pois käytöstä</item>
-        <item>Puoli tuntia</item>
+        <item>30 minuuttia</item>
         <item>1 tunti</item>
         <item>2 tuntia</item>
         <item>8 tuntia</item>

@@ -1,11 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-     <!-- miui 10 valmis -->
-    
-     
-     <!--// miui 10 valmis -->
-
-
     <string-array name="alarm_in_furture">
         <item>Herätykseen alle minuutti</item>
         <item>Herätykseen %1$s</item>
@@ -169,8 +163,8 @@
         <item>Syyria</item>
         <item>Bangladesh</item>
         <item>Yhdistyneet Arabiemiirikunnat</item>
-        <item>Palestiinan valtio</item>
-        <item>Palestiinan valtio</item>
+        <item>Palestiina</item>
+        <item>Palestiina</item>
         <item>Vietnam</item>
         <item>Kiina</item>
         <item>Indonesia</item>

@@ -73,7 +73,7 @@
      <string name="accessibility_desc_on">Käytössä.</string>
      <string name="accessibility_desc_quick_settings_edit">Pika-asetuksien editori.</string>
      <string name="accessibility_desc_settings">Asetukset</string>
-     <string name="accessibility_enter_lock_wallpaper">Avaa Taustakuvan karuselli napauttamalla</string>
+     <string name="accessibility_enter_lock_wallpaper">Avaa Musiikki -sovellus napauttamalla</string>
      <string name="accessibility_ethernet_connected">Ethernet yhdistetty.</string>
      <string name="accessibility_ethernet_disconnected">Ethernet-yhteys katkaistu.</string>
      <string name="accessibility_gps_acquiring">GPS haetaan.</string>
@@ -418,11 +418,11 @@ prioriteetti"</string>
      <string name="keyguard_indication_charging_time_slowly">Ladataan hitaasti (%s kunnes täynnä)</string>
      <string name="keyguard_indication_trust_disabled">Laite pysyy lukittuna, kunnes manuaalisesti poistat laitteen lukituksen</string>
      <string name="keyguard_instructions_when_pattern_disabled">Paina Valikko-painiketta poistaaksesi lukituksen.</string>
-     <string name="keyguard_left_bankcard">Mi Pay</string>
-     <string name="keyguard_left_buscard">Matkakortti</string>
-     <string name="keyguard_left_remotecentral">Mi Kaukosäädin</string>
-     <string name="keyguard_left_smarthome">Mi Home</string>
-     <string name="keyguard_left_view_lock_wallpaper">Taustakuvan Karuselli</string>
+     <string name="keyguard_left_bankcard">Laskin</string>
+     <string name="keyguard_left_buscard">Muistiot</string>
+     <string name="keyguard_left_remotecentral">Kalenteri</string>
+     <string name="keyguard_left_smarthome">Yhteystiedot</string>
+     <string name="keyguard_left_view_lock_wallpaper">Musiikki</string>
      <string name="keyguard_low_battery">Yhdistä laturisi.</string>
      <string name="keyguard_missing_sim_instructions">Aseta SIM-kortti.</string>
      <string name="keyguard_missing_sim_instructions_long">SIM-kortti puuttuu tai sitä ei voi lukea. Aseta SIM-kortti.</string>
@@ -646,22 +646,24 @@ Olet myös yhteydessä VPN-palvelimeen, joka voi valvoa verkon käyttöäsi."</s
      <string name="notification_all_categories">Kaikki kategoriat</string>
      <string name="notification_app_settings">Mukauta: %1$s</string>
      <string name="notification_channel_alerts">Hälytykset</string>
+     <string name="notification_channel_battery">Akku</string>
      <string name="notification_channel_controls_closed_accessibility">Ilmoituksien ohjaimet kohteelle %1$s suljettu</string>
      <string name="notification_channel_controls_opened_accessibility">Ilmoituksien ohjaimet kohteelle %1$s avattu</string>
      <string name="notification_channel_disabled">Et saa näitä ilmoituksia enää.</string>
      <string name="notification_channel_general">Yleiset viestit</string>
      <string name="notification_channel_location">Sijainti</string>
-     <string name="notification_channel_screenbutton">Näytön painike</string>
+     <string name="notification_channel_screenbutton">Painikkeet</string>
      <string name="notification_channel_screenshot">Kuvakaappaukset</string>
      <string name="notification_channel_storage">Tallennustila</string>
      <string name="notification_channel_switch_accessibility">Salli ilmoitukset tästä kanavasta</string>
      <string name="notification_channel_tv_pip">Kuva-kuvassa</string>
+     <string name="notification_channel_usb">USB</string>
      <string name="notification_channels_list_desc_2">%1$s, %2$s</string>
      <string name="notification_default_channel_desc">Tällä sovelluksella ei ole ilmoituskategorioita</string>
      <string name="notification_done">Valmis</string>
      <string name="notification_group_collapse_button_text">Tiivistä</string>
      <string name="notification_header_default_channel">Ilmoitukset</string>
-     <string name="notification_hidden_by_policy_text">Sisältö on piilotettu</string>
+     <string name="notification_hidden_by_policy_text">Sisältö piilotettu</string>
      <string name="notification_info_channel_disabled_text">Et saa %2$s ilmoituksia kohteelta %1$s.</string>
      <string name="notification_info_channel_enabled_text">Saat %2$s ilmoituksia kohteelta %1$s.</string>
      <string name="notification_menu_accessibility">%1$s %2$s</string>
@@ -673,7 +675,6 @@ Olet myös yhteydessä VPN-palvelimeen, joka voi valvoa verkon käyttöäsi."</s
      <string name="notification_menu_remove_from_filter_title">Tärkeä</string>
      <string name="notification_menu_snooze_description">Ilmoituksen torkutusasetukset</string>
      <string name="notification_more_settings">Lisäasetukset</string>
-     <string name="notification_num_channels">%d ilmoituskategoriaa</string>
      <string name="notification_tap_again">Avaa napauttamalla uudelleen</string>
      <string name="open_camera_hint_text">Avaa kamera pyyhkäisemällä vasemmalle</string>
      <string name="open_remote_center_hint_text">Avaa Mi Kaukosäädin pyyhkäisemällä oikealle</string>
@@ -769,6 +770,7 @@ Olet myös yhteydessä VPN-palvelimeen, joka voi valvoa verkon käyttöäsi."</s
      <string name="quick_settings_dual_location_label">Kaksois-GPS</string>
      <string name="quick_settings_edit_label">Muokkaa</string>
      <string name="quick_settings_flashlight_label">Taskulamppu</string>
+     <string name="quick_settings_gps_label">GPS</string>
      <string name="quick_settings_hotspot_label">Hotspot</string>
      <string name="quick_settings_ime_label">Syöttötapa</string>
      <string name="quick_settings_inversion_label">Käännä värit</string>
@@ -1247,7 +1249,7 @@ Jatka painamalla Poista ja muunna…"</string>
   <string name="daltonizer_mode_protanomaly">Protanomalia (puna-vihersokeus)</string>
   <string name="daltonizer_mode_tritanomaly">Tritanomalia (sini-keltasokeus)</string>
   <string name="daltonizer_type_overridden">Tämän ohittaa %1$s</string>
-  <string name="data_connection_no_internet">Ei internetiä</string>
+  <string name="data_connection_no_internet">Ei ole yhteydessä internetiin</string>
   <string name="data_usage_disabled_dialog">"Olet saavuttanut määrittämäsi datakaton.
 
 Jos otat datan uudelleen käyttöön, operaattorisi saattaa laskuttaa siitä."</string>
