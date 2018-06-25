@@ -215,7 +215,7 @@ https://appleid.apple.com/#!&amp;page=signin poistaaksesi käytöstä"</string>
   <string name="findlost_contact_online">Palauta yhteystiedot Mi Pilvestä</string>
   <string name="guarded_mode_dialog_backup_message">Varmuuskopioita ei sallita Vierastilassa.</string>
   <string name="guarded_mode_dialog_title">Olet Vierastilassa</string>
-  <string name="guarded_mode_dialog_transfer_message">Mi Siirtäjää ei voi käyttää Vierastilassa.</string>
+  <string name="guarded_mode_dialog_transfer_message">Mi Moveria ei voi käyttää Vierastilassa.</string>
   <string name="hide_password_description">Piilota salasana</string>
   <string name="hsa_code_null">Vahvistuskoodi ei voi olla tyhjä</string>
   <string name="hsa_input_hint">Syötä vahvistuskoodi</string>
@@ -278,7 +278,7 @@ http://www.miliao.com
   <string name="mms_title">Multimediaviestit</string>
   <string name="multi_select_title">%1$s valittu</string>
   <string name="multi_user_mode_backup_message">Varmuuskopiointia ei voi käyttää Moni-käyttäjä tilassa. Jatka poistamalla Moni-käyttäjä tila käytöstä.</string>
-  <string name="multi_user_mode_dialog_message">Mi siirtäjää ei voida käyttää Moni-käyttäjä tilassa. Poista Moni-käyttäjä tila käytöstä jatkaaksesi.</string>
+  <string name="multi_user_mode_dialog_message">Mi Moveria ei voida käyttää Moni-käyttäjä tilassa. Poista Moni-käyttäjä tila käytöstä jatkaaksesi.</string>
   <string name="multi_user_mode_dialog_title">Olet Moni-käyttäjä tilassa</string>
   <string name="name_password_not_consistent">Käyttäjänimi tai salasana on väärin</string>
   <string name="never">Ei koskaan</string>
@@ -440,7 +440,7 @@ Vapauta vähintään %s."</string>
   <string name="trans_cancel_confirm">Lähetys käynnissä, lopetetaanko nyt?</string>
   <string name="trans_cancelling">Peruutetaan…</string>
   <string name="trans_connect_failed_device_incompatible">Laite ei ole yhteensopiva. Peruuta lähetys ja yritä uudelleen.</string>
-  <string name="trans_connect_failed_message">Ei voitu yhdistää, yritä uudelleen tai käynnistä laite uudelleen. Toisella laitteella mene Asetukset, Lisäasetukset, Mi Siirtäjä, napauta [Olen lähettäjä], tai käynnistä Mi Siirtäjä uudelleen laitteen käynnistyttyä uudestaan."</string>
+  <string name="trans_connect_failed_message">Ei voitu yhdistää, yritä uudelleen tai käynnistä laite uudelleen. Toisella laitteella mene Asetukset, Lisäasetukset, Mi Mover, napauta [Olen lähettäjä], tai käynnistä Mi Mover uudelleen laitteen käynnistyttyä uudestaan."</string>
   <string name="trans_connect_failed_title">"Ei voitu yhdistää"</string>
   <string name="trans_connect_failed_toast">Ei voitu yhdistää</string>
   <string name="trans_connecting_toast">Yhdistetään…</string>
@@ -479,23 +479,23 @@ Vapauta vähintään %s."</string>
   <string name="trans_generate_qrcode_failed">QR-koodia ei voitu luoda. Yritä uudelleen.</string>
   <string name="trans_generating_qrcode">Luodaan QR-koodia…</string>
   <string name="trans_intro_desc_1">Mi puhelimella, yhdistä Wi-Fi-verkkoon ja napauta \"Olen vastaanottaja\". Valitse iOS -laitteesi ja kirjaudu sisään iCloudiin ja tuo tiedot.</string>
-  <string name="trans_intro_desc_3">Peruuta siirto, poistu Mi Siirtäjästä ja aloita alusta. Tiedostojen kaksoiskappaleet korvataan uuden siirron aikana.</string>
-  <string name="trans_intro_desc_4">Mi Siirtäjä käyttää Wi-Fiä tiedostojen siirtämiseen. Sen takia et voi siirron aikana yhdistää kummallakaan laitteella internetiin käyttämällä Wi-Fiä. Voit silti käyttää mobiilidataa. Tästä huolimatta, jotkut uudemmat laitteet (kuten Mi 6) voivat silti yhdistää internetiin käyttämällä Wi-Fiä siirron aikana.</string>
+  <string name="trans_intro_desc_3">Peruuta siirto, poistu Mi Moverista ja aloita alusta. Tiedostojen kaksoiskappaleet korvataan uuden siirron aikana.</string>
+  <string name="trans_intro_desc_4">Mi Mover käyttää Wi-Fiä tiedostojen siirtämiseen. Sen takia et voi siirron aikana yhdistää kummallakaan laitteella internetiin käyttämällä Wi-Fiä. Voit silti käyttää mobiilidataa. Tästä huolimatta, jotkut uudemmat laitteet (kuten Mi 6) voivat silti yhdistää internetiin käyttämällä Wi-Fiä siirron aikana.</string>
   <string name="trans_intro_desc_5">Tallennustilaa vanhoilla laitteilla käytetään siirtopakettien luomiseen. Varmista, että sinulla on vanhassa puhelimessasi vähintään 500 Mt - 1 Gt käytettävissä olevaa tallennustilaa, ennen kuin aloitat siirron.</string>
   <string name="trans_intro_desc_6">On useita syitä, miksi se voi tapahtua: järjestelmä ja sovellusversion yhteensopivuusongelmat, verkko-ongelmat, yhteensopivuusongelmat tietyn laitteen kanssa jne.</string>
   <string name="trans_intro_desc_7">Jotkut sovellusprofiilit (verkkopankki, talous jne.) on liitettynä tiettyyn laitteeseen tietoturvasyistä. Yritä uudella laitteella tyhjentää sovellustiedot tai asentaa sovellus uudelleen.</string>
-  <string name="trans_intro_desc_8">WeChat -sovellustiedot ja keskusteluhistoria ei välttämättä siirry kokonaan käyttämällä Mi Siirtäjää. Mene WeChatin asetuksiin ja kirjaudu ulos tililtäsi, jotta siirtäminen onnistuisi paremmalla mahdollisuudella.</string>
+  <string name="trans_intro_desc_8">WeChat -sovellustiedot ja keskusteluhistoria ei välttämättä siirry kokonaan käyttämällä Mi Moveria. Mene WeChatin asetuksiin ja kirjaudu ulos tililtäsi, jotta siirtäminen onnistuisi paremmalla mahdollisuudella.</string>
   <string name="trans_intro_desc_account">Sinun täytyy kirjautua uudella laitteella tileillesi uudelleen (esim. Mi Tili, Exchange, Google jne.) tietoturvasyiden takia.</string>
-  <string name="trans_intro_desc_multiapp">Mi Siirtäjä ei siirrä sovellustietoja kaksoissovelluksista, välttääkseen tiedostojen ristiriidat.</string>
-  <string name="trans_intro_desc_multiuser">Mi Siirtäjä ei voi käyttää Toisen tilan kohteita. Siirrä kohteet Ensimmäiseen tilaan ja käynnistä Mi Siirtäjä siellä.</string>
+  <string name="trans_intro_desc_multiapp">Mi Mover ei siirrä sovellustietoja kaksoissovelluksista, välttääkseen tiedostojen ristiriidat.</string>
+  <string name="trans_intro_desc_multiuser">Mi Mover ei voi käyttää Toisen tilan kohteita. Siirrä kohteet Ensimmäiseen tilaan ja käynnistä Mi Mover siellä.</string>
   <string name="trans_intro_desc_new">Napauta \"Olen vastaanottaja\". QR-koodi luodaan.</string>
-  <string name="trans_intro_desc_old">Napauta \"Olen lähettäjä\". Skannaa QR-koodi uudella puhelimella ja odota, kunnes Mi Siirtäjä tunnistaa, mitkä tiedostot lähetetään ja sen jälkeen napauta \"Lähetä"\.</string>
+  <string name="trans_intro_desc_old">Napauta \"Olen lähettäjä\". Skannaa QR-koodi uudella puhelimella ja odota, kunnes Mi Mover tunnistaa, mitkä tiedostot lähetetään ja sen jälkeen napauta \"Lähetä"\.</string>
   <string name="trans_intro_desc_private">Mi Siirätjä ei voi käyttää piilotetun albumin kuvia, koska ne ovat salattu. Voit palauttaa nämä kuvat Mi Pilvestä uudella laitteella.</string>
-  <string name="trans_intro_question_1">%d. Kuinka käytän Mi Siirtäjää tietojen siirtämiseen iOS -laitteelta?</string>
-  <string name="trans_intro_question_2">%d. Kuinka käytän Mi Siirtäjää tietojen siirtämiseen Android -laitteelta?</string>
-  <string name="trans_intro_question_3">%d. Mitä minun pitäisi tehdä, jos Mi Siirtäjä jää jumiin tiettyyn vaiheeseen?</string>
+  <string name="trans_intro_question_1">%d. Kuinka käytän Mi Moveria tietojen siirtämiseen iOS -laitteelta?</string>
+  <string name="trans_intro_question_2">%d. Kuinka käytän Mi Moveria tietojen siirtämiseen Android -laitteelta?</string>
+  <string name="trans_intro_question_3">%d. Mitä minun pitäisi tehdä, jos Mi Mover jää jumiin tiettyyn vaiheeseen?</string>
   <string name="trans_intro_question_4">%d. Miksi en voi käyttää Wi-Fiä siirtojen aikana?</string>
-  <string name="trans_intro_question_5">%d. Miksi Mi Siirtäjä kertoo minulle, ettei vanhassa laitteessani ole tarpeeksi tallennustilaa?</string>
+  <string name="trans_intro_question_5">%d. Miksi Mi Mover kertoo minulle, ettei vanhassa laitteessani ole tarpeeksi tallennustilaa?</string>
   <string name="trans_intro_question_6">%d. Miksi jotkut sovellukset eivät siirry onnistuneesti?</string>
   <string name="trans_intro_question_7">%d. Miksi jotkut sovellukset eivät käynnisty uudella laitteella?</string>
   <string name="trans_intro_question_8">%d. Miksi WeChat historia ei siirry kokonaan?</string>
@@ -511,17 +511,17 @@ Vapauta vähintään %s."</string>
   <string name="trans_my_device">Laitteeni</string>
   <string name="trans_native_no_space">"Vanhalla laitteella ei ole tarpeeksi tallennustilaa (%s käytettävissä).
 Vapauta tallennustilaa tai siirrä vain tärkeät kohteet."</string>
-  <string name="trans_old_phone_low_space_msg">Mi Siirtäjä tarvitsee tallennustilaa pakatakseen siirrettävät tiedot, mutta näyttää siltä, että vanhalla laitteella ei ole tarpeeksi tallennustilaa. Vapauta tilaa \"Tietoturva\" -sovelluksessa tai siirrä vain tärkeät kohteet.</string>
+  <string name="trans_old_phone_low_space_msg">Mi Mover tarvitsee tallennustilaa pakatakseen siirrettävät tiedot, mutta näyttää siltä, että vanhalla laitteella ei ole tarpeeksi tallennustilaa. Vapauta tilaa \"Tietoturva\" -sovelluksessa tai siirrä vain tärkeät kohteet.</string>
   <string name="trans_old_phone_low_space_title">Tallennustilaa ei ole tarpeeksi</string>
-  <string name="trans_one_key_migrate">Mi Siirtäjä</string>
+  <string name="trans_one_key_migrate">Mi Mover</string>
   <string name="trans_operate_func_one">Tapa A</string>
   <string name="trans_operate_func_two">Tapa B</string>
-  <string name="trans_operate_new_phone_tips">"Mene Asetukset, Lisäasetukset, Mi Siirtäjä
+  <string name="trans_operate_new_phone_tips">"Mene Asetukset, Lisäasetukset, Mi Mover
 Luo QR-koodi napauttamalla [Olen vastaanottaja]"</string>
-  <string name="trans_operate_old_phone_tips1">"1. Asenna Mi Siirtäjä (eng. Mi Mover) sovellus vanhalle laitteellesi
+  <string name="trans_operate_old_phone_tips1">"1. Asenna Mi Mover (eng. Mi Mover) sovellus vanhalle laitteellesi
 2. Avaa sovellus ja paina Aloita
 3. Skannaa QR-koodi vanhalla laitteellasi"</string>
-  <string name="trans_operate_old_phone_tips2">"Mene Asetukset, Lisäasetukset, Mi Siirtäjä, Napauta [Olen lähettäjä]"</string>
+  <string name="trans_operate_old_phone_tips2">"Mene Asetukset, Lisäasetukset, Mi Mover, Napauta [Olen lähettäjä]"</string>
   <string name="trans_operate_reconnect_new_tips">"Odota, kunnes uusi puhelin näyttää \"Yhteys keskeytyi\".
 Sen jälkeen napauta [Yhdistä uudelleen] luodaksesi QR-koodin."</string>
   <string name="trans_operate_reconnect_old_tips">"Odota, kunnes vanha puhelin näyttää \"Yhteys keskeytyi\".
@@ -549,8 +549,8 @@ Pidä laitteet lähellä toisiaan."</string>
   <string name="trans_retry">Yritä uudelleen</string>
   <string name="trans_scan_invalid_qrcode">QR-koodi on virheellinen</string>
   <string name="trans_scan_qr_code_tips">Skannaa QR-koodi käyttäen uutta laitetta</string>
-  <string name="trans_security_tips_message">Jotkut sovellukset eivät tue Mi Siirtäjää.</string>
-  <string name="trans_security_tips_title">Mi Siirtäjän yhteensopivuus</string>
+  <string name="trans_security_tips_message">Jotkut sovellukset eivät tue Mi Moveria.</string>
+  <string name="trans_security_tips_title">Mi Moverin yhteensopivuus</string>
   <string name="trans_select_data">Valitse lähetettävät tiedostot</string>
   <string name="trans_select_data_no_space">"Tallennustilaa ei ole tarpeeksi uudella laitteella (%s käytettävissä).
 Vapauta tallennustilaa tai siirrä vain tärkeät kohteet.</string>
@@ -579,9 +579,9 @@ Pidä laitteet lähellä toisiaan."</string>
   <string name="trans_wait_trans_data">"Yhdistetty vanhaan laitteeseen.
 Odotetaan lähetystä…"</string>
   <string name="trans_waiting_ensurance">"Varmista, että vanha laite on käynnissä
-ja Mi Siirtäjä on käytössä"</string>
+ja Mi Mover on käytössä"</string>
   <string name="trans_waiting_for_sender">Odotetaan vanhan laitteen yhdistämistä…</string>
-  <string name="trans_wlan_tips_message">Älä sammuta Wi-Fiä tai vaihda toiseen Wi-Fi-verkkoon siirron aikana. Muuten Mi Siirtäjä ei voi siirtää tietoja.</string>
+  <string name="trans_wlan_tips_message">Älä sammuta Wi-Fiä tai vaihda toiseen Wi-Fi-verkkoon siirron aikana. Muuten Mi Mover ei voi siirtää tietoja.</string>
   <string name="trans_wlan_tips_title">Älä sammuta Wi-Fiä</string>
   <string name="unit_byte">t</string>
   <string name="unknown_hint">Tuntematon</string>

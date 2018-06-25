@@ -3152,7 +3152,7 @@ Valitse käyttöjärjestelmäsi:"</string>
   <string name="one_usercrt">yhden käyttäjän varmenne</string>
   <string name="one_userkey">yhden käyttäjän näppäin</string>
   <string name="onehour">30 minuuttia</string>
-  <string name="onekey_migrate">Mi Siirtäjä</string>
+  <string name="onekey_migrate">Mi Mover</string>
   <string name="onscreen_keyboard_settings_summary">Näyttönäppäimistön asetukset</string>
   <string name="open_demo_mode">Ota käyttöön</string>
   <string name="open_demo_mode_warning_message">Kun Demotila on päällä, tilapalkissa oleva kello pysähtyy ja akku ja signaalin kuvakkeet näyttävät täyttä. Voit muuttaa tätä poistamalla Demotilan käytöstä tai käynnistämällä laitteen uudelleen.</string>
@@ -3997,7 +3997,7 @@ Näytön kiinnittäminen:
   <string name="search_notification_sound_title">Ilmoituksen oletusääni;ilmoituksen ääni;ilmoituksien äänet</string>
   <string name="search_ntts_settings_title">TTS;TTS asetukset</string>
   <string name="search_oldman_mode_entry_name">Lite-tila;Vanhus-tila;Litetila</string>
-  <string name="search_onekey_migrate">Lähetä;Siirrä;Mi Siirtäjä</string>
+  <string name="search_onekey_migrate">Lähetä;Siirrä;Mi Mover</string>
   <string name="search_other_advanced_settings">Lisäasetukset;Lisää asetuksia</string>
   <string name="search_owner_info_settings_title">Omistajan tiedot</string>
   <string name="search_page_layout_settings">Tekstin koko;Fontin koko;Pieni fontti;Suuri fontti;Keskikokoinen fontti;Valtava fontti;Fontin koko; Fontin koot</string>
