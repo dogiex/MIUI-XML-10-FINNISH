@@ -1,15 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <!-- MIUI 10 valmis -->
-    <plurals name="record_last_ten_seconds_reminder">
-        <item quantity="other">%d sekuntia jäljellä</item>
-        <item quantity="one">%d sekunti jäljellä</item>
-     </plurals>
-     <plurals name="word_count">
-        <item quantity="other">%s merkkiä</item>
-        <item quantity="one">%s merkki</item>
-     </plurals>
-     <!-- MIUI 10 valmis -->
     <plurals name="cloud_state_unsynced_count">
         <item quantity="other">%1$s ei ole synkronoitu</item>
         <item quantity="one">%1$s ei ole synkronoitu</item>
@@ -22,4 +12,12 @@
         <item quantity="other">%1$s muistiota</item>
         <item quantity="one">%1$s muistio</item>
     </plurals>
+    <plurals name="record_last_ten_seconds_reminder">
+        <item quantity="other">%d sekuntia jäljellä</item>
+        <item quantity="one">%d sekunti jäljellä</item>
+     </plurals>
+    <plurals name="word_count">
+        <item quantity="other">%s merkkiä</item>
+        <item quantity="one">%s merkki</item>
+     </plurals>
 </resources>

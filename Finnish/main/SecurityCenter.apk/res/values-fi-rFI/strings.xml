@@ -1,8 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <!-- MIUI 10 valmis -->
-  <string name="gamebox_qq_not_find">Asenna QQ ja yritä uudelleen.</string>
-     <string name="gamebox_wechat_not_find">Asenna WeChat ja yritä uudelleen.</string>
+  
      <string name="gb_msg_not_shielded_summary">Näytä</string>
      <string name="gs_gamebox">Pelin sisäiset pikakuvakkeet</string>
      <string name="gs_gamebox_detail">Näytä pelin sisäinen pikakuvakepaneeli</string>
@@ -839,6 +838,11 @@ Se lisätään poikkeuksiin, mutta jo ennestään estetyt kohteet ei ilmesty puh
   <string name="gamebooster_main_activity_back">Takaisin</string>
   <string name="gamebooster_network_dialog_message">Sallitaanko Tietoturvan yhdistää verkkoon, jotta voidaan käyttää Pelien nopeuttajan kaikkia ominaisuuksia?</string>
   <string name="gamebooster_network_dialog_title">Jotkut ominaisuudet ei ole käytettävissä</string>
+  <string name="gamebox_qq_not_find">Asenna QQ ja yritä uudelleen.</string>
+  <string name="gamebox_type_close">Älä näytä</string>
+  <string name="gamebox_type_float">Kiinteä pikakuvake</string>
+  <string name="gamebox_type_gesture">Näytä pyyhkäisemällä</string>
+  <string name="gamebox_wechat_not_find">Asenna WeChat ja yritä uudelleen.</string>
   <string name="gateway_exception_summary">Tarkista reitittimesi ja yritä uudelleen.</string>
   <string name="gateway_exception_summary2">Palvelimeen yhdistäminen epäonnistui</string>
   <string name="gateway_exception_title">Testaa reititin</string>
@@ -1303,7 +1307,7 @@ Kokeile käyttää toista ethernet-kaapelia reitittimesi yhdistämiseen. Jos luu
   <string name="no_game">Pelejä ei löytynyt</string>
   <string name="no_lucky_money">尚未收到红包</string>
   <string name="not_available">暂无</string>
-  <string name="note">Muistiinpano</string>
+  <string name="note">Muistio</string>
   <string name="note_call_none">Ei puheluita</string>
   <string name="note_list_none">Lista on tyhjä</string>
   <string name="note_sms_none">Ei viestejä</string>

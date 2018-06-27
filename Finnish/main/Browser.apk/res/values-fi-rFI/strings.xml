@@ -3,19 +3,17 @@
 
   <!-- miui 10 muutos valmis -->
 
-  <string name="action_one_touch">Avaa ilmoitukset</string>
   <string name="action_skip">Ohita</string>
   <string name="enter_infoflow_guide">Katso uutiset pyyhkäisemällä ylöspäin</string>
   <string name="hot_words_item_ads_mark">Mainokset</string>
   <string name="info_flow_description">Info-kanava</string>
-  <string name="message_notice_push">Älä missaa viimeisimpiä kuumia uutisia!</string>
   <string name="pref_navscreen_layoutstate_title">Usean ikkunan hallinta</string>
   <string name="refresh_description">Päivitä</string>
   <string name="save_file_suffix">tiedosto</string>
   <string name="short_video_description">Video-kanava</string>
   <string name="short_video_tip">Katso! Hauska video</string>
   <string name="suggestion_clear_record_message">Vahvistatko tyhjät syöttökentät?</string>
-  <string name="title_notice_push">Ilmoituksen muistutus</string>
+  
 
   <!-- miui 10 muutos valmis -->
 
@@ -29,6 +27,7 @@
   <string name="accessibility_button_clear">Tyhjennä teksti</string>
   <string name="account_prifix">Tili:</string>
   <string name="action">Kirjaudu sisään</string>
+  <string name="action_imme_open">Avaa välittömästi</string>
   <string name="action_menu_account_not_login">Et ole kirjautuneena</string>
   <string name="action_menu_account_not_login_hint">Kirjaudu sisään, jotta voit synkronoida Mi Pilveen</string>
   <string name="action_menu_bookshelf">Kirjahylly</string>
@@ -147,9 +146,10 @@
   <string name="bottom_bar_tabs_long_click_last_tab_tip_txt">Tämä on viimeinen välilehti</string>
   <string name="bottom_bar_tabs_long_click_up_tip_txt">Pyyhkäise ylös sulkeaksesi</string>
   <string name="browserFrameFileErrorLabel">Tiedosto-ongelma</string>
-  <string name="browserFrameFormResubmitLabel"/>
   <string name="browserFrameFormResubmitMessage">Sivu, jota yrität avata, sisältää jo lähetettyjä tietoja (POSTDATA). Jos lähetät tiedot uudelleen, sivulla olevan lomakkeen suorittama toimenpide (kuten haku tai verkko-ostos) toistetaan.</string>
   <string name="browserFrameNetworkErrorLabel">Yhteysongelma</string>
+  <string name="bubble_guide_logined_text">Kirjaudu sisään arvontaa varten</string>
+  <string name="bubble_guide_unlogined_text">Kirjaudu sisään nauttiaksesi etuoikeuksista</string>
   <string name="cancel">Peruuta</string>
   <string name="cancle_sync_cloud_tabs">Peruuta synkronointi</string>
   <string name="cloud_tabs_sync_off">Synkronointi pois käytöstä</string>
@@ -216,10 +216,15 @@
   <string name="current_version_pc">Pöytäkone</string>
   <string name="current_version_phone">Puhelin</string>
   <string name="custom_head_card_text">Usko aina, että jotain hienoa tulee tapahtumaan</string>
+  <string name="custom_head_pull_down_text">Siirry infoFlow</string>
   <string name="data_monitor">Datan käytön monitorointi</string>
   <string name="data_monitor_dialog_message">Näyttää siltä, että jokin kuluttaa mobiilidataasi. Avaa aloitussivu lopettaaksesi tämän.</string>
+  <string name="data_traffic_continue">Jatka</string>
+  <string name="data_traffic_goto">Ilmainen dataliikenne</string>
+  <string name="data_traffic_prompt_free_data">Videoiden selaaminen mobiilidatalla lisää datan käyttöä. Hanki ilmainen dataliikenne.</string>
   <string name="data_traffic_prompt_message">Videoiden selaaminen mobiilidatalla lisää datan käyttöä. Jos operaattorikohtainen tiedonsiirtoraja ylittyy, operaattori voi veloittaa sinulta lisäkustannuksia.</string>
-  <string name="data_traffic_prompt_title">Tiedonsiirtovaroitus</string>
+  <string name="data_traffic_prompt_title">Tiedonsiirron käyttäminen</string>
+  <string name="data_traffic_stop">Pysäytä</string>
   <string name="delete">Poista</string>
   <string name="delete_bookmark">Poista</string>
   <string name="delete_bookmark_action_warning">Poistetaanko kirjanmerkit?</string>
@@ -396,6 +401,7 @@ katsoaksesi avoimia välilehtiä muilta laitteilta."</string>
   <string name="menu_title_open_file_management">Avaa Tiedostohallinta</string>
   <string name="menu_title_pause_all">Pysäytä kaikki</string>
   <string name="menu_title_resume_all">Aloita kaikki</string>
+  <string name="message_notice_push">Koe henkilökohtaisia tietojani</string>
   <string name="miui_autologin_bar_error">Kirjautuminen epäonnistui</string>
   <string name="miui_autologin_bar_title">Kirjaudu sisään Mi Tilillä</string>
   <string name="miui_bookmark_action_bar_add_group_title">Lisää ryhmä</string>
@@ -828,6 +834,7 @@ Muista, että lataamasi tiedostot ja lisäämäsi kirjanmerkin silti tallennetaa
   <string name="navigationbar_rightbutton_actiontext_cancle">Peruuta</string>
   <string name="navigationbar_rightbutton_actiontext_go">Siirry</string>
   <string name="navigationbar_rightbutton_actiontext_search">Etsi</string>
+  <string name="network_not_available_comment">Ei internetyhteyttä, ei voi kommentoida</string>
   <string name="network_show_wifi_setting_tip_dialog_description">Löydettiin läheltä Wi-Fi Hotspot. Yritetäänkö yhdistää?</string>
   <string name="network_show_wifi_setting_tip_dialog_title">Wi-Fi-verkko on käytettävissä</string>
   <string name="next_button_label">Seuraava</string>
@@ -1039,6 +1046,7 @@ Muista, että lataamasi tiedostot ja lisäämäsi kirjanmerkin silti tallennetaa
   <string name="save_to_camera_success">Tallennettu kameraan</string>
   <string name="scanner_uninstalled_text">Asenna Lukija jatkaaksesi</string>
   <string name="scanner_uninstalled_title">Lukija on poistettu</string>
+  <string name="screenshot_loading_dialog_title">Kaapataan</string>
   <string name="sdcard_error">Tarkista SD-korttisi</string>
   <string name="search">Haku</string>
   <string name="search_baidu">Baidu</string>
@@ -1134,6 +1142,7 @@ Selaimen täytyy yhdistää internetiin toimiakseen normaalisti. Sinun täytyy h
   <string name="suggest_access_item_singer_albums">%d albumeja</string>
   <string name="suggest_access_item_singer_pop">%d suosittua kappaletta</string>
   <string name="suggest_access_item_site_mark">SIVUSTOT</string>
+  <string name="suggest_access_item_topic_mark">AIHE</string>
   <string name="suggest_access_item_video_mark">VIDEOT</string>
   <string name="suggest_access_item_weather_mark">SÄÄ</string>
   <string name="suggest_access_item_yellow_mark">HAKEMISTOT</string>
@@ -1153,6 +1162,11 @@ Selaimen täytyy yhdistää internetiin toimiakseen normaalisti. Sinun täytyy h
   <string name="suggestion_lottery_detail_price">JOKAINEN MUISTIO ON ARVOLTAAN %s YUAN</string>
   <string name="suggestion_lottery_detail_text">TÄMÄ KIERROS %s</string>
   <string name="suggestion_lottery_period">KIERROS %s</string>
+  <string name="suggestion_more_button_text">NÄYTÄ LISÄÄ</string>
+  <string name="suggestion_more_news">LISÄÄ UUTISIA</string>
+  <string name="suggestion_more_news_start_title_text">Aiheeseen liittyvät uutiset</string>
+  <string name="suggestion_topic_subtitle_hyphen">Tarkenna</string>
+  <string name="suggestion_topic_subtitle_navtitle_hyphen">·</string>
   <string name="suggestion_translation_more">NÄYTÄ LISÄÄ</string>
   <string name="switchText">KYLLÄ</string>
   <string name="switch_proxy_dialog_msg">Verkon kaappaus havaittu. Käytä MIUI:n sisäänrakennettua Tietoturva-sovellusta tai raportoi tämä matkapuhelinoperaattorillesi.</string>
@@ -1170,6 +1184,7 @@ Selaimen täytyy yhdistää internetiin toimiakseen normaalisti. Sinun täytyy h
   <string name="tae_sdk_qr_login_icon_scan"></string>
   <string name="temp_refuse">Kieltäydy</string>
   <string name="title_bar_loading">Ladataan…</string>
+  <string name="title_notice_push">Ota työntö käyttöön</string>
   <string name="too_many_windows_dialog_message">Selain ei voi avata uutta välilehteä ennen kuin suljet jonkun välilehden.</string>
   <string name="too_many_windows_dialog_title">Välilehtiä ei voi avata lisää</string>
   <string name="transfer_prompt_0">Toista video</string>

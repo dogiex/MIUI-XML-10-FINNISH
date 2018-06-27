@@ -88,6 +88,10 @@
   <string name="grain_rain">谷雨</string>
   <string name="great_cold">大寒</string>
   <string name="great_heat">大暑</string>
+  <string name="group_name_contacts">Yhteystiedot</string>
+  <string name="group_name_coworkers">Kollegat</string>
+  <string name="group_name_family">Perhe</string>
+  <string name="group_name_friends">Ystävät</string>
   <string name="guitar">Kitara</string>
   <string name="harp">Harppu</string>
   <string name="heavy_snow">大雪</string>

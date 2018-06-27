@@ -273,6 +273,8 @@
   <string name="related_question_answer_details">Liittyvä ongelma</string>
   <string name="reply">Vastaa</string>
   <string name="reply_failed">Vastaaminen epäonnistui</string>
+  <string name="reply_option_log_hint">可选</string>
+  <string name="reply_select_log_hint">选择日志文件</string>
   <string name="reply_successful">Vastaaminen onnistui</string>
   <string name="report_miui">Ilmoita bugi</string>
   <string name="request_empty_data">Ei tietoja</string>

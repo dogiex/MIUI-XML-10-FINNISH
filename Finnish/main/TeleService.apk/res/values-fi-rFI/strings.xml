@@ -5,7 +5,7 @@
    <string name="voice_service_cannot_call_notification_title">Et voi soittaa puheluita nykyisessä verkossa</string>
    <string name="voice_service_switch_summary">Ota käyttöön käyttääksesi VoLTE-puhelutoimintoa VoLTE-verkoissa</string>
    <string name="voice_service_switch_title">Käytä VoLTE-puhelupalveluita</string>
-   <string name="voice_service_warning_dialog_body">"Tämä tabletti tukee VoLTE-puheluita 4G-verkoissa. Varmista, että verkot joihin laitteesi on yhdistetty tukee tätä ominaisuutta. VoLTE-palveluiden tarjoaja on operaattorisi. Ota yhteyttä paikalliseen operaattoriisi, jos haluat tietää, eikö VoLTE-toimintoa tueta alueellasi.
+   <string name="voice_service_warning_dialog_body">"Tämä tabletti tukee VoLTE-puheluita 4G-verkoissa. Varmista, että verkot joihin laitteesi on yhdistetty tukee tätä ominaisuutta. VoLTE-palveluiden tarjoaja on operaattorisi. Ota yhteyttä paikalliseen operaattoriisi, jos haluat tietää tukeeko nykyinen alueesi VoLTE:a.
 
 Jos näet _ tilapalkissasi, VoLTE-puhelut ei ole käytettävissä. Jos et voi soittaa tai vastaanottaa puheluita tai puhelusi keskeytyvät varmista, että verkkosi on VoLTE-yhteensopiva.
 
@@ -530,6 +530,8 @@ Siirtonopeus"</string>
   <string name="close_profile">Sulje</string>
   <string name="close_volte">Poista VoLTE käytöstä</string>
   <string name="cloud_antispam_title">Tunnista tuntemattomat numerot</string>
+  <string name="cloud_sim_enabled_dual_4g_summary">Dual 4G:tä ei voi poistaa käytöstä Mi Roamingin ollessa käytössä</string>
+  <string name="cloud_sim_enabled_preferred_network_summary">Verkkoasetuksia ei voi muuttaa Mi Roamingin ollessa käytössä</string>
   <string name="cmcc_ut_data_enable_prompt">VoLTE verkkoon ei voitu yhdistää. Ota mobiilidata käyttöön nyt.</string>
   <string name="command_error_fdn_failure">Sinun täytyy ensin poistaa FDN käytöstä</string>
   <string name="config_default_data_sim">Asetukset</string>
@@ -578,8 +580,11 @@ Siirtonopeus"</string>
   <string name="daltonizer_type_overridden">Tämän ohittaa %1$s</string>
   <string name="data_enable_summary">Salli tiedonsiirto</string>
   <string name="data_enabled">Datayhteys käytössä</string>
+  <string name="data_plan">Mobiilidatapaketit</string>
   <string name="data_usage_uninstalled_apps">Poistetut sovellukset</string>
   <string name="data_usage_uninstalled_apps_users">Poistetut sovellukset ja käyttäjät</string>
+  <string name="dc_alert_dialog_message">Jotkut sovellukset vaativat mobiilidatayhteyden. Voit ottaa yhteyttä operaattoriisi selvittääksesi mitä %s sinulle on tarjolla.</string>
+  <string name="dc_alert_dialog_title">Tiedonsiirtovaroitus</string>
   <string name="deactivate_all">Peruuta kaikki</string>
   <string name="debug_app">Valitse vianetsintäsovellus</string>
   <string name="debug_app_not_set">Vianetsintäsovellusta ei ole asetettu</string>
@@ -687,6 +692,7 @@ Siirtonopeus"</string>
   <string name="disabled_by_admin_summary_text">Järjestelmänvalvoja hallinnoi tätä asetusta.</string>
   <string name="display_name_summary">Sama kuin käyttäjänimi</string>
   <string name="display_name_title">Näyttönimi</string>
+  <string name="do_not_show_again">Älä näytä uudelleen</string>
   <string name="domain_address_title">Palvelin</string>
   <string name="doneButton">Valmis</string>
   <string name="dtmf_tone_entries_long">Pitkä</string>
@@ -694,7 +700,7 @@ Siirtonopeus"</string>
   <string name="dtmf_tones_summary">Aseta DTMF-äänien pituus</string>
   <string name="dtmf_tones_title">DTMF-äänet</string>
   <string name="dual_4g_switch_summary">Salli 4G-yhteydet molemmille SIM-korttipaikoille.</string>
-  <string name="dual_4g_switch_title">Kaksois 4G</string>
+  <string name="dual_4g_switch_title">Dual 4G</string>
   <string name="duration_disable_summary">Keston näyttäminen ei ole käytössä</string>
   <string name="duration_enable_summary">Keston näyttäminen on käytössä</string>
   <string name="ecm_exit_dialog">EcmExitDialog</string>
@@ -735,7 +741,7 @@ Siirtonopeus"</string>
   <string name="enable_disable_retail_directory">Jälleenmyyntihakemisto</string>
   <string name="enable_disable_stock_quotes">Pörssikurssit</string>
   <string name="enable_disable_technology_news">Teknologiauutiset</string>
-  <string name="enable_dual_4g_prompt_when_turn_on_volte">VoLTE tarvitsee 4G-yhteyden molemmille SIM-korttipaikoille. Vaihdetaanko Kaksois 4G:hen nyt?</string>
+  <string name="enable_dual_4g_prompt_when_turn_on_volte">VoLTE tarvitsee 4G-yhteyden molemmille SIM-korttipaikoille. Vaihdetaanko Dual 4G:hen nyt?</string>
   <string name="enable_fdn">Ota sallitut numerot käyttöön</string>
   <string name="enable_fdn_ok">Poista sallitut numerot käytöstä</string>
   <string name="enable_freeform_support">Ota käyttöön vapaamuotoiset ikkunat</string>
@@ -1607,8 +1613,8 @@ Seuraava jakso alkaa %2$d päivän kuluttua (%3$s)"</string>
   <string name="tty_mode_not_allowed_video_call">TTY-tilan muutoksia ei sallita videopuhelun aikana.</string>
   <string name="tty_mode_option_summary">Aseta TTY-tila</string>
   <string name="tty_mode_option_title">TTY-tila</string>
-  <string name="turn_off_dual_4g_failed">Kaksois 4G:tä ei voitu poistaa käytöstä.</string>
-  <string name="turn_on_dual_4g_failed">Kaksois 4G:tä ei voitu ottaa käyttöön.</string>
+  <string name="turn_off_dual_4g_failed">Dual 4G:tä ei voitu poistaa käytöstä.</string>
+  <string name="turn_on_dual_4g_failed">Dual 4G:tä ei voitu ottaa käyttöön.</string>
   <string name="turnover_mute_summary">Kun puhelin on vaakatasossa näyttö ylöspäin, käännä se ympäri mykistääksesi soittoäänen.</string>
   <string name="turnover_mute_title">Mykistä soittoääni kääntämällä</string>
   <string name="undefined">Ei mitään</string>
@@ -1745,7 +1751,7 @@ Tarkista varmenteiden aitous"</string>
 Käyttöoikeustietojen tallennustila saattaa olla pois käytöstä"</string>
   <string name="wifi_wapi_psk_type">Salasanan tyyppi</string>
   <string name="wifi_wapi_user_certificate">Käyttäjän varmenne</string>
-  <string name="wificall_switch_summary">Laitteesi voi vaihtaa Wi-Fi:n ja VoLTE:n välillä, kun yhteys on heikko</string>
+  <string name="wificall_switch_summary">Laitteesi vaihtaa Wi-Fi:n ja VoLTE:n välillä, kun yhteys on heikko</string>
   <string name="wificall_switch_title">Soita puheluita käyttäen Wi-Fiä</string>
   <string name="wild_prompt_str">Muuta jokerimerkiksi</string>
   <string name="window_animation_scale_title">Ikkuna</string>

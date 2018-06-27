@@ -1397,8 +1397,8 @@ Useita tilauksia, jotka lähetetään SF Expressin kautta Taobaon, Tmallin ja Xi
   <string name="setting_map">Liikennetiedot</string>
   <string name="setting_map_brief">Arvioi reitit ja ajat matkaa varten</string>
   <string name="setting_map_brief_detail">Arvioi reitit ja ajat matkaa varten</string>
-  <string name="setting_note">Lyhyt muistiinpano</string>
-  <string name="setting_note_brief">Tee lyhyt muistiinpano täällä.</string>
+  <string name="setting_note">Lyhyt muistio</string>
+  <string name="setting_note_brief">Tee lyhyt muistio täällä.</string>
   <string name="setting_place">Lisää usein käytettyjä paikkoja nähdäksesi liikenne- ja reittisuosituksia</string>
   <string name="setting_place_next">Seuraava</string>
   <string name="setting_pref_confirm">Valmis</string>

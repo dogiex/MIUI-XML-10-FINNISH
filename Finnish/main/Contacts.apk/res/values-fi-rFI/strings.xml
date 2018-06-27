@@ -212,7 +212,7 @@
   <string name="contact_delete_toast">Poistettiin yhteystieto onnistuneesti</string>
   <string name="contact_detail_action_item_calllog">Puheluloki</string>
   <string name="contact_detail_action_item_nocalllog">Ei Puhelulokia</string>
-  <string name="contact_detail_calllog_call_note_tips">Muistiinpano</string>
+  <string name="contact_detail_calllog_call_note_tips">Muistio</string>
   <string name="contact_detail_calllog_call_record_tips">Nauhoitettu puhelu</string>
   <string name="contact_detail_calllog_empty">Ei historiaa</string>
   <string name="contact_detail_entry_pay">Maksa</string>
@@ -574,7 +574,7 @@ Syy: %s"</string>
   <string name="keep_local_btn">Käytä laitteen sisäistä tallennustilaa</string>
   <string name="label_custom_type">Muokattu</string>
   <string name="label_no_duplicate_contacts">Kaksoiskappaleita ei löytynyt</string>
-  <string name="label_notes">Muistiinpanot</string>
+  <string name="label_notes">Muistiot</string>
   <string name="label_sip_address">SIP</string>
   <string name="launcherDialer">Puhelin</string>
   <string name="listCustomView">Muokatun näkymän yhteystiedot</string>

@@ -257,9 +257,9 @@
      <string name="doze_pickup_subtype_performs_proximity_check" />
      <string name="drag_to_add_tiles">Lisää laattoja raahaamalla</string>
      <string name="drag_to_remove_tiles">Poista raahaamalla tänne</string>
-     <string name="drive_mode_tip_idle">Poistu Autotilasta napauttamalla</string>
-     <string name="drive_mode_tip_idle_notch">Poistu Autotilasta</string>
-     <string name="drive_mode_tip_notch">Autotila on käytössä</string>
+     <string name="drive_mode_tip_idle">Autotila on käytössä</string>
+     <string name="drive_mode_tip_idle_notch">Autotila</string>
+     <string name="drive_mode_tip_notch">Autotila</string>
      <string name="emergency_call_string">Hätäpuhelu</string>
      <string name="empty_shade_text">Ei ilmoituksia</string>
      <string name="enable_bluetooth_confirmation_ok">Ota käyttöön</string>

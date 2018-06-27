@@ -99,6 +99,7 @@
   <string name="default_folder_title_microsoft">Microsoft</string>
   <string name="default_folder_title_recommend">Lisää sovelluksia</string>
   <string name="default_folder_title_security">Järjestelmä</string>
+  <string name="default_folder_title_services">Palvelut</string>
   <string name="default_folder_title_telcel">Telcel</string>
   <string name="default_folder_title_tools">Työkalut</string>
   <string name="default_screen_preview_title">Aseta oletusnäyttö napauttamalla</string>
@@ -240,8 +241,9 @@
   <string name="open_personal_assistant_dialog_btn_cancel">Peruuta</string>
   <string name="open_personal_assistant_dialog_btn_confirm">Poista käytöstä</string>
   <string name="open_personal_assistant_dialog_desc">Et voi käyttää Sovellusholvia ja vastaanottaa sen päivityksiä. Poistetaanko käytöstä nyt?</string>
+  <string name="open_personal_assistant_dialog_desc_international">Poistamalla tämän ominaisuuden käytöstä et voi enää käyttää Sovellusholvin kortteja (Osakkeet, Pikakuvakkeet jne.) etkä vastaanottaa päivityksiä.</string>
   <string name="open_personal_assistant_dialog_title">Poista Sovellusholvi käytöstä</string>
-  <string name="open_personal_assistant_title">Ota Sovellusholvi käyttöön</string>
+  <string name="open_personal_assistant_title">Sovellusholvi</string>
   <string name="out_of_space">Tällä Aloitusnäytöllä ei ole enempää tilaa</string>
   <string name="permdesc_install_shortcut">Sallii sovelluksen lisätä pikakuvakkeita ilman käyttäjän erillistä lupaa.</string>
   <string name="permdesc_install_widget">Sallii sovelluksen lisätä widgettejä ilman käyttäjän erillistä lupaa.</string>

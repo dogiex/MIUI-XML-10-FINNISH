@@ -1,16 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-
-    <!-- miui 10 muutos -->
-
-    <string-array name="pref_navscreen_layoutstate_choices">
-        <item>Pystysuora näkymä</item>
-        <item>Vaakasuora näkymä</item>
-     </string-array>
-
-     <!-- miui 10 muutos -->
-
-
     <string-array name="pref_fling_on_border_gesture_entries">
         <item>Sivu takaisin eteenpäin</item>
         <item>Vaihda välilehtiä</item>
@@ -23,6 +12,10 @@
     <string-array name="pref_nav_mode_summary">
         <item>Puhelin</item>
         <item>Tabletti</item>
+    </string-array>
+    <string-array name="pref_navscreen_layoutstate_choices">
+        <item>Pystysuora näkymä</item>
+        <item>Vaakasuora näkymä</item>
     </string-array>
     <string-array name="pref_text_zoom_choices">
         <item>Hyvin pieni</item>
@@ -48,6 +41,10 @@
     <string-array name="shortcut_dialog_title">
         <item>Viesti Selaimesta</item>
         <item>Seuraa Olympialaisia Mi:llä</item>
+    </string-array>
+    <string-array name="suggestion_topic_tips">
+        <item>Tarkkailun katsominen</item>
+        <item>Keskeinen ongelma</item>
     </string-array>
     <string-array name="suggestion_weather_condition_message">
         <item>Selkeä</item>
