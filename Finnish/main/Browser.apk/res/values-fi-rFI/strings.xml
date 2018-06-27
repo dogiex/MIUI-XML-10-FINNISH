@@ -1166,7 +1166,6 @@ Selaimen täytyy yhdistää internetiin toimiakseen normaalisti. Sinun täytyy h
   <string name="suggestion_more_news">LISÄÄ UUTISIA</string>
   <string name="suggestion_more_news_start_title_text">Aiheeseen liittyvät uutiset</string>
   <string name="suggestion_topic_subtitle_hyphen">Tarkenna</string>
-  <string name="suggestion_topic_subtitle_navtitle_hyphen">·</string>
   <string name="suggestion_translation_more">NÄYTÄ LISÄÄ</string>
   <string name="switchText">KYLLÄ</string>
   <string name="switch_proxy_dialog_msg">Verkon kaappaus havaittu. Käytä MIUI:n sisäänrakennettua Tietoturva-sovellusta tai raportoi tämä matkapuhelinoperaattorillesi.</string>
