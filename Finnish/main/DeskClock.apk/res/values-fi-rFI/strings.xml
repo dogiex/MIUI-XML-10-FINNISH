@@ -44,6 +44,7 @@
   <string name="worldcolock_timezone_local">Sama kuin paikallinen aika</string>
   <!-- miui 10 valmis -->
   <string name="add_alarm">Lisää hälytys</string>
+  <string name="add_clock">Lisää Kello</string>
   <string name="add_timezone_title">Lisää aikavyöhyke</string>
   <string name="alarm_alert_alert_silenced">Herätys hiljennetään %d minuutin jälkeen.</string>
   <string name="alarm_alert_snooze_set">Torkutetaan %d minuuttia.</string>
@@ -76,6 +77,7 @@
   <string name="close_alarm">Sulje hälytys</string>
   <string name="common_settings">Asetukset</string>
   <string name="confirm_abort">Hylkää</string>
+  <string name="content_desc_keep_screen">\"Pidä näyttö päällä\" painike</string>
   <string name="control_set_alarm">Aseta hälytys</string>
   <string name="control_set_alarm_with_existing">Herätys asetettu: %s</string>
   <string name="day">yksi päivä</string>

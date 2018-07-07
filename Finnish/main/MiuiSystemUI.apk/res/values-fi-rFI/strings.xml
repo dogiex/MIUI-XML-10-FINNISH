@@ -170,6 +170,8 @@
      <string name="accessibility_rotation_lock_on_portrait_changed">Näyttö on nyt lukittu pystysuuntaan.</string>
      <string name="accessibility_settings_button">Järjestelmäasetukset.</string>
      <string name="accessibility_signal_full">Signaali on täynnä.</string>
+     <string name="accessibility_splite_screen_primary">Lisää jaetun näytön ensisijaiseksi sovellukseksi</string>
+     <string name="accessibility_splite_screen_secondary">Lisää jaetun näytön toissijaiseksi sovellukseksi</string>
      <string name="accessibility_status_bar_headphones">Kuulokkeet yhdistetty</string>
      <string name="accessibility_status_bar_headset">Kuulokkeet yhdistetty</string>
      <string name="accessibility_status_bar_hotspot">Hotspot</string>
@@ -1057,6 +1059,8 @@ Kaikki käyttäjät voivat päivittää kaikkien käyttäjien sovelluksia."</str
   <string name="accessibility_ime_switch_button">Vaihda syöttömenetelmän painiketta.</string>
   <string name="accessibility_managed_profile">Työ profiili</string>
   <string name="accessibility_menu">Valikko</string>
+  <string name="accessibility_menu_item_split_disable">Sovellus ei tue Jaettua näyttöä.</string>
+  <string name="accessibility_menu_item_split_enable">Sovellus tukee Jaettua näyttöä</string>
   <string name="accessibility_no_data">Ei signaalia.</string>
   <string name="accessibility_no_phone">Ei signaalia.</string>
   <string name="accessibility_no_wifi">Ei Wi-Fi-yhteyttä</string>

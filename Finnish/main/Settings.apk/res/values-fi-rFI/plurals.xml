@@ -133,12 +133,12 @@
         <item quantity="one">PIN-koodin täytyy olla %d numeroa</item>
     </plurals>
     <plurals name="lockpassword_pin_too_long">
-        <item quantity="other">PIN-koodi voi sisältää enintään %d numeroa</item>
-        <item quantity="one">PIN-koodi voi sisältää enintään %d numeron</item>
+        <item quantity="other">Voit antaa enintään %d numeroa</item>
+        <item quantity="one">Voit antaa enintään %d numeron</item>
     </plurals>
     <plurals name="lockpassword_pin_too_short">
-        <item quantity="other">PIN-koodin täytyy olla %d numeroa pitkä</item>
-        <item quantity="one">PIN-koodin täytyy olla %d numeroa pitkä</item>
+        <item quantity="other">Anna vähintään %d numeroa</item>
+        <item quantity="one">Anna vähintään %d numero</item>
     </plurals>
     <plurals name="lockpattern_recording_incorrect_too_short">
         <item quantity="other">Yhdistä vähintään %d pistettä. Yritä uudelleen.</item>

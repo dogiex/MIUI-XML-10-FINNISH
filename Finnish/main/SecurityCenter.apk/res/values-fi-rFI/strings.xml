@@ -1320,6 +1320,7 @@ Kokeile käyttää toista ethernet-kaapelia reitittimesi yhdistämiseen. Jos luu
   <string name="notification_masked_item">Piilota ilmoitukset</string>
   <string name="notification_masked_subtitle">Piilota ilmoitukset Sovelluslukolla suojatuilta sovelluksilta</string>
   <string name="notification_summary_cmcc_app_check">Näytä yksityiskohdat koskettamalla.</string>
+  <string name="notify_channel_name_security">Järjestelmän tietoturva</string>
   <string name="notify_daily_data_usage_body">Rajoittaaksesi datan käyttöä automaattisesti, aseta kuukausittainen datapaketti.</string>
   <string name="notify_daily_limit_body">Aseta tiedonsiirtoraja napauttamalla.</string>
   <string name="notify_daily_limit_title">Käytetty %s tänään</string>

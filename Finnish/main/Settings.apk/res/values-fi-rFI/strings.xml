@@ -217,6 +217,7 @@ Et voi zoomata näppäimistöön tai navigointipalkkiin."</string>
   <string name="add_device_admin_msg">Aktivoidaanko laitteenhallintasovellus?</string>
   <string name="add_facerecoginition_text">Lisää kasvojen tiedot</string>
   <string name="add_fingerprint_cancel_button_text">Takaisin</string>
+  <string name="add_fingerprint_dirty_fingerprint">Varmista, että näytön pinta on puhdas. Yritä tallentaa sormenjälkesi uudelleen.</string>
   <string name="cancel_description">Peruuta</string>
   <string name="add_fingerprint_done_msg">Voit nyt avata laitteen lukituksen sormenjäljellä.</string>
   <string name="add_fingerprint_done_title">Olet valmis rokkaamaan!</string>
@@ -226,6 +227,7 @@ Et voi zoomata näppäimistöön tai navigointipalkkiin."</string>
   <string name="add_fingerprint_finished_button_text">Valmis</string>
   <string name="add_fingerprint_instruction_msg">Sormenjälkitunnistin on sisäänrakennettu laitteesi Kotipainikkeeseen.</string>
   <string name="add_fingerprint_instruction_title">Lisää sormenjälkesi</string>
+  <string name="add_fingerprint_move_fast">Pidä sormeasi näytöllä hieman pidempään</string>
   <string name="add_fingerprint_name_suggest_text">Sormenjäljen nimi</string>
   <string name="add_fingerprint_put_finger_edge_msg">Liikuta sormeasi hieman ja aseta se takaisin tunnistimelle, jotta kaikki sormenjäljen eri kohdat lisätään.</string>
   <string name="add_fingerprint_put_finger_msg">Aseta sormesi tunnistimelle ja nosta se, kun tunnet värinän.</string>
@@ -1858,6 +1860,7 @@ Saat lisätietoja organisaatiosi järjestelmänvalvojalta."</string>
   <string name="every_day">Joka päivä</string>
   <string name="experimental_category_title">Kokeellinen</string>
   <string name="experimental_preference">(Kokeellinen)</string>
+  <string name="extended_power_menu">Laajennettu power-valikko</string>
   <string name="external_code_size_label">Sovelluksen käyttämä USB-tallennustila</string>
   <string name="external_data_size_label">USB-tallennustilan tiedot</string>
   <string name="external_source_switch_title">Salli tästä lähteestä</string>
@@ -2098,18 +2101,18 @@ Varmuuskopioita ei vähennetä Drive-tallennustilan kiintiöstäsi. Suuria ja ke
   <string name="got_it">Selvä</string>
   <string name="gsm_to_wifi_connect_type_title">GSM:stä Wi-Fiin</string>
   <string name="gxzw_add_fingerprint_continue">Jatka</string>
-  <string name="gxzw_add_fingerprint_edge_message">Siirrä sormeasi, jotta anturi voi tallentaa sormenjälkesi reunat.</string>
-  <string name="gxzw_add_fingerprint_edge_title">Siirrä sormeasi hieman</string>
-  <string name="gxzw_add_fingerprint_finish">Valmis</string>
-  <string name="gxzw_add_fingerprint_indicate">Paina kovempaa tähän</string>
+  <string name="gxzw_add_fingerprint_edge_message">Siirrä sormeasi tallentaaksesi sormenjälkesi kaikki reunat</string>
+  <string name="gxzw_add_fingerprint_edge_title">Säädä otettasi</string>
+  <string name="gxzw_add_fingerprint_finish">Valmis!</string>
+  <string name="gxzw_add_fingerprint_indicate">Paina tätä aluetta kevyesti</string>
   <string name="gxzw_add_fingerprint_know">Selvä</string>
-  <string name="gxzw_add_fingerprint_message">Pidä sormet ja näytön pinta puhtaana</string>
+  <string name="gxzw_add_fingerprint_message">Varmista, että sormesi ja näyttösi ovat puhtaita</string>
   <string name="gxzw_add_fingerprint_move_indicate">Siirrä sormeasi hieman</string>
-  <string name="gxzw_add_fingerprint_move_message">Sormenjälkesi jäljellä olevia alueita ei voi tallentaa. Siirrä sormeasi hieman</string>
+  <string name="gxzw_add_fingerprint_move_message">Siirrä sormeasi tallentaaksesi kaikki sormenjälkesi alueet</string>
   <string name="gxzw_add_fingerprint_move_title">Siirrä sormeasi hieman</string>
-  <string name="gxzw_add_fingerprint_put_finger_message">Paina hieman kovempaa ja nosta sormi, kun tunnet värinän. Toista useita kertoja.</string>
-  <string name="gxzw_add_fingerprint_put_finger_title">Paina kovempaa ja nosta värinän jälkeen</string>
-  <string name="gxzw_add_fingerprint_title">Lisää sormenjälki</string>
+  <string name="gxzw_add_fingerprint_put_finger_message">Paina näyttöä ja nosta sormesi, kun tunnet värinän. Toista useita kertoja.</string>
+  <string name="gxzw_add_fingerprint_put_finger_title">Paina ja nosta värinän jälkeen</string>
+  <string name="gxzw_add_fingerprint_title">Lisää sormenjälkesi</string>
   <string name="handy_mode">Yhden käden-tila</string>
   <string name="handy_mode_enable">Yhden käden-tila</string>
   <string name="handy_mode_size">Näytön koko</string>
@@ -2503,12 +2506,14 @@ Voit muuttaa tätä asetusta myöhemmin kohdassa Asetukset > Sovellukset ja ilmo
   <string name="lockpassword_choose_for_second_user">Aseta Toisen tilan salasana</string>
   <string name="lockpassword_choose_lock_generic_header">Valitse näytön lukitus</string>
   <string name="lockpassword_choose_your_password_header">Aseta salasanasi</string>
-  <string name="lockpassword_choose_your_password_second_space">"Aseta salasana
- Toinen tila -toiminnolle"</string>
+  <string name="lockpassword_choose_your_password_second_space">"Aseta Toisen tilan PIN-koodi.
+PIN-koodin täytyy sisältää yhtä monta
+numeroa, kuin Ensimmäisen tilan PIN-koodi."</string>
   <string name="lockpassword_choose_your_pattern_header">Aseta kuviosi</string>
   <string name="lockpassword_choose_your_pin_header">Aseta PIN-koodisi</string>
-  <string name="lockpassword_choose_your_pin_header_second_space">"Aseta PIN-koodi
- Toinen tila -toiminnolle"</string>
+  <string name="lockpassword_choose_your_pin_header_second_space">"Aseta Toisen tilan
+PIN-koodi"</string>
+  <string name="lockpassword_choose_your_pin_title">Anna 4-16 numeroa</string>
   <string name="lockpassword_confirm_for_second_user">Vahvista Toisen tilan salasana</string>
   <string name="lockpassword_confirm_passwords_dont_match">Salasanat eivät täsmää</string>
   <string name="lockpassword_confirm_pins_dont_match">PIN-koodit eivät täsmää</string>
@@ -4351,7 +4356,7 @@ PIN-koodi on mahdollisesti virheellinen."</string>
   <string name="sim_lock_settings_summary_on">Lukittu</string>
   <string name="sim_lock_settings_title">SIM-kortin lukitus</string>
   <string name="sim_management_title">SIM-kortit &amp; matkapuhelinverkot</string>
-  <string name="sim_management_title_cr_kolbi">SIM-kortit &amp; matkapuhelinverkot</string>
+  <string name="sim_management_title_singlesim">SIM-kortit &amp; matkapuhelinverkot</string>
   <string name="sim_multi_sims_summary">Valitse SIM-kortti mobiilidatan käyttöä varten.</string>
   <string name="sim_multi_sims_title">SIM-kortteja löytyi useita</string>
   <string name="sim_name_hint">Anna SIM-kortin nimi</string>

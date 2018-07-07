@@ -16,6 +16,7 @@
   <string name="activate_feature_register_xiaomi_account">Mi Tilin asetus</string>
   <string name="activate_feature_remote_assist">Etäavustaja</string>
   <string name="activate_feature_verify_mx_token">Mi Tilin vahvistus</string>
+  <string name="activate_feature_voip">Mi Viestin Ääni</string>
   <string name="activate_history_canceled_overview">SIM-kortin aktivointi peruutettiin. \"%1$s\" käynnisti aktivoinnin.</string>
   <string name="activate_history_multisim_canceled_overview">SIM-kortin %2$d aktivointi peruutettiin. \"%1$s\" käynnisti aktivoinnin.</string>
   <string name="activate_history_multisim_success_overview">SIM-kortti %2$d aktivoitiin onnistuneesti. \"%1$s\" käynnisti aktivoinnin.</string>
@@ -106,6 +107,11 @@ Syötä uuden SIM-korttisi puhelinnumero aktivoidaksesi %s uudelleen"</string>
   <string name="activate_status_title_activating_msim">Aktivoidaan SIM-korttia %d…</string>
   <string name="agree">Salli</string>
   <string name="app_name">Xiaomi SIM Aktivointipalvelu</string>
+  <string name="checking_client">Tarkistetaan asiakkaan env</string>
+  <string name="error_checking_client">Asiakkaan env virhe</string>
+  <string name="error_network_io">Verkkovirhe</string>
+  <string name="error_no_send_sms_permission">SMS-käyttöoikeutta ei lähetetty</string>
+  <string name="error_sim_not_in_service">SIM-kortilla ei palvelua</string>
   <string name="explain_send_sms_permission_button">Vahvista</string>
   <string name="explain_send_sms_permission_msg">Ottaaksesi %s käyttöön, Xiaomi Service Framework lähettää tekstiviestin vahvistaakseen puhelinnumerosi. Operaattorisi veloittaa sinua normaalista tekstiviestistä.</string>
   <string name="explain_send_sms_permission_title">Vahvista puhelinnumerosi</string>
@@ -118,4 +124,5 @@ Syötä uuden SIM-korttisi puhelinnumero aktivoidaksesi %s uudelleen"</string>
   <string name="privacy_revoke_failed_msg">Aktivointi vaatii valtuutuksen hyväksymisen, jotta Viesti -sovellus voi noutaa puhelinnumerosi</string>
   <string name="privacy_revoke_tips">Valtuutuksen peruuttamisen jälkeen sovellus lopettaa tietosi keräämisen ja poistaa kaikki tietosi palvelimilta. Synkronointi Mi Pilven kanssa, Mi Viesti ja muut Viestit -sovelluksen toiminnot ei ole enää käytettävissä. Peruutetaanko valtuutus siitä huolimatta?</string>
   <string name="sim_unactivated_title">SIM-korttisi ei ole aktivoitu</string>
+  <string name="waiting_sim_in_service">Odotetaan SIM-kortin palvelua</string>
 </resources>

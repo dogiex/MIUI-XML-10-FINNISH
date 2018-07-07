@@ -1,5 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <!-- 8.6.28 -->
+  <string name="err_acquire_system_service">Järjestelmäpalvelua ei voitu käynnistää.</string>
+  <string name="trans_button_exit">Poistu</string>
+  <string name="trans_button_stay">Pysy</string>
+  <string name="trans_cancel_selection_message">Jos poistut Mi Moverista, käynnissä oleva siirto keskeytyy. Odota siirron valmistumista.</string>
+  <string name="trans_cancel_selection_title">Pysy Mi Moverissa</string>
+  <string name="trans_select_notification_message">Näytä napauttamalla</string>
+  <string name="trans_select_notification_title">Mi Mover työskentelee…</string>
+  <!-- // 8.6.28 -->
   <!-- 8.6.11 -->
   <string name="feature_title_contacts">Yhteystiedot</string>
   <string name="feature_title_sms">Viestit</string>

@@ -14,7 +14,6 @@
      <string name="folder_operation_delete">Poista</string>
      <string name="folder_operation_rename">Nimeä uudelleen</string>
      <string name="hide_arrow_description">Piilota</string>
-     
      <string name="rich_text_bold_description">Lihavoi</string>
      <string name="rich_text_center_description">Keskitä</string>
      <string name="rich_text_chooser_title">Valitse tyyli</string>
@@ -25,8 +24,6 @@
      <string name="save_to_gallery_failure_message">Ei voitu tallentaa</string>
      <string name="save_to_gallery_icon_name">Tallenna Galleriaan</string>
      <string name="save_to_gallery_success_message">Tallennettiin onnistuneesti</string>
-     
-     <string name="toast_refuse_to_record_when_in_call">Tätä toimintoa ei voi käyttää puheluiden aikana</string>
      <string name="toolbar_text_description">Tekstin tyyli</string>
      <string name="toolbar_voice_description">Ääni</string>
      <!-- MIUI 10 valmis -->
@@ -34,6 +31,8 @@
   <string name="action_mode_switcher_grid_description">Ruudukkonäkymä</string>
   <string name="action_mode_switcher_list_description">Luettelonäkymä</string>
   <string name="action_settings_description">Avaa Asetukset</string>
+  <string name="actionbar_close_description">Sulje</string>
+  <string name="actionbar_home_description">Takaisin</string>
   <string name="add_account_desc">Synkronoidaanko muistiosi Mi Tilisi kanssa?</string>
   <string name="alarm_bar_title">Muistutus</string>
   <string name="alert_action_edit_anyway">Jatka muokkaamista</string>
@@ -80,7 +79,6 @@
   <string name="dlg_unhide_message">Tuodaan esiin…</string>
   <string name="done">Valmis</string>
   <string name="edit_header_done_description">Valmis</string>
-  <string name="edit_header_home_description">Takaisin</string>
   <string name="enable_sync">Synkronoi</string>
   <string name="enable_sync_desc">Synkronoidaanko muistiosi Mi Tilisi kanssa (%1$s)?</string>
   <string name="error_contact_not_exist">Yhteystietoa ei ole olemassa</string>
@@ -113,6 +111,7 @@
   <string name="menu_delete_forever">Poista pysyvästi</string>
   <string name="menu_folders">Kansiot</string>
   <string name="menu_hide">Piilota</string>
+  <string name="menu_more_description">Lisää</string>
   <string name="menu_move_parent_folder">Yläkansio</string>
   <string name="menu_move_to">Siirrä kohteeseen</string>
   <string name="menu_new_folder">Uusi kansio</string>
@@ -208,10 +207,11 @@
   <string name="toast_reach_text_limit_attachment">Uusia liitetiedostoja ei voi lisätä, koska muistio on liian pitkä</string>
   <string name="toast_reach_text_limit_checkbox">Valintaruutua ei voi lisätä, koska muistio on liian pitkä</string>
   <string name="toast_reach_text_limit_truncate">Tämä muistio on liian pitkä. Joitakin tekstejä poistettiin lopusta.</string>
+  <string name="toast_refuse_to_record_when_in_call">Tätä toimintoa ei voi käyttää puheluiden aikana</string>
+  <string name="toast_refuse_to_record_when_in_multi_window">Tätä toimintoa ei voi käyttää Jaetussa näytössä</string>
   <string name="toolbar_check_description">Lisää valintaruutu</string>
   <string name="toolbar_delete_description">Poista tämä muistio</string>
   <string name="toolbar_gallery_description">Lisää kuva</string>
-  <string name="toolbar_more_description">Lisää</string>
   <string name="toolbar_redo_description">Tee uudelleen</string>
   <string name="toolbar_share_description">Jaa tämä muistio</string>
   <string name="toolbar_theme_description">Valitse teema</string>
