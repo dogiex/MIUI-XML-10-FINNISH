@@ -16,10 +16,6 @@
         <item quantity="other">Soitin pysäytetään %d minuutin kuluttua</item>
         <item quantity="one">Soitin pysäytetään %d minuutin kuluttua</item>
     </plurals>
-    <plurals name="Nrecognize_switch_off_alert_message">
-        <item quantity="other">Valitsit ettet halua hakea albumeiden kansikuvia ja kappaleiden sanoituksia automaattisesti. Poistetaanko %d kappaleen tiedot?</item>
-        <item quantity="one">Valitsit ettet halua hakea albumeiden kansikuvia ja kappaleiden sanoituksia automaattisesti. Poistetaanko %d kappaleen tiedot?</item>
-    </plurals>
     <plurals name="Nsong_group_detail_subtitle">
         <item quantity="other">"Luotu %1$s
 yhteensä %2$d kappaletta"</item>
@@ -115,5 +111,9 @@ Huomio: Tiedosto poistetaan myös tältä laitteelta."</item>
     <plurals name="songs_count">
         <item quantity="other">%d kappaletta</item>
         <item quantity="one">%d kappale</item>
+    </plurals>
+    <plurals name="video_play_count">
+        <item quantity="other">%1$s katselukertaa</item>
+        <item quantity="one">%1$s katselukerta</item>
     </plurals>
 </resources>
