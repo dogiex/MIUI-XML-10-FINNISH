@@ -59,7 +59,6 @@
   <string name="cat_8">Tiede</string>
   <string name="cat_9">Muoti</string>
   <string name="change_time">Vaihda tauskakuvia</string>
-  <string name="character_counter_pattern">%1$d / %2$d</string>
   <string name="clear_history">Tyhjennä hakuhistoria</string>
   <string name="confirm">Ota käyttöön</string>
   <string name="current_connection_invalid">Odota, kunnes laite yhdistää verkkoon</string>
