@@ -33,7 +33,7 @@
   <string name="cancel_international">Peruuta</string>
   <string name="cancel_lockscreen">Peruuta</string>
   <string name="carousel_declaration_btn_text">Ota Taustakuvan Karuselli käyttöön</string>
-  <string name="carousel_declaration_cta">Taustakuvan Karuselli vaatii internetyhteyden toimiakseen normaalisti. Käyttääksesi verkossa olevia sisältöjä, sinun täytyy hyväksyä meidän &lt;a href='http://www.miui.com/res/doc/privacy/cn.html'&gt;Tietosuojakäytäntö&lt;/a&gt;. Hyväksytkö?</string>
+  <string name="carousel_declaration_cta">Taustakuvan Karuselli vaatii internetyhteyden toimiakseen normaalisti. Käyttääksesi verkossa olevia sisältöjä, sinun täytyy hyväksyä meidän Tietosuojakäytäntö. Hyväksytkö?</string>
   <string name="carousel_declaration_cta_btn_text">Hyväksy ja ota käyttöön</string>
   <string name="carousel_declaration_des">Näe kauniita paikkoja ja saa jänniä yllätyksiä Taustakuvan Karusellilla</string>
   <string name="carousel_declaration_title">Tilaa kauniita taustakuvia</string>
