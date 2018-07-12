@@ -101,7 +101,6 @@
   <string name="incompatible_dialog_ok">Selvä</string>
   <string name="incompatible_dialog_title">Yhteensopivuusongelmia</string>
   <string name="is_setting_wallpaper_message">Asetetaan taustakuvaa…</string>
-  <string name="item_resource_audio_divider">│</string>
   <string name="item_resource_audio_optional_alarm_ring">Herätykset</string>
   <string name="item_resource_audio_optional_color_ring">Ringback tone</string>
   <string name="item_resource_audio_optional_notification_ring">Ilmoitukset</string>
@@ -234,7 +233,6 @@
   <string name="resource_detail_recommend_desiner_other_themes">Teemat suunnitellut %1$s</string>
   <string name="resource_detail_recommend_other_themes">Käyttäjät tykkäsivät myös</string>
   <string name="resource_detail_update_log_title">Päivityksiä</string>
-  <string name="resource_detail_vertical_divider">|</string>
   <string name="resource_detail_window_title">%1$s tiedot</string>
   <string name="resource_download">Lataa</string>
   <string name="resource_download_notification_title_many">%1$s teemaa ladattu</string>
@@ -296,7 +294,6 @@
   <string name="resource_pack_price_info">Alkuperäinen hinta: %1$s</string>
   <string name="resource_pack_warning">Olet jo ostanut %1$d osaa tästä teemasta. On halvempaa, jos ostat jäljellä olevat osat erikseen.</string>
   <string name="resource_present">Lahja</string>
-  <string name="resource_price_format">(%1$s)</string>
   <string name="resource_price_free">Ilmainen</string>
   <string name="resource_price_unit"> Mi Krediittiä</string>
   <string name="resource_purchase_common_error">Tapahtui virhe, yritä uudelleen</string>

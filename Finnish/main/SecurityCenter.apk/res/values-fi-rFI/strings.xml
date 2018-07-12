@@ -1203,7 +1203,6 @@ vastausta"</string>
   <string name="menu_text_antispam">Estolista</string>
   <string name="menu_text_antivirus">Tietoturvatarkistus</string>
   <string name="menu_text_garbage_cleanup">Puhdistaja</string>
-  <string name="menu_text_garbage_cleanup_danger">%s yli</string>
   <string name="menu_text_license_manager">Käyttöoikeudet</string>
   <string name="menu_text_networkassistants">Datan käyttö</string>
   <string name="menu_text_networkassistants_danger">%s yli</string>
@@ -1215,7 +1214,6 @@ vastausta"</string>
   <string name="menu_text_optimize_manage">Paranna nopeutta</string>
   <string name="menu_text_power_manager">Akun käyttö</string>
   <string name="menu_text_power_percent">%s</string>
-  <string name="menu_text_power_percent_title">Akku %s</string>
   <string name="menu_text_power_percent_title_default">Akku</string>
   <string name="menu_wh_remove">Poista poikkeuksista</string>
   <string name="menu_white">Lisää poikkeuksiin</string>
