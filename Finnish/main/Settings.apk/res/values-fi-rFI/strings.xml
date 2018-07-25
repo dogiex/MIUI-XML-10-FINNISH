@@ -999,6 +999,17 @@ Siirtonopeus"</string>
   <string name="bssid_label">BSSID:</string>
   <string name="bt_hci_snoop_log">Ota Bluetoothin HCI-tarkkailuloki käyttöön</string>
   <string name="bt_hci_snoop_log_summary">Tallenna kaikki Bluetoothin HCl-paketit tiedostoon</string>
+  <string name="bt_ldac_declaration">Kun Bluetooth-laite tukee LDAC:ia se yhdistetään oletuksena. LDAC tarjoaa laadukkaan äänentoiston ja se kuluttaa myös enemmän virtaa. Toistaminen onnistuu Bluetooth-laitteistorajoituksien vuoksi</string>
+  <string name="bt_ldac_dialog_summary">"LDAC tarjoaa laadukkaan äänentoiston ja se kuluttaa myös enemmän virtaa
+Tämän ominaisuuden voi poistaa käytöstä [Asetuksista]"</string>
+  <string name="bt_ldac_dialog_title">Nykyinen laite tukee LDAC:ia, joka yhdistettiin oletuksena:</string>
+  <string name="bt_ldac_open_dialog_summary">LDAC tarjoaa laadukkaan äänentoiston ja se kuluttaa myös enemmän virtaa. Toistaminen onnistuu Bluetooth-laitteistorajoituksien vuoksi</string>
+  <string name="bt_ldac_open_dialog_title">Haluatko ottaa LDAC käyttöön?</string>
+  <string name="bt_ldac_pre_summary">Tarjoaa laadukkaan äänentoiston</string>
+  <string name="bt_ldac_pre_title">LDAC</string>
+  <string name="bt_ldac_property">Ominaisuudet</string>
+  <string name="bt_ldac_remember_choice">Muista valinta</string>
+  <string name="bt_ldac_settings">Asetukset</string>
   <string name="bt_rarely_used_device_title">Harvoin käytetyt laitteet (%d)</string>
   <string name="bt_trace_log">Bluetooth jäljitysloki</string>
   <string name="bt_trace_log_summary">Bluetooth jäljitysloki</string>
@@ -1968,6 +1979,8 @@ Saat lisätietoja organisaatiosi järjestelmänvalvojalta."</string>
   <string name="firewall_wifi">Wi-Fi</string>
   <string name="firewall_wifi_dialog_message">Asennettu sovellus ei voi yhdistää internetiin käyttäen Wi-Fiä, kun tämä valintakytkin on pois käytöstä.</string>
   <string name="firmware_version">Android-versio</string>
+  <string name="flash_drive_backup_restore">Varmuuskopioi tai palauta varmuuskopio käyttäen USB:ta</string>
+  <string name="flash_drive_backup_restore_summary">Yhdistä USB-asema</string>
   <string name="floating_window_switch_label">Ota kelluvat ikkunat käyttöön</string>
   <string name="floating_window_switch_label_disable">Poista kelluvat ikkunat käytöstä</string>
   <string name="fluency_mode">Järjestelmän animaatiot</string>
@@ -3805,7 +3818,7 @@ Tämä asetus vaikuttaa kaikkiin tämän puhelimen käyttäjiin."</string>
   <string name="screen_paper_mode_off_apps_title">Älä käytä Lukutilaa</string>
   <string name="screen_paper_mode_range_title">Asetukset</string>
   <string name="screen_paper_mode_set_apps_title">Lukutilan sovellukset</string>
-  <string name="screen_paper_mode_summary">Pienennä näytön sinistä valoa</string>
+  <string name="screen_paper_mode_summary">Lukutila tekee näyttösi väreistä lämpimämpiä, jotta silmäsi voi rentoutua.</string>
   <string name="screen_paper_mode_time_summary">Ajasta Lukutilan ottaminen käyttöön ja poistaminen käytöstä</string>
   <string name="screen_paper_mode_time_title">Ajasta</string>
   <string name="screen_paper_mode_title">Lukutila</string>
@@ -4106,6 +4119,9 @@ Näytön kiinnittäminen:
   <string name="second_space">Toinen tila</string>
   <string name="secondspace_category">Toinen tila</string>
   <string name="secondspace_delete_space_title">Poista Toinen tila</string>
+  <string name="secspace_fod_finger_tips">Vahvistaminen epäonnistui. Yritä uudelleen.</string>
+  <string name="secspace_fod_finger_title">Vahvista sormenjälkesi</string>
+  <string name="secspace_fod_use_password">Anna salasana</string>
   <string name="secure_keyguard_business_title">Aseta näytön lukitus</string>
   <string name="secure_lock_encryption_warning">Laite ei käytä näytön lukitusta tiedon salauksen parantamiseen, koska otit käytettävyyspalvelun käyttöön.</string>
   <string name="security_dashboard_summary">Näytön lukitus, sormenjälki</string>
@@ -4479,10 +4495,11 @@ Laitteeseesi asennettu luotettu varmenne tekee tämän mahdolliseksi."</string>
   <string name="status_bar_settings_show_carrier">Näytä operaattorin nimi</string>
   <string name="status_bar_settings_show_carrier_summary">Operaattorin nimi silti näytetään Lukitusnäytöllä ja ilmoitusalueella vaikka tämä ominaisuus ei ole käytössä</string>
   <string name="status_bar_settings_show_floating_notification">Kelluvat ilmoitukset</string>
-  <string name="status_bar_settings_show_floating_notification_summary">Kelluvat ilmoitukset katoavat automaattisesti näytön ylälaidasta hetken kuluttua näyttämishetkestä</string>
+  <string name="status_bar_settings_show_floating_notification_summary">Salli tärkeät ilmoitukset näytön yläreunassa</string>
   <string name="status_bar_settings_show_flow_info">Näytä flow tiedot</string>
   <string name="status_bar_settings_show_home_message">Sovelluksen kuvakemerkki</string>
   <string name="status_bar_settings_show_keyguard_notification">Lukitusnäytön ilmoitukset</string>
+  <string name="status_bar_settings_show_keyguard_notification_summary">Salli tärkeät ilmoitukset Lukitusnäytöllä</string>
   <string name="status_bar_settings_show_network_speed">Näytä yhteyden nopeus</string>
   <string name="status_bar_settings_show_notification_icon">Näytä ilmoituksen kuvake</string>
   <string name="status_bar_settings_show_wifi_name">Näytä Wi-Fi</string>

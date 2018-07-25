@@ -795,6 +795,12 @@ Se lisätään poikkeuksiin, mutta jo ennestään estetyt kohteet ei ilmesty puh
   <string name="float_window">桌面悬浮窗</string>
   <string name="float_window_summary">支持快速跳转至摇一摇与咻一咻页面</string>
   <string name="float_window_tips">小米手机就是快！</string>
+  <string name="fod_authentication_shift_button">Peruuta</string>
+  <string name="fod_button_finger">Käytä sormenjälkeä</string>
+  <string name="fod_button_password">Anna salasana</string>
+  <string name="fod_finger_notice_title">Aseta sormesi näytölle</string>
+  <string name="fod_finger_windows_tips">Vahvista sormenjälkesi</string>
+  <string name="fod_tips_split_screen_more_than_half">Anna salasana</string>
   <string name="forbid_autobright_summary">Näytön kirkkaus pysyy samana, kun pelaat pelejä</string>
   <string name="forbid_autobright_title">Korjaa näytön kirkkaus</string>
   <string name="foreground_traffic">Etuala %s</string>
@@ -2398,5 +2404,6 @@ Lisää saldoa napauttamalla."</string>
   <string name="xunyou_net_booster_detail">Käytä Xunyou:n nopeuden parantaja -palveluita pelaamiseen</string>
   <string name="xunyou_pay_webview">Xunyou palvelut</string>
   <string name="xunyou_server_expired">Istunto vanhentui.</string>
+  <string name="yuan">CNY</string>
   <string name="zhifubao_not_found">您的应用版本过低或者未安装</string>
 </resources>

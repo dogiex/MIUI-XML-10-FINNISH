@@ -15,6 +15,7 @@
   <string name="hide_touch_assistant_intro">Piilota Pikavalikko valituissa sovelluksissa.</string>
   <string name="hide_when_fullscreen">Siirrä sivuun kokonäyttötilassa</string>
   <string name="hide_when_fullscreen_intro">Siirrä sivuun, kun siirrytään kokonäyttötilaan.</string>
+  <string name="mi_wallet_summary">Matkakortti/Mi Pay/Avainkortti</string>
   <string name="motion_behavior">Suositeltu ele</string>
   <string name="name_alipay_payment_code">Alipay maksaminen</string>
   <string name="name_alipay_scan">Alipay lukija</string>
@@ -22,6 +23,7 @@
   <string name="name_handy_mode">Yhden käden-tila</string>
   <string name="name_long_press_power_key">Virta-painikkeen pitkä painallus</string>
   <string name="name_memory_clean">Tyhjennä välimuisti</string>
+  <string name="name_mi_wallet">Mi Wallet</string>
   <string name="name_music_next_song">Seuraava kappale</string>
   <string name="name_music_prev_song">Edellinen kappale</string>
   <string name="name_music_toggle">Toista/Pysäytä kappale</string>

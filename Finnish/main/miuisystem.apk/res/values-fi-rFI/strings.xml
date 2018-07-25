@@ -47,6 +47,7 @@
   <string name="cloud_state_syncing">Synkronoidaan Mi Pilveen</string>
   <string name="cold_dews">寒露</string>
   <string name="country">Kantri</string>
+  <string name="cowboy">Cowboy</string>
   <string name="crystal">Kristalli</string>
   <string name="cta_button_continue">Hyväksy</string>
   <string name="cta_button_quit">Poistu</string>
@@ -97,6 +98,7 @@
   <string name="heavy_snow">大雪</string>
   <string name="hksar_establishment_day">行政區成立</string>
   <string name="hoar_frost_falls">霜降</string>
+  <string name="icelatte">Jäälatte</string>
   <string name="incomingmessage">Saapuva viesti</string>
   <string name="insects_awaken">惊蛰</string>
   <string name="international_womens_day">妇女节</string>

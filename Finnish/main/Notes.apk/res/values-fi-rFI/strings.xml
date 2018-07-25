@@ -53,6 +53,10 @@
   <string name="cloud_service_state_open_reminder">Ota Mi Pilven synkronointi käyttöön synkronoidaksesi muistiot.</string>
   <string name="cloud_trash_bin_title">Poista muistiot Mi Pilvestä</string>
   <string name="cta_reminder">Tämä sovellus tarvitsee yhteyden internetiin varmuuskopioidakseen muistiot Mi Pilveen ja myös pääsyn lukea yhteystietosi merkatakseen muistiot puheluiden aikana.</string>
+  <string name="date_time_picker_alarm_reminder">Hälytys</string>
+  <string name="date_time_picker_dialog_title">Aseta päivämäärä ja aika</string>
+  <string name="date_time_picker_has_not_set_alarm">Hälytystä ei ole asetettu</string>
+  <string name="date_time_picker_has_set_alarm">Hälytys asetettiin onnistuneesti</string>
   <string name="db_downgrade_clear_button">Tyhjennä sovellustiedot</string>
   <string name="db_downgrade_clear_date_reminder">Vaihtamalla toiseen MIUI versioon vaaditaan Muistion sovellustietojen tyhjentäminen. Ennen kuin teet sen, varmista että olet ottanut varmuuskopion muistioistasi Mi Pilveen.</string>
   <string name="default_folder_name">Nimeämätön kansio</string>
@@ -126,7 +130,6 @@
   <string name="menu_unhide">Tuo esiin</string>
   <string name="menu_unstick">Poista kiinnitys</string>
   <string name="not_now">Ei nyt</string>
-  <string name="note_alert_expired">Vanhentunut</string>
   <string name="note_description_content">Muistio on loistava sovellus kirjata ideasi. Siinä on sisäänrakennetut muistutukset ja se synkronoi muistiosi Mi Pilveen, jotta voit käyttää niitä milloin tahansa, mistä tahansa. Varmista, että pärjäät ilman näitä ominaisuuksia, ennen kuin poistat sovelluksen.</string>
   <string name="note_description_title">Tietoja Muistiosta</string>
   <string name="note_link_email">Kirjoita sähköposti</string>
