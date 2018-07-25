@@ -586,7 +586,6 @@ Yritä uudelleen %2$d sekunnin kuluttua."</string>
      <string name="miui_guide_dialog_message">Median äänet (musiikki, videot jne.) toistetaan Äänettömässä tilassa. Voit muuttaa tätä Asetuksissa.</string>
      <string name="miui_keyguard_ble_unlock_succeed_msg">Lukitus avattiin Bluetooth-laitteella</string>
      <string name="miui_ringer_count_down">Lähtölaskenta</string>
-     <string name="miui_ringer_count_down_time">Lähtölaskenta: %s</string>
      <string name="miui_ringer_standard">Äänetön</string>
      <string name="miui_ringer_standard_description">Mykistä saapuvien puheluiden ja ilmoituksien soittoääni</string>
      <string name="miui_ringer_total">Älä häiritse</string>
