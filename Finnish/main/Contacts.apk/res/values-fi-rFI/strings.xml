@@ -1143,6 +1143,8 @@ Kosketa tähteä yhteystiedon nimen vieressä
   <string name="title_other_devices">Muut käytettävät laitteet</string>
   <string name="title_paired_devices">Yhdistetyt laiteparit</string>
   <string name="toast_call_detail_error">Halutun puhelun tietoja ei voida lukea</string>
+  <string name="toast_call_no_SoundRecorder">Ääninauhuri -sovellus ei ole käytettävissä</string>
+  <string name="toast_call_no_notes">Muistio -sovellus ei ole käytettävissä</string>
   <string name="toast_copy_done">Valmis</string>
   <string name="toast_copying">Kopioidaan…</string>
   <string name="toast_displaying_all_contacts">Kaikki kontaktit</string>

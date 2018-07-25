@@ -28,12 +28,14 @@
   <string name="timer_alert_type_rain">Tihkusade</string>
   <string name="timer_alert_type_stove_fire">Liesituli</string>
   <string name="timer_alert_type_summer_night">Kesäyö</string>
+  <string name="timer_cancel_hint">Lopeta</string>
   <string name="timer_cancel_timer">Peruuta ajastin</string>
   <string name="timer_continue_timer">Jatka ajastinta</string>
-  <string name="timer_pause_hint">Pysäytä</string>
+  <string name="timer_end_time">Ajastin pysähtyy klo %s</string>
+  <string name="timer_end_time_format">"d. MMMM'ta' HH:mm"</string>
+  <string name="timer_end_time_format_today">HH:mm</string>
   <string name="timer_pause_timer">Pysäytä ajastin</string>
   <string name="timer_running">Ajastin on käynnissä</string>
-  <string name="timer_running_hint">Jatka</string>
   <string name="timer_start_timer">Käynnistä ajastin</string>
   <string name="worldclock_input_hint_text">Anna kaupunki</string>
   <string name="worldclock_search_city">Valitse kaupunki</string>
