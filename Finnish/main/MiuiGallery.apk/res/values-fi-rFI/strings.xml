@@ -26,7 +26,7 @@
   <string name="video_editor_smart_effect_fastslow">Liike</string>
   <string name="video_editor_smart_effect_freesze">Pysäytä liike</string>
   <string name="video_editor_smart_effect_halo">Halo</string>
-  <string name="video_editor_smart_effect_high_iframes_text">Tämä tehoste toimii parhaiten korkeilla ruudunpäivitysnopeuden videoilla.</string>
+  <string name="video_editor_smart_effect_high_iframes_text">Tämä tehoste toimii parhaiten 120 fps-videoissa.</string>
   <string name="video_editor_smart_effect_movie">Elokuva</string>
   <string name="video_editor_smart_effect_none">Ei mitään</string>
   <string name="video_editor_smart_effect_radical">Myönteinen</string>
@@ -39,6 +39,7 @@
   <string name="video_editor_text_edit_input_all_hint">Syötä teksti</string>
   <string name="video_editor_unzip_file_fail">Videota ei voitu purkaa.</string>
   <string name="video_editor_video_is_short">Tätä videota ei voi muokata.</string>
+  <string name="video_editor_video_loading">Valmistellaan videota. Odota hetki ja yritä uudelleen.</string>
   <string name="video_editor_watermark">Vesileima</string>
   <string name="voice_assistant">Äänisyöte</string>
   <!-- miui 10 valmis -->
@@ -92,6 +93,7 @@
   <string name="album_name_people">Ihmiset</string>
   <string name="album_name_recent_discovery">Viimeaikainen</string>
   <string name="album_name_tags">Tunnisteet</string>
+  <string name="album_notes">Muistiot</string>
   <string name="album_others_share_baby_info_format">%s jakoi vauva albumin</string>
   <string name="album_others_share_info_format">Jakaja %s</string>
   <string name="album_owner_share">Jaettu</string>
@@ -793,7 +795,6 @@
   <string name="enable_face_album_summary">Lajittele kuvat automaattisesti niissä esiintyvien henkilöiden mukaan</string>
   <string name="enable_face_album_title">Lajittele henkilöiden mukaan</string>
   <string name="enable_slim_title">Optimoi</string>
-  <string name="enabling_face_feature">Odota hetki…</string>
   <string name="enter_choice_mode">Siirryttiin jakoikkunaan</string>
   <string name="enter_email_hint">Syötä sähköpostiosoite</string>
   <string name="error_album_not_exist">Albumia ei ole olemassa</string>
@@ -866,7 +867,6 @@
   <string name="exit_video_play">Poistu</string>
   <string name="expand_desc">Lisää</string>
   <string name="expand_people">Näytä lisää henkilöitä</string>
-  <string name="face_album_detecting_tip">Odota hetki…</string>
   <string name="face_album_empty">"Kuvia ei ole tarpeeksi henkilöiden tunnistamista varten.
 Ota ystävistäsi lisää kuvia!"</string>
   <string name="face_album_empty_syncing">Synkronoidaan tietoja, tule takaisin hetken kuluttua</string>
@@ -874,7 +874,6 @@ Ota ystävistäsi lisää kuvia!"</string>
   <string name="face_album_long_tap_tip">Valitaksesi useita henkilöitä tai vaihtaaksesi ryhmän asetuksia, paina &amp; pidä pohjassa profiilikuvaa</string>
   <string name="face_album_new_name_hint">Uusi nimi</string>
   <string name="face_album_not_named">Nimeämätön</string>
-  <string name="face_album_pending_enable_tip">Kuvat lajitellaan, kun olet yhteydessä Wi-Fi-verkkoon</string>
   <string name="face_album_rename_hint">Syötä nimi</string>
   <string name="face_album_title">Kuvia henkilön %s kanssa</string>
   <string name="face_album_use_tip">Lajittele kuvat automaattisesti niissä esiintyvien henkilöiden mukaan.</string>
@@ -892,7 +891,9 @@ Ota ystävistäsi lisää kuvia!"</string>
   <string name="fancy_color_desc">Värit</string>
   <string name="fast_share_auto_render">Kaunista</string>
   <string name="fast_share_auto_render_finish">Kaunistettu</string>
-  <string name="feature_guidance_photo_effects">Kuvatehosteet</string>
+  <string name="feature_guidance_photo_effects">"Uusia kuvatehosteita
+on käytettävissä"</string>
+  <string name="feature_guidance_video_editor_smart_effects">Uusia tehosteita on käytettävissä</string>
   <string name="filter_bi_memory">Muisto</string>
   <string name="filter_bi_mono">Mono</string>
   <string name="filter_bi_pink">Pinkki</string>
@@ -1229,7 +1230,13 @@ mukauttaaksesi Galleriasi"</string>
   <string name="photo_print_package_finish">Ladattiin onnistuneesti</string>
   <string name="photo_print_package_installing">Ladataan liitännäistä…</string>
   <string name="photomovie_audio_custom">Paikallinen</string>
+  <string name="photomovie_audio_default">Muisto</string>
+  <string name="photomovie_audio_kawaii">Romanttinen</string>
+  <string name="photomovie_audio_light">Balladi</string>
+  <string name="photomovie_audio_linear">Rock</string>
   <string name="photomovie_audio_none">Ei mitään</string>
+  <string name="photomovie_audio_soft">Ukulele</string>
+  <string name="photomovie_audio_sport">Tekno</string>
   <string name="photomovie_audio_unsupport">Tätä ääntä ei tueta.</string>
   <string name="photomovie_cancel_download">Peruuta</string>
   <string name="photomovie_delete_disable">Tarvitset vähintään 3 kuvaa luodaksesi videoleikkeen.</string>
@@ -1248,6 +1255,11 @@ mukauttaaksesi Galleriasi"</string>
   <string name="photomovie_tab_music">Musiikki</string>
   <string name="photomovie_tab_template">Sapluuna</string>
   <string name="photomovie_template_default">Hidas</string>
+  <string name="photomovie_template_kawaii">Viehätys</string>
+  <string name="photomovie_template_light">Tuulahdus</string>
+  <string name="photomovie_template_linear">Automatka</string>
+  <string name="photomovie_template_soft">Nuoruus</string>
+  <string name="photomovie_template_sport">Elinvoima</string>
   <string name="pick_from_contact">Valitse yhteystiedoista</string>
   <string name="pick_too_many_recipients">Liian monta vastaanottajaa</string>
   <string name="picker_cancel_download">Peruuta lataaminen</string>
@@ -1260,6 +1272,7 @@ mukauttaaksesi Galleriasi"</string>
   <string name="picker_image_will_download">%d valituista kuvista ei ole laitteella. Ne ladataan.</string>
   <string name="picker_no_network_message">Lataa yhdistämällä verkkoon</string>
   <string name="picker_origin_need_download">%1$d valituista kuvista (%2$d Mt) ei ole laitteella. Ladataanko käyttäen mobiilidata-yhteyttä?</string>
+  <string name="picker_origin_request_progress_message">Valmistellaan alkuperäisiä tiedostoja (%1$d/%2$d)…</string>
   <string name="picker_title_format">Valitse %1$d-%2$d kuvaa</string>
   <string name="picker_title_selection_format">Valitut kuvat: %d</string>
   <string name="picker_title_specify_format">Valitse %d kuvaa</string>
@@ -1382,13 +1395,13 @@ mukauttaaksesi Galleriasi"</string>
   <string name="search_mark_feedback_false_positive_title">Korjaa</string>
   <string name="search_net_error">Tapahtui verkkovirhe. Yhdistä toiseen verkkoon ja yritä uudelleen.</string>
   <string name="search_request_applied">Asetettu</string>
-  <string name="search_request_open">Liity testausryhmään</string>
+  <string name="search_request_open">Liity testiryhmään</string>
+  <string name="search_request_requesting">Asetettu. Odota hetki, ennen kuin aloitat.</string>
   <string name="search_result_empty">Mitään ei löytynyt</string>
   <string name="search_retry">Yritä uudelleen</string>
   <string name="search_select_network">Valitse verkko</string>
   <string name="search_set_network_connection">Verkkoasetukset</string>
   <string name="search_setting_sub_title">Hae henkilöitä, paikkoja ja kohteita kuvistasi.</string>
-  <string name="search_setting_sub_title_open">Asetettu. Odota hetki, ennen kuin aloitat.</string>
   <string name="search_setting_title">Etsi kuvia Galleriassa</string>
   <string name="search_syncing">Synkronoidaan tietoja, tule takaisin hetken kuluttua</string>
   <string name="search_title_album">Albumi</string>
@@ -1418,6 +1431,7 @@ mukauttaaksesi Galleriasi"</string>
   <string name="secret_reason_too_large">Tiedosto on liian iso</string>
   <string name="secret_reason_type_not_support">Tämä tiedostotyyppi ei ole tuettu</string>
   <string name="secret_reason_unknow_reasons">Tuntematon virhe</string>
+  <string name="secret_reason_video_not_support">Videoita ei voi lisätä piilotettuun albumiin</string>
   <string name="see_ignore_faces">Katso henkilöitä, jotka olet jättänyt huomiotta</string>
   <string name="select_item_face">"Onko tämä '%s'?"</string>
   <string name="select_origin_tip">Alkuperäinen tiedosto (%s)</string>
@@ -1630,7 +1644,6 @@ mukauttaaksesi Galleriasi"</string>
   <string name="view_by_gallery_tip">MIUI Galleria</string>
   <string name="view_face_album">Näytä albumi</string>
   <string name="view_more_face_desc">Näytä lisää henkilöitä</string>
-  <string name="view_queuing_status">Tarkista tila</string>
   <string name="welcome_to_micloud">Tervetuloa Mi Pilveen</string>
   <string name="welcome_to_slim">Optimoi paikallinen tallennustila</string>
   <string name="where_is_barcode">Missä on QR-koodi?</string>

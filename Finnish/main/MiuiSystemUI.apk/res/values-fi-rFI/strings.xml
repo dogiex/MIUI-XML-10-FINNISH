@@ -284,6 +284,7 @@
      <string name="face_data_input_ok_msg_angle">"Avaa laitteen lukitus kavoillasi näytön ollessa päällä.
 (Tallenna kasvosi tiedot mukaan lukien kaikki vaaditut kulmat.)​"</string>
      <string name="face_data_input_ok_title">Lisättiin onnistuneesti</string>
+     <string name="face_data_input_structure_title">Kasvojen 3D-tiedot</string>
      <string name="face_data_input_title">Lisää kasvosi tiedot</string>
      <string name="face_data_introduction_msg">Kasvosi tietoja voidaan käyttää laitteen lukituksen avaamiseen tai henkilöllisyytesi vahvistamiseen. Lisää Lukitusnäytön salasana ennen kasvojesi tietojen lisäämistä.</string>
      <string name="face_data_introduction_next">Seuraava</string>
@@ -904,6 +905,8 @@ valvoa"</string>
      <string name="structure_face_data_input_ok">Valmis</string>
      <string name="structure_face_data_input_right">Käännä päätäsi oikealle</string>
      <string name="structure_face_data_input_success">Valmis!</string>
+     <string name="structure_face_data_input_timeout_msg">Ei voitu tallentaa. Yritä uudelleen.</string>
+     <string name="structure_face_data_input_timeout_title">Yritä uudelleen</string>
      <string name="structure_face_data_input_up">Katso ylös</string>
      <string name="structure_face_data_introduction_back">Takaisin</string>
      <string name="structure_face_data_introduction_msg">Kasvojen 3D-tiedot sallii laitteesi lukituksen poistamisen ja henkilöllisyytesi vahvistamisen. Sinun pitää asettaa salasana ennen tämän ominaisuuden käyttämistä.</string>
@@ -911,6 +914,7 @@ valvoa"</string>
      <string name="structure_face_data_introduction_settingpassword">Aseta</string>
      <string name="structure_face_data_introduction_title">Lisää kasvojen 3D-tiedot</string>
      <string name="structure_face_data_ir_input_face">Liikuta päätäsi hieman</string>
+     <string name="structure_face_data_manage_delete_msg">Poista kasvojen 3D-tiedot</string>
      <string name="structure_face_data_open_cameraing">Käynnistetään Kameraa…</string>
      <string name="structure_face_data_rgb_input_face">Aseta kasvosi kehyksen sisäpuolelle</string>
      <string name="structure_face_data_suggestion_text">Varmista, että kaikki kasvosi osat näkyvät selkeästi. Älä pue yllesi hattuja, aurinkolaseja tai muita kasvojasi peittäviä esineitä kasvojen 3D-tietojen tallennuksen aikana. Varmista, että kasvosi on myös tasaisesti valaistu.</string>
@@ -918,6 +922,24 @@ valvoa"</string>
      <string name="structure_face_delete_data_dialog_msg">Kameran käynnistäminen ja esikatselun hakeminen epäonnistui. Yritä uudelleen.</string>
      <string name="structure_face_delete_data_dialog_msg_retry">Yritä uudelleen</string>
      <string name="structure_face_delete_data_dialog_title">Kameran käynnistäminen epäonnistui</string>
+     <string name="structure_face_hardware_abnormal_btn">Selvä</string>
+     <string name="structure_face_hardware_abnormal_msg">Kasvojen tietoja ei voi tallentaa laserin virheen vuoksi. Ota yhteyttä asiakaspalveluun saadaksesi apua.</string>
+     <string name="structure_face_hardware_abnormal_title">Laser virhe</string>
+     <string name="structure_face_modules_abnormal_btn">Käynnistä uudelleen</string>
+     <string name="structure_face_modules_abnormal_msg">Kasvojen tietoja ei voi tallentaa optisen moduulivirheen vuoksi. Käynnistä laitteesi uudelleen ja yritä uudelleen.</string>
+     <string name="structure_face_modules_abnormal_title">Optinen moduulivirhe</string>
+     <string name="structure_face_unlock_model2d_dialog_msg">3D-tunnistus poistetaan käytöstä. Kasvojesi 3D-tiedot poistetaan. Sinun täytyy myös lisätä kasvojesi 2D-tiedot. Otetaanko 2D-tunnistus käyttöön?</string>
+     <string name="structure_face_unlock_model2d_dialog_title">Otetaan 2D-tunnistusta käyttöön</string>
+     <string name="structure_face_unlock_model3d_dialog_msg">2D-tunnistus poistetaan käytöstä. Kasvojesi 2D-tiedot poistetaan. Sinun täytyy myös lisätä kasvojesi 3D-tiedot. Otetaanko 3D-tunnistus käyttöön?</string>
+     <string name="structure_face_unlock_model3d_dialog_title">Otetaan 3D-tunnistusta käyttöön</string>
+     <string name="structure_face_unlock_model_dialog_enable">Ota käyttöön</string>
+     <string name="structure_face_unlock_model_dialog_notenable">Ei kiitos</string>
+     <string name="structure_face_unlock_model_other">Muu</string>
+     <string name="structure_face_unlock_model_other_msg_2d">2D-tunnistus</string>
+     <string name="structure_face_unlock_model_other_msg_3d">3D-tunnistus</string>
+     <string name="structure_face_unlock_model_other_suggestion_2d">Kasvojen 2D-tunnistus on vähemmän turvallinen kuin kuvio, PIN-koodi tai salasana. Kun tämä ominaisuus on käytössä, laitteesi lukituksen voi mahdollisesti poistaa kuvallasi tai henkilöillä ja objekteilla, jotka näyttävät sinulta.</string>
+     <string name="structure_face_unlock_model_other_suggestion_3d">Kasvojen 3D-tunnistus on suhteellisen turvallinen. On erittäin epätodennäköistä, että laitteesi lukitus voidaan poistaa kuvallasi, kun tämä ominaisuus on käytössä. Kuitenkin ihmiset tai objektit, jotka näyttävät sinulta, voivat mahdollisesti poistaa laitteesi lukituksen.</string>
+     <string name="structure_face_unlock_model_other_title">Kasvojentunnistus</string>
      <string name="switch_bar_off">Pois käytöstä</string>
      <string name="switch_bar_on">Käytössä</string>
      <string name="symbol_colon">:</string>
@@ -1634,6 +1656,8 @@ Saat lisätietoja järjestelmänvalvojalta."</string>
   <string name="retail_demo_reset_next">Seuraava</string>
   <string name="retail_demo_reset_title">Salasana vaaditaan</string>
   <string name="return_to_incall_screen">Palaa takaisin puheluun</string>
+  <string name="rgb_face_data_introduction_title">Lisää kasvojen 2D-tiedot</string>
+  <string name="rgb_face_data_manage_delete_msg">Poista kasvojen 2D-tiedot</string>
   <string name="running_process_item_user_label">Käyttäjä: %1$s</string>
   <string name="runningservices_settings_summary">Tarkastele ja hallitse käynnissä olevia palveluita</string>
   <string name="runningservices_settings_title">Käynnissä olevat palvelut</string>
@@ -1853,4 +1877,19 @@ Pyyhkäise alas lukitaksesi"</string>
   <string name="wifi_verbose_logging">Käytä Wi-Fin laajennettua lokikirjausta</string>
   <string name="wifi_verbose_logging_summary">Lisää Wi-Fin lokikirjaustasoa, näytä SSID RSSI -kohtaisesti Wi-Fi-valitsimessa.</string>
   <string name="window_animation_scale_title">Ikkuna</string>
+  <string name="wireless_change_to_ac_charging">Vaihdettiin langalliseen lataukseen</string>
+  <string name="wireless_charge_current">Ladataan</string>
+  <string name="wireless_charge_dialog_cancel">Selvä</string>
+  <string name="wireless_charge_dialog_title">Aseta laitteesi lataustelineen keskelle</string>
+  <string name="wireless_charge_reset_device">Lataaminen on hidasta. Säädä laitettasi.</string>
+  <string name="wireless_charge_reset_device_detail">Varmista, että laitteesi sijainti lataustelineellä on oikein</string>
+  <string name="wireless_charge_stop">Langaton lataaminen pysäytettiin</string>
+  <string name="zen_alarm_warning">Et kuule seuraavaa hälytystäsi %1$s</string>
+  <string name="zen_alarm_warning_indef">Et kuule seuraavaa hälytystäsi %1$s, ellet poista tätä käytöstä ennen sitä</string>
+  <string name="zen_alarms_introduction">Sinua ei häiritä äänillä eikä värinöillä, paitsi hälytyksistä. Kuulet kuitenkin kaiken, mitä päätät toistaa, mukaan lukien musiikin, videot ja peliäänet.</string>
+  <string name="zen_mode_and_condition">%1$s. %2$s</string>
+  <string name="zen_priority_customize_button">Mukauta</string>
+  <string name="zen_priority_introduction">Sinua ei häiritä äänillä eikä värinällä, paitsi hälytyksistä, muistutuksista, tapahtumista ja määrittämistäsi soittajista. Kuulet kuitenkin kaiken, mitä päätät toistaa, mukaan lukien musiikin, videot ja peliäänet.</string>
+  <string name="zen_silence_introduction">Tämä estää KAIKKI äänet ja värinät, mukaan lukien hälytykset, musiikin, videot ja peliäänet.</string>
+  <string name="zen_silence_introduction_voice">Tämä estää KAIKKI äänet ja värinät, mukaan lukien hälytykset, musiikin, videot ja peliäänet. Voit silti soittaa puheluita normaalisti.</string>
 </resources>

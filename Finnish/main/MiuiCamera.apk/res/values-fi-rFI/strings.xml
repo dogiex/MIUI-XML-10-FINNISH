@@ -187,7 +187,7 @@ Puhdista kamerasi linssi parempia kuvia varten."</string>
   <string name="lighting_hint_title">Studiovalaistus</string>
   <string name="lighting_hint_too_close">Siirrä kameraa kauemmaksi</string>
   <string name="lighting_hint_too_far">Tuo kameraa lähemmäksi</string>
-  <string name="lighting_hint_usage">"Voit käyttää studin valaistustehosteita
+  <string name="lighting_hint_usage">"Voit käyttää studiovalaistustehosteita
 Muotokuvatilassa"</string>
   <string name="lighting_pattern_dot">Pisteet</string>
   <string name="lighting_pattern_leaf">Lehdet</string>

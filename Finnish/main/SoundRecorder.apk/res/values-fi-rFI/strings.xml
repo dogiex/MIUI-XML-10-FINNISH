@@ -97,6 +97,7 @@
   <string name="record_downloading_notification">Ladataan…</string>
   <string name="record_downloading_notification_complete">Lataus valmis</string>
   <string name="record_downloading_notification_count">%d ladataan</string>
+  <string name="record_format_preference_title">Nauhoituksen muoto</string>
   <string name="record_list">Nauhoitukset</string>
   <string name="record_list_call">Nauhoitetut puhelut</string>
   <string name="record_list_category_title_format">MMMM yyyy</string>

@@ -886,6 +886,10 @@ Huomautus: Vain Ubuntu 8.04!"</item>
         <item>Verkko on hidas heikon signaalin takia</item>
         <item>Siirretään…</item>
     </string-array>
+    <string-array name="notch_battery_indicator_style_entries">
+        <item>Graafinen</item>
+        <item>Prosentti</item>
+    </string-array>
     <string-array name="overlay_display_devices_entries">
         <item>Ei mitään</item>
         <item>480p</item>

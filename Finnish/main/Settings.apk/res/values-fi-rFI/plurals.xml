@@ -236,6 +236,10 @@
         <item quantity="other">Olet %1$d askeleen päässä bugiraportista.</item>
         <item quantity="one">Olet %1$d askeleen päässä bugiraportista.</item>
     </plurals>
+    <plurals name="show_reset_countdown">
+        <item quantity="other">Suorita %1$d askelta palauttaaksesi tehdasasetukset</item>
+        <item quantity="one">Suorita %1$d askel palauttaaksesi tehdasasetukset</item>
+    </plurals>
     <plurals name="special_access_summary">
         <item quantity="other">%d sovelluksen datankäyttöä ei rajoiteta.</item>
         <item quantity="one">1 sovelluksen datankäyttöä ei rajoiteta.</item>

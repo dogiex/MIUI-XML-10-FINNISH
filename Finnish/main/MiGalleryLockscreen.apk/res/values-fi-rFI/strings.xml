@@ -23,6 +23,12 @@
   <string name="ad_pop_des">应用下载中：</string>
   <string name="add_launch_hint_text">Lisää Aloitusnäytön pikakuvake</string>
   <string name="app_name">Mi Taustakuvan Karuselli</string>
+  <string name="app_self_upgrade_dlg_checkbox_ignore_version">Ohita tämä versio</string>
+  <string name="app_self_upgrade_dlg_content">Sovelluksen uusi versio on saatavilla, päivitetäänkö nyt?</string>
+  <string name="app_self_upgrade_dlg_negative_btn">Muistuta minua myöhemmin</string>
+  <string name="app_self_upgrade_dlg_postive_btn">Päivitä</string>
+  <string name="app_self_upgrade_dlg_title">Sovelluksen päivitys</string>
+  <string name="app_self_upgrade_toast_downloading_install">Aloitetaan uuden version lataamista ja asentamista</string>
   <string name="apply">Aseta</string>
   <string name="apply_to_above_all">Aseta molempiin</string>
   <string name="apply_to_screenlock">Aseta Lukitusnäytölle</string>

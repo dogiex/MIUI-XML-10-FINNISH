@@ -394,7 +394,7 @@ Aktivoi tilisi seuraamalla
   <string name="passport_vcode_notification_title">Kirjautumisesi vahvistus on kesken</string>
   <string name="passport_vcode_prompt_long">Syötä vahvistuskoodi</string>
   <string name="passport_vcode_sms_send_prompt">Lähetä vahvistuskoodi %s</string>
-  <string name="passport_verification_failed">Tunnistautuminen epäonnistui</string>
+  <string name="passport_verification_failed">Tiliä ei voitu vahvistaa</string>
   <string name="passport_verify">Vahvista</string>
   <string name="passport_verifying_activator_phone">Vahvistetaan puhelimen tietoturvaa…</string>
   <string name="passport_wait_for_sms_prompt">Aloitetaanko alusta nyt? Vahvistusviestissä saattaa kestää jopa 10 minuuttia saapua, kun puhelimesi on operaattorisi verkon kantoalueella.</string>
