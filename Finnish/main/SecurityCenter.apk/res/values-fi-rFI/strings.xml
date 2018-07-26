@@ -471,8 +471,8 @@
   <string name="button_text_disconnect_now">Katkaise yhteys</string>
   <string name="button_text_fix_now">Korjaa</string>
   <string name="button_text_forbid_now">Kiellä</string>
-  <string name="button_text_ignore">Jätä huomiotta</string>
-  <string name="button_text_ignore_alert_title">Jätetäänkö tämä hälytys huomiotta?</string>
+  <string name="button_text_ignore">Ohita</string>
+  <string name="button_text_ignore_alert_title">Ohitetaanko tämä hälytys?</string>
   <string name="button_text_known">OK</string>
   <string name="button_text_let_me_select">Selvä</string>
   <string name="button_text_next_step">Seuraava</string>
