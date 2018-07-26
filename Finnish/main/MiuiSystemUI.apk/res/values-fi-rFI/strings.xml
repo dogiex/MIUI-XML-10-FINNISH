@@ -1025,14 +1025,6 @@ Kaikki käyttäjät voivat päivittää kaikkien käyttäjien sovelluksia."</str
      <string name="wallpaper_global_des_drop_down_notify_text">Näytä tiedot vapauttamalla</string>
      <string name="wifi_is_off">Wi-Fi pois käytöstä</string>
      <string name="wrong_password">Virheellinen salasana</string>
-     <string name="zen_alarm_warning">Et kuule seuraavaa hälytystäsi %1$s</string>
-     <string name="zen_alarm_warning_indef">Et kuule seuraavaa hälytystäsi %1$s, ellet poista tätä käytöstä ennen sitä</string>
-     <string name="zen_alarms_introduction">Sinua ei häiritä äänillä tai värinällä, paitsi hälytyksillä. Kuulet silti kaikki, mitä päätät toistaa, mukaan lukien musiikin, videot ja pelit.</string>
-     <string name="zen_mode_and_condition">%1$s. %2$s</string>
-     <string name="zen_priority_customize_button">Mukauta</string>
-     <string name="zen_priority_introduction">Sinua ei häiritä äänillä tai värinällä, paitsi hälytyksillä, muistutuksilla, tapahtumilla ja määrittelemiltäsi soittajilta. Kuulet silti kaikki, mitä päätät toistaa, mukaan lukien musiikin, videot ja pelit.</string>
-     <string name="zen_silence_introduction">Tämä estää KAIKKI äänet ja värinät, mukaan lukien hälytykset, musiikin, videot ja pelit.</string>
-     <string name="zen_silence_introduction_voice">Tämä estää KAIKKI äänet ja värinät, mukaan lukien hälytykset, musiikin, videot ja pelit. Voit silti soittaa puheluita.</string>
      <!-- miui 10 valmis -->
   <string name="accessibility_action_divider_bottom_full">Bottom full screen</string>
   <string name="accessibility_action_divider_left_30">Left 30%</string>
@@ -1891,5 +1883,5 @@ Pyyhkäise alas lukitaksesi"</string>
   <string name="zen_priority_customize_button">Mukauta</string>
   <string name="zen_priority_introduction">Sinua ei häiritä äänillä eikä värinällä, paitsi hälytyksistä, muistutuksista, tapahtumista ja määrittämistäsi soittajista. Kuulet kuitenkin kaiken, mitä päätät toistaa, mukaan lukien musiikin, videot ja peliäänet.</string>
   <string name="zen_silence_introduction">Tämä estää KAIKKI äänet ja värinät, mukaan lukien hälytykset, musiikin, videot ja peliäänet.</string>
-  <string name="zen_silence_introduction_voice">Tämä estää KAIKKI äänet ja värinät, mukaan lukien hälytykset, musiikin, videot ja peliäänet. Voit silti soittaa puheluita normaalisti.</string>
+  <string name="zen_silence_introduction_voice">Tämä estää KAIKKI äänet ja värinät, mukaan lukien hälytykset, musiikin, videot ja peliäänet. Voit silti soittaa puheluita.</string>
 </resources>
