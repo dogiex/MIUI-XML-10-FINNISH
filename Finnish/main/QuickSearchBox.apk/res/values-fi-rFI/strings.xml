@@ -106,7 +106,7 @@ Voit vaihtaa asetusta Asetukset &gt; Asennetut sovellukset &gt; Haku"</string>
   <string name="switch_mms">Viestit</string>
   <string name="switch_notes">Muistiot</string>
   <string name="switch_online">Internet</string>
-  <string name="switch_prompt_ignore">Älä välitä</string>
+  <string name="switch_prompt_ignore">Ohita</string>
   <string name="switch_prompt_set">Näytä vaihtoehdot</string>
   <string name="switch_prompt_title">Etkö löydä %s?</string>
   <string name="switch_prompt_title_default">Etkö löydä, mitä tarvitset?</string>

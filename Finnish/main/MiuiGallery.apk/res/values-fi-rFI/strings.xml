@@ -989,8 +989,8 @@ on käytettävissä"</string>
   <string name="hybrid_try_again">Yritä uudelleen</string>
   <string name="ignore_album">Älä näytä</string>
   <string name="ignore_alert_title">Etkö halua nähdä tätä albumia? Napauta oikeaa yläkulmaa katsellaksesi kuvia, jotka olet jättänyt huomiotta.</string>
-  <string name="ignore_face">Älä huomioi tätä henkilöä</string>
-  <string name="ignore_faces_title">Jätetään huomiotta</string>
+  <string name="ignore_face">Ohita tämä henkilö</string>
+  <string name="ignore_faces_title">Ohita</string>
   <string name="image_decode_failed">Kuvaa ei voitu tulkita</string>
   <string name="image_download_item_title">Lataa alkuperäinen tiedosto (%s)</string>
   <string name="image_invalid_path">Virheellinen polku</string>
@@ -1423,7 +1423,7 @@ mukauttaaksesi Galleriasi"</string>
   <string name="secret_album_password_update_dialog_msg">Yksityisyydensuojan salasana toimii kuvissa, muistioissa, piilotetuissa kansioissa, jne.</string>
   <string name="secret_album_password_update_dialog_title">Päivitä salasana</string>
   <string name="secret_album_password_update_first_user_dialog_msg">Yksityisyydensuojan salasana toimii kuvissa, muistioissa, piilotetuissa kansioissa, jne.</string>
-  <string name="secret_album_password_update_first_user_dialog_title">Upgrade password</string>
+  <string name="secret_album_password_update_first_user_dialog_title">Päivitä salasana</string>
   <string name="secret_album_set_pc_password_dialog_msg">Yksityisyydensuojan salasana toimii kuvissa, muistioissa, piilotetuissa kansioissa, jne.</string>
   <string name="secret_album_set_pc_password_dialog_ok">Aseta uusi salasana</string>
   <string name="secret_album_set_pc_password_dialog_title">Aseta salasana</string>
@@ -1432,7 +1432,7 @@ mukauttaaksesi Galleriasi"</string>
   <string name="secret_reason_type_not_support">Tämä tiedostotyyppi ei ole tuettu</string>
   <string name="secret_reason_unknow_reasons">Tuntematon virhe</string>
   <string name="secret_reason_video_not_support">Videoita ei voi lisätä piilotettuun albumiin</string>
-  <string name="see_ignore_faces">Katso henkilöitä, jotka olet jättänyt huomiotta</string>
+  <string name="see_ignore_faces">Näytä henkilöt, jotka olet ohittanut</string>
   <string name="select_item_face">"Onko tämä '%s'?"</string>
   <string name="select_origin_tip">Alkuperäinen tiedosto (%s)</string>
   <string name="send_file_beautify_failed">Jakaminen epäonnistui</string>

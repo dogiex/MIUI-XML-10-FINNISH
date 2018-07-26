@@ -633,7 +633,7 @@ Operaattorisi saattaa veloittaa sinulta lisäkustannuksia jos otat mobiilidatan 
   <string name="diagnostic_attention_dialog_message">%1$s diagnostiikka on käynnissä. Odota sen valmistumista ja yritä uudelleen..</string>
   <string name="dialog_app_roaming_message">%1$s ei voi käyttää mobiilidataa roaming-tilassa. Kun olet ulkomailla roaming-tilassa, vain poikkeuslistalle lisäämäsi sovellukset voi käyttää mobiilidataa.</string>
   <string name="dialog_app_roaming_title">Ulkomaan roaming-tila ei ole käytössä sovellukselle %1$s</string>
-  <string name="dialog_button_ignore">Älä huomioi</string>
+  <string name="dialog_button_ignore">Ohita</string>
   <string name="dialog_button_yes">Kyllä</string>
   <string name="dialog_msg_auto_start_declare">Jotkut sovellukset saattaa ilmoittaa väärin, että MIUI on estänyt sitä käynnistymästä. Tarkista sovelluksille myönnetyt käyttöoikeudet asetuksista Asetukset, Käyttöoikeudet.</string>
   <string name="dialog_msg_stop_virus_scan">Lopetetaanko käynnissä oleva tietoturvatarkistus?</string>
@@ -1634,7 +1634,7 @@ Tämä toiminta vähentää akun kestoa."</string>
   <string name="pref_correction_sms_number">Lähetä kalibrointitekstiviesti numeroon</string>
   <string name="pref_daily_adjust">Aseta huippudatan raja</string>
   <string name="pref_daily_traffic">Huippudatan raja</string>
-  <string name="pref_data_usage_ignore_settings">Älä välitä datan käytöstä</string>
+  <string name="pref_data_usage_ignore_settings">Ohita datan käyttö</string>
   <string name="pref_data_usage_ignore_settings_summary">Älä pidä kirjaa valittujen sovelluksien datan käytöstä</string>
   <string name="pref_data_usage_not_set">Tuntematon datapaketti</string>
   <string name="pref_free_adjust">Aseta hiljaisen ajan datan käyttö</string>

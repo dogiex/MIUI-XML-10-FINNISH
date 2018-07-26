@@ -9,7 +9,7 @@
   <string name="activity_title_deep_apk">Poista sovelluspaketit</string>
   <string name="activity_title_deep_clean">Syväpuhdistus</string>
   <string name="activity_title_garbage_cleanup">Puhdistaja</string>
-  <string name="activity_title_ignored_image">Sivuutettu</string>
+  <string name="activity_title_ignored_image">Ohitettu</string>
   <string name="activity_title_image_gallery">Poista samankaltaiset</string>
   <string name="activity_title_large_file">Suuret tiedostot</string>
   <string name="activity_title_main">Puhdistaja</string>
@@ -86,7 +86,7 @@
   <string name="button_text_delete_from_white_list">Poista</string>
   <string name="button_text_delete_pic">Poista</string>
   <string name="button_text_deselect_all_photos">Poista valinnat</string>
-  <string name="button_text_group_ignore">Älä välitä</string>
+  <string name="button_text_group_ignore">Ohita</string>
   <string name="button_text_group_unlike">Ei kaksoiskappaleita</string>
   <string name="button_text_install">Asenna</string>
   <string name="button_text_install_now">Asenna</string>
@@ -156,7 +156,7 @@
   <string name="deepclean_normal_item_desc2">Puhdistaja ei vaikuta järjestelmän suorituskykyyn</string>
   <string name="deepclean_normal_item_summary_empty">Kaikki näyttää hyvältä, ei putsattavaa</string>
   <string name="deepclean_normal_title">Puhdista automaattisesti</string>
-  <string name="deepclean_similar_ignore">Älä välitä</string>
+  <string name="deepclean_similar_ignore">Ohita</string>
   <string name="deepclean_similar_summary_empty">Kaikki näyttää hyvältä, ei poistettavia kuvia</string>
   <string name="deepclean_size_summary_less">Tallennustilaa on liian vähän</string>
   <string name="deepclean_size_summary_more">Tallennustilaa on tarpeeksi</string>
