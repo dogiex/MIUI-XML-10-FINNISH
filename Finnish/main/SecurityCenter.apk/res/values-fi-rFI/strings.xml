@@ -2309,7 +2309,7 @@ Rolled over extra data"</string>
   <string name="traffic_config_alert_setted">Asetukset asetettu</string>
   <string name="traffic_config_alert_title">%s korjaus</string>
   <string name="traffic_correction_failed">Tietoa ei saada</string>
-  <string name="traffic_correction_start_correction">Jutellaan operaattorin palvelimen kanssa…</string>
+  <string name="traffic_correction_start_correction">Keskustellaan operaattorin palvelimen kanssa…</string>
   <string name="traffic_correction_start_correction_failed">Pyynnön lähettäminen epäonnistui, tarkista operaattorin asetukset</string>
   <string name="traffic_correction_success">Datan käyttö päivitetty</string>
   <string name="traffic_correction_success_notify_message">Näytä tiedot napauttamalla.</string>

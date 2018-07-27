@@ -31,7 +31,7 @@
   <string name="cancel_restore_home">Peruutetaan…</string>
   <string name="click_try_to_restore_again">Yritä uudelleen napauttamalla</string>
   <string name="cloud_app_backup_success">Sovellukset varmuuskopioitiin onnistuneesti</string>
-  <string name="cloud_app_check_data">Jutellaan Mi Pilven kanssa…</string>
+  <string name="cloud_app_check_data">Keskustellaan Mi Pilven kanssa…</string>
   <string name="cloud_app_current_device">Nykyinen laite</string>
   <string name="cloud_app_dont_restore">Asenna uutena laitteena</string>
   <string name="cloud_app_no_data">Ei varmuuskopioita</string>
