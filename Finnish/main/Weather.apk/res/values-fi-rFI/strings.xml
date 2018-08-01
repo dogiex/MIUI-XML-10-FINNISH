@@ -110,7 +110,6 @@
   <string name="daily_forecast_no_data">"Säätietojen haku epäonnistui
 Vedä alaspäin päivittääksesi tai tarkasta verkkoasetukset"</string>
   <string name="data_provided_by">Tiedot tarjoaa</string>
-  <string name="data_source_timezone">GMT%1$s</string>
   <string name="edit_alert_city_title">Hallitse hälytyksiä</string>
   <string name="edit_city">Muokkaa kaupunkia</string>
   <string name="eu_region_version_first_start_network_msg">Käyttämällä tätä tuotetta hyväksyt, että Xiaomi kerää, käsittelee ja käyttää henkilötietojasi mukaan lukien hakemiesi kaupunkien koordinaatteja ja muita tietoja lueteltu Tietosuojakäytännössämme. Tutustu Tietosuojakäytäntöömme lukeaksesi, kuinka keräämme ja käsittelemme tietoja. Napauttamalla \"Hyväksyn\", hyväksyt Xiaomin %1$s ja %2$s.</string>
