@@ -163,7 +163,6 @@
   <string name="extra_ad_title">Saatat myös tykätä</string>
   <string name="extract_file">Puretaan tiedostoa…</string>
   <string name="fastest_speed">Huippunopeus</string>
-  <string name="fileSizeSuffix">%1$s %2$s</string>
   <string name="file_exist_hint">Tämä tiedosto on jo olemassa</string>
   <string name="file_picker">Valitse sijainti</string>
   <string name="file_size">Koko:</string>
