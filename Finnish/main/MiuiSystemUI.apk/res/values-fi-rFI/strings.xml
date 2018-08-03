@@ -1400,10 +1400,6 @@ Jos otat datan uudelleen käyttöön, operaattorisi saattaa laskuttaa siitä."</
   <string name="keyboard_shortcut_group_system_recents">Viimeaikaiset</string>
   <string name="keyboard_shortcut_group_system_shortcuts_helper">Pikanäppäimet</string>
   <string name="keyboard_shortcut_group_system_switch_input">Vaihda syöttötapaa</string>
-  <string name="kilobyte_per_second">Kt/s</string>
-  <string name="label_view">Katso</string>
-  <string name="launch_defaults_none">Oletuksia ei asetettu.</string>
-  <string name="launch_defaults_some">Joitakin oletuksia on asetettu.</string>
   <string name="legacy_vpn_name">VPN</string>
   <string name="lland">L Land</string>
   <string name="loading_desktop">Odota hetki…</string>
@@ -1468,7 +1464,6 @@ Saat lisätietoja järjestelmänvalvojalta."</string>
   <string name="monitoring_subtitle_vpn">VPN</string>
   <string name="monitoring_title">Verkon valvonta</string>
   <string name="monitoring_title_device_owned">Laitehallinta</string>
-  <string name="mount_storage">Kyllä</string>
   <string name="nav_guide_cancel">Älä välitä</string>
   <string name="nav_guide_message">Käytä eleitä piilottaaksesi/näyttääksesi näyttöpainikkeet.</string>
   <string name="nav_guide_ok">Aseta</string>
