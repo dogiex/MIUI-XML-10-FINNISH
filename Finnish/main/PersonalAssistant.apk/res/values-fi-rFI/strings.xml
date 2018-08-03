@@ -467,7 +467,6 @@
   <string name="edit_category_dialog_title">Valitse maksukategoria</string>
   <string name="edit_comment_hint">Merkkaa uudelleen</string>
   <string name="edit_delete_dialog_message">Poistetaanko tämä historiatietue?</string>
-  <string name="edit_record_category">"Kategoria: "</string>
   <string name="edit_record_label">Tiedot</string>
   <string name="empty_card_btn">Avaa sovellus</string>
   <string name="empty_card_tip">Näyttää siltä, ettet ole kirjautunut sisään tai et ole ottanut tätä korttia vielä käyttöön.</string>
@@ -501,7 +500,9 @@
   <string name="exercise_setting_brief">Mittaa matka ja laske askeleet, jotka teet päivittäin</string>
   <string name="exercise_setting_misport_detail">Mittaa matka ja laske askeleet, jotka teet päivittäin (Salli Mi Fit -sovelluksen käynnistyä automaattisesti asetuksissa Tietoturva - Käyttöoikeudet).</string>
   <string name="express">Pikalähetys</string>
+  <string name="express_add">添加</string>
   <string name="express_add_new_address">Lisää osoite</string>
+  <string name="express_add_tel">添加电话</string>
   <string name="express_address_delete_warning">Poistetaanko tämä osoite?</string>
   <string name="express_address_deleted">Osoite poistettu</string>
   <string name="express_address_info">Osoitetiedot</string>
@@ -534,6 +535,7 @@
   <string name="express_copied">Seurantanumero kopioitu</string>
   <string name="express_copy_number">Kopioi</string>
   <string name="express_delete_order">Poista</string>
+  <string name="express_delete_tel">删除电话</string>
   <string name="express_delivery">Toimitetaan</string>
   <string name="express_dest_city_label">Määränpää</string>
   <string name="express_detailed_address">Osoite</string>
@@ -965,6 +967,7 @@ Useita tilauksia, jotka lähetetään SF Expressin kautta Taobaon, Tmallin ja Xi
   <string name="mi_sport">Askelmittari</string>
   <string name="mi_sport_go_install">Lataa</string>
   <string name="mi_wallet">Mi Lompakko</string>
+  <string name="mifare_card">门禁卡</string>
   <string name="mini_add_fp">请先到手机系统中添加指纹, 再开启支付宝指纹密码</string>
   <string name="mini_agree">同意</string>
   <string name="mini_already_download">已下载</string>
@@ -1263,12 +1266,8 @@ Useita tilauksia, jotka lähetetään SF Expressin kautta Taobaon, Tmallin ja Xi
   <string name="payment_privacy_dialog_title">\"Maksuni\" Tietosuojakäytäntö</string>
   <string name="payment_record_add">Lisää maksu</string>
   <string name="payment_record_delete">Poista maksuista</string>
-  <string name="payment_record_label">Tiedot</string>
   <string name="payment_record_menu_delete">Poista</string>
   <string name="payment_record_menu_select">Valitse</string>
-  <string name="payment_record_new_lable">Lisää historiatietue</string>
-  <string name="payment_record_recent_title">Viimeaikaiset maksut</string>
-  <string name="payment_record_show_more">Näytä lisää</string>
   <string name="payment_report_failed_record_dialog_cancel">Peruuta</string>
   <string name="payment_report_failed_record_dialog_message">"Ilmoita käsittelemättömät laskut auttaaksesi meitä tekemään maksujen laskemisen tarkemmaksi.
 "&lt;b&gt;Jakamiasi kohteita käytetään vain parantaaksemme Sovellusholvia.&lt;/b&gt;</string>
@@ -1311,6 +1310,8 @@ Useita tilauksia, jotka lähetetään SF Expressin kautta Taobaon, Tmallin ja Xi
   <string name="recharge_title_over">Meni rajan yli</string>
   <string name="recharge_title_remaining">Jäljellä oleva data</string>
   <string name="recharge_title_used">Käytetty tänään</string>
+  <string name="recommend_add_one_card">添加%s</string>
+  <string name="recommend_close">关闭</string>
   <string name="recommend_title">添加更多你感兴趣的卡片</string>
   <string name="record_name">Uusi nauhoitus</string>
   <string name="record_parent">Ääninauhuri</string>
@@ -1322,12 +1323,14 @@ Useita tilauksia, jotka lähetetään SF Expressin kautta Taobaon, Tmallin ja Xi
   <string name="retry">Yritä uudelleen</string>
   <string name="rmb">RMB</string>
   <string name="save_edit">Tallenna muutokset</string>
+  <string name="save_to_note">转存至便签</string>
   <string name="scan">Skannaa</string>
   <string name="scan_app">Skannaa</string>
   <string name="scan_card">Käyntikortti</string>
   <string name="scan_code">QR-koodi</string>
   <string name="scan_doc">Asiakirja</string>
   <string name="scan_exercise">Opiskelu</string>
+  <string name="scan_express_num">扫码查询</string>
   <string name="scan_parent">Maksa</string>
   <string name="scan_trans">Käännä</string>
   <string name="screen_shot">截屏</string>
@@ -1343,6 +1346,8 @@ Useita tilauksia, jotka lähetetään SF Expressin kautta Taobaon, Tmallin ja Xi
   <string name="search_setting_description">Otsikot suosikeissa</string>
   <string name="search_tip">Haetaan…</string>
   <string name="security">Tietoturva</string>
+  <string name="select_team_close">关闭</string>
+  <string name="select_team_confirm">提交</string>
   <string name="send_action_title">Lisää suosikkeihin</string>
   <string name="send_shortcut_failed">Lähettäminen epäonnistui</string>
   <string name="send_shortcut_success">Asetettiin Aloitusnäytölle</string>
@@ -1428,6 +1433,7 @@ Useita tilauksia, jotka lähetetään SF Expressin kautta Taobaon, Tmallin ja Xi
   <string name="shopping_enable">购物聚合能力已开启</string>
   <string name="shopping_label">我的购物</string>
   <string name="shopping_notification_title">已添加到【我的购物】</string>
+  <string name="shopping_search">购物搜索</string>
   <string name="shopping_setting_authorize">授权开启购物聚合能力</string>
   <string name="shopping_setting_authorize_sub">聚合支持应用的收藏、购物车内容</string>
   <string name="shopping_setting_base">基础设置</string>
@@ -1515,6 +1521,7 @@ Useita tilauksia, jotka lähetetään SF Expressin kautta Taobaon, Tmallin ja Xi
   <string name="taxi_open">Näytä taksikortti</string>
   <string name="taxi_setting_brief">Hanki taksi yhdellä napautuksella.</string>
   <string name="taxi_target">Määränpää     </string>
+  <string name="team_selected">%s,已选中</string>
   <string name="temp_support_xiaomi">暂时仅支持小米手环</string>
   <string name="template_args_invalid">上下文参数不合法</string>
   <string name="template_bussiness_data_error">服务端返回数据解析异常，无法展示界面</string>

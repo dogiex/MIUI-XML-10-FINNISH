@@ -256,7 +256,7 @@
   <string name="app_manager_unstall_application">Poista</string>
   <string name="app_managere_not_have_app">Tyhjä</string>
   <string name="app_manger_des_separator">", "</string>
-  <string name="app_mobile">Mobiili</string>
+  <string name="app_mobile">Mobiilidata</string>
   <string name="app_name">Sovelluslukko</string>
   <string name="app_name_na">Datan käyttö</string>
   <string name="app_name_securitycenter">Tietoturva</string>
@@ -854,8 +854,8 @@ Se lisätään poikkeuksiin, mutta jo ennestään estetyt kohteet ei ilmesty puh
   <string name="gb_first_window_antimsg_summary_quick_answer">Käytä pikavastauksia</string>
   <string name="gb_first_window_antimsg_summary_transparent_show">Näytä teksti läpinäkyvällä taustalla</string>
   <string name="gb_first_window_antimsg_title">Kätevät ilmoitukset</string>
-  <string name="gb_first_window_gamebox_summary_four">Tyhjennä välimuisti, luo näytön nauhoituksia ja kuvakaappauksia</string>
-  <string name="gb_first_window_gamebox_summary_six">Käytä pikavastauksia, luo näytön nauhoituksia ja kuvakaappauksia</string>
+  <string name="gb_first_window_gamebox_summary_four">Käytä pikavastauksia, luo näytön nauhoituksia ja kuvakaappauksia</string>
+  <string name="gb_first_window_gamebox_summary_six">Tyhjennä välimuisti, luo näytön nauhoituksia ja kuvakaappauksia</string>
   <string name="gb_first_window_handsfree_summary">Ota kaiutin käyttöön automaattisesti</string>
   <string name="gb_first_window_handsfree_title">Handsfree-puhelut</string>
   <string name="gb_first_window_start">Aloita pelaaminen</string>
@@ -1324,7 +1324,7 @@ Kokeile käyttää toista ethernet-kaapelia reitittimesi yhdistämiseen. Jos luu
   <string name="network_speed_for_apps_title">Yhteys</string>
   <string name="network_speed_for_apps_total">Yhteyden nopeus</string>
   <string name="network_test_speed">Testaa Wi-Fi-verkon nopeus</string>
-  <string name="network_traffic_warning_text">MIUI ei osaa laskea yksittäisen järjestelmäsovelluksen datan käyttötilastoja täällä. Voit nähdä datan käyttöön liittyvät tiedot sovelluksen tiedoista, mikäli sovellus käyttää mobiilidataa aktiivisesti.</string>
+  <string name="network_traffic_warning_text">MIUI ei voi laskea yksittäisen järjestelmäsovelluksen datan käyttötilastoja täällä. Voit nähdä datan käyttöön liittyvät tiedot sovelluksen tiedoista, mikäli sovellus käyttää mobiilidataa aktiivisesti.</string>
   <string name="network_traffic_warning_title">Järjestelmäsovelluksien datan käyttö</string>
   <string name="networkchanged_exception_summary">Verkkoyhteys on muuttunut. Testaa uudelleen.</string>
   <string name="networkchanged_exception_title">Yhteys vaihdettu</string>
@@ -1553,7 +1553,7 @@ Tämä toiminta vähentää akun kestoa."</string>
   <string name="power_btn_analyze">Analysoi akun käyttö</string>
   <string name="power_cell">Solu lepotilassa</string>
   <string name="power_center_auto_shutdown">Ajasta käynnistäminen/sammuttaminen</string>
-  <string name="power_center_back">Takaisin akun käyttöön</string>
+  <string name="power_center_back">Takaisin</string>
   <string name="power_center_charge_time">%1$s kunnes täynnä</string>
   <string name="power_center_main_percent_formatted">%s%%</string>
   <string name="power_center_ontime_boot">Käynnistymisen aika</string>

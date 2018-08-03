@@ -14,8 +14,6 @@
   <string name="paper_mode_side_effect_hint">Suurempi voimakkuus voi vaikuttaa tapaan, jolla sisältö näkyy.</string>
   <string name="status_bar_carrier_settings_no_sim_card">Ei SIM-korttia</string>
   <string name="status_bar_settings_show_carrier_under_keyguard">Näytä operaattori laitteen ollessa lukittuna</string>
-  <string name="structure_add_facerecoginition_text">Lisää kasvojen 3D-tiedot</string>
-  <string name="structure_manage_facerecoginition_text">Hallinnoi kasvojen 3D-tietoja</string>
   <string name="super_resolution_access_title">Käytettävissä olevat sovellukset</string>
   <string name="super_resolution_desc">Tee kuvista tarkempia käyttäen AI-algoritmeja</string>
   <string name="super_resolution_maintain">Super-resoluutio ei ole vielä käytettävissä.</string>
@@ -1180,7 +1178,7 @@ Tämän ominaisuuden voi poistaa käytöstä [Asetuksista]"</string>
   <string name="condition_battery_summary">Suorituskykyä pienennetään. Sijaintipalvelut ja taustatiedonsiirto poistetaan käytöstä.</string>
   <string name="condition_battery_title">Virransäästö on päällä</string>
   <string name="condition_bg_data_summary">Taustatiedonsiirto on käytettävissä vain Wi-Fi-yhteyden kautta. Tämä voi vaikuttaa joidenkin sovellusten tai palvelujen toimintaan, kun et käytä Wi-Fi-yhteyttä.</string>
-  <string name="condition_bg_data_title">Data Saver on käytössä</string>
+  <string name="condition_bg_data_title">Datan säästäjä on käytössä</string>
   <string name="condition_cellular_summary">Voit muodostaa yhteyden internetiin vain Wi-Fin kautta.</string>
   <string name="condition_cellular_title">Mobiilidata on poissa käytöstä</string>
   <string name="condition_expand_hide">Piilota</string>
@@ -1326,7 +1324,7 @@ Voit jatkaa puhelimesi käyttöä, kun palautat tehdasasetukset. Kun olet määr
   <string name="data_limit">Datankäyttöraja</string>
   <string name="data_saver_off">Pois käytöstä</string>
   <string name="data_saver_on">Käytössä</string>
-  <string name="data_saver_title">Data Saver</string>
+  <string name="data_saver_title">Datan säästäjä</string>
   <string name="data_size_label">Käyttäjätiedot</string>
   <string name="data_summary_format">%1$s käytetty %2$s jälkeen</string>
   <string name="data_switch_started">Vaihdetaan tiedonsiirron SIM-korttia, odota hetki…</string>
@@ -2234,7 +2232,7 @@ Voit muuttaa tätä asetusta myöhemmin kohdassa Asetukset > Sovellukset ja ilmo
   <string name="instant_app_details_summary">Lisätietoja kohteesta %1$s</string>
   <string name="instant_apps_account">Pikasovellustili</string>
   <string name="instruction_privacy_password">Tämä salasana suojaa seuraavia kohteita</string>
-  <string name="instruction_title">Käyttöohjeet</string>
+  <string name="instruction_title">Tärkeitä turvallisuustietoja</string>
   <string name="insufficient_storage">Ei tarpeeksi säilytystilaa.</string>
   <string name="intent_sender_account_label">Tili:</string>
   <string name="intent_sender_action_label">Toiminto:</string>
@@ -3133,6 +3131,7 @@ Valitse käyttöjärjestelmäsi:"</string>
   <string name="notification_sound_default">Ilmoituksen oletusääni</string>
   <string name="notification_sound_dialog_title">Ilmoituksen oletusääni</string>
   <string name="notification_sound_title">Ilmoituksen oletusääni</string>
+  <string name="notification_suggestion_summary">Näytä tai piilota ilmoituksen sisältö</string>
   <string name="notification_suggestion_title">Hallitse lukitusnäytön ilmoituksia</string>
   <string name="notification_summary_level">Taso %d</string>
   <string name="notification_summary_none">Käytössä kaikissa sovelluksissa</string>
@@ -4440,6 +4439,8 @@ PIN-koodi on mahdollisesti virheellinen."</string>
   <string name="sound_settings_summary">Soittoäänen voimakkuus: %1$s</string>
   <string name="sound_settings_summary_silent">Soittoääni on mykistetty.</string>
   <string name="sound_settings_summary_vibrate">Soittoääni on mykistetty. Puhelin värisee, kun saat puhelun.</string>
+  <string name="sound_stereo_mode_summary">Käytettävissä vain, kun toistat ääntä kaiuttimesta</string>
+  <string name="sound_stereo_mode_title">Stereoääni</string>
   <string name="sound_vibrate_settings">Ääni ja värinä</string>
   <string name="sound_work_settings">Työprofiilin äänet</string>
   <string name="special_access">Sovellusten erikoiskäyttö</string>
@@ -4492,6 +4493,7 @@ Laitteeseesi asennettu luotettu varmenne tekee tämän mahdolliseksi."</string>
   <string name="status_bar_settings_notification_led_custom">Mukautettu väri</string>
   <string name="status_bar_settings_notification_priority">Prioriteetti</string>
   <string name="status_bar_settings_notification_priority_summary">Näytä ilmoitukset listan kärjessä</string>
+  <string name="status_bar_settings_notification_shade_shortcut">Ilmoitusalueen pikakuvake</string>
   <string name="status_bar_settings_notification_sound">Ääni</string>
   <string name="status_bar_settings_notification_sound_custom">Mukautettu ääni</string>
   <string name="status_bar_settings_notification_vibrate">Värinä</string>
@@ -4699,6 +4701,10 @@ Nopeampi ^1 voi toimia tehokkaammin."</string>
   <string name="storageuse_settings_title">Tallennustilan käyttö</string>
   <string name="strict_mode">Tiukka tila käytössä</string>
   <string name="strict_mode_summary">Vilkuta näyttöä sovellusten tehdessä pitkiä toimia</string>
+  <string name="structure_add_facerecoginition_text">Lisää kasvojen 3D-tiedot</string>
+  <string name="structure_face_enroll_not_able_low_electric_itle">Tätä ominaisuutta ei voi käyttää vähäisen virran takia</string>
+  <string name="structure_face_enroll_not_able_low_electric_msg">Akun täytyy olla vähintään 5% ladattuna käynnistääksesi nauhoituksen.</string>
+  <string name="structure_manage_facerecoginition_text">Hallinnoi kasvojen 3D-tietoja</string>
   <string name="suggest_unrestrict_max_aspect_ratio_title">Nämä sovellukset toimivat parhaiten kokonäyttötilassa</string>
   <string name="suggested_fingerprint_lock_settings_summary">Lukituksen avaaminen sormenjäljellä</string>
   <string name="suggested_fingerprint_lock_settings_title">Käytä sormenjälkeä</string>
@@ -4822,7 +4828,7 @@ Se on Googlen tapa synkronoida tietoja, ja sen avulla voit käyttää yhteystiet
   <string name="tether_over_limit_warning_notify_message">Poista kannettava hotspot käytöstä.</string>
   <string name="tether_over_limit_warning_notify_title">Saavutettiin hotspotin tiedonsiirtoraja</string>
   <string name="tether_settings_disabled">Kannettava hotspot pois käytöstä</string>
-  <string name="tether_settings_disabled_on_data_saver">Kun Data Saver on käytössä, puhelinta ei voi käyttää modeemina eikä kannettavien hotspotien käyttäminen onnistu.</string>
+  <string name="tether_settings_disabled_on_data_saver">Kun Datan säästäjä on käytössä, puhelinta ei voi käyttää modeemina eikä kannettavien hotspotien käyttäminen onnistu.</string>
   <string name="tether_settings_summary_hotspot_off_tether_on">Jaettu yhteys</string>
   <string name="tether_settings_summary_hotspot_on_tether_off">Hotspot käytössä</string>
   <string name="tether_settings_summary_hotspot_on_tether_on">Hotspot käytössä, jaettu yhteys</string>
@@ -5023,7 +5029,7 @@ Se on Googlen tapa synkronoida tietoja, ja sen avulla voit käyttää yhteystiet
   <string name="unmount_inform_text">USB-tallennustila poistetaan käytöstä</string>
   <string name="unmute_sound_title">Poista mykistys</string>
   <string name="unrestrict_max_aspect_ratio_title">Nämä sovellukset ovat optimoitu kokonäyttötilaa varten</string>
-  <string name="unrestricted_app_summary">Salli rajoittamaton data Data Saverin kanssa</string>
+  <string name="unrestricted_app_summary">Salli rajoittamaton data Datan säästäjän kanssa</string>
   <string name="unrestricted_app_title">Rajoittamaton datan käyttö</string>
   <string name="unrestricted_data_saver">Rajoittamaton data sallittu</string>
   <string name="untitled_apn">Nimetön</string>

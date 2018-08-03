@@ -38,29 +38,9 @@
         <item>Normaali</item>
         <item>Suuri</item>
     </string-array>
-    <string-array name="express_status_all">
-        <item>Matkalla</item>
-        <item>Lähetetään</item>
-        <item>Lähetetty</item>
-        <item>Tuntematon</item>
-        <item>Vastaanotettu</item>
-        <item>Hylätty</item>
-        <item>Palautettu</item>
-        <item>Tuntematon</item>
-    </string-array>
-    <string-array name="express_status_detail">
-        <item>Matkalla</item>
-        <item>Lähetetään</item>
-    </string-array>
     <string-array name="stock_color_schema">
         <item>Punainen - ylös, vihreä - alas</item>
         <item>Vihreä - ylös, punainen - alas</item>
-    </string-array>
-    <string-array name="express_watched_app_filter">
-        <item>承运公司:</item>
-        <item>运单编号:</item>
-        <item>信息来源：</item>
-        <item>物流信息：</item>
     </string-array>
     <string-array name="keyword_recommend_unit">
         <item>要</item>

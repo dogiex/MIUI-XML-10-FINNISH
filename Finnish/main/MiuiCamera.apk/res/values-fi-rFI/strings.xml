@@ -65,7 +65,7 @@ ja optimoi valokuvasi näiden tietojen perusteella"</string>
   <string name="beauty_fragment_tab_name_beauty">Kauneus</string>
   <string name="beauty_fragment_tab_name_makeup">Edistynyt</string>
   <string name="bokeh_use_hint">Syvyystehoste</string>
-  <string name="burst_shoot_exit_button_text">Poista Burst Shoot käytöstä</string>
+  <string name="burst_shoot_exit_button_text">Poista Sarjakuvaus käytöstä</string>
   <string name="button_fisheye_camera_title">Kalansilmä</string>
   <string name="button_front_camera_title">Ota selfie</string>
   <string name="button_normal_video_title">Nauhoita video</string>
@@ -232,7 +232,7 @@ Muotokuvatilassa"</string>
   <string name="portrait_mode_depth_effect_success_hint">Syvyystehosteet</string>
   <string name="portrait_mode_lowlight_hint">Nyt on liian pimeää</string>
   <string name="portrait_mode_too_close_hint">Siirry kauemmaksi kohteesta</string>
-  <string name="portrait_mode_too_far_hint">Aseta kohde alle 2,5 metrin päähän</string>
+  <string name="portrait_mode_too_far_hint">Aseta kohde alle 2 metrin etäisyydelle</string>
   <string name="portrait_mode_use_hint">"Muotokuvatila sumentamaan taustan
 ja tuo henkilöt esiin."</string>
   <string name="pref_advance_settings">Lisäasetukset</string>
@@ -241,7 +241,7 @@ ja tuo henkilöt esiin."</string>
   <string name="pref_audio_focus_entry_general">Normaali</string>
   <string name="pref_audio_focus_entry_rear">Taka</string>
   <string name="pref_audio_focus_title">Äänitarkennus</string>
-  <string name="pref_burst_shoot_title">Burst shoot</string>
+  <string name="pref_burst_shoot_title">Sarjakuvaus</string>
   <string name="pref_camcorder_settings">Video</string>
   <string name="pref_camcorder_settings_category">Kamera-asetukset</string>
   <string name="pref_camera_ai_scene_title">AI kamera</string>
@@ -334,7 +334,7 @@ ja tuo henkilöt esiin."</string>
   <string name="pref_camera_jpegquality_entry_normal">Normaali</string>
   <string name="pref_camera_jpegquality_title">Kuvanlaatu</string>
   <string name="pref_camera_long_press_shutter_feature_title">Sulkija-painikkeen pitkä painallus</string>
-  <string name="pref_camera_long_pressing_burst_shooting_entry_burst">Burst shoot</string>
+  <string name="pref_camera_long_pressing_burst_shooting_entry_burst">Sarjakuvaus</string>
   <string name="pref_camera_long_pressing_burst_shooting_entry_focus">Tarkenna</string>
   <string name="pref_camera_long_pressing_shutter_title">Paina &amp; pidä Sulkija-painiketta lukitaksesi AE/AF/AWB</string>
   <string name="pref_camera_magic_mirror_title">Taikapeili</string>
@@ -450,6 +450,7 @@ ja tuo henkilöt esiin."</string>
   <string name="pref_front_mirror_entry_on">Päällä</string>
   <string name="pref_front_mirror_label_auto">Automaattinen</string>
   <string name="pref_front_mirror_title">Peilaa etukamera</string>
+  <string name="pref_google_lens">Google objektiivi</string>
   <string name="pref_groupshot_with_primitive_title">Tallenna myös alkuperäiset kuvat</string>
   <string name="pref_manual_exposure_title">S</string>
   <string name="pref_priority_storage_title">Tallenna SD-kortille</string>
@@ -513,7 +514,7 @@ ja tuo henkilöt esiin."</string>
   <string name="see_qrcode_detals">Näytä QR-koodin tiedot</string>
   <string name="simple_mode_button_asd_flash">Poista Salama tallennus käytöstä</string>
   <string name="simple_mode_button_asd_hdr">Poista HDR tallennus käytöstä</string>
-  <string name="simple_mode_button_text_audio_capture">Poista äänitarkennus käytöstä</string>
+  <string name="simple_mode_button_text_audio_capture">Poista äänilaukaisin käytöstä</string>
   <string name="simple_mode_button_text_color_effect">Poista suodatin käytöstä</string>
   <string name="simple_mode_button_text_delay_capture">Poista ajastin käytöstä</string>
   <string name="simple_mode_button_text_face_beauty">Poista Kaunista käytöstä</string>
@@ -543,8 +544,8 @@ ja tuo henkilöt esiin."</string>
   <string name="text_ai_scene_selector_text_on">SILUETTI</string>
   <string name="time_lapse_error">Tätä videokokoa ei voi käyttää time-lapse nauhoituksessa</string>
   <string name="title_snap_double_confirm">Vahvista uudelleen</string>
-  <string name="toast_burst_snap_finished_summary">Burst shot valmistui, kuvia otettiin %1$s</string>
-  <string name="toast_burst_snap_forbidden_when_audio_capture_open">Äänitallennuksen aikana Burst Shot -toimintoa ei voi käyttää</string>
+  <string name="toast_burst_snap_finished_summary">Sarjakuvaus on valmis, kuvia otettiin %1$s</string>
+  <string name="toast_burst_snap_forbidden_when_audio_capture_open">Äänitallennuksen aikana Sarjakuvausta ei voi käyttää</string>
   <string name="toast_saving">Tallennetaan kuvia…</string>
   <string name="toast_start_audio_capture">Ota kuva ääntelemällä</string>
   <string name="ubi_focus_capture_fail">Kuvan ottaminen epäonnistui</string>

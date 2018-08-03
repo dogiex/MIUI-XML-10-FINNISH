@@ -61,8 +61,6 @@
   <string name="asset_sync_power_alert_message">Varmuuskopioi kappaleita yhdistämällä laturi.</string>
   <string name="asset_sync_power_alert_title">Akku vähissä</string>
   <string name="audio_picker_title">Valitse kappale</string>
-  <string name="auto_payment">Automaattinen uusiminen</string>
-  <string name="auto_payment_date">Seuraava maksu: %s</string>
   <string name="available_playlist_name_format">Uusi soittolista %d</string>
   <string name="avoid_to_use_traffic_summary">Älä käytä mobiilidata-yhteyttä musiikin suoratoistoon</string>
   <string name="avoid_to_use_traffic_title">Näytä ponnahdusikkuna, kun käytät mobiilidataa kappaleiden soittamiseen</string>
@@ -71,8 +69,6 @@
   <string name="backup_empty_button">Valitse 0 kappaletta</string>
   <string name="backup_immediate">Varmuuskopioi</string>
   <string name="backup_song_title">Valitse varmuuskopioitavat kappaleet</string>
-  <string name="being_disable_auto_payment">Poistetaan käytöstä…</string>
-  <string name="being_enable_auto_payment">Otetaan käyttöön…</string>
   <string name="bluetooth_device">Bluetooth äänilaite</string>
   <string name="browser_error">Toistaiseksi ei käytettävissä, yritä myöhemmin uudelleen</string>
   <string name="btn_earlier_items">Lataa viimeaikaiset viestit</string>
@@ -188,10 +184,6 @@
   <string name="dialog_title_not_available">Lataus epäonnistui</string>
   <string name="dialog_title_queued_body">Tiedosto ei ole vielä käytettävissä</string>
   <string name="dialog_title_remove_tracks">Poista</string>
-  <string name="disable_auto_payment_fail">Poistaminen käytöstä epäonnistui</string>
-  <string name="disable_auto_payment_fail_message">Automaattisen uusimisen poistaminen käytöstä epäonnistui</string>
-  <string name="disable_auto_payment_success">Poistetaan käytöstä</string>
-  <string name="disable_auto_payment_success_message">Automaattinen uusiminen poistettiin käytöstä. Kun tämän hetkinen tilauksesi loppuu, joudut uusimaan tilauksesi uudelleen ladataksesi kappaleita.</string>
   <string name="disallow_add_to_fm">FM Radioon ei voi lisätä kappaleita</string>
   <string name="disallow_add_to_personal_radio">Henkilökohtaiseen radioon ei voi lisätä kappaleita</string>
   <string name="do_not_remind_this_version">Älä muistuta minua tästä versiosta</string>
@@ -269,10 +261,6 @@
   <string name="edit_playlist_info">Muokkaa soittolistan tietoja</string>
   <string name="empty_page_no_album">Ei albumeita.</string>
   <string name="empty_page_no_artist">Ei artisteja.</string>
-  <string name="enable_auto_payment_fail">Ottaminen käyttöön epäonnistui</string>
-  <string name="enable_auto_payment_fail_message">Automaattisen uusimisen ottaminen käyttöön epäonnistui</string>
-  <string name="enable_auto_payment_success">Uusi automaattisesti</string>
-  <string name="enable_auto_payment_success_message">Automaattinen uusiminen otettiin käyttöön. Seuraavan maksu %s.</string>
   <string name="enabled">Käytössä</string>
   <string name="enter_garbage_clean">Puhdista sisäinen tallennustila.</string>
   <string name="eq_auto">Mukautettu</string>
@@ -418,6 +406,7 @@
   <string name="impunity_declaration_summary">Näytä Palveluehdot aina, kun Musiikki-sovellus käynnistetään</string>
   <string name="impunity_declaration_title">Palveluehdot</string>
   <string name="in_searching_please_wait">Etsitään…</string>
+  <string name="include_sensitive_extra">totta</string>
   <string name="individuation_recommend_message">Ota suositukset käyttöön, jotta saat henkilökohtaisia suosituksia.</string>
   <string name="individuation_recommend_switch_message">Tämän palvelun poistaminen käytöstä vaikuttaa henkilökohtaiseen Mi Musiiki-palveluihin. Poistetaanko käytöstä siitä huolimatta?</string>
   <string name="individuation_recommend_title">Suositukset</string>
@@ -448,7 +437,7 @@
   <string name="local_page_artist_more">Lisää kappaleita artistilta %s</string>
   <string name="local_page_custom_subtitle">Uusia kappaleita joka päivä</string>
   <string name="local_page_custom_title">Sinulle</string>
-  <string name="local_page_playlist">Soittolistani</string>
+  <string name="local_page_playlist">Soittolistat</string>
   <string name="local_page_song_download_history">Lataukset</string>
   <string name="long_press_to_select_lyric">Paina &amp; pidä pohjassa valitaksesi paikallinen sanoitustiedosto</string>
   <string name="lrc_search_failed">Sanoituksia ei löytynyt</string>
@@ -499,8 +488,9 @@
   <string name="modify_song_info_success">Kappaleen tiedot päivitettiin</string>
   <string name="more">Lisää</string>
   <string name="more_add_song_list">Lisää kappaleita jonoon</string>
+  <string name="more_milink">MI Linkki</string>
   <string name="more_settings">Lisäasetukset</string>
-  <string name="more_settings_summary">Latausasetukset, nukkumis-tila, flow hallinta, tiedostosuodatin jne.</string>
+  <string name="more_settings_summary">Nukkuma-ajastin, tiedostosuodattimet jne.</string>
   <string name="more_share">Jaa</string>
   <string name="music_browser_label">Musiikki</string>
   <string name="music_filter">Suodata äänitiedostoja</string>
@@ -624,7 +614,7 @@
   <string name="radar_searching_state">Haku on käynnissä</string>
   <string name="radar_support_by">Tarjoaja ACRCloud</string>
   <string name="recently_played">Viimeksi soitetut</string>
-  <string name="recently_played_songs">Viimeksi soitetut</string>
+  <string name="recently_played_songs">Viimeksi</string>
   <string name="recommended_file_size_download_in_mobile">Käytetäänkö %s mobiilidataa tämän tiedoston lataamiseen?</string>
   <string name="recommended_no_file_size_download_in_mobile">Käytetäänkö mobiilidata-yhteyttäsi tämän tiedoston lataamiseen?</string>
   <string name="remove">Poista</string>

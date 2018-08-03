@@ -1081,6 +1081,10 @@ Huomautus: Vain Ubuntu 8.04!"</item>
         <item>Näytä vain tilapalkissa</item>
         <item>Älä näytä operaattorin nimeä koskaan</item>
     </string-array>
+    <string-array name="status_bar_settings_notification_shade_shortcut_entries">
+        <item>Haku</item>
+        <item>Asetukset</item>
+    </string-array>
     <string-array name="status_bar_style_entries">
         <item>Yhdistetty</item>
         <item>Erikseen</item>

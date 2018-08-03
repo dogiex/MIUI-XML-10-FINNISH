@@ -454,7 +454,7 @@ Siirtonopeus"</string>
   <string name="card_title_dialing">Soitetaan</string>
   <string name="card_title_forwardcheckreceived">Siirretty puhelu tarkistettu &amp; vastaanotettu</string>
   <string name="card_title_forwarded_MTcall">Siirrettiin saapuva puhelu</string>
-  <string name="card_title_hanging_up">Katkaistaan puhelua</string>
+  <string name="card_title_hanging_up">"Katkaistaan puhelua "</string>
   <string name="card_title_in_call">Puhelun aikana</string>
   <string name="card_title_incoming_barred">Saapuvat puhelut estetty</string>
   <string name="card_title_incoming_call">Uusi puhelu</string>

@@ -134,7 +134,7 @@
         <item quantity="other">%1$s</item>
     </plurals>
     <plurals name="whatsapp_delete_files">
-        <item quantity="other">Poistetaanko %1$d tiedostoa?</item>
-        <item quantity="one">Poistetaanko %1$d tiedosto?</item>
+        <item quantity="other">Poistetaanko %1$d kohdetta?</item>
+        <item quantity="one">Poistetaanko %1$d kohde?</item>
     </plurals>
 </resources>

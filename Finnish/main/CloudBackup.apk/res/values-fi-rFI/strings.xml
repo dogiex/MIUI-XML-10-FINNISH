@@ -19,6 +19,10 @@
   <string name="backup_to_cloud">Varmuuskopioi sovellus</string>
   <string name="btn_back">Takaisin</string>
   <string name="btn_continue">Jatka</string>
+  <string name="btn_restore_abort">Peruuta</string>
+  <string name="btn_restore_cancel">Peruuta</string>
+  <string name="btn_restore_resume">Jatka</string>
+  <string name="btn_restore_retry">Yritä uudelleen</string>
   <string name="btn_retry">Tarkista uudelleen</string>
   <string name="btn_skip">Ohita tämä kohta</string>
   <string name="button_cancel">Peruuta</string>
@@ -118,6 +122,8 @@ Huomio: Asennettujen sovelluksien datatietoja ei varmuuskopioida Mi Pilveen. Kä
   <string name="menu_item_sort_name">Nimi</string>
   <string name="menu_item_sort_size">Koko</string>
   <string name="miui_device_name">Android</string>
+  <string name="msg_alert_cancel_restore">Pilven varmuuskopiota palautetaan, lopetetaanko se?</string>
+  <string name="msg_alert_restore_error">Pilven varmuuskopion palauttaminen epäonnistui, yritä uudelleen.</string>
   <string name="name_model">Henkilön %1$s %2$s</string>
   <string name="network_error">Yhdistä verkkoon</string>
   <string name="no_account">Et ole kirjautuneena Mi Tiliin.</string>
@@ -161,6 +167,8 @@ Huomio: Asennettujen sovelluksien datatietoja ei varmuuskopioida Mi Pilveen. Kä
   <string name="start_backup_to_micloud">Varmuuskopioi sovellukset Mi Pilveen</string>
   <string name="start_recover">Palauta %s</string>
   <string name="success_open_cloudbackup">Aloitusnäytön sovelluksien varmuuskopiot on käytössä</string>
+  <string name="title_alert_cancel_restore">Lopeta palauttaminen</string>
+  <string name="title_alert_restore_error">Palauttaminen epäonnistui</string>
   <string name="total_space">Tilaa yhteensä: %s</string>
   <string name="try_again">Napauta yrittääksesi uudelleen</string>
   <string name="wait_icon_download">Ladataan sovelluksien kuvakkeita</string>
