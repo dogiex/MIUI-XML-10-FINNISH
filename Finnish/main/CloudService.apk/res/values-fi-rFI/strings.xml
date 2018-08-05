@@ -128,7 +128,7 @@
   <string name="micloud_detail_not_syncable">Ei voi synkronoida</string>
   <string name="micloud_detail_pause">Synkronointi pysäytetty</string>
   <string name="micloud_detail_pending">Odottaa</string>
-  <string name="micloud_detail_preference_sync_items">Kohdetta</string>
+  <string name="micloud_detail_preference_sync_items">Kohteet</string>
   <string name="micloud_detail_query_error">Synkronoinnin edistymisestä ei saatu tietoa</string>
   <string name="micloud_detail_success">Synkronoitu</string>
   <string name="micloud_detail_syncing">Synkronoidaan</string>
