@@ -750,7 +750,7 @@ Olet myös yhteydessä VPN-palvelimeen, joka voi valvoa verkon käyttöäsi."</s
      <string name="quick_settings_rssi_emergency_only">Vain hätäpuhelut</string>
      <string name="quick_settings_rssi_label">RSSI</string>
      <string name="quick_settings_screenbutton_label">Painikkeet</string>
-     <string name="quick_settings_screenlock_label">Lukitusnäyttö</string>
+     <string name="quick_settings_screenlock_label">Lukitse näyttö</string>
      <string name="quick_settings_screenshot_label">Kuvakaappaus</string>
      <string name="quick_settings_secondary_label_until">%s asti</string>
      <string name="quick_settings_settings_label">Asetukset</string>
