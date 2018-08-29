@@ -64,7 +64,9 @@
   <string name="delete_frequent_phrases_confirm">Poistetaanko valitut lauseet?</string>
   <string name="device_hongmi">Redmi</string>
   <string name="device_pad">Mi Pad</string>
-  <string name="device_xiaomi">Mi Phone</string>
+  <string name="device_poco_global">POCOPHONE</string>
+  <string name="device_poco_india">POCO PHONE</string>
+  <string name="device_xiaomi">Mi Puhelin</string>
   <string name="double_seventh_day">七夕</string>
   <string name="easter">復活節</string>
   <string name="echo">Kaiku</string>

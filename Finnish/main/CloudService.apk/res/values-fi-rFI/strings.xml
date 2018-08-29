@@ -14,6 +14,7 @@
   <string name="button_cancel">Peruuta</string>
   <string name="calendar_sync">Kalenteri</string>
   <string name="click_to_enabled">Synkronoi koskettamalla.</string>
+  <string name="close_shortcut">Sulje</string>
   <string name="cloud_find_device">Etsi laite</string>
   <string name="cloud_find_device_off">Pois päältä</string>
   <string name="cloud_find_device_on">Päällä</string>
@@ -43,12 +44,6 @@
   <string name="find_device_send_sms_alert">Jos vaihdat SIM-kortteja, toinen tekstiviesti lähetetään automaattisesti tämän toiminnon uudelleenaktivoimiseksi.</string>
   <string name="find_device_service_title">Etsi laite</string>
   <string name="forget_password">Unohdin salasanani</string>
-  <string name="hybrid_check_network">Verkkoasetukset</string>
-  <string name="hybrid_data_error">Tapahtui virhe</string>
-  <string name="hybrid_network_access_denied">Verkon käyttö estetty</string>
-  <string name="hybrid_network_unavaliable">Verkkoyhteyttä ei voi muodostaa</string>
-  <string name="hybrid_service_unavailiable">Palvelu ei käytettävissä</string>
-  <string name="hybrid_try_again">Yritä uudelleen</string>
   <string name="i_know">OK</string>
   <string name="input_password_hint">Syötä salasana</string>
   <string name="internet_access_dspt">Tämä sovellus vaatii internet-yhteyden toimiakseen normaalisti.</string>

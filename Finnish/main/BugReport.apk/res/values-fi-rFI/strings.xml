@@ -216,7 +216,7 @@
   <string name="min_error">%1$s pitäisi olla pidempi.</string>
   <string name="mobile_data_note_dialog_cancel">Odota Wi-Fiä</string>
   <string name="mobile_data_note_dialog_confirm">Lähetä</string>
-  <string name="mobile_data_note_dialog_content">Käyttämällä mobiilidataa lokitietojen lähettämiseen saattaa luoda lisää maksuja.</string>
+  <string name="mobile_data_note_dialog_content">Näyttää siltä, että olet yhteydessä maksulliseen verkkoon. Lokitietojen lähettäminen mobiilidatalla saattaa lisätä maksuja.</string>
   <string name="mobile_data_note_dialog_content_with_file_size">Lähettämällä lokitiedot käyttämällä mobiilidatayhteyttä vaatii %s Mt edestä dataa.</string>
   <string name="mobile_data_note_dialog_title">Tiedonsiirtovaroitus</string>
   <string name="modem_tool_log_dumping_desc">Napauta kuvaketta aloittaaksesi</string>
@@ -226,7 +226,7 @@
   <string name="module_communication">Kommunikointi</string>
   <string name="module_data">Tallennustila &amp; Kaksoissovellukset</string>
   <string name="module_desktop">Aloitusnäyttö &amp; asetukset</string>
-  <string name="module_finance">Talous &amp; Mi Lompakko</string>
+  <string name="module_finance">Talous &amp; Mi Wallet</string>
   <string name="module_google_apps">Google sovellukset</string>
   <string name="module_item_less">Piilota</string>
   <string name="module_item_more">Lisää</string>

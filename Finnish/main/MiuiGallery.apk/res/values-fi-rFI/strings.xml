@@ -32,14 +32,14 @@
   <string name="video_editor_smart_effect_radical">Myönteinen</string>
   <string name="video_editor_smart_effect_rhythm">Pulssi</string>
   <string name="video_editor_smart_effect_street">Metropoli</string>
-  <string name="video_editor_smart_effect_time_limit_txt_40">Voit asettaa tämän tehosteen videoihin, jotka ovat enintään 40 sekuntia pitkiä.</string>
+  <string name="video_editor_smart_effect_time_limit_txt_40">Voit asettaa tämän tehosteen videoihin, jotka ovat enintään 40 sekuntia pitkiä. Säädettiin kesto automaattisesti.</string>
   <string name="video_editor_smart_effect_time_limit_txt_6">Voit asettaa tämän tehosteen videoihin, jotka ovat vähintään 6 sekuntia pitkiä.</string>
-  <string name="video_editor_smart_effect_time_limit_txt_60">Voit asettaa tämän tehosteen videoihin, jotka ovat enintään 60 sekuntia pitkiä.</string>
+  <string name="video_editor_smart_effect_time_limit_txt_60">Voit asettaa tämän tehosteen videoihin, jotka ovat enintään 60 sekuntia pitkiä. Säädettiin kesto automaattisesti.</string>
   <string name="video_editor_text_edit_all">Kaikki</string>
   <string name="video_editor_text_edit_input_all_hint">Syötä teksti</string>
   <string name="video_editor_unzip_file_fail">Videota ei voitu purkaa.</string>
   <string name="video_editor_video_is_short">Tätä videota ei voi muokata.</string>
-  <string name="video_editor_video_loading">Valmistellaan videota. Odota hetki ja yritä uudelleen.</string>
+  <string name="video_editor_video_loading">Valmistellaan videota… Odota hetki ja yritä uudelleen.</string>
   <string name="video_editor_watermark">Vesileima</string>
   <string name="voice_assistant">Äänisyöte</string>
   <!-- miui 10 valmis -->

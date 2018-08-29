@@ -16,19 +16,19 @@
   <string name="activate_feature_register_xiaomi_account">Mi Tilin asetus</string>
   <string name="activate_feature_remote_assist">Etäavustaja</string>
   <string name="activate_feature_verify_mx_token">Mi Tilin vahvistus</string>
-  <string name="activate_feature_voip">Mi Viestin Ääni</string>
+  <string name="activate_feature_voip">Mi Viestin VoIP</string>
   <string name="activate_history_canceled_overview">SIM-kortin aktivointi peruutettiin. \"%1$s\" käynnisti aktivoinnin.</string>
   <string name="activate_history_multisim_canceled_overview">SIM-kortin %2$d aktivointi peruutettiin. \"%1$s\" käynnisti aktivoinnin.</string>
   <string name="activate_history_multisim_success_overview">SIM-kortti %2$d aktivoitiin onnistuneesti. \"%1$s\" käynnisti aktivoinnin.</string>
   <string name="activate_history_sms">Tekstiviesti lähetettiin aktivoinnin aikana.</string>
   <string name="activate_history_success">SIM-kortti aktivoitiin onnistuneesti. \"%1$s\" käynnisti aktivoinnin.</string>
   <string name="activate_history_title">SIM-kortin aktivointi</string>
-  <string name="activate_phone_cancel_notif_title">SIM-kortin aktivointi peruutettiin</string>
-  <string name="activate_phone_cancel_notif_title_msim">SIM-kortin %d aktivointi peruutettiin</string>
+  <string name="activate_phone_cancel_notif_title">Peruutettiin SIM-kortin aktivointi</string>
+  <string name="activate_phone_cancel_notif_title_msim">Peruutettiin SIM-kortin %d aktivointi</string>
   <string name="activate_phone_failed_notif_title">SIM-korttia ei voi aktivoida</string>
   <string name="activate_phone_failed_notif_title_msim">SIM-korttia %d ei voi aktivoida</string>
-  <string name="activate_phone_success_notif_title">SIM-kortti aktivoitu</string>
-  <string name="activate_phone_success_notif_title_msim">SIM-kortti %d aktivoitu</string>
+  <string name="activate_phone_success_notif_title">Aktivoitiin SIM-kortti onnistuneesti</string>
+  <string name="activate_phone_success_notif_title_msim">Aktivoitiin SIM-kortti %d onnistuneesti</string>
   <string name="activate_popup_confirm_all_gateway_failed_query_info">Yritä uudelleen</string>
   <string name="activate_popup_confirm_all_gateway_failed_send_sms">Yritä uudelleen</string>
   <string name="activate_popup_confirm_error_device_id">Yritä uudelleen</string>
@@ -40,9 +40,9 @@
   <string name="activate_popup_desc_2_intl_sim_cards">2 kansainvälistä tekstiviestiä lähetetään %s aktivointia varten. Operaattorisi veloittaa sinua tästä.</string>
   <string name="activate_popup_desc_2_sim_cards">2 normaalia tekstiviestiä lähetetään %s aktivointia varten. Operaattorisi veloittaa sinua tästä.</string>
   <string name="activate_popup_desc_all_gateway_failed_query_info">"Puhelinnumeroasi ei löydy. Varmista, että SIM-korttisi on aktivoitu.
-Syötä uuden SIM-korttisi puhelinnumero aktivoidaksesi %s uudelleen"</string>
+Syötä uuden SIM-korttisi puhelinnumero aktivoidaksesi %s uudelleen."</string>
   <string name="activate_popup_desc_all_gateway_failed_send_sms">"Aktivointiviestiä ei voitu lähettää. Varmista, että SIM-korttisi on aktivoitu.
-Syötä uuden SIM-korttisi puhelinnumero aktivoidaksesi %s uudelleen"</string>
+Syötä uuden SIM-korttisi puhelinnumero aktivoidaksesi %s uudelleen."</string>
   <string name="activate_popup_desc_error_device_id">Tarkista IMEI-koodi soittamalla *#06#</string>
   <string name="activate_popup_desc_failed_phone_error">Syöttämäsi puhelinnumero on virheellinen.</string>
   <string name="activate_popup_desc_failed_query_info">Puhelinnumeroasi ei löydy. Varmista, että SIM-korttisi on aktivoitu.</string>
@@ -66,12 +66,12 @@ Syötä uuden SIM-korttisi puhelinnumero aktivoidaksesi %s uudelleen"</string>
   <string name="activate_popup_desc_voip_privacy">Tietosuojakäytäntö</string>
   <string name="activate_popup_desc_voip_privacy_prefix">VoIP palvelun tarjoaa Weihui. Katso Weihuin</string>
   <string name="activate_popup_title_all_gateway_failed_query_info">Numeroa ei löydy</string>
-  <string name="activate_popup_title_all_gateway_failed_send_sms">Tekstiviestiä ei voi lähettää</string>
+  <string name="activate_popup_title_all_gateway_failed_send_sms">Tekstiviestiä ei voitu lähettää</string>
   <string name="activate_popup_title_error_device_id">Virheellinen IMEI-koodi</string>
   <string name="activate_popup_title_failed_phone_error">Virheellinen puhelinnumero</string>
   <string name="activate_popup_title_failed_query_info">Numeroa ei löydy</string>
   <string name="activate_popup_title_failed_receive_sms">Palvelimelta ei saatu vastausta</string>
-  <string name="activate_popup_title_failed_send_sms">Tekstiviestiä ei voi lähettää</string>
+  <string name="activate_popup_title_failed_send_sms">Tekstiviestiä ei voitu lähettää</string>
   <string name="activate_popup_title_failed_server">Palvelinvirhe</string>
   <string name="activate_popup_title_manual">Aktivoi %s</string>
   <string name="activate_popup_title_new_sim_card">Uudelleenaktivoi %s</string>
@@ -88,7 +88,7 @@ Syötä uuden SIM-korttisi puhelinnumero aktivoidaksesi %s uudelleen"</string>
   <string name="activate_status_desc_getting_gateway">Noudetaan tekstiviestin yhdyskäytävää…</string>
   <string name="activate_status_desc_prepare_sending_sms">Valmistellaan aktivointitekstiviestin lähettämistä…</string>
   <string name="activate_status_desc_query_activation_info">Noudetaan aktivointitietoa…</string>
-  <string name="activate_status_desc_query_activation_info_downlink_sms_error">Palvelin epäonnistui lähettämään aktivointitekstiviestiä puhelimeesi</string>
+  <string name="activate_status_desc_query_activation_info_downlink_sms_error">Palvelin ei voinut lähettää aktivointitekstiviestiä puhelimeesi</string>
   <string name="activate_status_desc_query_activation_info_no_info">Aktivointitietoa ei löytynyt palvelimelta</string>
   <string name="activate_status_desc_query_activation_info_server_error">Aktivointitiedon noutamisessa tapahtui palvelinvirhe</string>
   <string name="activate_status_desc_registering_sim_account">Rekisteröidään SIM-korttia…</string>
@@ -99,19 +99,19 @@ Syötä uuden SIM-korttisi puhelinnumero aktivoidaksesi %s uudelleen"</string>
   <string name="activate_status_desc_request_activation_sms_server_error">Aktivointitekstiviestin pyytämisen aikana tapahtui palvelinvirhe.</string>
   <string name="activate_status_desc_sending_sms">Lähetetään aktivointitekstiviestiä…</string>
   <string name="activate_status_desc_sending_sms_fail">Aktivointitekstiviestiä ei voitu lähettää yhdyskäytävään</string>
-  <string name="activate_status_desc_sms_sent">Aktivointitekstiviesti lähetetty</string>
+  <string name="activate_status_desc_sms_sent">Lähetettiin aktivointitekstiviesti onnistuneesti</string>
   <string name="activate_status_desc_wait_for_sms">Odotetaan aktivointitekstiviestiä palvelimelta…</string>
   <string name="activate_status_desc_wait_for_sms_fail">Aktivointitekstiviestiä ei voitu vastaanottaa palvelimelta</string>
   <string name="activate_status_desc_wait_for_sms_success">Aktivointitekstiviesti vastaanotettiin palvelimelta</string>
   <string name="activate_status_title_activating">Aktivoidaan SIM-korttia…</string>
   <string name="activate_status_title_activating_msim">Aktivoidaan SIM-korttia %d…</string>
   <string name="agree">Salli</string>
-  <string name="app_name">Xiaomi SIM Aktivointipalvelu</string>
+  <string name="app_name">Xiaomi SIM-Aktivointipalvelu</string>
   <string name="checking_client">Tarkistetaan asiakkaan env</string>
-  <string name="error_checking_client">Asiakkaan env virhe</string>
-  <string name="error_network_io">Verkkovirhe</string>
-  <string name="error_no_send_sms_permission">SMS-käyttöoikeutta ei lähetetty</string>
-  <string name="error_sim_not_in_service">SIM-kortilla ei palvelua</string>
+  <string name="error_checking_client">Aktivoinnin aikana tapahtui virhe</string>
+  <string name="error_network_io">Tapahtui verkkovirhe</string>
+  <string name="error_no_send_sms_permission">Xiaomi SIM-Aktivointipalvelu tarvitsee käyttöoikeuden lähettää tekstiviestejä</string>
+  <string name="error_sim_not_in_service">Odotetaan SIM-kortin aktivointia</string>
   <string name="explain_send_sms_permission_button">Vahvista</string>
   <string name="explain_send_sms_permission_msg">Ottaaksesi %s käyttöön, Xiaomi Service Framework lähettää tekstiviestin vahvistaakseen puhelinnumerosi. Operaattorisi veloittaa sinua normaalista tekstiviestistä.</string>
   <string name="explain_send_sms_permission_title">Vahvista puhelinnumerosi</string>

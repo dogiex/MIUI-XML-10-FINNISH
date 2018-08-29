@@ -17,7 +17,7 @@
         <item quantity="one">%d sekunti jäljellä</item>
      </plurals>
     <plurals name="word_count">
-        <item quantity="other">%s merkkiä</item>
-        <item quantity="one">%s merkki</item>
+        <item quantity="other">%d merkkiä</item>
+        <item quantity="one">%d merkki</item>
      </plurals>
 </resources>

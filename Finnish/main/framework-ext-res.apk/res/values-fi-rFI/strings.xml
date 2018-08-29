@@ -175,5 +175,12 @@
   <string name="twohours">1 tunti</string>
   <string name="unknown_caller">Tuntematon numero</string>
   <string name="user_switching_dialog_text">Vaihdetaan käyttäjää…</string>
+  <string name="voice_begin">Mitä etsit?</string>
+  <string name="voice_button_action_down">Vapauta hakeaksesi</string>
+  <string name="voice_button_action_up">Paina puhuaksesi</string>
+  <string name="voice_input_error_network">Verkkoyhteyttä ei voitu muodostaa. Tarkista verkkoasetuksesi ja yritä uudelleen.</string>
+  <string name="voice_input_error_other">Tapahtui virhe. Odota minuutti tai kaksi ja yritä uudelleen.</string>
+  <string name="wifi_assistant_wifi_no_internet">Tällä Wi-Fi-verkolla ei ole yhteyttä internetiin</string>
+  <string name="wifi_assistant_wifi_no_internet_detail">Näytä tiedot napauttamalla</string>
   <string name="xspace_resolver_activity_title">Valitse sovellus</string>
 </resources>

@@ -217,7 +217,6 @@ Et voi zoomata näppäimistöön tai navigointipalkkiin."</string>
   <string name="add_facerecoginition_text">Lisää kasvojen tiedot</string>
   <string name="add_fingerprint_cancel_button_text">Takaisin</string>
   <string name="add_fingerprint_dirty_fingerprint">Varmista, että näytön pinta on puhdas. Yritä tallentaa sormenjälkesi uudelleen.</string>
-  <string name="cancel_description">Peruuta</string>
   <string name="add_fingerprint_done_msg">Voit nyt avata laitteen lukituksen sormenjäljellä.</string>
   <string name="add_fingerprint_done_title">Olet valmis rokkaamaan!</string>
   <string name="add_fingerprint_edge_instruction_msg">Liikuta sormeasi, jotta tunnistin tallentaa sormenjälkesi reunat.</string>
@@ -1200,7 +1199,6 @@ Tämän ominaisuuden voi poistaa käytöstä [Asetuksista]"</string>
   <string name="confirm_action">OK</string>
   <string name="confirm_bind_xiaomi_account_dialog_title">Lisää</string>
   <string name="confirm_convert_to_fbe_warning">Haluatko varmasti poistaa käyttäjätiedot ja ottaa tiedostojen salauksen käyttöön?</string>
-  <string name="confirm_description">Vahvista</string>
   <string name="confirm_download_cancelation_dialog_message">Peruutetaanko lataus?</string>
   <string name="confirm_enable_oem_unlock_text">VAROITUS: laitteen suojaustoiminnot eivät toimi tämän asetuksen ollessa käytössä.</string>
   <string name="confirm_enable_oem_unlock_title">Sallitaanko OEM:n lukituksen avaus?</string>
@@ -1308,7 +1306,7 @@ Voit jatkaa puhelimesi käyttöä, kun palautat tehdasasetukset. Kun olet määr
   <string name="current_input_method">Nykyinen näppäimistö</string>
   <string name="current_screen_lock">Nykyinen näytön lukitus</string>
   <string name="current_use_ese">Käytetään sisäänrakennettua turvaelementtiä</string>
-  <string name="current_use_ese_wallet">Käytät Mi Lompakkoa. Se sallii sinun käyttää Mi Pay-maksupalvelua ja NFC kuljetuskorttia.</string>
+  <string name="current_use_ese_wallet">Käytät Mi Walleta. Se sallii sinun käyttää Mi Pay-maksupalvelua ja NFC kuljetuskorttia.</string>
   <string name="current_use_hce_wallet">Käytät HCE Lompakkoa</string>
   <string name="current_use_uicc_se">Käytetään SIM-kortin turvaelementtiä</string>
   <string name="current_use_uicc_wallet">Käytät SIM%1$s Lompakkoa</string>
@@ -2777,7 +2775,7 @@ Tällä laitteella on muita paikalla olevia käyttäjiä.
   <string name="menu_stats_total">Käyttö yhteensä</string>
   <string name="menu_stats_unplugged">%1$s laturin irrottamisen jälkeen</string>
   <string name="menu_use_uss">Käytä USS-muistimääritystä</string>
-  <string name="mi_pay">Mi Lompakko</string>
+  <string name="mi_pay">Mi Wallet</string>
   <string name="mi_pay_summary">Bussikortti/Mi Pay/Kortin emulaattori</string>
   <string name="mi_service_app_detail">Datan käytön tiedot</string>
   <string name="mi_shopping_mall">Mi Kauppa</string>
@@ -2929,8 +2927,6 @@ Valitse käyttöjärjestelmäsi:"</string>
   <string name="nature_color">Oletus</string>
   <string name="navigation_guide_app_summary">Pyyhkäise näytön yläosan reunalta vasemmalle tai oikealle</string>
   <string name="navigation_guide_app_title">Käynnistä sovelluksen toiminto</string>
-  <string name="navigation_guide_back_anim_summary">Näytä animaatio näytön reunalta pyyhkäisyn aikana</string>
-  <string name="navigation_guide_back_anim_title">Animoi \"Siirry takaisin\" ele</string>
   <string name="navigation_guide_back_summary">Pyyhkäise näytön reunaa vasemmalle tai oikealle</string>
   <string name="navigation_guide_back_title">Siirry takaisin</string>
   <string name="navigation_guide_dialog_dont_show_again">Älä näytä uudelleen</string>
@@ -3308,6 +3304,7 @@ Valitse käyttöjärjestelmäsi:"</string>
   <string name="picture_in_picture_title">Kuva kuvassa</string>
   <string name="pin_failed">SIM-kortin PIN-toiminto epäonnistui!</string>
   <string name="ping_test_label">Käynnistä ping-testi</string>
+  <string name="play_pause_description">Toista Pysäytä Painike</string>
   <string name="please_select_phase2">Todennus: vaihe 2</string>
   <string name="please_type_passphrase">Salasana</string>
   <string name="pointer_location">Osoittimen sijainti</string>
@@ -4864,8 +4861,8 @@ Se on Googlen tapa synkronoida tietoja, ja sen avulla voit käyttää yhteystiet
   <string name="toast_lockscreen_glogin_empty_password">Syötä salasana</string>
   <string name="toast_need_login">Kirjaudu sisään Mi Tilillesi</string>
   <string name="total">Älä häiritse</string>
-  <string name="total_info">Mykistä äänet %1$s paitsi hälytyksiltä</string>
-  <string name="total_info_sub">ja poista värinä käytöstä</string>
+  <string name="total_info">Mykistä äänet ja poista värinä käytöstä paitsi hälytyksiltä</string>
+  <string name="total_info_no_vibrator">Mykistä äänet paitsi hälytyksiltä</string>
   <string name="total_memory">Muistia yhteensä</string>
   <string name="total_size">%s yhteensä</string>
   <string name="total_size_label">Yhteensä</string>

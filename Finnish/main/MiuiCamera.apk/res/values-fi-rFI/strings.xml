@@ -61,6 +61,7 @@ ja optimoi valokuvasi näiden tietojen perusteella"</string>
   <string name="audio_focus_exit_button_text">Poista Äänitarkennus käytöstä</string>
   <string name="back_bokeh_use_hint">Varmista, että kohde ei ole kauempana, kuin 1,5 metriä.</string>
   <string name="beauty_fragment_tab_name_3d_beauty">Kauneus</string>
+  <string name="beauty_fragment_tab_name_3d_makeup">Meikki</string>
   <string name="beauty_fragment_tab_name_3d_remodeling">Muotoillaan uudelleen</string>
   <string name="beauty_fragment_tab_name_beauty">Kauneus</string>
   <string name="beauty_fragment_tab_name_makeup">Edistynyt</string>
@@ -121,13 +122,17 @@ ja optimoi valokuvasi näiden tietojen perusteella"</string>
   <string name="dual_camera_lowlight_toast">Näyttää siltä, että on liian pimeää.</string>
   <string name="dual_camera_too_close_toast">Kamera on liian lähellä kohdetta.</string>
   <string name="dual_camera_use_hint">Varmista, että kohde ei ole 2 metriä pidemmällä.</string>
+  <string name="edit_blusher">Poskipuna</string>
   <string name="edit_chin">Leuka</string>
   <string name="edit_eye_large">Suuret silmät</string>
+  <string name="edit_eyebrow_dye">Kulmakarvat</string>
   <string name="edit_face_ruddy">Punertava</string>
   <string name="edit_face_slender">Hoikka</string>
+  <string name="edit_jelly_lips">Huulikiilto</string>
   <string name="edit_lips">Huulet</string>
   <string name="edit_neck">Kaula</string>
   <string name="edit_nose">Nenä</string>
+  <string name="edit_pupil_line">Silmänrajaus</string>
   <string name="edit_risorius">Hymylihas</string>
   <string name="edit_skin_smooth">Sileä</string>
   <string name="edit_skin_white">Sävy</string>

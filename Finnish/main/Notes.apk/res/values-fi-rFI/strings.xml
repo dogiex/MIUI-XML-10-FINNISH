@@ -140,6 +140,7 @@
   <string name="note_sort_way">Valitse, kuinka haluat järjestää muistiosi</string>
   <string name="notealert_enter">Avaa muistio</string>
   <string name="notealert_ok">Poistu</string>
+  <string name="notelist_string_info">…</string>
   <string name="notify_alarm_title">Muistion muistutus</string>
   <string name="permdesc_accessNote">Haitalliset sovellukset saattavat käyttää tätä päästäkseen käsiksi henkilökohtaisiin tietoihin.</string>
   <string name="permlab_accessNote">Pääsy muistioihin</string>
@@ -222,9 +223,6 @@
   <string name="trash_folder_reminder">Muistiot jotka poistat, poistetaan pysyvästi 30 päivän kuluttua.</string>
   <string name="undo">Kumoa</string>
   <string name="unknown_source">Tuntematon lähde</string>
-  <string name="welcome_note_for_cm">"Ja lisää mahtavia ominaisuuksia!
-  - Synkronoi Mi Pilveen
-  - Aseta muistutuksia"</string>
   <string name="widget_content_loading">Odota hetki…</string>
   <string name="widget_havenot_content">Luo muistio napauttamalla. Muokkaa kokoa pitämällä widgettiä.</string>
 </resources>

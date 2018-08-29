@@ -108,6 +108,7 @@
      <string name="accessibility_quick_settings_airplane_off">Lentokonetila pois käytöstä.</string>
      <string name="accessibility_quick_settings_airplane_on">Lentokonetila käytössä.</string>
      <string name="accessibility_quick_settings_alarm">Hälytys asetettu ajalle %s.</string>
+	 <string name="accessibility_quick_settings_alarm_on">Hälytys asetettu päälle.</string>
      <string name="accessibility_quick_settings_alarm_set">Hälytys asetettu.</string>
      <string name="accessibility_quick_settings_battery">Akku %s.</string>
      <string name="accessibility_quick_settings_bluetooth">Bluetooth.</string>
@@ -115,6 +116,7 @@
      <string name="accessibility_quick_settings_bluetooth_changed_on">Bluetooth otettiin käyttöön.</string>
      <string name="accessibility_quick_settings_bluetooth_connected">Bluetooth yhdistetty.</string>
      <string name="accessibility_quick_settings_bluetooth_connecting">Bluetooth yhdistää.</string>
+	 <string name="accessibility_quick_settings_bluetooth_handsfree_battery_level">Bluetooth-laitteen akku %d prosenttia.</string>
      <string name="accessibility_quick_settings_bluetooth_off">Bluetooth pois käytöstä.</string>
      <string name="accessibility_quick_settings_bluetooth_on">Bluetooth käytössä.</string>
      <string name="accessibility_quick_settings_close">Sulje paneeli.</string>
@@ -424,8 +426,7 @@ prioriteetti"</string>
      <string name="keyguard_indication_charging_time_slowly">Ladataan hitaasti (%s kunnes täynnä)</string>
      <string name="keyguard_indication_trust_disabled">Laite pysyy lukittuna, kunnes manuaalisesti poistat laitteen lukituksen</string>
      <string name="keyguard_instructions_when_pattern_disabled">Paina Valikko-painiketta poistaaksesi lukituksen.</string>
-     <string name="keyguard_left_bankcard">Laskin</string>
-     <string name="keyguard_left_buscard">Muistiot</string>
+     <string name="keyguard_left_mi_wallet">Mi Wallet</string>
      <string name="keyguard_left_remotecentral">Kalenteri</string>
      <string name="keyguard_left_smarthome">Yhteystiedot</string>
      <string name="keyguard_left_view_lock_wallpaper">Musiikki</string>

@@ -9,7 +9,7 @@
   <string name="info_flow_description">Info-kanava</string>
   <string name="pref_navscreen_layoutstate_title">Usean ikkunan hallinta</string>
   <string name="refresh_description">Päivitä</string>
-  <string name="save_file_suffix">tiedosto</string>
+  <string name="save_file_suffix">" tiedosto"</string>
   <string name="short_video_description">Video-kanava</string>
   <string name="short_video_tip">Katso! Hauska video</string>
   <string name="suggestion_clear_record_message">Vahvistatko tyhjät syöttökentät?</string>
@@ -1032,7 +1032,7 @@ Muista, että lataamasi tiedostot ja lisäämäsi kirjanmerkin silti tallennetaa
   <string name="same_folder_name_warning">Samalla nimellä oleva ryhmä on jo olemassa</string>
   <string name="save_button_text">Tallenna</string>
   <string name="save_dialog_title">Tallenna</string>
-  <string name="save_file">Tallenna %s</string>
+  <string name="save_file">"Tallenna "</string>
   <string name="save_file_already_exist_alert_message">Samalla nimellä oleva tiedosto on jo olemassa, haluatko korvata tiefoston?</string>
   <string name="save_file_already_exist_alert_title">Korvataanko tiedosto?</string>
   <string name="save_form_data_confirm_message">Tämän toiminnon poistaminen käytöstä voi vaikuttaa käyttökokemukseen.</string>

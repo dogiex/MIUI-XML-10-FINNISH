@@ -7,10 +7,10 @@
   <string name="button_queue_for_wifi">Jono</string>
   <string name="button_start_now">Aloita nyt</string>
   <string name="button_wait_for_wifi">Odota</string>
-  <string name="channel_active">下载中</string>
-  <string name="channel_complete">下载完成</string>
-  <string name="channel_insufficient_space">空间不足</string>
-  <string name="channel_waiting">等待中</string>
+  <string name="channel_active">Aktiivinen lataus</string>
+  <string name="channel_complete">Lataus valmis</string>
+  <string name="channel_insufficient_space">Tila vähissä</string>
+  <string name="channel_waiting">Lataus odottaa</string>
   <string name="dialog_button_cancel">Peruuta</string>
   <string name="dialog_button_ok">OK</string>
   <string name="dialog_content_limit0">Rajoita latauksia</string>

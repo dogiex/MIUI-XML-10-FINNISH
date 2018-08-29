@@ -132,7 +132,7 @@
   <string name="deep_clean_completed_tips">Puhdistus valmis</string>
   <string name="deep_clean_data_path_clean_title">Tyhjennä välimuisti</string>
   <string name="deep_clean_uninstall_completed_tips">Poisto valmis</string>
-  <string name="deepclean_1_k_clean">Nopea putsaus</string>
+  <string name="deepclean_1_k_clean">Tyhjennä muisti</string>
   <string name="deepclean_apk_content">Poista APKt tai tarpeettomat sovellukset</string>
   <string name="deepclean_apk_summary_empty">Kaikki näyttää hyvältä, ei poistettavia APK-tiedostoja</string>
   <string name="deepclean_apk_version_error">Tuntematon</string>
@@ -275,7 +275,7 @@
   <string name="hints_storage_free">Vapaana</string>
   <string name="hints_storage_free_size">Yhteensä %1$s, %2$s käytössä</string>
   <string name="hints_storage_news">Turvallisuus uutiset</string>
-  <string name="hints_title_garbage">roskaa</string>
+  <string name="hints_title_garbage">Roskaa</string>
   <string name="hints_video_camera">Tallennetut videot</string>
   <string name="hints_video_download">Ladatut videot</string>
   <string name="hot">Suosittu</string>
@@ -373,7 +373,7 @@
   <string name="low_memory_warning_dialog_ok_button">Poista</string>
   <string name="low_memory_warning_dialog_title">Tallennustilaa ei ole tarpeeksi</string>
   <string name="main_title_filesize">%1$s roskaa</string>
-  <string name="main_total_garbage">Roskaa yhteensä</string>
+  <string name="main_total_garbage">Roskien koko</string>
   <string name="mainbtn_text_no_trash">Ohita</string>
   <string name="mainbtn_text_quick_cleanup">Puhdista %s</string>
   <string name="mainbtn_text_quick_cleanup_default">Puhdista</string>

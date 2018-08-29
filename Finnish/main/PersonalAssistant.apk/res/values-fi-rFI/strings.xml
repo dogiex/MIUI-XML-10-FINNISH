@@ -966,7 +966,7 @@ Useita tilauksia, jotka lähetetään SF Expressin kautta Taobaon, Tmallin ja Xi
   <string name="mi_payment_setting_brief_detail">Kerää maksutietojasi Viestintä- ja muista sovelluksista.</string>
   <string name="mi_sport">Askelmittari</string>
   <string name="mi_sport_go_install">Lataa</string>
-  <string name="mi_wallet">Mi Lompakko</string>
+  <string name="mi_wallet">Mi Wallet</string>
   <string name="mifare_card">门禁卡</string>
   <string name="mini_add_fp">请先到手机系统中添加指纹, 再开启支付宝指纹密码</string>
   <string name="mini_agree">同意</string>

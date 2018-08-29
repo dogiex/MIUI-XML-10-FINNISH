@@ -3,6 +3,8 @@
   <string name="accessibility_enabled">Esteettömyys käytössä.</string>
   <string name="agree">Hyväksy</string>
   <string name="agree_terms">Olen lukenut ja hyväksyn Palveluehdot ja Tietosuojakäytännön.</string>
+  <string name="agree_terms_input_method_facemoji">Olen lukenut ja hyväksyn Facemojin Tietosuojakäytännön.</string>
+  <string name="agree_terms_input_method_kika">Olen lukenut ja hyväksyn Kika:n Tietosuojakäytännön.</string>
   <string name="app_name">Sopimusehto</string>
   <string name="application_permissions">Sovelluksen käyttöoikeudet</string>
   <string name="back">Takaisin</string>
@@ -12,7 +14,7 @@
   <string name="congratulation_swipe">Siirry järjestelmään pyyhkäisemällä ylöspäin</string>
   <string name="congratulation_title">Asennus valmis</string>
   <string name="content_description_complete">Valmis</string>
-  <string name="content_description_miui_version">MIUI 9</string>
+  <string name="content_description_miui_version">MIUI 10</string>
   <string name="content_description_start">Aloita</string>
   <string name="continue_to_enable_accessibility">Jatka kahdella sormella painamista ottaaksesi esteettömyyden käyttöön.</string>
   <string name="desc_fingerprint">Käytä sormenjälkeäsi laitteesi lukituksen poistamiseen, Mi Maksun kaupan vahvistamiseen, tai palveluiden ja sovelluksien kirjautumiseen.</string>
@@ -82,9 +84,19 @@ Sinun täytyy hyväksyä Palveluehtomme ja Tietosuojakäytäntömme, ennen kuin 
 <string name="terms_of_use_label_gms">"Yksityisyytesi on todella tärkeää meille. Lue meidän Palveluehdot ja Tietosuojakäytäntö, jotta ymmärrät mitä tietoja keräämme, kuinka käytämme niitä, ja mitä vaihtoehtoja sinulla on.
 
 Sinun täytyy hyväksyä Palveluehtomme ja Tietosuojakäytäntömme, ennen kuin voit käyttää MIUI:ta. Mi palvelut, Mi SIM-kortin aktivointipalvelut, Mi Pilvi, Etsi laite, Aloitusnäyttö, Pelikeskus, MAB, MIUI Daemon ja MSA järjestelmäkomponentit, Kääntämispalvelut, Pikasovellukset, Sovellusholvi, statistiikat, älykortit, Mi Link, Mi Tilin komponentit ja Google Play Palvelut ottavat yhteyden internetiin ja saavat sijaintisi."</string>
+<string name="terms_of_use_label_systemhelper">Itserekisteröivä palvelu</string>
+  <string name="terms_of_use_lable_default_input_method_facemoji">"
+
+Sinun täytyy hyväksyä Facemoji:n Tietosuojakäytäntö ennen tämän ominaisuuden käyttämistä."</string>
+  <string name="terms_of_use_lable_default_input_method_kika">"
+
+Sinun täytyy hyväksyä Kika:n Tietosuojakäytäntö ennen tämän ominaisuuden käyttämistä."</string>
+  <string name="terms_privacy_policy_input_method_facemoji">Facemoji:n Tietosuojakäytäntö</string>
+  <string name="terms_privacy_policy_input_method_kika">Kika:n Tietosuojakäytäntö</string>
   <string name="title_fingerprint">Aseta salasana</string>
   <string name="user_agreement">Palveluehdot</string>
   <string name="voice_assist_desp">Sano \"Mi AI\" puhelimellesi. Mi AI tunnistaa äänesi ja voi ohjata laitettasi.</string>
+  <string name="voice_assist_desp_screen_light">Näyttösi valaistuttua, sano \"Mi AI\" puhelimeesi. Mi AI tunnistaa äänesi ja voi ohjata laitettasi.</string>
   <string name="voice_assist_title">Herätä äänellä</string>
   <string name="welcome">Tervetuloa</string>
 </resources>
