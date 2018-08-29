@@ -3,8 +3,6 @@
   <!-- miui 10 valmis -->
   <string name="miui_forbid_poweroff_when_device_locked">Ei voi sammuttaa, laite on lukittu.</string>
   <string name="super_resolution_maintain_tips">Super-resoluutio ei ole käytettävissä vielä.</string>
-  <string name="wifi_assistant_wifi_no_internet">Tällä Wi-Fi-verkolla ei ole yhteyttä internetiin</string>
-  <string name="wifi_assistant_wifi_no_internet_detail">Näytä tiedot napauttamalla</string>
   <!-- miui 10 valmis -->
   <string name="activity_package_delete_confirm_title">Huomio</string>
   <string name="add_frequent_phrases">Lisää usein käytettyjä lauseita</string>
