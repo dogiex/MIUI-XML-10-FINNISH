@@ -9,18 +9,6 @@
         <item quantity="other">Virheellinen PUK-koodi, %d yritystä jäljellä</item>
         <item quantity="one">Virheellinen PUK-koodi, %d yritys jäljellä</item>
      </plurals>
-     <plurals name="keyguard_charging_info_charging_full_need_hour_time__text">
-        <item quantity="other">Noin %d tuntia kunnes täynnä</item>
-        <item quantity="one">Noin %d tunti kunnes täynnä</item>
-     </plurals>
-     <plurals name="keyguard_charging_info_charging_full_need_min_time__text">
-        <item quantity="other">Noin %d minuuttia kunnes täynnä</item>
-        <item quantity="one">Noin %d minuutti kunnes täynnä</item>
-     </plurals>
-     <plurals name="keyguard_charging_info_charging_full_need_time__text">
-        <item quantity="other">Noin %1$d t %2$d m kunnes täynnä</item>
-        <item quantity="one">Noin %1$d t %2$d m kunnes täynnä</item>
-     </plurals>
      <plurals name="keyguard_charging_info_could_use_hour_time_text">
         <item quantity="other">Noin %d tuntia jäljellä</item>
         <item quantity="one">Noin %d tunti jäljellä</item>
@@ -54,8 +42,8 @@
         <item quantity="one">SIM-kortti on nyt poistettu käytöstä. Anna PUK-koodi jatkaaksesi. Sinulla on %d yritys jäljellä, ennen kuin SIM-kortti muutetaan kokonaan käyttökelvottomaksi. Lisätietoja saat ottamalla yhteyttä operaattoriin.</item>
      </plurals>
      <plurals name="kg_password_wrong_pin_code">
-        <item quantity="other">Virheellinen SIM-kortin PIN-koodi, sinulla on %d yritystä jäljellä.</item>
-        <item quantity="one">Virheellinen SIM-kortin PIN-koodi, sinulla on %d yritys jäljellä ennen kuin joudut ottamaan operaattoriisi yhteyttä laitteesi avaamista varten.</item>
+        <item quantity="other">Virheellinen SIM-kortin PIN-koodi. Sinulla on %d yritystä jäljellä.</item>
+        <item quantity="one">Virheellinen SIM-kortin PIN-koodi. Sinulla on %d yritys jäljellä ennen kuin joudut ottamaan operaattoriisi yhteyttä laitteesi avaamista varten.</item>
      </plurals>
      <plurals name="kg_password_wrong_puk_code">
         <item quantity="other">Virheellinen SIM-kortin PUK-koodi, sinulla on %d yritystä jäljellä, ennen kuin SIM-kortti muuttuu pysyvästi käyttökelvottomaksi.</item>

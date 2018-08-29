@@ -79,7 +79,7 @@
      <string name="accessibility_gps_acquiring">GPS haetaan.</string>
      <string name="accessibility_gps_enabled">GPS otettu käyttöön.</string>
      <string name="accessibility_key">Mukautettu navigointipainike</string>
-     <string name="accessibility_left_button">oikotie</string>
+     <string name="accessibility_left_button">Pikakuvake</string>
      <string name="accessibility_location_active">Sijaintipyynnöt ovat aktiivisia</string>
      <string name="accessibility_multi_user_switch_inactive">Nykyinen käyttäjä %s</string>
      <string name="accessibility_multi_user_switch_quick_contact">Näytä profiili</string>
@@ -197,7 +197,7 @@
      <string name="alarm_template">klo %1$s</string>
      <string name="alarm_template_far">on %1$s</string>
      <string name="app_info">Sovellustiedot</string>
-     <string name="app_name">Keyguard</string>
+     <string name="app_name">Lukitusnäyttö</string>
      <string name="auto_disable_screenbuttons_disable_toast_text">Navigointipainikkeet pois käytöstä, tuplanapauta mitä tahansa painiketta ottaaksesi ne takaisin käyttöön.</string>
      <string name="auto_disable_screenbuttons_enable_toast_text">Navigointipainikkeet käytössä</string>
      <string name="back">Takaisin</string>
@@ -376,6 +376,7 @@ Jäähtymisen jälkeen se toimii taas normaalisti."</string>
      <string name="incorrect_pukcode">Virheellinen PUK-koodi</string>
      <string name="input_password_after_boot_msg">Avaa laitteen lukitus antamalla salasanasi</string>
      <string name="input_password_after_boot_msg_can_not_switch_when_calling">Puhelun aikana ei voi vaihtaa tilojen välillä</string>
+	 <string name="input_password_after_boot_msg_can_not_switch_when_greenkid_active">Tilojen välillä ei voi vaihtaa, kun lapsilukko on käytössä</string>
      <string name="input_password_after_boot_msg_must_enter_owner_space">Sinun täytyy siirtyä Ensimmäiseen tilaan laitteen uudelleenkäynnistyksen jälkeen</string>
      <string name="input_password_handle_sdcard_fs">Lukitusnäytöltä ei voi siirtyä Toiseen tilaan. Siirry Ensimmäisestä tilasta.</string>
      <string name="input_password_hint_text">Anna salasana</string>
@@ -406,7 +407,7 @@ prioriteetti"</string>
      <string name="keyguard_accessibility_pin_area">PIN-koodin alue</string>
      <string name="keyguard_accessibility_sim_pin_area">SIM-kortin PIN-koodin alue</string>
      <string name="keyguard_accessibility_sim_puk_area">SIM-koodin PUK-koodin alue</string>
-     <string name="keyguard_carrier_default">Ei palvelua.</string>
+     <string name="keyguard_carrier_default">Ei palvelua</string>
      <string name="keyguard_charged">Ladattu</string>
      <string name="keyguard_charging_info_battery_used_time_text">Akkukäytöllä</string>
      <string name="keyguard_charging_info_click_to_detail">Näytä tiedot</string>
@@ -419,7 +420,7 @@ prioriteetti"</string>
      <string name="keyguard_charging_info_tip_text2">Älä ylilataa laitettasi. Usea lyhyt latauskerta on parempi, kuin yön yli lataus.</string>
      <string name="keyguard_charging_info_tip_text3">Vältä laitteen lataamista, kun ympärillä oleva lämpötila on alle 0 ℃.</string>
      <string name="keyguard_charging_info_tip_text4">Älä käytä laitettasi aktiivisesti latauksen aikana välttääksesi laitteen ylikuumenemisen.</string>
-     <string name="keyguard_charging_info_tip_text5">Akut latautuvat pidempään jos ne kuumenevat tavallista enemmän.</string>
+     <string name="keyguard_charging_info_tip_text5">Akuilla kestää kauemmin latautua jos ne kuumenevat tavallista enemmän.</string>
      <string name="keyguard_charging_info_tip_text6">Sammuta näyttö ja laita laitteesi pois viilentääksesi sen.</string>
      <string name="keyguard_indication_charging_time">Ladataan (%s kunnes täynnä)</string>
      <string name="keyguard_indication_charging_time_fast">Ladataan nopeasti (%s kunnes täynnä)</string>
@@ -435,15 +436,15 @@ prioriteetti"</string>
      <string name="keyguard_missing_sim_instructions_long">SIM-kortti puuttuu tai sitä ei voi lukea. Aseta SIM-kortti.</string>
      <string name="keyguard_missing_sim_message">Puhelimessa ei ole SIM-korttia.</string>
      <string name="keyguard_missing_sim_message_short">Ei SIM-korttia</string>
-     <string name="keyguard_network_locked_message">Verkko lukittu</string>
-     <string name="keyguard_password_enter_password_code">Kirjoita salasana poistaaksesi lukituksen</string>
-     <string name="keyguard_password_enter_pin_code">Kirjoita PIN-koodi</string>
-     <string name="keyguard_password_enter_pin_password_code">Kirjoita PIN-koodi poistaaksesi lukituksen</string>
+     <string name="keyguard_network_locked_message">Verkko on lukittu</string>
+     <string name="keyguard_password_enter_password_code">Anna salasana poistaaksesi lukituksen</string>
+     <string name="keyguard_password_enter_pin_code">Anna PIN-koodi</string>
+     <string name="keyguard_password_enter_pin_password_code">Anna PIN-koodi poistaaksesi lukituksen</string>
      <string name="keyguard_password_enter_pin_prompt">Uusi SIM-kortin PIN-koodi</string>
-     <string name="keyguard_password_enter_puk_code">Kirjoita SIM-kortin PUK-koodi ja uusi PIN-koodi</string>
+     <string name="keyguard_password_enter_puk_code">Anna SIM-kortin PUK-koodi ja uusi PIN-koodi</string>
      <string name="keyguard_password_enter_puk_prompt">SIM-kortin PUK-koodi</string>
-     <string name="keyguard_password_entry_touch_hint">Kirjoita salasana koskettamalla</string>
-     <string name="keyguard_password_wrong_pin_code">Virheellinen PIN-koodi.</string>
+     <string name="keyguard_password_entry_touch_hint">Anna salasana napauttamalla</string>
+     <string name="keyguard_password_wrong_pin_code">PIN-koodi on virheellinen.</string>
      <string name="keyguard_permanent_disabled_sim_instructions">"SIM-korttisi on pysyvästi poistettu käytöstä.
 Ota yhteyttä operaattoriisi uutta SIM-korttia varten."</string>
      <string name="keyguard_permanent_disabled_sim_message_short">Käyttökelvoton SIM-kortti.</string>
@@ -458,7 +459,7 @@ Ota yhteyttä operaattoriisi uutta SIM-korttia varten."</string>
      <string name="keyguard_unlock">Poista lukitus pyyhkäisemällä ylös</string>
      <string name="keyguard_widget_12_hours_format">hmm</string>
      <string name="keyguard_widget_24_hours_format">kkmm</string>
-     <string name="kg_enter_confirm_pin_hint">Vahvista haluttu PIN-koodi</string>
+     <string name="kg_enter_confirm_pin_hint">Vahvista uusi PIN-koodi</string>
      <string name="kg_failed_attempts_almost_at_erase_profile">Olet yrittänyt poistaa puhelimen lukituksen virheellisesti %1$d kertaa. %2$d epäonnistuneen yrityksen jälkeen työprofiili poistetaan, joka poistaa myös kaikki profiilitiedot.</string>
      <string name="kg_failed_attempts_almost_at_erase_user">Olet yrittänyt poistaa puhelimen lukituksen virheellisesti %1$d kertaa. %2$d epäonnistuneen yrityksen jälkeen tämä käyttäjä poistetaan, joka poistaa myös kaikki käyttäjätiedot.</string>
      <string name="kg_failed_attempts_almost_at_login">"Olet piirtänyt lukituksenpoistokuviosi virheellisesti %1$d kertaa. %2$d epäonnistuneen yrityksen jälkeen sinua pyydetään poistamaan puhelimesi lukitus käyttäen sähköpostiosoitetta.
@@ -468,19 +469,19 @@ Ota yhteyttä operaattoriisi uutta SIM-korttia varten."</string>
      <string name="kg_failed_attempts_now_erasing_profile">Olet yrittänyt poistaa puhelimen lukituksen virheellisesti %d kertaa. Työprofiili poistetaan, joka poistaa myös kaikki profiilitiedot.</string>
      <string name="kg_failed_attempts_now_erasing_user">Olet yrittänyt poistaa puhelimen lukituksen virheellisesti %d kertaa. Tämä käyttäjä poistetaan, joka poistaa myös kaikki käyttäjätiedot.</string>
      <string name="kg_failed_attempts_now_wiping">Olet yrittänyt poistaa puhelimen lukituksen virheellisesti %d kertaa. Tämä puhelin nollataa, joka poistaa kaikki laitteessa olevat tiedot.</string>
-     <string name="kg_forgot_pattern_button_text">Unohdin Kuvion</string>
+     <string name="kg_forgot_pattern_button_text">Unohdin kuvion</string>
      <string name="kg_invalid_confirm_pin_hint">PIN-koodit eivät täsmää</string>
      <string name="kg_invalid_puk">Anna oikea PUK-koodi uudelleen. Toistuvat yritykset poistavat SIM-kortin käytöstä pysyvästi.</string>
      <string name="kg_invalid_sim_pin_hint">Kirjoita 4-8 numeroa pitkä PIN-koodi.</string>
      <string name="kg_invalid_sim_puk_hint">PUK-koodin pitäisi olla vähintään 8 numeroa.</string>
      <string name="kg_login_too_many_attempts">Liian monta kuvioyritystä</string>
-     <string name="kg_password_instructions">Anna Salasana</string>
-     <string name="kg_password_pin_failed">SIM-kortin PIN-koodin operointi epäonnistui!</string>
-     <string name="kg_password_puk_failed">SIM-kortin PUK-koodin operointi epäonnistui!</string>
-     <string name="kg_password_wrong_pin_code_pukked">Virheellinen SIM-kortin PIN-koodi. Sinun täytyy nyt ottaa yhteyttä operaattoriisi poistaaksesi laitteesi lukituksen.</string>
+     <string name="kg_password_instructions">Anna salasana</string>
+     <string name="kg_password_pin_failed">Lukitusta ei voitu poistaa SIM-kortin PIN-koodilla</string>
+     <string name="kg_password_puk_failed">Lukitusta ei voitu poistaa SIM-kortin PUK-koodilla</string>
+     <string name="kg_password_wrong_pin_code_pukked">SIM-kortin PIN-koodi on virheellinen. Ota yhteyttä operaattoriisi poistaaksesi laitteesi lukituksen.</string>
      <string name="kg_password_wrong_puk_code_dead">SIM-kortti on käyttökelvoton. Ota yhteyttä operaattoriisi.</string>
      <string name="kg_pattern_instructions">Piirrä kuviosi</string>
-     <string name="kg_pin_accepted">Koodi hyväksytty!</string>
+     <string name="kg_pin_accepted">Koodi hyväksyttiin</string>
      <string name="kg_pin_instructions">Anna PIN-koodi</string>
      <string name="kg_prompt_reason_device_admin">Järjestelmänvalvoja on lukinnut laitteen</string>
      <string name="kg_prompt_reason_restart_password">Poista lukitus antamalla salasana</string>
@@ -493,20 +494,20 @@ Ota yhteyttä operaattoriisi uutta SIM-korttia varten."</string>
      <string name="kg_prompt_reason_timeout_pattern">Kuvio vaaditaan ylimääräisen tietoturvan vuoksi</string>
      <string name="kg_prompt_reason_timeout_pin">PIN-koodi vaaditaan ylimääräisen tietoturvan vuoksi</string>
      <string name="kg_prompt_reason_user_request">Laite lukittiin manuaalisesti</string>
-     <string name="kg_puk_enter_pin_hint">Anna haluttu PIN-koodi</string>
+     <string name="kg_puk_enter_pin_hint">Anna uusi PIN-koodi</string>
      <string name="kg_puk_enter_puk_hint">SIM-kortti on nyt poistettu käytöstä. Anna PUK-koodi jatkaaksesi. Ota yhteyttä operaattoriisi lisätietoja varten.</string>
      <string name="kg_puk_enter_puk_hint_multi">SIM-kortti \"%1$s\" on nyt poistettu käytöstä. Anna PUK-koodi jatkaaksesi. Ota yhteyttä operaattoriisi lisätietoja varten.</string>
      <string name="kg_sim_pin_instructions">Anna SIM-kortin PIN-koodi</string>
      <string name="kg_sim_pin_instructions_multi">Anna SIM-kortin PIN-koodi kohteelle \"%1$s\"</string>
      <string name="kg_sim_unlock_progress_dialog_message">Poistetaan SIM-kortin lukitusta…</string>
      <string name="kg_too_many_failed_attempts_countdown">Yritä uudelleen %d sekunnin kuluttua.</string>
-     <string name="kg_too_many_failed_password_attempts_dialog_message">"Olet kirjoittanut salasanasi virheellisesti %1$d kertaa. 
+     <string name="kg_too_many_failed_password_attempts_dialog_message">"Olet antanut salasanasi virheellisesti %1$d kertaa. 
 
 Yritä uudelleen %2$d sekunnin kuluttua."</string>
      <string name="kg_too_many_failed_pattern_attempts_dialog_message">"Olet piirtänyt lukituksenpoistokuviosi virheellisesti %1$d kertaa. 
 
 Yritä uudelleen %2$d sekunnin kuluttua."</string>
-     <string name="kg_too_many_failed_pin_attempts_dialog_message">"Olet kirjoittanut PIN-koodisi virheellisesti %1$d kertaa. 
+     <string name="kg_too_many_failed_pin_attempts_dialog_message">"Olet antanut PIN-koodisi virheellisesti %1$d kertaa. 
 
 Yritä uudelleen %2$d sekunnin kuluttua."</string>
      <string name="kg_wrong_password">Väärä salasana</string>
@@ -539,8 +540,7 @@ Yritä uudelleen %2$d sekunnin kuluttua."</string>
      <string name="lockscreen_none">Ei mitään</string>
      <string name="lockscreen_shortcut_left">Vasen oikotie</string>
      <string name="lockscreen_shortcut_right">Oikea oikotie</string>
-     <string name="lockscreen_sim_error_message_short">Virheellinen kortti.</string>
-     <string name="lockscreen_storage_locked">Ota kaikki ominaisuudet ja tiedot käyttöön poistamalla lukitus</string>
+     <string name="lockscreen_sim_error_message_short">SIM-kortti on virheellinen.</string>
      <string name="lockscreen_unlock_left">Vasen oikotie poistaa myös lukituksen</string>
      <string name="lockscreen_unlock_right">Oikea oikotie poistaa myös lukituksen</string>
      <string name="memory_clear_result_giga">%1$sGt vapautettu</string>
@@ -644,9 +644,9 @@ Olet myös yhteydessä VPN-palvelimeen, joka voi valvoa verkon käyttöäsi."</s
      <string name="phone_locked_forget_password_suggesstion_two_content">Valitse \"Tyhjennä &amp; Nollaa\" ja odota kunnes laite käynnistyy uudelleen.</string>
      <string name="phone_locked_forget_password_suggesstions_title">Kuinka tiedot poistetaan?</string>
      <string name="phone_locked_string">Puhelin on lukittu</string>
-     <string name="pip_close">Sulje PIP</string>
+     <string name="pip_close">Sulje PiP</string>
      <string name="pip_fullscreen">Koko näyttö</string>
-     <string name="pip_notification_unknown_title">(Ei otsikkoa ohjelma)</string>
+     <string name="pip_notification_unknown_title">(Ei ohjelmaa otsikko)</string>
      <string name="plugins">Liitännäiset</string>
      <string name="power_notification_controls_description">"Ilmoituksien hallinnan avulla voit asettaa sovelluksen ilmoituksille tärkeysjärjestyksen 0:sta 5:een. 
 

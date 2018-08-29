@@ -122,8 +122,8 @@ Huomio: Asennettujen sovelluksien datatietoja ei varmuuskopioida Mi Pilveen. Kä
   <string name="menu_item_sort_name">Nimi</string>
   <string name="menu_item_sort_size">Koko</string>
   <string name="miui_device_name">Android</string>
-  <string name="msg_alert_cancel_restore">Pilven varmuuskopiota palautetaan, lopetetaanko se?</string>
-  <string name="msg_alert_restore_error">Pilven varmuuskopion palauttaminen epäonnistui, yritä uudelleen.</string>
+  <string name="msg_alert_cancel_restore">Palautetaan kohteita. Lopetetaanko nyt?</string>
+  <string name="msg_alert_restore_error">Kohteita ei voitu palauttaa Mi Pilvestä. Yritä uudelleen.</string>
   <string name="name_model">Henkilön %1$s %2$s</string>
   <string name="network_error">Yhdistä verkkoon</string>
   <string name="no_account">Et ole kirjautuneena Mi Tiliin.</string>

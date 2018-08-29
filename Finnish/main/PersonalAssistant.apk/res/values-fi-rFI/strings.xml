@@ -678,6 +678,8 @@ Tarkista seurantanumerosi."</string>
   <string name="express_setting_service_provider">Palveluntarjoaja</string>
   <string name="express_setting_service_unavailable">抱歉，当前服务不可用，请稍后重试</string>
   <string name="express_setting_sim_card_index">卡槽%d</string>
+  <string name="express_setting_subscribe_phone_failed">添加手机号码失败！</string>
+  <string name="express_setting_subscribe_phone_success">添加手机号码成功！</string>
   <string name="express_setting_supported_orders">"Tuetut toimitus- palvelut ovat Taobao, Tmall, Xianyu, ZTO Express, STO Express, Yunda Express ja muut suuret toimitusyritykset. 
 Useita tilauksia, jotka lähetetään SF Expressin kautta Taobaon, Tmallin ja Xianyun ulkopuolisilta toimittajilta, voidaan tarkistaa vain manuaalisesti."</string>
   <string name="express_setting_title">Vahvistettu puhelinnumero</string>
@@ -967,7 +969,7 @@ Useita tilauksia, jotka lähetetään SF Expressin kautta Taobaon, Tmallin ja Xi
   <string name="mi_sport">Askelmittari</string>
   <string name="mi_sport_go_install">Lataa</string>
   <string name="mi_wallet">Mi Wallet</string>
-  <string name="mifare_card">门禁卡</string>
+  <string name="mifare_card">门卡</string>
   <string name="mini_add_fp">请先到手机系统中添加指纹, 再开启支付宝指纹密码</string>
   <string name="mini_agree">同意</string>
   <string name="mini_already_download">已下载</string>

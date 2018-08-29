@@ -840,6 +840,7 @@ vastaanottaaksesi muistutuksia maksuista ja matkoista"</string>
   <string name="preview_attachment">Esikatsele</string>
   <string name="previous_action">Takaisin</string>
   <string name="print">Tulosta</string>
+  <string name="privacy_policy">Tietosuojakäytäntö</string>
   <string name="prompt_title">Ilmoitus</string>
   <string name="protocol_eas">eas</string>
   <string name="protocol_imap">imap</string>

@@ -980,7 +980,7 @@ Haluatko kuitenkin vaihtaa operaattoria?"</string>
   <string name="mobile_data_always_on">Mobiilidata on aina käytössä</string>
   <string name="mobile_data_always_on_summary">Pidä mobiilidata aina käytössä, vaikka Wi-Fi olisi aktiivinen. Tämä mahdollistaa nopeamman vaihtelun verkkojen välillä.</string>
   <string name="mobile_network_settings_not_available">Matkapuhelinverkon asetukset ei ole käytettävissä tällä käyttäjällä</string>
-  <string name="mobile_networks">Matkapuhelinverkon asetukset</string>
+  <string name="mobile_networks">Mobiiliverkon asetukset</string>
   <string name="mock_location_app">Valitse valesijaintisovellus</string>
   <string name="mock_location_app_not_set">Valesijaintisovellusta ei ole valittu</string>
   <string name="mock_location_app_set">Valesijaintisovellus: %1$s</string>

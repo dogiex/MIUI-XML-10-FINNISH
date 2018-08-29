@@ -208,6 +208,8 @@
   <string name="select_sim_hint">SIM-korttia %2$d ei voi käyttää SIM-kortin %1$d ollessa käytössä.</string>
   <string name="select_voice_call_sim">Valitse SIM-kortti</string>
   <string name="separate_from_conference">Erota puhelu</string>
+  <string name="sim1_description">SIM-kortti 1</string>
+  <string name="sim2_description">SIM-kortti 2</string>
   <string name="sip_call_not_support_record">SIP-puheluita ei voi nauhoittaa</string>
   <string name="suspect_info">Ole varovainen: Aina varmista henkilön henkilöllisyys, joko puhelulla tai videolla, ennen kuin vastaat mihinkään viestiin, jossa käsitellään henkilökohtaisia tietoja.</string>
   <string name="time_left_livetalk">(%ds)</string>
