@@ -140,7 +140,6 @@
   <string name="note_sort_way">Valitse, kuinka haluat järjestää muistiosi</string>
   <string name="notealert_enter">Avaa muistio</string>
   <string name="notealert_ok">Poistu</string>
-  <string name="notelist_string_info">…</string>
   <string name="notify_alarm_title">Muistion muistutus</string>
   <string name="permdesc_accessNote">Haitalliset sovellukset saattavat käyttää tätä päästäkseen käsiksi henkilökohtaisiin tietoihin.</string>
   <string name="permlab_accessNote">Pääsy muistioihin</string>

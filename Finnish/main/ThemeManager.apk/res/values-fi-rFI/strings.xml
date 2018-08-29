@@ -331,10 +331,6 @@
   <string name="resource_ranking">Suosittu</string>
   <string name="resource_ranking_free">Ilmainen</string>
   <string name="resource_ranking_purchase">Maksullinen</string>
-  <string name="resource_ring_ranking_list_divider">-</string>
-  <string name="resource_ring_ranking_list_rank_1">1</string>
-  <string name="resource_ring_ranking_list_rank_2">2</string>
-  <string name="resource_ring_ranking_list_rank_3">3</string>
   <string name="resource_ringtone_default">Soittoäänet</string>
   <string name="resource_ringtone_playing_error">Virhe</string>
   <string name="resource_ringtone_volume_mute">Soittoääni on äänettömällä</string>
