@@ -629,7 +629,7 @@ Olet myös yhteydessä VPN-palvelimeen, joka voi valvoa verkon käyttöäsi."</s
      <string name="notification_more_settings">Lisäasetukset</string>
      <string name="notification_tap_again">Avaa napauttamalla uudelleen</string>
      <string name="open_camera_hint_text">Avaa kamera pyyhkäisemällä vasemmalle</string>
-     <string name="open_remote_center_hint_text">Avaa Mi Kaukosäädin pyyhkäisemällä oikealle</string>
+     <string name="open_remote_center_hint_text">Avaa Pikakuvakkeet pyyhkäisemällä oikealle</string>
      <string name="other">Muu</string>
      <string name="overview">Yleiskatsaus</string>
      <string name="phone_hint">Avaa Puhelin -sovellus pyyhkäisemällä kuvakkeesta</string>

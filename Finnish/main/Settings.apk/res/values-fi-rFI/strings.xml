@@ -967,8 +967,10 @@ Siirtonopeus"</string>
   <string name="bootloader_locked_answer_1">Lukitsemme laitteet varmistaaksemme, että ne on ovat turvassa ja ettei henkilökohtaiset tietosi jaeta kolmansille osapuolille. Jos sinun täytyy päästä Fastboot tilaan ja asentaa laitteesi, voit avata lukon.</string>
   <string name="bootloader_locked_answer_1_warning">Muista: Et voi käyttää \"Etsi laite\" ominaisuutta puhelimen lukituksen avaamisen jälkeen.</string>
   <string name="bootloader_locked_answer_2">"1. Varmista, että olet asettanut jo SIM-kortin laitteeseesi.
-2. Napauta \"Lisää tili\" painiketta alapuolella liittääksesi Mi Tilisi tähän laitteeseen.
+2. Napauta alapuolelta \"Lisää tili\" liittääksesi Mi Tilisi laitteen kanssa.
 3. Lataa lukituksen poistotyökalu verkkosivuiltamme. Huomaa, että sinun täytyy poistaa laitteiden lukitus tietokoneella. Lataa täältä:"</string>
+  <string name="bootloader_locked_answer_2_no_sim">"1. Napauta alapuolelta \"Lisää tili\" liittääksesi Mi Tilisi laitteen kanssa.
+2. Lataa lukituksen poistotyökalu verkkosivuiltamme. Huomaa, että sinun täytyy poistaa laitteiden lukitus tietokoneella. Lataa täältä:"</string>
   <string name="bootloader_locked_check_status">Lisää tili ja laite</string>
   <string name="bootloader_locked_question_1">Miksi laitteiden täytyy olla lukittu?</string>
   <string name="bootloader_locked_question_2">Ymmärrän riskit, mutta haluan silti avata laitteeni lukituksen.</string>
@@ -2031,6 +2033,12 @@ Kaupungissa ei näkynyt hevosia tai muita eläimiä: tavaroita kuljetettiin pien
   <string name="foreground_traffic">Etualalla %s</string>
   <string name="forget">Unohda</string>
   <string name="forget_password_button_text">Unohdin salasanani</string>
+  <string name="forget_password_dialog_button_text">Takaisin</string>
+  <string name="forget_password_dialog_content_four">2. Valitse [Poista tiedot], ja odota kunnes laitteesi käynnistyy uudelleen.</string>
+  <string name="forget_password_dialog_content_one">Jos unohdat salasanasi, et voi enää palauttaa sitä. Voit kuitenkin nollata salasanasi, kun olet poistanut laitteeltasi kaikki tiedot (mukaan lukien kuvat, yhteystiedot, jne.). Varmuuskopioi kaikki tärkeät tiedot ennen toimenpidettä.</string>
+  <string name="forget_password_dialog_content_three">1. Sammuta laitteesi. Paina [Virta] ja [Äänenvoimakkuus+] -painikkeita yhtä aikaa ja pidä ne pohjassa, kunnes näet kuvakkeen.</string>
+  <string name="forget_password_dialog_content_two">Seuraa näitä vaiheita tietojen poistamiseen:</string>
+  <string name="forget_password_dialog_title">Nollaa salasani</string>
   <string name="forget_pattern">Unohtuiko kuvio?</string>
   <string name="forget_privacy_password_setting">Lisää Mi Tili</string>
   <string name="forget_privacy_password_summary">Käytä Mi Tiliäsi salasanan palauttamiseen</string>
@@ -2285,7 +2293,7 @@ Voit muuttaa tätä asetusta myöhemmin kohdassa Asetukset > Sovellukset ja ilmo
   <string name="keyboard_shortcuts_helper">Pikanäppäinapuri</string>
   <string name="keyboard_shortcuts_helper_summary">Näytä käytettävissä olevat pikanäppäimet</string>
   <string name="keyguard_advance_setting_title">Lisäasetukset</string>
-  <string name="keyguard_vertical_clock_title">Pystysuora kello</string>
+  <string name="keyguard_vertical_clock_title">Pystysuora Kello</string>
   <string name="keywords_accounts">tili</string>
   <string name="keywords_airplane">Lentokone;Lentokonetila;Lento;Lentotila</string>
   <string name="keywords_all_apps">sovellukset, lataus, järjestelmä</string>
@@ -4054,6 +4062,8 @@ Näytön kiinnittäminen:
   <string name="search_screenshot">Kuvakaappaus</string>
   <string name="search_second_space">Toinen tila;Kaksi tilaa;2 tilaa;Piilota sovelluksia;Piilota tiedostoja;Piilota kuvia;Lukitusnäyttö;Lukitusnäytön salasana;Yksityisyys;Yksityisyystila;Yksityinen tila;Yksityinen;Vierastila;Vieras istunto;Vieras käyttö;Vierastili;Vieras</string>
   <string name="search_security_encryption_title">Salaa laite käyttämällä lukitusnäytön salasanaa;Salaa;Salaus;Salaa laite;Salaa puhelin</string>
+  <string name="security_input">Tietoturvasyöttö</string>
+  <string name="security_input_hint">Käytetään tietoturvasyöttöä anna salasana</string>
   <string name="search_security_passwords_title">Salasana;Näytön lukitus;PIN;Kuvio</string>
   <string name="search_security_privacy_settings_title">Yksityisyys;Tietoturva;Tuntemattomat lähteet;Näytä salasana;Sovelluksen allekirjoitus;Sovelluksien allekirjoitukset;Tyhjennä käyttöoikeustiedot;Tyhjennä käyttöoikeus</string>
   <string name="search_security_settings">Yksityisyysasetukset;Tietoturva;Yksityisyys</string>
@@ -4487,6 +4497,7 @@ Laitteeseesi asennettu luotettu varmenne tekee tämän mahdolliseksi."</string>
   <string name="status_bar_settings_custom_carrier">Muokkaa operaattorin nimeä</string>
   <string name="status_bar_settings_custom_wifi_name">Muokkaa Wi-Fi nimeä</string>
   <string name="status_bar_settings_enable_notification">Näytä ilmoitukset</string>
+  <string name="status_bar_settings_expand_top_notification">Laajenna ylin ilmoitus</string>
   <string name="status_bar_settings_expandable_under_keyguard">Näytä Lukitusnäytöllä</string>
   <string name="status_bar_settings_long_click_sort">Siirrä nappulaa painamalla sitä pohjassa</string>
   <string name="status_bar_settings_manage_notification">Sovellusilmoitukset</string>

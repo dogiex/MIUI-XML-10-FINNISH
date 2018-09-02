@@ -133,6 +133,7 @@
   <string name="micloud_dialog_sync_now_title">Synkronoi yhdistämällä Wi-Fi-verkkoon</string>
   <string name="micloud_dspt">Käytä Mi Pilveä datan synkronointiin, laitteesi paikantamiseen,</string>
   <string name="micloud_dspt_provision">Käytä Mi Pilveä datan synkronointiin, laitteesi paikantamiseen ja asioiden jakamiseen ystäviesi kanssa.</string>
+  <string name="micloud_dspt_provision_xms">Käytä Mi Pilveä tietojen synkronointiin.</string>
   <string name="micloud_find_device_close_alert_content">Jos poistat tämän ominaisuuden käytöstä, et voi enää paikantaa laitettasi jos se hukkuu.</string>
   <string name="micloud_find_device_close_alert_negtive">Poista käytöstä siitä huolimatta</string>
   <string name="micloud_find_device_close_alert_positive">Pidä käytössä</string>
@@ -172,6 +173,7 @@
   <string name="micloud_main_button_authorize">Valtuuta</string>
   <string name="micloud_main_button_set_internet">Asetukset</string>
   <string name="micloud_main_cancel_sync">Peruuta synkronointi</string>
+  <string name="micloud_main_cancel_sync_now">Peruutetaan…</string>
   <string name="micloud_main_clear_now">Tyhjennä</string>
   <string name="micloud_main_detail">Näytä tiedot</string>
   <string name="micloud_main_error_activated_fail">Aktivoi SIM-korttisi.</string>
@@ -199,6 +201,11 @@ Käytä eri tiliä."</string>
   <string name="micloud_main_resume_sync_soon">Jatka synkronointia pian</string>
   <string name="micloud_main_see_unsynced_data">Tarkista synkronoitavat tiedot</string>
   <string name="micloud_main_set_internet">Verkko</string>
+  <string name="micloud_main_simple_last_sync_time">Synkronoitu viimeksi： %s</string>
+  <string name="micloud_main_simple_off">Synkronointi pois käytöstä</string>
+  <string name="micloud_main_simple_pending">Odottaa</string>
+  <string name="micloud_main_simple_synced">Synkronoitu</string>
+  <string name="micloud_main_simple_syncing">Synkronoidaan</string>
   <string name="micloud_main_space_full_message">Osta lisää tallennustilaa Mi Pilvestä</string>
   <string name="micloud_main_space_full_title">Tallennustilaa ei ole tarpeeksi, synkronointi pysäytetty</string>
   <string name="micloud_main_space_low">Tallennustila on lähes täynnä</string>
@@ -269,6 +276,8 @@ Käytä eri tiliä."</string>
   <string name="micloud_storage_expires_soon_title">Mi Pilven tallennustila vanhenee pian</string>
   <string name="micloud_storage_expires_very_soon_title">Mi Pilven tallennustila vanhenee pian</string>
   <string name="micloud_storage_full">Pilvi on täynnä</string>
+  <string name="micloud_storage_unit_gb">%s Gt</string>
+  <string name="micloud_storage_unit_mb">%s Mt</string>
   <string name="micloud_sync_alert_dialog_message">Synkronoi kuvat, yhteystiedot ja muistiot laitteillesi.</string>
   <string name="micloud_sync_alert_dialog_negative">Peruuta</string>
   <string name="micloud_sync_alert_dialog_positive">OK</string>

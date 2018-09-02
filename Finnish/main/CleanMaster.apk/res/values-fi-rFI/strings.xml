@@ -120,6 +120,7 @@
   <string name="clean_content_three">3 asiaa</string>
   <string name="clean_content_two">2 asiaa</string>
   <string name="clean_content_zero">Ei yhtään</string>
+  <string name="clean_summary">Puhdistettiin %1$s tiedostoa</string>
   <string name="clear_bigfiles">Poista suuret tiedostot, kuvien kaksoiskappaleet ja muut tarpeettomat asiat</string>
   <string name="clear_immediately">Puhdista nyt</string>
   <string name="clear_safe_notify">Ilmoitusalueen widgetti</string>
@@ -379,6 +380,8 @@
   <string name="mainbtn_text_quick_cleanup_default">Puhdista</string>
   <string name="megabyteShort">Mt</string>
   <string name="memeory_check_content">%1$d sovellusta, muisti %2$s</string>
+  <string name="memory_clean_icon_text">Tyhjennä muisti</string>
+  <string name="memory_clean_no_trash_tip">Kaikki näyttää hyvältä</string>
   <string name="menu_add_to_white_list">Lisää poikkeuksiin</string>
   <string name="menu_clear">Tyhjennä</string>
   <string name="menu_install">Asenna tämä sovellus</string>
@@ -404,6 +407,12 @@
   <string name="notification_title_of_garbage_cleanup">%s edestä roskatiedostoja</string>
   <string name="notify_when">Saa ilmoitus, kun roskien koko yltää 100Mt</string>
   <string name="ok">OK</string>
+  <string name="onekeyclean_boost_available">%s käytettävissä</string>
+  <string name="onekeyclean_boost_cleaned">%s Tyhjennetty</string>
+  <string name="onekeyclean_boosted_title">Tyhjennettiin onnistuneesti</string>
+  <string name="onekeyclean_boosting_title">Parannetaan nopeutta</string>
+  <string name="onekeyclean_card_btn">Puhdista nyt</string>
+  <string name="onekeyclean_card_summery">Tyhjennä roskat vapauttaaksesi tilaa</string>
   <string name="open">Ota käyttöön</string>
   <string name="open_app">Avaa</string>
   <string name="open_browser">Avaa selaimessa</string>
@@ -440,6 +449,7 @@
   <string name="pref_title_choose_engine">Virustunnisteet</string>
   <string name="pref_title_clean_alert">Puhdista automaattisesti</string>
   <string name="pref_title_cleanup_white_list">Poikkeukset</string>
+  <string name="pref_title_create_onekeyclean_shortcut">Näytä Aloitusnäytön pikakuvake</string>
   <string name="pref_title_expand_cache_group">Näytä välimuistissa olevat</string>
   <string name="pref_title_garbage_cleanup_check_size">Roskien koon raja</string>
   <string name="pref_title_garbage_cleanup_check_time">Ajasta</string>

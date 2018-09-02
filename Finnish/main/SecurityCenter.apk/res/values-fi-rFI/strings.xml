@@ -890,7 +890,7 @@ Se lisätään poikkeuksiin, mutta jo ennestään estetyt kohteet ei ilmesty puh
   <string name="gmscore_support_service">Google Palvelut</string>
   <string name="go_to">Jatka</string>
   <string name="go_to_setting_fingerprint">Asetukset</string>
-  <string name="google_base_app_install_choice">\"%s\" vaatii Google Services Frameworkin toimiakseen normaalisti, ladataanko ja asennetaanko se?</string>
+  <string name="google_base_app_install_choice">Sovellus vaatii Google Services Frameworkin toimiakseen normaalisti, ladataanko ja asennetaanko se?</string>
   <string name="group_have_hongbao">来自“%1$s”%2$d个红包</string>
   <string name="gs_anto_clean_memory_whitelist">Poikkeukset</string>
   <string name="gs_app_back_self_start">Virransäästö</string>
@@ -1649,7 +1649,7 @@ Tämä toiminta vähentää akun kestoa."</string>
   <string name="pref_key_tethering_setting">Kertakäyttöinen tiedonsiirtoraja</string>
   <string name="pref_key_tethering_title">Kertakäyttöinen tiedonsiirtoraja</string>
   <string name="pref_manual_adjust">Aseta datan käyttötilastot manuaalisesti</string>
-  <string name="pref_mi_sim_settings">Mi SIM-kortin Asetukset</string>
+  <string name="pref_mi_sim_settings">%s paketin asetukset</string>
   <string name="pref_more_traffic_settings">Lisäasetukset</string>
   <string name="pref_new_installed_preconfig_title">Uusien sovelluksien oletusasetukset</string>
   <string name="pref_normal_traffic_limit">Kun datapaketti on käytetty</string>
@@ -1663,7 +1663,7 @@ Tämä toiminta vähentää akun kestoa."</string>
   <string name="pref_roaming_setting_gategory">Asetukset</string>
   <string name="pref_special_package_setting">Mukautettu datapaketti</string>
   <string name="pref_special_package_setting_summary">Hallitse hiljaisen ajan dataa, top-up paketteja, päiväkohtaista datapakettia, ja määriteltyä dataa</string>
-  <string name="pref_summary_upload_data_usage">Ilmoita datan käyttötilastosi auttaaksesi meitä parantamaan MIUI:ta. Ilmoittaminen noudattaa Tietosuojakäytäntöämme.</string>
+  <string name="pref_summary_upload_data_usage">Ilmoita datan käyttötietosi auttaaksesi meitä parantamaan MIUI:n palveluita. Ilmoittamisprosessi käsitellään Tietosuojakäytäntömme mukaisesti.</string>
   <string name="pref_title_declaration">Tärkeä vastuuvapauslauseke</string>
   <string name="pref_title_diagnostics_show_float_notification">Kelluvat ilmoitukset</string>
   <string name="pref_title_manual_check_virus_db_update">Tarkista päivitykset</string>
@@ -1671,7 +1671,7 @@ Tämä toiminta vähentää akun kestoa."</string>
   <string name="pref_title_traffic_limit_number">Koko</string>
   <string name="pref_title_traffic_speed_state">Näytä verkon nopeus</string>
   <string name="pref_title_update_notification">Datan käytön ilmoitukset</string>
-  <string name="pref_title_upload_data_usage">Ilmoita datan käyttötilastot</string>
+  <string name="pref_title_upload_data_usage">Ilmoita datan käyttötiedot</string>
   <string name="pref_traffic_manage_title">Datan käyttö</string>
   <string name="pref_warning_values">Tiedonsiirtovaroituksen taso</string>
   <string name="pref_whitelist_setting">Data roamingin poikkeukset</string>
@@ -1735,6 +1735,9 @@ Kalibroinnin aikana, MIUI lähettää tekstiviestin operaattorillesi saadakseen 
   <string name="report_success">Viesti ilmoitettu</string>
   <string name="report_warning">Ilmoitetaanko %1$s tekstiviesti Mi:lle? Nämä viestit ja puhelinnumerot, josta ne lähetettiin, lähetetään Mi:n palvelimille tarkistettavaksi. Kaikki viestien henkilökohtaiset tiedot pidetään aina anonyyminä.</string>
   <string name="report_warning_title">Huomio</string>
+  <string name="reset_data_dialog_message">Tämä laite ei ole liitettynä Mi Tiliisi. Laitetta ei voi palauttaa tai salasanaa nollata. Varmuuskopioi kaikki tärkeät tiedot ja suorita tehdasasetuksien palauttaminen. Kaikki tietosi poistetaan pysyvästi ja SD-korttisi alustetaan tehdasasetuksien palauttamisen aikana.</string>
+  <string name="reset_data_dialog_ok">Tehdasasetuksien palautus</string>
+  <string name="reset_data_title">Salasanaa ei voi palauttaa</string>
   <string name="resource_antispam">Estolista</string>
   <string name="resource_antivirus">Virustarkistus</string>
   <string name="resource_app_permissions">Sovelluksien käyttöoikeudet</string>
@@ -2017,6 +2020,7 @@ jonka määritit manuaalisesti (%2$s). Vaihdetaanko SIM-kortin sijainniksi %3$s?
   <string name="start_game">Aloita</string>
   <string name="status_bar_network_flow_content">Tänään: %1$s&amp;nbsp;&amp;nbsp;&amp;nbsp;Jäljellä: %2$s</string>
   <string name="status_bar_network_flow_content_not_setting">Tänään: %1$s&amp;nbsp;&amp;nbsp;&amp;nbsp;Tässä kuussa: %2$s</string>
+  <string name="status_bar_network_flow_content_virtual_card">%1$s&amp;nbsp;&amp;nbsp;&amp;nbsp;%2$s&amp;nbsp;&amp;nbsp;&amp;nbsp;</string>
   <string name="status_bar_network_flow_exceed_content">Tänään: %1$s&amp;nbsp;&amp;nbsp;&amp;nbsp;Suunnitelma ylitetty: %3$s</string>
   <string name="status_bar_network_flow_phone_balance">"   Puhelimen saldo:%1$s "</string>
   <string name="status_bar_network_flow_purchase">"   Osta &gt;"</string>

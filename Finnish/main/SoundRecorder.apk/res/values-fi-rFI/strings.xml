@@ -75,6 +75,7 @@
   <string name="preference_scenes">Nauhoituksen tyyppi</string>
   <string name="preference_silent_mode">Mykistä soittoääni nauhoituksen aikana</string>
   <string name="preference_tip_rename">Nimeä nauhoitukset käsin</string>
+  <string name="privacy_policy_title">Tietosuojakäytäntö</string>
   <string name="recognition_error_cancel">Peruutettu</string>
   <string name="recognition_error_download_cancel">Myöhemmin</string>
   <string name="recognition_error_download_fail">Lataaminen epäonnistui. Tarkista verkkoasetukset ja yritä uudelleen.</string>

@@ -500,7 +500,8 @@ Siirtonopeus"</string>
   <string name="cfnry_time_twenty_sec">20 sekuntia</string>
   <string name="cfnry_title">Siirrä kun ei vastata</string>
   <string name="cfu_title">Siirrä puhelut aina</string>
-  <string name="change_data_preference_4g_only_prompt">Näyttää siltä, että sinulla on SIM-kortti, joka tukee vain 4G-verkkoa. Asetetaanko se oletukseksi mobiilidatalle?</string>
+  <string name="change_data_preference_4g_only_prompt">Näyttää siltä, että sinulla on SIM-kortti, joka tukee vain 4G-verkkoa. Varmistaaksesi, että se toimii normaalisti, aseta se oletukseksi mobiilidatalle. Asetetaanko nyt?</string>
+  <string name="change_data_sim_4g_only_prompt">Vain SIM-kortti %1$s tukee 4G-yhteyttä. Kun SIM %2$s ei ole mobiilidatan oletus SIM-korttisi, SIM-kortti ei välttämättä toimi normaalisti. Vaihdetaanko nyt?</string>
   <string name="change_default_data_card">Oletus mobiilidatan SIM-kortti</string>
   <string name="change_default_data_card_summary">Näyttää siltä, että vaihdoit SIM-kortteja. Asetetaanko tämä kortti oletus SIM-kortiksi mobiilidatayhteydellesi?</string>
   <string name="change_num">Päivitä</string>
@@ -1099,6 +1100,8 @@ Käytetään ensisijaista verkkoa sen sijaan."</string>
   <string name="onscreenSwapCallsText">Vaihda</string>
   <string name="onscreenVideoCallText">Videopuh.</string>
   <string name="open_miui">Avaa</string>
+  <string name="opened_dual_4g_confirm_prompt">Näyttää siltä, että sinulla on vain 4G SIM-kortti. Dual 4G otettiin käyttöön automaattisesti.</string>
+  <string name="opened_dual_4g_confirm_prompt_with_sim">SIM-kortti %1$s tukee vain 4G-yhteyttä. Varmistaaksesi, että SIM-korttisi toimii normaalisti, dual 4G otettiin käyttöön.</string>
   <string name="optional_summary">Valinnainen</string>
   <string name="ota_activate">Aktivoi</string>
   <string name="ota_call_end">Takaisin</string>

@@ -285,6 +285,10 @@ Jos otat mobiilidatan uudelleen käyttöön, operaattorisi saattaa veloittaa sin
         <item quantity="zero">0 sovellusta löydetty</item>
         <item quantity="one">%d sovellus löydetty</item>
     </plurals>
+    <plurals name="reset_data_dialog_ok_tick">
+        <item quantity="other">Tehdasasetuksien palautus (%d s)</item>
+        <item quantity="one">Tehdasasetuksien palautus (%d s)</item>
+    </plurals>
     <plurals name="section_clear_acc_item_right_tips">
         <item quantity="other">%d lukittua sovellusta odottaa välimuistin tyhjennystä</item>
         <item quantity="one">%d lukittu sovellus odottaa välimuistin tyhjennystä</item>

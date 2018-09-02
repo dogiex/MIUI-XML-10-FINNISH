@@ -58,7 +58,7 @@
   <string name="month_day_format">d.M.</string>
   <string name="move_failed">Leikkaaminen epäonnistui</string>
   <string name="move_failed_retry">Leikkaaminen epäonnistui, odota %1$s ja yritä uudelleen</string>
-  <string name="need_get_accounts_permission">Mi Drive tarvitsee pääsyn tiliisi toimiakseen normaalisti.</string>
+  <string name="need_get_accounts_and_storage_permission">Mi Drive tarvitsee pääsyn tiliisi ja ulkoiselle tallennustilalle toimiakseen normaalisti.</string>
   <string name="never_notify">Älä näytä uudelleen</string>
   <string name="no_app_found_to_open_file">No app was found to handle this action.</string>
   <string name="no_more_space">Tallennustilaa ei ole tarpeeksi.</string>
@@ -106,7 +106,7 @@
   <string name="quota_info">Mi Drive: %1$s käytettävissä, %2$s yhteensä</string>
   <string name="rename_alert">Jos muutat tämän tiedoston tiedostomuotoa, se ei saata enää aueta.</string>
   <string name="rename_failed">Saman niminen tiedosto on jo olemassa.</string>
-  <string name="request_permission_msg">Salli Mi Driven käyttää tilitietojasi, jotta se toimisi normaalisti.</string>
+  <string name="request_permission_msg">Salli Mi Driven käyttää tilitietojasi ja ulkoista tallennustilaa, jotta se toimisi normaalisti.</string>
   <string name="request_permission_title">Käyttöoikeuksia vaaditaan</string>
   <string name="sd_full">SD-korttisi on täynnä.</string>
   <string name="sd_invalid">SD-korttisi on korruptoitunut.</string>
