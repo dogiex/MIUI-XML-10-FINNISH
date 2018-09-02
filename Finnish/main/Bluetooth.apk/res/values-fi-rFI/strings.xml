@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="ErrorTooManyRequests">Liian monta käsiteltävää pyyntöä. Yritä myöhemmin uudelleen.</string>
-  <string name="a2dp_sink_mbs_label">Bluetooth Ääni</string>
+  <string name="a2dp_sink_mbs_label">Bluetooth-ääni</string>
   <string name="ack_record">Hyv. tiedot</string>
   <string name="airplane_error_msg">Et voi käyttää Bluetoothia lentokonetilassa.</string>
   <string name="airplane_error_title">Lentokonetila</string>
@@ -9,8 +9,8 @@
   <string name="auth_notif_message">Kirjoita kohteen %1$s käyttökerran avain</string>
   <string name="auth_notif_ticker">Obex-todennuspyyntö</string>
   <string name="auth_notif_title">Käyttökerran avain</string>
-  <string name="bluetooth_connected">Bluetooth ääni yhdistetty</string>
-  <string name="bluetooth_disconnected">Bluetooth ääni katkaistu</string>
+  <string name="bluetooth_connected">Bluetooth-ääni liitetty</string>
+  <string name="bluetooth_disconnected">Bluetooth-ääni katkaistu</string>
   <string name="bluetooth_map_settings_app_icon">Sovelluskuvake</string>
   <string name="bluetooth_map_settings_cancel">Peruuta</string>
   <string name="bluetooth_map_settings_count">Paikkoja jäljellä:</string>
@@ -29,7 +29,7 @@
   <string name="bt_enable_line1">Jos haluat käyttää Bluetooth-palveluita, ota Bluetooth käyttöön.</string>
   <string name="bt_enable_line2">Otetaanko Bluetooth käyttöön nyt?</string>
   <string name="bt_enable_ok">Ota käyttöön</string>
-  <string name="bt_enable_title"/>
+  <string name="bt_enable_title" />
   <string name="bt_error_btn_ok">OK</string>
   <string name="bt_share_picker_label">Bluetooth</string>
   <string name="bt_sm_2_1">USB-tallennustilassa ei ole tarpeeksi tilaa. Tiedostoa lähettäjältä %1$s ei voi tallentaa.</string>
@@ -52,7 +52,7 @@
   <string name="download_line1">Lähettäjä: %1$s</string>
   <string name="download_line2">Tiedosto: %1$s</string>
   <string name="download_line3">Tiedostokoko: %1$s</string>
-  <string name="download_line4"/>
+  <string name="download_line4" />
   <string name="download_line5">Vastaanotetaan tiedostoa…</string>
   <string name="download_ok">Piilota</string>
   <string name="download_succ_line5">Tiedosto vastaanotettu</string>
@@ -93,7 +93,7 @@
   <string name="notification_sent_fail">Bluetooth-jako: tiedostoa %1$s ei lähetetty</string>
   <string name="notify_server">Ilmoita TCP-palvelin</string>
   <string name="ok_button">OK</string>
-  <string name="opp_notification_group">Bluetooth Jako</string>
+  <string name="opp_notification_group">Bluetooth-jako</string>
   <string name="outbound_history_title">Lähtevät siirrot</string>
   <string name="outbound_noti_title">Bluetooth-jako: Lähetetyt tiedostot</string>
   <string name="pbap_acceptance_timeout_message">Kohteen %1$s yhteyspyyntö aikakatkaistiin</string>

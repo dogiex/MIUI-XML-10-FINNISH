@@ -1868,7 +1868,7 @@ Saat lisätietoja organisaatiosi järjestelmänvalvojalta."</string>
   <string name="every_day">Joka päivä</string>
   <string name="experimental_category_title">Kokeellinen</string>
   <string name="experimental_preference">(Kokeellinen)</string>
-  <string name="extended_power_menu">Laajennettu power-valikko</string>
+  <string name="extended_power_menu">Laajennettu virtavalikko</string>
   <string name="external_code_size_label">Sovelluksen käyttämä USB-tallennustila</string>
   <string name="external_data_size_label">USB-tallennustilan tiedot</string>
   <string name="external_source_switch_title">Salli tästä lähteestä</string>
