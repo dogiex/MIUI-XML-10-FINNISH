@@ -366,7 +366,6 @@ Yhteystietokortit on poistettu käytöstä"</string>
   <string name="device_import_progress_begin_message">Tuodaan…</string>
   <string name="device_import_progress_end_message">Tuonti valmis</string>
   <string name="device_import_progress_message">Tuodaan…</string>
-  <string name="device_import_progress_toast">%1$d yhteystietoa tuotu</string>
   <string name="device_import_title">Tuo</string>
   <string name="device_list_title">Valitse laite</string>
   <string name="device_other_guide">Tukeeko toinen laite bluetoothia?</string>
@@ -905,6 +904,7 @@ Kosketa tähteä yhteystiedon nimen vieressä
   <string name="preference_others">Muut</string>
   <string name="preference_phone">Laite</string>
   <string name="preference_phone_more_title">Puheluasetukset</string>
+  <string name="preference_privacy_policy_title">Tietosuojakäytäntö</string>
   <string name="preference_remove_duplicate">Yhdistä yhteystietojen kaksoiskappaleet</string>
   <string name="preference_show_firewall_calllog">Näytä estetyt puhelut soittohistoriassa</string>
   <string name="preference_show_yellowpage_tab_description">Hakemistot ei välttämättä toimi kunnolla, kun tämä ominaisuus on pois käytöstä.</string>

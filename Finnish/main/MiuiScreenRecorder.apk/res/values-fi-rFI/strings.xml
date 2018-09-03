@@ -21,6 +21,8 @@
   <string name="description_title">Tietoja Näytön Nauhoittajasta</string>
   <string name="deselect_all">Poista valinnat</string>
   <string name="error_open_file_failed_no_app_found">Sovellusta ei löytynyt tämän tiedoston avaamista varten</string>
+  <string name="first_using_mic_dialog_message">Näytön nauhoittaja tarvitsee mikrofonisi käyttöoikeuden nauhoittaakseen ääntä. Sallitaanko?</string>
+  <string name="first_using_mic_dialog_title">Käyttöoikeuksia vaaditaan</string>
   <string name="fixed_frame_rate">Kiinteä ruudunpäivitysnopeus</string>
   <string name="fixed_frame_rate_summary">Videoiden nauhoittaminen kiinteällä ruudunpäivitysnopeudella parantaa niiden toistoa sosiaalisissa medioissa ja vähentää akunkestoa.</string>
   <string name="frames">Ruudunpäivitysnopeus</string>
@@ -79,4 +81,6 @@
   <string name="stop_recording">Lopeta nauhoittaminen</string>
   <string name="timer_format">%s</string>
   <string name="unchecked">Ei valittu</string>
+  <string name="using_record_confirm_cancel">Rajoita</string>
+  <string name="using_record_confirm_ok">Salli</string>
 </resources>

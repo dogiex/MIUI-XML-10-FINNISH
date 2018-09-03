@@ -1185,6 +1185,7 @@ vastausta"</string>
   <string name="menu_charge_traffic">Osta dataa</string>
   <string name="menu_edit">Muokkaa</string>
   <string name="menu_item_about_content">Versio %s</string>
+  <string name="menu_item_about_privacy_title">Tietosuojakäytäntö</string>
   <string name="menu_item_about_summary">Versio %s</string>
   <string name="menu_item_about_title">Tietoa</string>
   <string name="menu_item_app_details">Tiedot</string>

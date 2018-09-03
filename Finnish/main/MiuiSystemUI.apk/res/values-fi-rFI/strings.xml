@@ -15,18 +15,6 @@
      <string name="abc_activitychooserview_choose_application">Valitse sovellus</string>
      <string name="abc_capital_off">POIS KÄYTÖSTÄ</string>
      <string name="abc_capital_on">KÄYTÖSSÄ</string>
-     <string name="abc_font_family_body_1_material">sans-serif</string>
-     <string name="abc_font_family_body_2_material">sans-serif-medium</string>
-     <string name="abc_font_family_button_material">sans-serif-medium</string>
-     <string name="abc_font_family_caption_material">sans-serif</string>
-     <string name="abc_font_family_display_1_material">sans-serif</string>
-     <string name="abc_font_family_display_2_material">sans-serif</string>
-     <string name="abc_font_family_display_3_material">sans-serif</string>
-     <string name="abc_font_family_display_4_material">sans-serif-light</string>
-     <string name="abc_font_family_headline_material">sans-serif</string>
-     <string name="abc_font_family_menu_material">sans-serif</string>
-     <string name="abc_font_family_subhead_material">sans-serif</string>
-     <string name="abc_font_family_title_material">sans-serif-medium</string>
      <string name="abc_search_hint">Haku…</string>
      <string name="abc_searchview_description_clear">Tyhjennä kysely</string>
      <string name="abc_searchview_description_query">Hakukysely</string>
@@ -76,6 +64,9 @@
      <string name="accessibility_enter_lock_wallpaper">Avaa Musiikki -sovellus napauttamalla</string>
      <string name="accessibility_ethernet_connected">Ethernet yhdistetty.</string>
      <string name="accessibility_ethernet_disconnected">Ethernet-yhteys katkaistu.</string>
+     <string name="accessibility_fingerprint_dialog_app_icon">Sovelluskuvake</string>
+     <string name="accessibility_fingerprint_dialog_fingerprint_icon">Sormenjäljen kuvake</string>
+     <string name="accessibility_fingerprint_dialog_help_area">Apuviestin alue</string>
      <string name="accessibility_gps_acquiring">GPS haetaan.</string>
      <string name="accessibility_gps_enabled">GPS otettu käyttöön.</string>
      <string name="accessibility_key">Mukautettu navigointipainike</string>
@@ -332,6 +323,7 @@
      <string name="fingerprint_add_text">Sormenjälkikäyttöliittymä päivitettiin. Lisää sormenjälkesi uudelleen.</string>
      <string name="fingerprint_add_title">Lisää sormenjälki</string>
      <string name="fingerprint_again_identified_msg">Sormenjälkesi on nyt aktiivinen. Käytä sitä laitteen lukituksen avaamiseen tai anna salasana.</string>
+     <string name="fingerprint_dialog_touch_sensor">Kosketa sormenjälkianturia</string>
      <string name="fingerprint_enter_second_psw_msg">Anna Toisen tilan salasana laitteen uudelleenkäynnistyksen jälkeen käyttääksesi sormenjälkitunnistusta</string>
      <string name="fingerprint_enter_second_psw_msg_oldman">Toiseen tilaan ei voi siirtyä Yksinkertaistetusta tilasta</string>
      <string name="fingerprint_enter_second_psw_title">Anna Toisen tilan salasana</string>
@@ -719,7 +711,7 @@ Olet myös yhteydessä VPN-palvelimeen, joka voi valvoa verkon käyttöäsi."</s
      <string name="quick_settings_dnd_priority_label">Vain prioriteetti</string>
      <string name="quick_settings_drivemode_label">Autotila</string>
      <string name="quick_settings_dual_location_label">Kaksois-GPS</string>
-     <string name="quick_settings_edit_label">Muokkaa</string>
+     <string name="quick_settings_edit_label">Lisää</string>
      <string name="quick_settings_flashlight_label">Taskulamppu</string>
      <string name="quick_settings_gps_label">GPS</string>
      <string name="quick_settings_hotspot_label">Hotspot</string>

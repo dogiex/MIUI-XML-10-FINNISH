@@ -54,6 +54,10 @@
         <item quantity="other">%1$d yhteystietoa tuotu</item>
         <item quantity="one">%1$d yhteystieto tuotu</item>
     </plurals>
+    <plurals name="device_import_progress_toast_plurals">
+        <item quantity="other">Tuotiin %1$d yhteystietoa</item>
+        <item quantity="one">Tuotiin %1$d yhteystieto</item>
+    </plurals>
     <plurals name="dlg_add_blacklist">
         <item quantity="other">Estetäänkö %1$d puhelinnumeroa?</item>
         <item quantity="one">Estetäänkö %1$d puhelinnumero?</item>

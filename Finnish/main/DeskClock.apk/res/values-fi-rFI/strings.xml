@@ -28,6 +28,7 @@
   <string name="timer_alert_type_rain">Tihkusade</string>
   <string name="timer_alert_type_stove_fire">Liesituli</string>
   <string name="timer_alert_type_summer_night">Kesäyö</string>
+  <string name="timer_can_continue_in_timer">Avaa Ajastin jatkaaksesi</string>
   <string name="timer_cancel_hint">Lopeta</string>
   <string name="timer_cancel_timer">Peruuta ajastin</string>
   <string name="timer_continue_timer">Jatka ajastinta</string>
@@ -204,6 +205,7 @@
   <string name="timer_clock_alert_text">Aseta ajastin</string>
   <string name="timer_continue">Jatka</string>
   <string name="timer_got_it">OK</string>
+  <string name="timer_is_paused">Ajastin on pysäytetty</string>
   <string name="timer_item_duration_display">%1$d min %2$d s</string>
   <string name="timer_item_label_hint">Ajastimen nimi</string>
   <string name="timer_item_picker_hour">T</string>

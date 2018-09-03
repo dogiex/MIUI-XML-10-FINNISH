@@ -423,6 +423,7 @@
   <string name="petabyteShort">Pt</string>
   <string name="phone_search">Google Haku</string>
   <string name="positive_confirm">OK</string>
+  <string name="pref_about_privacy_title">Tietosuojakäytäntö</string>
   <string name="pref_category_title_auto_clean_config_settings">Automaattiset puhdistukset</string>
   <string name="pref_category_title_auto_clean_settings">Puhdista automaattisesti</string>
   <string name="pref_category_title_auto_update_cleanup_db">Lisäasetukset</string>
