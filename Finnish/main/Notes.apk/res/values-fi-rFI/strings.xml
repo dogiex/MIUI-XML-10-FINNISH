@@ -164,6 +164,8 @@
   <string name="search_setting_description">Hae tekstiä muistioistasi</string>
   <string name="select_account_prompt">Synkronoi muistiot</string>
   <string name="set_alarm_description">Aseta hälytys</string>
+  <string name="setting_other">MUU</string>
+  <string name="setting_privacy">Tietosuojakäytäntö</string>
   <string name="snippet_audio_stub">Äänimuistio</string>
   <string name="snippet_image_stub">Kuvamuistio</string>
   <string name="snippet_image_template">[Kuva %1$s]</string>

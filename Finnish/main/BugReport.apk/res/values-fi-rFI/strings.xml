@@ -266,6 +266,7 @@
   <string name="plus_one_submit_dialog_content">Palautteesi, sisältäen liitetiedot ja virhelokit lähetetään MIUI:n palvelimille. Se saattaa sisältää henkilökohtaista tietoa ja sijaintitietosi.</string>
   <string name="plus_one_submit_dialog_not_show_again">Muista valinta</string>
   <string name="post_miui_bbs_failed">Foorumille postitus epäonnistui</string>
+  <string name="privacy_policy_title">Tietosuojakäytäntö</string>
   <string name="pull_to_refresh_pull_label">Vedä alas päivittääksesi</string>
   <string name="pull_to_refresh_refreshing_label">Päivitetään…</string>
   <string name="pull_to_refresh_release_label">Vapauta päivittääksesi</string>
@@ -297,7 +298,8 @@
   <string name="system_app_select">Järjestelmän sovellukset</string>
   <string name="systemui">Ilmoitusalue</string>
   <string name="tab_title_chat">UKK</string>
-  <string name="tab_title_my_reports">Minun raportit</string>
+  <string name="tab_title_my_reports">Minun raporttini</string>
+  <string name="tab_title_preferences">Asetukset</string>
   <string name="tab_title_report">Palaute</string>
   <string name="time_in_justnow">Juuri nyt</string>
   <string name="title_answer_feedback_main">Löysimme vastauksia!</string>

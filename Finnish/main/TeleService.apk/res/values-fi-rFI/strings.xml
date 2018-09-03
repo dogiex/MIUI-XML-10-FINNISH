@@ -586,6 +586,8 @@ Siirtonopeus"</string>
   <string name="data_usage_uninstalled_apps_users">Poistetut sovellukset ja käyttäjät</string>
   <string name="dc_alert_dialog_message">Jotkut sovellukset vaativat mobiilidatayhteyden. Voit ottaa yhteyttä operaattoriisi selvittääksesi mitä %s sinulle on tarjolla.</string>
   <string name="dc_alert_dialog_title">Tiedonsiirtovaroitus</string>
+  <string name="dds_switch_warning_message_data_off">SIM-korttia %1$s ei löytynyt. SIM-kortti %2$s on nyt asetettu mobiilidatasi oletuskortiksi. Mobiilidata on nyt poistettu käytöstä.</string>
+  <string name="dds_switch_warning_message_data_on">SIM-korttia %1$s ei löytynyt. SIM-kortti %2$s on nyt asetettu mobiilidatasi oletuskortiksi. Mobiilidata on poistettu käytöstä, jotta ylimääräisiltä operaattorikustannuksilta vältyttäisiin.</string>
   <string name="deactivate_all">Peruuta kaikki</string>
   <string name="debug_app">Valitse vianetsintäsovellus</string>
   <string name="debug_app_not_set">Vianetsintäsovellusta ei ole asetettu</string>
