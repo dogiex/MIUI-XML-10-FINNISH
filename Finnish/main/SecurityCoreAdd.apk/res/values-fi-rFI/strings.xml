@@ -6,6 +6,8 @@
 Viestit ilmestyvät vain Toisessa tilaan."</string>
   <string name="PrivacyContactDes2">"Jos käytit yksityisiä viestejä Ensimmäisessä tilassa,
 tämä ominaisuus lisätään Toiseen tilaan automaattisesti."</string>
+  <string name="about_ent_mode">Tietoja Yritystilasta</string>
+  <string name="activate_ent_mode">Aktivoi Yritystila</string>
   <string name="add_finger_print">Lisää sormenjälki</string>
   <string name="agree">Hyväksy</string>
   <string name="air_space_created">Luotiin Työtila onnistuneesti</string>
@@ -86,7 +88,36 @@ jotta voit katsoa niitä milloin tahansa"</string>
   <string name="encrypt_space_delete_dialog_title">Huomio</string>
   <string name="encrypt_space_delete_notification_message">Poista Toinen tilasi ja luo uusi päivittääksesi laitteesi onnistuneesti.</string>
   <string name="encrypt_space_delete_notification_title">Toinen tila</string>
+  <string name="ent_activating">Aktivoidaan…</string>
+  <string name="ent_activation">Aktivoi</string>
+  <string name="ent_activation_hint">Anna yrityskoodisi lisenssikoodin kanssa aktivoidaksesi Yritystilan. Tämän jälkeen mukautetut yrityspalvelut on käytettävissä.</string>
+  <string name="ent_activation_hint_whit_licence">"Aktivoi Yritystila ottaaksesi mukautetut yrityspalvelut käyttöön.
+Varmista, että yrityksesi nimi on oikein. Lue ja hyväksy tietosuojakäytäntö ennen aktivointia."</string>
+  <string name="ent_agency_code">yrityskoodi</string>
+  <string name="ent_agency_code_hint">Anna yrityskoodi</string>
+  <string name="ent_agency_code_invalid">Antamasi yrityskoodi on virheellinen.</string>
+  <string name="ent_agree_privacy_policy">Olen lukenut ja hyväksyn Tietosuojakäytännön</string>
+  <string name="ent_app_verified">Näyttää siltä, että laitteellesi on asennettu yrityssovelluksia. Aktivoidaanko Yritystila?</string>
+  <string name="ent_confirm_dialog_content">Et voi palata järjestelmäsi nykyiseen tilaan Yritystilan aktivoinnin jälkeen. Siitä huolimatta kaikki tietosi säilytetään tällä laitteella. Sinun täytyy käynnistää laitteesi uudelleen aktivoidaksesi Yritystilan. Aktivoidaanko nyt?</string>
+  <string name="ent_disallow_running">Sovellusta ei ole sallittu käynnistää</string>
+  <string name="ent_download_install_dialog_content">Sinun täytyy asentaa yrityssovelluksia aktivoidaksesi Yritystilan. Asennetaanko nyt?</string>
+  <string name="ent_download_install_dialog_title">Lataa yrityssovelluksia</string>
+  <string name="ent_downloading_message">Ladataan %d%%</string>
+  <string name="ent_error_dialog_content">Vähintään yksi antamasi koodi oli virheellinen. Tarkista yritys- ja lisenssikoodisi ja yritä antaa ne uudelleen.</string>
+  <string name="ent_get_code_hint">Saat yritys- ja lisenssikoodisi esimieheltäsi</string>
+  <string name="ent_install_dialog_content">Asennetaanko sovellukset ja käynnistetäänkö laitteesi uudelleen nyt?</string>
+  <string name="ent_installing">Asennetaan…</string>
+  <string name="ent_invalid_agency">Yrityskoodi on virheellinen.</string>
+  <string name="ent_invalid_qr">QR-koodi on virheellinen.</string>
+  <string name="ent_licence_code">Lisenssikoodi</string>
+  <string name="ent_licence_code_hint">Anna lisenssikoodi</string>
+  <string name="ent_licence_code_invalid">Antamasi lisenssikoodi on virheellinen.</string>
+  <string name="ent_mode_activated">Yritystila on aktivoitu</string>
+  <string name="ent_network_error">Verkkoyhteyttä ei voitu muodostaa. Tarkista verkkoasetuksesi ja yritä uudelleen.</string>
+  <string name="ent_next_step">Seuraava</string>
+  <string name="ent_privacy_policy_notice">* Henkilötietoja tässä tilassa kerätään yrityksesi tietosuojakäytännön mukaisesti. Xiaomi ei kerää henkilötietoja tässä tilassa.</string>
   <string name="enter_air_space">Mene Työtilaan</string>
+  <string name="enterprise_mode">Yritystila</string>
   <string name="entrance_reopen_toast_msg">Näytetään Toisen tilan pikakuvake eri salasanatyyppien vuoksi</string>
   <string name="err_copy_contacts">Yhteystietoja ei voitu kopioida</string>
   <string name="err_copy_files">Tiedostoja ei voitu kopioida</string>
@@ -147,6 +178,8 @@ Voit myös ladata ne erikseen."</string>
   <string name="import_photo_suc">Tuodut kuvat</string>
   <string name="input_space_finger">Aseta nyt</string>
   <string name="input_space_password">Aseta nyt</string>
+  <string name="install">Asenna</string>
+  <string name="install_error">Ei voitu asentaa. Yritä uudelleen.</string>
   <string name="invalid_qr_code">Virheellinen QR-koodi</string>
   <string name="list_empty_text">Tyhjä</string>
   <string name="list_empty_text_xspace">Asenna WeChat/QQ/Weibo, luo kaksoissovellus ja yritä uudelleen.</string>
@@ -155,6 +188,7 @@ Voit myös ladata ne erikseen."</string>
   <string name="loading_space">Odota hetki…</string>
   <string name="loading_success">Ladattiin onnistuneesti</string>
   <string name="lock_screen_open_second_space">Siirry Toiseen tilaan Lukitusnäytöltä</string>
+  <string name="menu_item_about_privacy_title">Tietosuojakäytäntö</string>
   <string name="messageData">Viestit</string>
   <string name="msg_switch_file">Poistetaanko nämä tiedostot Ensimmäisestä tilasta siirtämisen jälkeen?</string>
   <string name="msg_switch_file_second">Poistetaanko nämä tiedostot Toisesta tilasta siirtämisen jälkeen?</string>

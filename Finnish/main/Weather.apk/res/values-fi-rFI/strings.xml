@@ -56,7 +56,9 @@
   <string name="aqi_quality_ambient_air_quality">Lähistön ilmanlaatu</string>
   <string name="aqi_quality_co_desc">Hiilimonoksidi</string>
   <string name="aqi_quality_detail_15_days">15-päivän ennustus</string>
+  <string name="aqi_quality_detail_24_hours">24-tunnin ennustus</string>
   <string name="aqi_quality_detail_48_hours">48-tunnin ennustus</string>
+  <string name="aqi_quality_detail_5_days">5-päivän ennustus</string>
   <string name="aqi_quality_major_pollutants">Suurimmat epäpuhtaudet</string>
   <string name="aqi_quality_map_edit_text_hint">Hae ilmanlaatua</string>
   <string name="aqi_quality_map_title">Ilmanlaadun kartta</string>
@@ -83,7 +85,7 @@
   <string name="button_sure_abandon">Hylätäänkö muutokset?</string>
   <string name="card_vote_item_vs">VS</string>
   <string name="change_alert">Tarkista verkkoyhteytesi ja yritä uudelleen</string>
-  <string name="china_version_first_start_network_msg">Käyttämällä tätä tuotetta, hyväksyt Xiaomin %1$s ja %2$s. Tämä sovellus tarvitsee internetyhteyden ja sijaintisi käyttöluvan toimiakseen normaalisti.</string>
+  <string name="china_version_first_start_network_msg">Käyttämällä tätä tuotetta, hyväksyt Xiaomin %1$s ja %2$s. Jotta saat tarkempia säätietoja, Sää-sovellus hakee sijaintitietosi ja käyttää sitä ja sen täytyy yhdistää verkkoon. Hyväksytkö?</string>
   <string name="city_exceeded_warning">Voit lisätä enintään 10 kaupunkia</string>
   <string name="clear_net_mock_success">Net mock clear success</string>
   <string name="commercial">Mainos</string>
@@ -112,7 +114,7 @@ Vedä alaspäin päivittääksesi tai tarkasta verkkoasetukset"</string>
   <string name="data_provided_by">Tiedot tarjoaa</string>
   <string name="edit_alert_city_title">Hallitse hälytyksiä</string>
   <string name="edit_city">Muokkaa kaupunkia</string>
-  <string name="eu_region_version_first_start_network_msg">Käyttämällä tätä tuotetta hyväksyt, että Xiaomi kerää, käsittelee ja käyttää henkilötietojasi mukaan lukien hakemiesi kaupunkien koordinaatteja ja muita tietoja lueteltu Tietosuojakäytännössämme. Tutustu Tietosuojakäytäntöömme lukeaksesi, kuinka keräämme ja käsittelemme tietoja. Napauttamalla \"Hyväksyn\", hyväksyt Xiaomin %1$s ja %2$s.</string>
+  <string name="eu_region_version_first_start_network_msg">Käyttämällä tätä tuotetta hyväksyt, että tämä tuote yhdistää verkkoon, kerää, käsittelee ja käyttää henkilötietojasi mukaan lukien hakemiesi kaupunkien koordinaatteja ja muita tietoja lueteltu Tietosuojakäytännössämme. Tutustu Tietosuojakäytäntöömme lukeaksesi, kuinka keräämme ja käsittelemme tietoja. Napauttamalla \"Hyväksyn\", hyväksyt Xiaomin %1$s ja %2$s.</string>
   <string name="feedback_heavy_rain">Rankka sade</string>
   <string name="feedback_heavy_snow">Lunta</string>
   <string name="feedback_light_rain">Kevyt sade</string>
@@ -128,6 +130,8 @@ Vedä alaspäin päivittääksesi tai tarkasta verkkoasetukset"</string>
   <string name="hour_minute_time_format">HH:mm</string>
   <string name="hourly_forcast_now">Nyt</string>
   <string name="hourly_forecast_date">d.M.</string>
+  <string name="hourly_forecast_title_24_hours_desc">24-tuntinen ennustus</string>
+  <string name="hourly_forecast_title_hourly_desc">tuntikohtainen ennustus</string>
   <string name="hourly_forecast_title">Tuntikohtainen ennustus</string>
   <string name="index_item_experience_now">Asenna nyt</string>
   <string name="index_item_install_now">Asenna nyt</string>
@@ -206,6 +210,7 @@ Lisää kaupunki manuaalisesti napauttamalla"</string>
   <string name="privacy_grant_failed">Valtuutusta ei voitu hyväksyä. Odota minuutti tai kaksi ja yritä uudelleen.</string>
   <string name="privacy_grant_or_revoke_settings">Valtuutuksen hyväksyminen &amp; peruuttaminen</string>
   <string name="privacy_grant_success">Valtuutus hyväksyttiin onnistuneesti</string>
+  <string name="privacy_policy">Tietosuojakäytäntö</string>
   <string name="privacy_revoke_failed">Valtuutusta ei voitu peruuttaa. Odota minuutti tai kaksi ja yritä uudelleen.</string>
   <string name="privacy_revoke_success">Valtuutus peruutettiin onnistuneesti</string>
   <string name="privacy_settings">Tietosuojakäytäntö</string>
@@ -265,6 +270,7 @@ Lisää kaupunki manuaalisesti napauttamalla"</string>
   <string name="update_setting_title_text">Päivitä säätiedot</string>
   <string name="updated_a_moment_ago">Päivitetty hetki sitten</string>
   <string name="updating">Päivitetään…</string>
+  <string name="user_agreement">Palveluehdot</string>
   <string name="view_forecast_item_yesterday">Eilen</string>
   <string name="view_indexes_item_today">Tänään</string>
   <string name="view_indexes_item_tommorrow">Huomenna</string>

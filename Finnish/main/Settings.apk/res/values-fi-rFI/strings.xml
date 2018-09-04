@@ -1789,6 +1789,7 @@ Tämä auttaa suojaamaan laitteella olevia tietoja, jos laite katoaa tai varaste
   <string name="enter_password">Käynnistä Android kirjoittamalla salasana</string>
   <string name="enter_pattern">Käynnistä Android piirtämällä kuvio</string>
   <string name="enter_pin">Käynnistä Android kirjoittamalla PIN-koodi</string>
+  <string name="enterprise_mode">Yritystila</string>
   <string name="enterprise_privacy_always_on_vpn_device">Aina käytössä oleva VPN päällä</string>
   <string name="enterprise_privacy_always_on_vpn_personal">Aina käytössä oleva VPN päällä henkilökohtaisessa profiilissa</string>
   <string name="enterprise_privacy_always_on_vpn_work">Aina käytössä oleva VPN päällä työprofiilissa</string>
@@ -4510,6 +4511,7 @@ Laitteeseesi asennettu luotettu varmenne tekee tämän mahdolliseksi."</string>
   <string name="status_bar_settings_notification_shade_shortcut">Ilmoitusalueen pikakuvake</string>
   <string name="status_bar_settings_notification_sound">Ääni</string>
   <string name="status_bar_settings_notification_sound_custom">Mukautettu ääni</string>
+  <string name="status_bar_settings_notification_use_app_icon">Käytä sovelluskuvakkeita ilmoituksissa</string>
   <string name="status_bar_settings_notification_vibrate">Värinä</string>
   <string name="status_bar_settings_show_carrier">Näytä operaattorin nimi</string>
   <string name="status_bar_settings_show_carrier_summary">Operaattorin nimi silti näytetään Lukitusnäytöllä ja ilmoitusalueella vaikka tämä ominaisuus ei ole käytössä</string>
