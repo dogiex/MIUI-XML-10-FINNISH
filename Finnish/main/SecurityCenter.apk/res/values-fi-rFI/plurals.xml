@@ -122,6 +122,14 @@ Jos otat mobiilidatan uudelleen käyttöön, operaattorisi saattaa veloittaa sin
         <item quantity="other">Löytyi %d akkuongelmaa, korjaa ne</item>
         <item quantity="one">Löytyi %d akkuongelma, korjaa se</item>
     </plurals>
+    <plurals name="power_center_menu_text">asd
+        <item quantity="other">kohdetta</item>
+        <item quantity="one">kohde</item>
+    </plurals>
+    <plurals name="power_center_list_item_optimize_button">
+        <item quantity="other">Lisää %d minuuttia</item>
+        <item quantity="one">Lisää %d minuutti</item>
+    </plurals>
     <plurals name="people">
         <item quantity="other">Latauskertoja %1$d</item>
     </plurals>

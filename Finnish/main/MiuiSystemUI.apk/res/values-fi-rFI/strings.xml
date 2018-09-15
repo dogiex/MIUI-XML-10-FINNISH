@@ -790,12 +790,12 @@ Olet myös yhteydessä VPN-palvelimeen, joka voi valvoa verkon käyttöäsi."</s
      <string name="show_battery_percentage_summary">Näytä akun prosenttiosuus tilapalkin kuvakkeen sisällä kun laitetta ei ladata</string>
      <string name="show_brightness">Näytä kirkkaus Pika-asetuksissa</string>
      <string name="show_silently">Näytä ilmoitukset hiljennettynä</string>
-     <string name="snooze_option_15_min">15 minuuttia</string>
-     <string name="snooze_option_1_hour">1 tunti</string>
-     <string name="snooze_option_2_hour">2 tuntia</string>
-     <string name="snooze_option_30_min">30 minuuttia</string>
+     <string name="snooze_option_15_min">15 minuutin</string>
+     <string name="snooze_option_1_hour">1 tunnin</string>
+     <string name="snooze_option_2_hour">2 tunnin</string>
+     <string name="snooze_option_30_min">30 minuutin</string>
      <string name="snooze_undo">KUMOA</string>
-     <string name="snoozed_for_time">Torkutettu %1$s</string>
+     <string name="snoozed_for_time">Torkutettu %1$s ajaksi</string>
      <string name="speed_bump_explanation">Vähemmän tärkeät ilmoitukset alla</string>
      <string name="ssl_ca_cert_warning">"Verkkoa saatetaan
 valvoa"</string>
