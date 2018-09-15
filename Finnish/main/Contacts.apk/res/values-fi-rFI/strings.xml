@@ -405,8 +405,8 @@ Yhteystietokortit on poistettu käytöstä"</string>
   <string name="dialer_useDtmfDialpad">Käytä näppäimistöä</string>
   <string name="dialog_import">Tuo yhteystietoja</string>
   <string name="dialog_import_export">Tuo/vie yhteystietoja</string>
-  <string name="dialog_new_contact_account">Tallenna tuodut yhteystiedot kohteeseen</string>
-  <string name="dialog_new_group_account">Luo ryhmä tilissä</string>
+  <string name="dialog_new_contact_account">Luo yhteystiedot tiliin</string>
+  <string name="dialog_new_group_account">Luo ryhmä tiliin</string>
   <string name="dialog_phone_call_prohibited_message">Numeroon ei voi soittaa</string>
   <string name="dialog_sync_add">Lisää synkronointiryhmä</string>
   <string name="dialog_voicemail_airplane_mode_message">Poista lentokonetila käytöstä ennen vastaajaan soittamista.</string>
@@ -950,6 +950,7 @@ Kosketa tähteä yhteystiedon nimen vieressä
   <string name="quickcontact_missing_app">Tähän toimintoon ei löydy soveltuvaa ohjelmaa</string>
   <string name="quit_dialog_confirm_message">Et ole yhdistänyt yhtään yhteystietoa</string>
   <string name="quit_dialog_confirm_title">Peruuta yhteystietojen yhdistäminen</string>
+  <string name="rcs_app_name">Mini-sovellus</string>
   <string name="readOnlyContactDeleteConfirmation">Poistettava yhteystieto sisältää tietoja useilta tileiltä. Vain luku -tilassa olevien tilien tiedot piilotetaan, eikä niitä poisteta.</string>
   <string name="readOnlyContactWarning">Vain luku -tilassa olevien tiliesi yhteystietoja ei voida poistaa, mutta ne voidaan piilottaa.</string>
   <string name="readingSimContacts">Luetaan SIM-korttia…</string>

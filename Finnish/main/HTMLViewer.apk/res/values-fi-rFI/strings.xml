@@ -8,7 +8,8 @@
   <string name="ime_privacy_policy">Valitse näppäimistö</string>
   <string name="license_host_unreachable">Verkkoyhteyttä ei voi muodostaa. Nähdäksesi tämän tiedon nyt, mene %s toisella yhdistetyllä laitteella.</string>
   <string name="loading">Odota hetki…</string>
-  <string name="mibi_license">Mi Krediitin Käyttöehdot</string>
+  <string name="mibi_license">Mi Krediittien Käyttöehdot</string>
+  <string name="open_wifi_connect_and_use_data_summary">jatka yhteyden käyttämistä, napauta vaihteeksesi Wi-Fi-yhteyteen ja vahvistaaksesi.</string>
   <string name="open_wifi_connect_summary">Napauta nähdäksesi tiedot.</string>
   <string name="open_wifi_connect_title">Yhdistetty kohteeseen %1$s</string>
   <string name="permdesc_accessDrm">Sallii sovelluksen käyttää DRM-suojattua sisältöä.</string>

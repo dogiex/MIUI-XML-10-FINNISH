@@ -204,8 +204,9 @@
   <string name="toast_cancel_to_insert_image">Kuvan lisääminen epäonnistui.</string>
   <string name="toast_message_add_image_fail">Kuvaa ei voitu lisätä</string>
   <string name="toast_notes_delete_success">Poistettiin onnistuneesti</string>
-  <string name="toast_notes_hidden">Piilotettiin onnistuneesti</string>
   <string name="toast_notes_hidden_count">Piilotettiin %1$s onnistuneesti</string>
+  <string name="toast_notes_hidden_edit">Tämä muistio piilotettiin onnistuneesti. Vedä alaspäin nähdäksesi piilotetut muistiot.</string>
+  <string name="toast_notes_hidden_home">Tämä muistio piilotettiin onnistuneesti. Vedä alaspäin nähdäksesi piilotetut muistiot.</string>
   <string name="toast_notes_unhidden">Poistettiin piilosta onnistuneesti</string>
   <string name="toast_notes_unhidden_count">Poistettiin %1$s piilosta onnistuneesti</string>
   <string name="toast_reach_text_limit_attachment">Uusia liitetiedostoja ei voi lisätä, koska muistio on liian pitkä</string>

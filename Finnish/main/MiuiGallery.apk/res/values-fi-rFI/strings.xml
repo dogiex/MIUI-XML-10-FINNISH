@@ -1166,6 +1166,7 @@ mukauttaaksesi Galleriasi"</string>
   <string name="photo_editor_beautify_auto">Automaattinen</string>
   <string name="photo_editor_beauty_compare">Alkuperäinen</string>
   <string name="photo_editor_crop_and_rotate">Rajaa</string>
+  <string name="photo_editor_crop_auto">Auto</string>
   <string name="photo_editor_crop_reset">Nollaa</string>
   <string name="photo_editor_crop_rotation_format">%d°</string>
   <string name="photo_editor_doodle">Piirrä</string>

@@ -10,7 +10,7 @@
   <string name="miui_lab_super_resolution_desc">Tee kuvista terävempiä</string>
   <string name="miui_lab_super_resolution_title">Super-resoluutio</string>
   <string name="navigation_guide_appswitch_summary">Pyyhkäise näytön reunalta vasemmalle tai oikealla ja pidä hetken ajan painettuna</string>
-  <string name="navigation_guide_appswitch_title">Siirry edelliseen sovellukseen</string>
+  <string name="navigation_guide_appswitch_title">Vaihda edelliseen sovellukseen</string>
   <string name="paper_mode_side_effect_hint">Suurempi voimakkuus voi vaikuttaa tapaan, jolla sisältö näkyy.</string>
   <string name="status_bar_carrier_settings_no_sim_card">Ei SIM-korttia</string>
   <string name="status_bar_settings_show_carrier_under_keyguard">Näytä operaattori laitteen ollessa lukittuna</string>
@@ -1486,6 +1486,7 @@ Asetus vaikuttaa tämän puhelimen kaikkiin käyttäjiin."</string>
   <string name="delete_or_keep_legacy_passwords_confirm_msg">Poistetaanko tämä sormenjälki?</string>
   <string name="delete_rule">Poista sääntöjä</string>
   <string name="delete_saved_network">Poista tallennetut verkot</string>
+  <string name="delete_sound_effect">\"Poista\" ääni</string>
   <string name="deleted_apps">Poistetut sovellukset</string>
   <string name="deletion_helper_automatic_title">Automaattinen</string>
   <string name="deletion_helper_manual_title">Manuaalinen</string>
@@ -1884,6 +1885,8 @@ Saat lisätietoja organisaatiosi järjestelmänvalvojalta."</string>
   <string name="factory_reset_summary">Poista kaikki tiedot laitteen sisäiseltä tallennustilalta</string>
   <string name="failed_to_check_find_device_status_content">Etsi laite tilaa ei voitu tarkistaa. Odota minuutti tai kaksi ja yritä uudelleen.</string>
   <string name="failed_to_check_find_device_status_title">Tilaa ei voitu tarkistaa</string>
+  <string name="failed_to_erase_text">Poista lukitusnäytön salasana käytöstä ennen 1217 toiminnon suorittamista.</string>
+  <string name="failed_to_erase_title">Kielletty toiminta</string>
   <string name="failed_to_open_app_settings_toast">Sovelluksen %1$s asetuksia ei voi avata</string>
   <string name="failed_to_shut_down_find_device_content">Etsi laite -toimintoa ei voitu poistaa käytöstä. Odota minuutti tai kaksi ja yritä uudelleen.</string>
   <string name="failed_to_shut_down_find_device_title">Ei voitu poistaa käytöstä</string>
@@ -2294,6 +2297,8 @@ Voit muuttaa tätä asetusta myöhemmin kohdassa Asetukset > Sovellukset ja ilmo
   <string name="keyboard_shortcuts_helper">Pikanäppäinapuri</string>
   <string name="keyboard_shortcuts_helper_summary">Näytä käytettävissä olevat pikanäppäimet</string>
   <string name="keyguard_advance_setting_title">Lisäasetukset</string>
+  <string name="keyguard_security_setting_others">Muut</string>
+  <string name="keyguard_security_setting_privacy_policy">Tietosuojakäytäntö</string>
   <string name="keyguard_vertical_clock_title">Pystysuora Kello</string>
   <string name="keywords_accounts">tili</string>
   <string name="keywords_airplane">Lentokone;Lentokonetila;Lento;Lentotila</string>
@@ -2940,6 +2945,9 @@ Valitse käyttöjärjestelmäsi:"</string>
   <string name="nature_color">Oletus</string>
   <string name="navigation_guide_app_summary">Pyyhkäise näytön yläosan reunalta vasemmalle tai oikealle</string>
   <string name="navigation_guide_app_title">Käynnistä sovelluksen toiminto</string>
+  <string name="navigation_guide_appswitch_anim_summary">Pyyhkäise näytön poikki aloittamalla reunasta palataksesi takaisin edelliseen sovellukseen</string>
+  <string name="navigation_guide_appswitch_anim_title">Vaihda edelliseen sovellukseen</string>
+  <string name="navigation_guide_appswitch_click">Ota käyttöön ensin \"Palaa takaisin edelliseen sovellukseen\"</string>
   <string name="navigation_guide_back_summary">Pyyhkäise näytön reunaa vasemmalle tai oikealle</string>
   <string name="navigation_guide_back_title">Siirry takaisin</string>
   <string name="navigation_guide_dialog_dont_show_again">Älä näytä uudelleen</string>
@@ -3309,7 +3317,7 @@ Valitse käyttöjärjestelmäsi:"</string>
   <string name="pick_up_gesture_wakeup_title">Herätä nostamalla</string>
   <string name="picture_color_mode">Kuvien värit</string>
   <string name="picture_color_mode_desc">Ota sRGB käyttöön</string>
-  <string name="picture_in_picture_app_detail_summary">Anna sovellukselle lupa luoda kuva kuvassa ‑ikkuna, kun se on auki tai siirryt siitä muualle (esimerkiksi palaat videoon). Tämä ikkuna näytetään muiden sovellusten ikkunoiden päällä.</string>
+  <string name="picture_in_picture_app_detail_summary">Anna sovellukselle lupa luoda kuva kuvassa ‑ikkuna, kun se on auki tai siirryt siitä muualle (esimerkiksi palaat videoon). Tämä ikkuna näytetään muiden käyttämiesi sovellusten päällä.</string>
   <string name="picture_in_picture_app_detail_switch">Salli kuva kuvassa</string>
   <string name="picture_in_picture_app_detail_title">Kuva kuvassa</string>
   <string name="picture_in_picture_empty_text">Mikään asennettu sovellus ei tue kuva kuvassa ‑toimintoa.</string>
@@ -3786,6 +3794,7 @@ Tämä asetus vaikuttaa kaikkiin tämän puhelimen käyttäjiin."</string>
   <string name="saved_wifi">Hallitse tallennettuja verkkoja</string>
   <string name="saved_wifi_delete">Poista</string>
   <string name="scan_list_label">Haun tulokset:</string>
+  <string name="sccret_code_error">Antamasi koodi on virheellinen.</string>
   <string name="screen">Näyttö</string>
   <string name="screen_button">Näyttöpainikkeet</string>
   <string name="screen_button_tips">Pyyhkäise alaspäin piilottaaksesi näyttöpainikkeet</string>
@@ -4564,6 +4573,9 @@ Laitteeseesi asennettu luotettu varmenne tekee tämän mahdolliseksi."</string>
   <string name="status_wimax_mac_address">4G MAC -osoite</string>
   <string name="status_write_success">Onnistui!</string>
   <string name="statusbar_permission_desc">Seuraavat käyttöoikeudet ovat vain tärkeille ilmoituksille.</string>
+  <string name="stop_upload_audio_log">Äänilokin noutaminen valmis</string>
+  <string name="stop_upload_gps_log">GPS-lokin noutaminen valmis</string>
+  <string name="stop_upload_modem_log">Modeemin lokin noutaminen valmis</string>
   <string name="storage_detail_apps">Sovellukset</string>
   <string name="storage_detail_audio">Audio</string>
   <string name="storage_detail_cached">Välimuistitiedot</string>
@@ -5051,8 +5063,11 @@ Se on Googlen tapa synkronoida tietoja, ja sen avulla voit käyttää yhteystiet
   <string name="untitled_apn">Nimetön</string>
   <string name="update_new_version">Päivitys on saatavilla</string>
   <string name="update_progress_for_updates">Päivitetään (%s)</string>
+  <string name="upload_audio_log">Aloita äänilokin noutaminen</string>
   <string name="upload_debug_log_summary">Käyttötilastot, jotka auttavat meitä paikantamaan ja ratkaisemaan ongelmia saattaa sisältää henkilötietojasi</string>
   <string name="upload_debug_log_title">Lähetä diagnostiikkatietoja automaattisesti</string>
+  <string name="upload_gps_log">Aloita GPS-lokin noutaminen</string>
+  <string name="upload_modem_log">Aloita modeemin lokin noutaminen</string>
   <string name="usage">Käyttö</string>
   <string name="usage_access">Käyttöoikeus</string>
   <string name="usage_access_description">Käyttöoikeus antaa sovellukselle luvan seurata, mitä muita sovelluksia käytät ja kuinka usein, sekä nähdä operaattorisi, kieliasetuksesi ja muita tietoja.</string>

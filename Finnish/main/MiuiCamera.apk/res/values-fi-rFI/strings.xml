@@ -38,6 +38,7 @@
   <string name="accessibility_hdr_off">HDR pois käytöstä</string>
   <string name="accessibility_hdr_on">HDR käytössä</string>
   <string name="accessibility_intent_done_apply">Valmis</string>
+  <string name="accessibility_intent_done_retry">Ota uudelleen</string>
   <string name="accessibility_mode_dismiss_button">Sulje Tilan Valintapainike</string>
   <string name="accessibility_more">Lisää</string>
   <string name="accessibility_open">Otettiin käyttöön</string>
@@ -569,5 +570,6 @@ ja tuo henkilöt esiin."</string>
   <string name="video_effect_entry_polaroid">Polaroi</string>
   <string name="video_file_name_format">"'VID'_yyyyMMdd_HHmmss"</string>
   <string name="video_reach_size_limit">Kokorajoitus saavutettu.</string>
+  <string name="view_privacy_policy">Näytä Tietosuojakäytäntö</string>
   <string name="wait">Odota hetki…</string>
 </resources>

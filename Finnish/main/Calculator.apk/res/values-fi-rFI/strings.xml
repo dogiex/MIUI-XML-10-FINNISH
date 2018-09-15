@@ -223,6 +223,8 @@
   <string name="preference_follow_weibo_summary">\@MIUI</string>
   <string name="preference_follow_weibo_title">Sina Weibo</string>
   <string name="preference_settings">Asetukset</string>
+  <string name="preference_other">Muu</string>
+  <string name="preference_privacy_title">Tietosuojakäytäntö</string>
   <string name="preference_use_degress_summary">Korvaa radiaanit kulmilla trigonometrisissä funktioissa</string>
   <string name="preference_use_degress_title">Käytä kulmia</string>
   <string name="radDesc">Radiaani</string>

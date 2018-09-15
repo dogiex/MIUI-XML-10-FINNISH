@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-	<plurals name="theme_batch_has_update_text">
+	<plurals name="resource_comment_score_count">
+        <item quantity="other">%d kommenttia</item>
+        <item quantity="one">%d kommentti</item>
+    </plurals>
+    <plurals name="theme_batch_has_update_text">
         <item quantity="other">Päivityksiä saatavilla %1$d teemalle.</item>
         <item quantity="one">Päivitys saatavilla %1$d teemalle.</item>
     </plurals>

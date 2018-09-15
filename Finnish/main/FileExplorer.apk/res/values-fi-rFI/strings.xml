@@ -443,6 +443,7 @@
   <string name="operation_reply">Kommentoi</string>
   <string name="operation_send">Lähetä</string>
   <string name="operation_share">Jaa</string>
+  <string name="operation_show_privacy_policy">Näytä tietosuojakäytäntö</string>
   <string name="operation_show_sys">Näytä piilotetut tiedostot</string>
   <string name="operation_unfavorite">Poista suosikeista</string>
   <string name="original_user_desc">Lähetä alkuperäisiä videoita tasaiseen tahtiin saadaksesi Luoja-statuksen</string>

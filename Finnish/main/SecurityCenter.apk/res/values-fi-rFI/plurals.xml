@@ -345,4 +345,20 @@ Jos otat mobiilidatan uudelleen käyttöön, operaattorisi saattaa veloittaa sin
         <item quantity="other">Kirjauduttu sisään %d päivää peräkkäin</item>
         <item quantity="one">Kirjauduttu sisään %d kerran</item>
     </plurals>
+    <plurals name="hide_txt_hint_with_blank_2">
+        <item quantity="other">    +%1$d enemmän merkkejä</item>
+        <item quantity="one">    +%1$d enemmän merkkejä</item>
+    </plurals>
+    <plurals name="privacy_apps_enable_header_title">
+        <item quantity="other">%d sovellusta voidaan piilottaa</item>
+        <item quantity="one">%d sovellus voidaan piilottaa</item>
+    </plurals>
+    <plurals name="privacy_apps_disable_header_title">
+        <item quantity="other">%d sovellusta on piilotettu</item>
+        <item quantity="one">%d sovellus on piilotettu</item>
+    </plurals>
+    <plurals name="first_aid_result_summary_exception">
+        <item quantity="other">%1$d ongelmaa vaatii optimointia</item>
+        <item quantity="one">%1$d ongelma vaatii optimointia</item>
+    </plurals>
 </resources>

@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="about_extreme_mode">Äärimmäinen virransäästö</string>
   <string name="about_hide_mode">Tietoja Virransäästöstä</string>
   <string name="active_classify">Lajittele aktiivisuustilan mukaan</string>
   <string name="app_list_title">Valitse sovellukset</string>
@@ -31,16 +32,18 @@ Virransäästö kohtelee tärkeitä sovelluksia valikoivasti."</string>
   <string name="empty_title_apps_container_list">Ei sovelluksia</string>
   <string name="enable_sleep_mode">Ota Lepotila käyttöön optimoidaksesi akun käyttöä yöllä</string>
   <string name="error_filename_too_long">Syöttämäsi tiedostonimi on liian pitkä.</string>
+  <string name="extreme_mode_max_item_alert">Vain 4 sovellusta voidaan valita olemaan käynnissä taustalla äärimmäisen virransäästötilan ollessa käynnissä</string>
   <string name="extreme_power_config_mode_category">Äärimmäinen tila</string>
   <string name="extreme_power_config_mode_desc">Siirry Äärimmäiseen tilaan poistaaksesi seuraavat ominaisuudet käytöstä: synkronointi, bluetooth, GPS, NFC, tuplanapautus, painikkeiden valot, Lukitusnäytön herättäminen ilmoituksista ja myös ilmoitusvalot. MIUI keskittyy virransäästöön.</string>
   <string name="extreme_power_config_mode_title">Äärimmäinen tila</string>
   <string name="failure">Virhe</string>
-  <string name="hide_mode_desc">Kun sovellus on käynnissä taustalla, sen työskentelyä seurataan akun käytön vähentämiseksi. Toiminto saattaa vaikuttaa verkkoyhteyteen, sijaintipalveluun, Radioon, Ajastimeen jne. Tämä määritys on sopiva useammille sovelluksille, mutta jos tietty sovellus käyttäytyy taustalla epänormaalisti, voit muokata asetuksia sovelluskohtaisesti.</string>
+  <string name="hide_mode_desc">Kun sovellus on käynnissä taustalla, sen työskentelyä seurataan akun käytön vähentämiseksi. Tämä toiminto hakee ja käyttää käyttäjätietoja %s mukaisesti</string>
   <string name="hide_system_app">Piilota järjestelmäsovellukset</string>
   <string name="hints_loading_text">Odota hetki…</string>
   <string name="important_warning">Huomio</string>
   <string name="lasttime_applist_cloud">Päivitetyt sovellukset：</string>
   <string name="lasttime_feature_cloud">Päivitetyt ominaisuudet:</string>
+  <string name="message_i_know">Tiedän</string>
   <string name="nonui_mode_config_description">Älä valaise näyttöä ilmoituksista, poista LED-valo, sormenjälkitunnistin ja kosketukset käytöstä, kun MIUI havaitsee että et käytä laitettasi.</string>
   <string name="nonui_mode_config_title">Ei-interaktiivinen tila</string>
   <string name="performance_category">Suorituskyky</string>
@@ -68,6 +71,7 @@ Virransäästö kohtelee tärkeitä sovelluksia valikoivasti."</string>
   <string name="power_mode">Virta-asetukset</string>
   <string name="power_usage">Virrankäyttö</string>
   <string name="pref_config_title">Suorituskyvyn optimointi</string>
+  <string name="privacy">Tietosuojakäytäntö</string>
   <string name="scenario_policies_summary">Aseta erilaisia virransäästöjä eri skeneille.</string>
   <string name="scenario_policies_title">Älyskenet</string>
   <string name="scenario_policies_warmcontrol">Lämpötilan hallinta</string>

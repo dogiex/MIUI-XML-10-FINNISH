@@ -193,6 +193,7 @@
      <string name="auto_disable_screenbuttons_enable_toast_text">Navigointipainikkeet käytössä</string>
      <string name="back">Takaisin</string>
      <string name="battery">Akku</string>
+     <string name="battery_can_use_time">Suunnilleen %s jäljellä</string>
      <string name="battery_detail_charging_summary">Virransäästö ei ole käytettävissä latauksen aikana</string>
      <string name="battery_detail_switch_summary">Vähentää suorituskykyä ja taustalla tapahtuvaa dataa</string>
      <string name="battery_detail_switch_title">Virransäästö</string>
@@ -264,6 +265,7 @@
      <string name="enable_bluetooth_message">Yhdistääksesi näppäimistön tablettiisi, ota Bluetooth ensin käyttöön.</string>
      <string name="enable_bluetooth_title">Otetaanko Bluetooth käyttöön?</string>
      <string name="enable_demo_mode">Ota esitystila käyttöön</string>
+     <string name="enable_extreme_power_save_mode">Äärimmäinen virransäästö</string>
      <string name="ethernet_label">Ethernet</string>
      <string name="expanded_header_battery_charged">Ladattu</string>
      <string name="expanded_header_battery_charging">Ladataan</string>
@@ -621,6 +623,7 @@ Olet myös yhteydessä VPN-palvelimeen, joka voi valvoa verkon käyttöäsi."</s
      <string name="notification_more_settings">Lisäasetukset</string>
      <string name="notification_tap_again">Avaa napauttamalla uudelleen</string>
      <string name="open_camera_hint_text">Avaa kamera pyyhkäisemällä vasemmalle</string>
+     <string name="open_extreme_power_save_mode_title">Ota Äärimmäinen virransäästö käyttöön</string>
      <string name="open_remote_center_hint_text">Avaa Pikakuvakkeet pyyhkäisemällä oikealle</string>
      <string name="other">Muu</string>
      <string name="overview">Yleiskatsaus</string>
@@ -712,6 +715,7 @@ Olet myös yhteydessä VPN-palvelimeen, joka voi valvoa verkon käyttöäsi."</s
      <string name="quick_settings_drivemode_label">Autotila</string>
      <string name="quick_settings_dual_location_label">Kaksois-GPS</string>
      <string name="quick_settings_edit_label">Lisää</string>
+     <string name="quick_settings_extreme_batterysaver_label">Äärimmäinen virransäästö</string>
      <string name="quick_settings_flashlight_label">Taskulamppu</string>
      <string name="quick_settings_gps_label">GPS</string>
      <string name="quick_settings_hotspot_label">Hotspot</string>
@@ -879,7 +883,7 @@ valvoa"</string>
      <string name="structure_face_unlock_really_person">Näyttää siltä, että olet vaihtanut kasvosi objektin kanssa.</string>
      <string name="switch_bar_off">Pois käytöstä</string>
      <string name="switch_bar_on">Käytössä</string>
-     <string name="symbol_colon">:</string>
+     <string name="switch_system_user">Avaa Ensimmäinen tila</string>
      <string name="system_ui_tuner">Järjestelmän UI-viritin</string>
      <string name="theme">Teema</string>
      <string name="thermal_shutdown_dialog_message">"Puhelimesi oli liian kuuma, jonka takia se sammutti itsensä viilentyäkseen. Puhelimesi toimii nyt normaalisti.
@@ -1261,10 +1265,17 @@ Jos otat datan uudelleen käyttöön, operaattorisi saattaa laskuttaa siitä."</
   <string name="divider_menu_close">Sulje</string>
   <string name="divider_menu_select_apps">Valitse</string>
   <string name="divider_menu_swap_task">Vaihda</string>
+  <string name="dlg_cancel">Peruuta</string>
+  <string name="dlg_confirm">Ota käyttöön</string>
   <string name="dlg_confirm_kill_storage_users_text">Jos otat USB-muistin käyttöön, jotkin ohjelmat lopettavat toimintansa ja katoavat kunnes otat USB-muistin pois käytöstä.</string>
   <string name="dlg_confirm_kill_storage_users_title">Ota USB-muisti käyttöön</string>
   <string name="dlg_error_title">USB-toiminto epäonnistui</string>
   <string name="dlg_ok">OK</string>
+  <string name="dlg_summary_close_app">Rajoita taustatyöskentelyä ja ilmoituksia</string>
+  <string name="dlg_summary_close_theme">Rajoita animoituja teemoja</string>
+  <string name="dlg_summary_close_wifi">Poista Wi-Fi, Bluetooth ja kannettava hotspot käytöstä</string>
+  <string name="dlg_summary_nfc">Poista NFC käytöstä</string>
+  <string name="dlg_summary_title">Äärimmäinen virransäästö lopettaa kaikki taustatyöskentelyt poistuessasi sovelluksesta ja siirtyessäsi takaisin Aloitusnäytölle. Jos haluat sovelluksen olevan käynnissä taustalla, lisää se taustalla oleviin poikkeuksiin.</string>
   <string name="dock_forced_resizable">Sovellus ei ehkä toimi jaetulla näytöllä.</string>
   <string name="dock_keyguard_locked_failed_to_dock_text">Näytön jakaminen ei ole tuettu Lukitusnäytöllä.</string>
   <string name="dock_non_resizeble_failed_to_dock_text">Sovellus ei tue jaetun näytön tilaa.</string>
