@@ -2141,7 +2141,7 @@ jonka määritit manuaalisesti (%2$s). Vaihdetaanko SIM-kortin sijainniksi %3$s?
   <string name="status_bar_network_flow_content">Tänään: %1$s&amp;nbsp;&amp;nbsp;&amp;nbsp;Jäljellä: %2$s</string>
   <string name="status_bar_network_flow_content_not_setting">Tänään: %1$s&amp;nbsp;&amp;nbsp;&amp;nbsp;Tässä kuussa: %2$s</string>
   <string name="status_bar_network_flow_content_virtual_card">%1$s&amp;nbsp;&amp;nbsp;&amp;nbsp;%2$s&amp;nbsp;&amp;nbsp;&amp;nbsp;</string>
-  <string name="status_bar_network_flow_exceed_content">Tänään: %1$s&amp;nbsp;&amp;nbsp;&amp;nbsp;Suunnitelma ylitetty: %3$s</string>
+  <string name="status_bar_network_flow_exceed_content">Tänään: %1$s&amp;nbsp;&amp;nbsp;&amp;nbsp;Datapaketti ylitetty: %3$s</string>
   <string name="status_bar_network_flow_phone_balance">"   Puhelimen saldo:%1$s "</string>
   <string name="status_bar_network_flow_purchase">"   Osta &gt;"</string>
   <string name="status_bar_network_flow_setup_data_plan">"   Aseta datapaketti &gt;"</string>
