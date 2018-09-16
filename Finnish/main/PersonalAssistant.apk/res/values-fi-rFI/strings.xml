@@ -1439,7 +1439,6 @@ Useita tilauksia, jotka lähetetään SF Expressin kautta Taobaon, Tmallin ja Xi
   <string name="shopping_setting_brief_detail">聚合各购物应用中收藏和购物车中的商品，方便查找。</string>
   <string name="shopping_setting_jingdong">京东</string>
   <string name="shopping_setting_mishop">Mi Kauppa</string>
-  <string name="shopping_setting_mishop">小米商城</string>
   <string name="shopping_setting_notification">商品添加成功后弹出通知提醒</string>
   <string name="shopping_setting_remove">撤回授权后，系统将关闭购物聚合能力，并同时移除我的购物卡片，确认撤回授权吗？</string>
   <string name="shopping_setting_taobao">淘宝</string>
