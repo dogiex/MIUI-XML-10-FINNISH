@@ -12,6 +12,16 @@
         <item quantity="other">Varmuuskopioidaan kappaleita, %1$d kappaletta jäljellä (%2$.1f Mt)</item>
         <item quantity="one">Varmuuskopioidaan kappaletta, %1$d kappale jäljellä (%2$.1f Mt)</item>
     </plurals>
+    <plurals name="Ndialog_renew_content">
+        <item quantity="other">"Tilauksesi on päättymässä %d päivän kuluttua.
+Haluatko meidän auttavan sinua uusimaan sen?"</item>
+        <item quantity="one">"Tilauksesi on päättymässä %d päivän kuluttua.
+Haluatko meidän auttavan sinua uusimaan sen?"</item>
+    </plurals>
+    <plurals name="Nhungama_free_download_summary">
+        <item quantity="other">Voit ladata %1$d ilmaista kappaletta. Ladataanko %2$s nyt?</item>
+        <item quantity="one">Voit ladata %1$d ilmaisen kappaleen. Ladataanko %2$s nyt?</item>
+    </plurals>
     <plurals name="Nquit_warning">
         <item quantity="other">Soitin pysäytetään %d minuutin kuluttua</item>
         <item quantity="one">Soitin pysäytetään %d minuutin kuluttua</item>
