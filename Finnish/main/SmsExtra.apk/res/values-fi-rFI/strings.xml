@@ -3,6 +3,11 @@
   <string name="activity_not_found">Tälle toiminnolle ei löytynyt sovellusta</string>
   <string name="back_to_message_list">Takaisin viestiluetteloon</string>
   <string name="button_close">Sulje</string>
+  <string name="cm_privacy_dialog_allow">Salli</string>
+  <string name="cm_privacy_dialog_cancel">Peruuta</string>
+  <string name="cm_privacy_dialog_spannable_tips">mobiilioperaattorin yksityisyysprotokolla</string>
+  <string name="cm_privacy_dialog_tips">Älykäs tekstiviestipalvelu on operaattorin muokkaama. Jos olet lukenut ja hyväksyt %1s, hyväksyt avaamaan palvelun, sinun täytyy yhdistää ja paikantaa palvelu käyttääksesi sitä. Hyväksytkö?</string>
+  <string name="cm_privacy_dialog_title">Huomio</string>
   <string name="confirm_delete_conversation">Poistetaanko tämä koko palsta?</string>
   <string name="confirm_delete_group_message">Poistetaanko ryhmäviestit?</string>
   <string name="confirm_delete_locked_message">Poistetaanko tämä lukittu viesti?</string>
@@ -31,7 +36,11 @@
   <string name="message_details_title">Viestin tiedot</string>
   <string name="message_type_label">"Tyyppi: "</string>
   <string name="messaging">Viestintä</string>
+  <string name="more">Lisää</string>
+  <string name="mx_message">Mi Viesti</string>
+  <string name="net_sms_unsubscribe">Poistettiin tilaus onnistuneesti</string>
   <string name="packages_select_sim_cards_title">Valitse SIM-kortti</string>
+  <string name="rcs_message">China Mobile Messaging</string>
   <string name="received_label">"Vastaanotettu: "</string>
   <string name="repayment_network_error">Verkossasi meni jotain pieleen</string>
   <string name="repayment_title">Takaisinmaksu</string>
@@ -41,6 +50,8 @@
   <string name="sim2">SIM-kortti 2</string>
   <string name="smart_messages_network_allow_message">Mi Viesti tarvitsee yhteyden internetiin, jotta sen palvelut toimivat normaalisti. Sallitaanko nyt?</string>
   <string name="smart_messages_network_allow_title">Internetyhteys vaaditaan</string>
+  <string name="summary_pref_cm_smart_sms">Tarjoaa kortin malleja, tekstiviestien palvelunumeroita jne.</string>
   <string name="text_message">Tekstiviesti</string>
+  <string name="title_pref_cm_smart_sms">China Mobile Älykäs tekstiviesti</string>
   <string name="view_message_details">Näytä tiedot</string>
 </resources>
