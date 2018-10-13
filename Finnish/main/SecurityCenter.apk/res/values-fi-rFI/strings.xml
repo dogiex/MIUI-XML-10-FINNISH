@@ -982,7 +982,7 @@ Jotta voit käyttää laitteesi kaikkia ominaisuuksia normaalisti, Äärimmäine
   <string name="gb_xunyou_gift_type_one">Xunyou 1-päivän parannus</string>
   <string name="gb_xunyou_gift_type_three">Xunyou 3-päivän parannus</string>
   <string name="gb_xunyou_gift_type_two">Xunyou 2-päivän parannus</string>
-  <string name="gdpr_msg">&lt;Data&gt;"Käyttääksesi Tietoturva-sovelluksen perusominaisuuksia, sinun täytyy hyväksyä se, että Xiaomi kerää, prosessoi ja käyttää henkilökohtaisia tietoja mukaan lukien tietoja kuinka käytät Tietoturva-sovelluksen ominaisuuksia (esim. mobiilidatan käyttötilastoja, haittaohjelmia, sekä laitteesi perustiedot) ja muita tietoja, jotka mainitaan meidän &amp;lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;amp;lang=%2$s\"&amp;gt;Tietosuojakäytännössä&amp;lt;/a&amp;gt;."&lt;/Data&gt;</string>
+  <string name="gdpr_msg">Käyttääksesi Tietoturva-sovelluksen perusominaisuuksia, sinun täytyy hyväksyä se, että Xiaomi kerää, prosessoi ja käyttää henkilökohtaisia tietoja, mukaan lukien tietoja kuinka käytät Tietoturva-sovelluksen ominaisuuksia (esim. mobiilidatan käyttötilastoja, haittaohjelmia, sekä laitteesi perustiedot) ja muita tietoja, jotka mainitaan Tietosuojakäytännössämme.</string>
   <string name="ge">个</string>
   <string name="get_sys_info">Haetaan tietoa…</string>
   <string name="gigabyteShort">Gt</string>
