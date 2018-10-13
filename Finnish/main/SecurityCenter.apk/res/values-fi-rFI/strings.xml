@@ -1671,8 +1671,6 @@ Tämä toiminta vähentää akun kestoa."</string>
   <string name="power_center_charge_time">%1$s kunnes täynnä</string>
   <string name="power_center_hints_scan_danger_result">Voit korjata akkuongelmat nyt</string>
   <string name="power_center_list_item_auto_brightness">Säädä näytön kirkkaus automaattisesti</string>
-  <string name="power_center_list_item_battery_status_capacity">mAh</string>
-  <string name="power_center_list_item_battery_status_temperature">℃</string>
   <string name="power_center_list_item_battery_status_time">h</string>
   <string name="power_center_list_item_close_bluetooth">Poista Bluetooth käytöstä</string>
   <string name="power_center_list_item_deep_save_title">Lisäasetukset</string>
