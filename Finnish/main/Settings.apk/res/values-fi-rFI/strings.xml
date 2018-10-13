@@ -1114,7 +1114,8 @@ Tämän ominaisuuden voi poistaa käytöstä [Asetuksista]"</string>
   <string name="charge_length_format">%1$s sitten</string>
   <string name="charging_sounds_title">Latausäänet</string>
   <string name="check_find_device_status_failure_confirm">OK</string>
-  <string name="check_importance">Merkitäänkö tärkeäksi?</string>
+  <string name="check_importance">Ryhmäilmoituksien säännöt</string>
+  <string name="check_importance_dialog_cancel">Peruuta</string>
   <string name="check_update">Tarkista päivitykset</string>
   <string name="checkbox_notification_same_as_incoming_call">Käytä ilmoituksille puhelun äänenvoimakkuutta</string>
   <string name="checking_decryption">Tarkistetaan…</string>
@@ -1140,8 +1141,11 @@ Tämän ominaisuuden voi poistaa käytöstä [Asetuksista]"</string>
   <string name="clear_instant_app_data">Tyhjennä sovelluksen tiedot</string>
   <string name="clear_uri_btn_text">Poista käyttöoikeus</string>
   <string name="clear_user_data_text">Tyhjennä tiedot</string>
+  <string name="close_aod">Tätä ominaisuutta ei voi yhdistää \"Aina käytössä -tilan\" kanssa. Poista \"Aina käytössä -tila\" käytöstä ensin.</string>
   <string name="close_app">Sulje nykyinen sovellus</string>
   <string name="close_demo_mode">Peruuta</string>
+  <string name="close_fod">Et voi poistaa laitteesi lukitusta sormenjäljelläsi näytön ollessa sammutettuna. Sormenjäljellä avaaminen toimii vain näytön ollessa päällä.</string>
+  <string name="close_fod_aod">Et voi poistaa laitteesi lukitusta sormenjäljelläsi näytön ollessa sammutettuna. \"Aina käytössä -tila\" ei ole myöskään käytössä. Sormenjäljellä avaaminen toimii vain näytön ollessa päällä.</string>
   <string name="close_gesture">Sulje käyttämällä elettä</string>
   <string name="close_miui_optimization_title">Poista MIUI:n optimointi käytöstä</string>
   <string name="close_optimization_message">Poistamalla tämän ominaisuuden käytöstä saattaa vaikuttaa tekstin ulkoasuun, tileihin, ja muihin MIUI:n osiin.</string>
@@ -2139,6 +2143,7 @@ Varmuuskopioita ei vähennetä Drive-tallennustilan kiintiöstäsi. Suuria ja ke
   <string name="handy_mode_enable">Yhden käden-tila</string>
   <string name="handy_mode_size">Näytön koko</string>
   <string name="handy_mode_tips">Pyyhkäise Kotipainikkeelta vasemmalle tai oikealla muuttaaksesi näytön kokoa.</string>
+  <string name="handy_mode_tips_full_screen">Kun käytät kokonäytön eleitä, voit ottaa Yhden käden-tilan käyttöön käyttämällä Pikavalikkoa. Voit myös vaihtaa käyttämään painikkeita kokonäytön eleiden sijaan.</string>
   <string name="haptic_feedback_enable_title">Kosketusvärinä</string>
   <string name="haptic_feedback_level">Värinä</string>
   <string name="hardkeyboard_category">Fyysisen näppäimistön asetukset</string>
@@ -4889,6 +4894,7 @@ Se on Googlen tapa synkronoida tietoja, ja sen avulla voit käyttää yhteystiet
   <string name="title_hdmi_color_calibration">Värikorjaus preset</string>
   <string name="title_layout_current">Tekstin koko</string>
   <string name="title_layout_current2">Tekstin koko</string>
+  <string name="to_close">Poista käytöstä</string>
   <string name="toast_lockscreen_glogin_empty_password">Syötä salasana</string>
   <string name="toast_need_login">Kirjaudu sisään Mi Tilillesi</string>
   <string name="total">Älä häiritse</string>

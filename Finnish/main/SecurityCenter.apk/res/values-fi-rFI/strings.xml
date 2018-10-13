@@ -367,6 +367,7 @@
   <string name="auto_task_operation_sync">Synkronoi</string>
   <string name="auto_task_operation_vibration">Värinä</string>
   <string name="auto_task_operation_wifi">Wi-Fi</string>
+  <string name="auto_task_result_summary_text">Määritä automaattiset tehtävät Virransäästäjälle</string>
   <string name="back_app_name">Siirry takaisin Sovelluslukkoon</string>
   <string name="back_description_securitycenter">Takaisin</string>
   <string name="back_modifypassword">Siirry takaisin salasanan vaihtoon</string>
@@ -792,7 +793,8 @@ Jos haluat sovelluksen työskentelevän taustalla, lukitse se Viimeaikaisissa ta
 Äärimmäinen virransäästö poistaa NFC:n käytöstä oletuksena. Voit muuttaa tätä Asetuksissa.
 
 Jotta voit käyttää laitteesi kaikkia ominaisuuksia normaalisti, Äärimmäinen virransäästö poistetaan käytöstä automaattisesti, kun akkusi on vähintään 30% ladattu."</string>
-  <string name="extreme_power_save_mode_summary">Äärimmäinen virransäästö rajoittaa taustatyöskentelyä, lopettaa synkronoinnin ja vähentää näytön värejä.</string>
+  <string name="extreme_power_save_mode_card_summary">Ota Äärimmäinen tila käyttöön säästääksesi virtaa, kun akku on vähissä.</string>
+  <string name="extreme_power_save_mode_summary">Äärimmäinen virransäästö rajoittaa taustatyöskentelyä, lopettaa synkronoinnin.</string>
   <string name="extreme_power_save_mode_title">Äärimmäinen virransäästö</string>
   <string name="fast_open">速抢模式</string>
   <string name="fast_open_dialog_message">开启速抢模式后，当您收到红包时，系统将自动打开抢红包页面，抢红包更快更方便。</string>
@@ -1024,10 +1026,15 @@ Jotta voit käyttää laitteesi kaikkia ominaisuuksia normaalisti, Äärimmäine
   <string name="guide_wait_setting">Ei nyt</string>
   <string name="handle_bar_summary_wifi_unknown">Tuntematon</string>
   <string name="handle_bar_title_system">Järjestelmä</string>
+  <string name="handle_title_abnormal">Tyhjentää akkua</string>
+  <string name="handle_title_app">Sovellukset</string>
+  <string name="handle_title_details">Akun käytön tiedot</string>
   <string name="handle_title_network">Wi-Fi Turvallisuus</string>
   <string name="handle_title_pay_env">Maksuympäristö</string>
   <string name="handle_title_privacy">Yksityisyys &amp; tietoturva</string>
+  <string name="handle_title_system">Järjestelmän akun käyttö</string>
   <string name="hide_mode_app_background_setting_text">Sovelluskohtainen virransäästö</string>
+  <string name="hide_mode_result_summary_text">Mukauta Virransäästöasetukset sovelluskohtaisesti</string>
   <string name="hide_mode_summary_text">Hallitse sovelluksien taustatyöskentelyä virran säästämiseksi</string>
   <string name="hide_system_app">Piilota järjestelmäsovellukset</string>
   <string name="hint_antispam_mode_edit">Mukautettu tila</string>
@@ -1621,6 +1628,8 @@ Tämä toiminta vähentää akun kestoa."</string>
   <string name="pc_activity_title">Optimoi akku</string>
   <string name="pc_battery_history_show_imei">IMEI:</string>
   <string name="pc_install_manager">Asenna USB:n kautta</string>
+  <string name="pc_main_activity_back">Takaisin</string>
+  <string name="pc_settings_title">Akun käytön asetukset</string>
   <string name="pc_to_phone_install">Estettiin USB:n kautta asennettava %s</string>
   <string name="per_month_pkg_traffic_settings">Aseta tiedonsiirtoraja</string>
   <string name="percent_formatted_text">%s%%</string>
@@ -1660,12 +1669,33 @@ Tämä toiminta vähentää akun kestoa."</string>
   <string name="power_center_auto_shutdown">Ajasta käynnistäminen/sammuttaminen</string>
   <string name="power_center_back">Takaisin</string>
   <string name="power_center_charge_time">%1$s kunnes täynnä</string>
+  <string name="power_center_hints_scan_danger_result">Voit korjata akkuongelmat nyt</string>
+  <string name="power_center_list_item_auto_brightness">Säädä näytön kirkkaus automaattisesti</string>
+  <string name="power_center_list_item_battery_status_capacity">mAh</string>
+  <string name="power_center_list_item_battery_status_temperature">℃</string>
+  <string name="power_center_list_item_battery_status_time">h</string>
+  <string name="power_center_list_item_close_bluetooth">Poista Bluetooth käytöstä</string>
+  <string name="power_center_list_item_deep_save_title">Lisäasetukset</string>
+  <string name="power_center_list_item_set_lockscreen_time">Laita näyttö nukkumaan 30 sekunnin toimettomuuden jälkeen</string>
   <string name="power_center_main_percent_formatted">%s%%</string>
   <string name="power_center_ontime_boot">Käynnistymisen aika</string>
   <string name="power_center_ontime_shutdown">Sammuttamisen aika</string>
   <string name="power_center_repeat">Toista</string>
+  <string name="power_center_scan_item_title_GPS">Säädä GPS:n tarkkuus</string>
+  <string name="power_center_scan_item_title_abnormal">Akkuongelmia</string>
+  <string name="power_center_scan_item_title_abnormal_apps">Epänormaali virrankulutus sovelluksella</string>
+  <string name="power_center_scan_item_title_auto_invoke">Ketjukäynnistys</string>
+  <string name="power_center_scan_item_title_auto_start">Automaattinen käynnistys</string>
+  <string name="power_center_scan_item_title_battery_details">Akun käytön tiedot</string>
+  <string name="power_center_scan_item_title_brightness">Säädä näytön kirkkaus</string>
+  <string name="power_center_scan_item_title_clean_memory">Tyhjennä muisti</string>
+  <string name="power_center_scan_item_title_hide">Hallitse akun käyttöä</string>
+  <string name="power_center_scan_item_title_power_saver">Ota Virransäästäjä käyttöön</string>
+  <string name="power_center_scan_item_title_running_app">Taustalla toimivat sovellukset</string>
+  <string name="power_center_scan_result_safe">Akkuongelmia ei löytynyt</string>
   <string name="power_center_state_off">Pois päältä</string>
   <string name="power_center_state_on">Päällä</string>
+  <string name="power_center_stop_scan_title">Lopeta tarkistus</string>
   <string name="power_center_time_to_boot">Käynnistymisen aika</string>
   <string name="power_center_time_to_shutdown">Sammuttamisen aika</string>
   <string name="power_center_title">Akun käyttö</string>
@@ -1705,12 +1735,13 @@ Tämä toiminta vähentää akun kestoa."</string>
   <string name="power_save_mode_summary">Seuraa taustaprosesseja ja poista synkronointi käytöstä.</string>
   <string name="power_save_on_time_end_time_summary_na">Minne</string>
   <string name="power_save_on_time_start_time_summary_na">Mistä</string>
+  <string name="power_save_started_summary_text">Virransäästäjä on käytössä. Se vähentää sovelluksien taustatyöskentelyä, lopettaa synkronoinnin ja minimoi järjestelmän animaatioita.</string>
   <string name="power_save_summary_text">Vähennä sovellusten taustatyöskentelyä, lopeta synkronointi ja minimoi järjestelmän animaatioita ottamalla Virransäästö käyttöön.</string>
   <string name="power_save_title_text">Virransäästö</string>
   <string name="power_screen">Näyttö</string>
   <string name="power_settings_category_title">Akun ilmaisin</string>
   <string name="power_settings_number">Prosentti</string>
-  <string name="power_settings_saver_title">Virran säästäjä</string>
+  <string name="power_settings_saver_title">Virransäästäjä</string>
   <string name="power_settings_shape">Graafinen</string>
   <string name="power_settings_title">Aseta</string>
   <string name="power_settings_top">Yläpalkki</string>
@@ -1796,7 +1827,7 @@ Tämä toiminta vähentää akun kestoa."</string>
   <string name="privacy_apps_go_to_use">Aloita</string>
   <string name="privacy_apps_manage">Hallinnoi piilotettuja sovelluksia</string>
   <string name="privacy_apps_manage_dialog_title">Tietoja piilotetuista sovelluksista</string>
-  <string name="privacy_apps_manager_dialog_message">Sovelluksien piilottaminen vaatii Sovelluksen näytön lukituksen määrittämistä. Piilotettujen sovelluksien ilmoitukset poistetaan käytöstä. Piilotetaanko tämä sovellus?</string>
+  <string name="privacy_apps_manager_dialog_message">Tämän sovelluksen kuvaketta ei näytetä Aloitusnäytöllä piilotettuasi tämän sovelluksen. Piilotetaanko tämä sovellus nyt?</string>
   <string name="privacy_apps_tutorial">Oppitunti</string>
   <string name="privacy_apps_tutorial_prompt_pageone">"Piilotettuasi sovelluksen, se siirretään piilotettuun kansioon. Sen Aloitusnäytön pikakuvake on piilotettu myös.
 Tätä ominaisuutta ei tueta järjestelmäsovelluksilla."</string>
