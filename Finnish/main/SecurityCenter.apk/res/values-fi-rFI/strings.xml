@@ -1959,7 +1959,7 @@ Kalibroinnin aikana, MIUI lähettää tekstiviestin operaattorillesi saadakseen 
   <string name="section_title_system">Järjestelmän tietoturva</string>
   <string name="security_scan_optimizing">Optimoidaan…</string>
   <string name="see_detail">Tiedot</string>
-  <string name="see_more_content">Päivitä pelikeskus nähdäksesi lisää kohokohtia</string>
+  <string name="see_more_content">Päivitä Pelit nähdäksesi lisää kohokohtia</string>
   <string name="set_applock_password">Aseta salasana</string>
   <string name="set_mixed_password_name">Aseta salasana</string>
   <string name="set_numeric_password_name">Aseta PIN-koodi</string>

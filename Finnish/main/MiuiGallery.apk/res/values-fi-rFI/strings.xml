@@ -678,6 +678,9 @@
   <string name="cloudfolder_name_reserved">Albumin nimi on varattu</string>
   <string name="collage__talkback_effect">%d tehoste</string>
   <string name="collage_choose">Valitse</string>
+  <string name="collage_drawable_normal_date_format">d.M.yyyy</string>
+  <string name="collage_drawable_rect_date_month_day">"d. MMMM'ta'"</string>
+  <string name="collage_drawable_rect_date_year">yyyy</string>
   <string name="collage_margin_text">Marginaalit</string>
   <string name="collage_mirror">Peili</string>
   <string name="collage_poster_global_cat_text">TASSUT</string>
@@ -1283,6 +1286,10 @@ mukauttaaksesi Galleriasi"</string>
   <string name="play_gif_desc">Toista GIF</string>
   <string name="play_video_desc">Toista video</string>
   <string name="preparing_data">Odota hetki…</string>
+  <string name="privacy_permission_request_message">Galleria tarvitsee %3$s käyttöoikeuden. Keräämämme tiedot tullaan käyttämään meidän %1$s ja %2$s mukaisesti. Sallitko?</string>
+  <string name="privacy_permission_request_negative">Rajoita</string>
+  <string name="privacy_permission_request_positive">Salli</string>
+  <string name="privacy_permission_request_title">Käyttöoikeuksia vaaditaan</string>
   <string name="projection_cancel">Peruuta</string>
   <string name="projection_checkbox_text">Muista tämä näyttö</string>
   <string name="projection_device_connection_failed">Näytön yhdistäminen epäonnistui</string>
@@ -1593,10 +1600,15 @@ mukauttaaksesi Galleriasi"</string>
   <string name="video_editor_auto_trim">Automaattinen leikkaus</string>
   <string name="video_editor_auto_trim_tip">Leikataan automaattisesti…</string>
   <string name="video_editor_cancel">Peruuta</string>
+  <string name="video_editor_cancel_download">Peruuta</string>
   <string name="video_editor_done">Valmis</string>
   <string name="video_editor_down_load_later">Myöhemmin</string>
   <string name="video_editor_down_load_no_wifi_tips">Yhdistä Wi-Fi-verkkoon lataaksesi</string>
   <string name="video_editor_down_load_now">Lataa</string>
+  <string name="video_editor_download">Lataa</string>
+  <string name="video_editor_download_failed_for_notwork">Lataaminen epäonnistui. Yhdistä verkkoon ja yritä uudelleen.</string>
+  <string name="video_editor_download_without_wifi_msg">Mobiilidatayhteyden käyttäminen tiedostojen lataamiseen nostaa datan käyttöäsi. Jos menet datapakettisi rajan yli, operaattorisi voi veloittaa sinulta ylimääräisiä maksuja.</string>
+  <string name="video_editor_download_without_wifi_title">Tiedonsiirtovaroitus</string>
   <string name="video_editor_encode_video">Muunnetaan videota…</string>
   <string name="video_editor_encode_video_error">Videon muunnos epäonnistui</string>
   <string name="video_editor_fatal_error">Tuntematon virhe</string>
@@ -1623,6 +1635,8 @@ mukauttaaksesi Galleriasi"</string>
   <string name="video_editor_res_download_mobil_network_confirm_msg">Ladataanko ääniraidat käyttäen mobiilidataa?</string>
   <string name="video_editor_res_download_mobil_network_confirm_title">Käytetään mobiilidataa</string>
   <string name="video_editor_res_not_load_dialog_msg">Lataa ääniraitoja käyttääksesi tätä toimintoa (enemmän kuin 20 Mt).</string>
+  <string name="video_editor_return">Takaisin</string>
+  <string name="video_editor_save">Tallenna</string>
   <string name="video_editor_template_family">Perhe</string>
   <string name="video_editor_template_forbidden_tips">Tätä ei voi tehdä, kun käytössä on mallipohja</string>
   <string name="video_editor_template_oldfilm">Vuosikerta</string>

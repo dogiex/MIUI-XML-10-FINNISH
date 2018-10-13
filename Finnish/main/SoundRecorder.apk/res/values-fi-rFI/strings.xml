@@ -11,7 +11,7 @@
   <string name="clear_records">Poista synkronoidut nauhoitukset</string>
   <string name="cloud_record_open">Synkronoi nauhoitukset</string>
   <string name="cloud_record_tip">Synkronoi nauhoitukset Mi Pilveen.</string>
-  <string name="cloud_service_state_open_reminder">Ota Mi Pilven synkronointi käyttöön synkronoidaksesi nauhoitetut tiedostot.</string>
+  <string name="cloud_service_state_open_reminder">Ota Mi Pilven synkronointi käyttöön synkronoidaksesi nauhoitukset.</string>
   <string name="cloud_status_full_dialog_cancel">Ei nyt</string>
   <string name="cloud_status_full_dialog_msg">Pilven tallennustilasi on täynnä, nauhoituksia ei voi synkronoida. Hanki lisää talennustilaa päivittämällä tilisi.</string>
   <string name="cloud_status_full_dialog_ok">Päivitä</string>
@@ -35,7 +35,7 @@
   <string name="error_file_access">Tiedostoa ei ole olemassa tai se on korruptoitunut</string>
   <string name="error_filename_illegal_char">Tiedostonimi sisältää virheellisiä merkkejä.</string>
   <string name="error_filename_too_long">Tiedostonimi on liian pitkä.</string>
-  <string name="error_sdcard_access">USB-tallennustilaa ei voi käyttää.</string>
+  <string name="error_sdcard_access">SD-korttia ei voi käyttää.</string>
   <string name="error_sdcard_unmounted">Syötä SD-kortti nyt</string>
   <string name="export_to_note">Vie</string>
   <string name="head_set_tip_dialog_msg">Katkaise yhteys kuulokkeisiin, jotta voit nauhoittaa ääntä tietyllä esiasetuksilla (esim. Musiikki, Ääni).</string>

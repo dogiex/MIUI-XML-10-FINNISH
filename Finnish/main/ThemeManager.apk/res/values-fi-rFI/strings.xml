@@ -88,6 +88,9 @@
   <string name="download_failed">Lataaminen epäonnistui</string>
   <string name="download_preview_failed">Esikatselun lataaminen epäonnistui</string>
   <string name="download_success">Lataus valmistui</string>
+  <string name="exit_extreme_mode_dialog_agree">Hyväksy</string>
+  <string name="exit_extreme_mode_dialog_cancel">Peruuta</string>
+  <string name="exit_extreme_mode_dialog_title">Poista Äärimmäinen tila käytöstä</string>
   <string name="exo_controls_fastforward_description">Kelaa eteenpäin</string>
   <string name="exo_controls_fullscreen_description">Kokonäyttötila</string>
   <string name="exo_controls_next_description">Seuraava raita</string>
@@ -118,6 +121,9 @@
   <string name="exo_track_surround_5_point_1">5.1 surround-ääni</string>
   <string name="exo_track_surround_7_point_1">7.1 surround-ääni</string>
   <string name="exo_track_unknown">Tuntematon</string>
+  <string name="extreme_mode_dialog_message">Tämä ominaisuus ei ole käytettävissä Äärimmäisessä tilassa. Poista Äärimmäinen tila käytöstä käyttääksesi sitä.</string>
+  <string name="extreme_mode_dialog_ok">Selvä</string>
+  <string name="extreme_mode_dialog_title">Hälytys</string>
   <string name="fail_to_add_account">Tilin lisääminen epäonnistui</string>
   <string name="favorite_list">Suosikit</string>
   <string name="favorite_list_format">Suosikki %1$s</string>

@@ -33,6 +33,18 @@
         <item quantity="other">%1$d t %2$d m</item>
         <item quantity="one">%1$d t %2$d m</item>
      </plurals>
+     <plurals name="keyguard_extreme_power_info_could_use_hour_time_text">
+        <item quantity="other">Jäljellä %d tuntia</item>
+        <item quantity="one">Jäljellä %d tunti</item>
+    </plurals>
+    <plurals name="keyguard_extreme_power_info_could_use_min_time_text">
+        <item quantity="other">Jäljellä %d minuuttia</item>
+        <item quantity="one">Jäljellä %d minuutti</item>
+    </plurals>
+    <plurals name="keyguard_extreme_power_info_could_use_time_text">
+        <item quantity="other">Jäljellä %1$d t %2$d min</item>
+        <item quantity="one">Jäljellä %1$d t %2$d min</item>
+    </plurals>
      <plurals name="kg_password_default_pin_message">
         <item quantity="other">Anna SIM-kortin PIN-koodi, sinulla on %d yritystä jäljellä.</item>
         <item quantity="one">Anna SIM-kortin PIN-koodi, sinulla on %d yritys jäljellä ennen kuin joudut ottamaan operaattoriisi yhteyttä laitteesi avaamista varten.</item>

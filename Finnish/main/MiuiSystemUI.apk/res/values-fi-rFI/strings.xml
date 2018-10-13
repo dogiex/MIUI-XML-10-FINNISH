@@ -468,8 +468,8 @@ Ota yhteyttä operaattoriisi uutta SIM-korttia varten."</string>
      <string name="kg_forgot_pattern_button_text">Unohdin kuvion</string>
      <string name="kg_invalid_confirm_pin_hint">PIN-koodit eivät täsmää</string>
      <string name="kg_invalid_puk">Anna oikea PUK-koodi uudelleen. Toistuvat yritykset poistavat SIM-kortin käytöstä pysyvästi.</string>
-     <string name="kg_invalid_sim_pin_hint">Kirjoita 4-8 numeroa pitkä PIN-koodi.</string>
-     <string name="kg_invalid_sim_puk_hint">PUK-koodin pitäisi olla vähintään 8 numeroa.</string>
+     <string name="kg_invalid_sim_pin_hint">Anna 4-8 numeroa pitkä PIN-koodi.</string>
+     <string name="kg_invalid_sim_puk_hint">PUK-koodin täytyy olla vähintään 8 numeroa.</string>
      <string name="kg_login_too_many_attempts">Liian monta kuvioyritystä</string>
      <string name="kg_password_instructions">Anna salasana</string>
      <string name="kg_password_pin_failed">Lukitusta ei voitu poistaa SIM-kortin PIN-koodilla</string>
@@ -551,6 +551,7 @@ Yritä uudelleen %2$d sekunnin kuluttua."</string>
      <string name="miui_ringer_standard_description">Mykistä saapuvien puheluiden ja ilmoituksien soittoääni</string>
      <string name="miui_ringer_total">Älä häiritse</string>
      <string name="miui_ringer_total_description">Mykistä äänet ja poista värinä käytöstä kaikille kohteille paitsi herätyskellolle</string>
+     <string name="miui_screen_rotation_freeze_message">Automaattinen kierto poistettu käytöstä.</string>
      <string name="miui_toast_zen_dnd_to_off">Äänet ja värinä palautettiin normaaliksi</string>
      <string name="miui_toast_zen_standard_to_off">Soittoäänet palautettiin normaaliksi</string>
      <string name="miui_toast_zen_standard_to_off_when_shield_media">Soittoäänet mukaan luettuna ilmoitukset ja median äänet toistetaan.</string>
@@ -806,7 +807,14 @@ valvoa"</string>
      <string name="status_bar_airplane">Lentokonetila</string>
      <string name="status_bar_alarm">Hälytys</string>
      <string name="status_bar_clear_all_button">Tyhjennä</string>
+     <string name="status_bar_clock_date_format">"EEEE d. MMMM'ta'"</string>
      <string name="status_bar_clock_date_format_12">"EEEE d. MMMM'ta'"</string>
+     <string name="status_bar_clock_date_time_format">"H:mm d.  MMMM'ta'"</string>
+     <string name="status_bar_clock_date_time_format_12">"aah:mm d. MMMM'ta'"</string>
+     <string name="status_bar_date_format">"EEEE
+d. MMMM'ta'"</string>
+  <string name="status_bar_date_format_12">"EEEE
+d. MMMM'ta'"</string>
      <string name="status_bar_ethernet">Ethernet</string>
      <string name="status_bar_input_method_settings_configure_input_methods">Määritä syöttötavat</string>
      <string name="status_bar_latest_events_title">Ilmoitukset</string>

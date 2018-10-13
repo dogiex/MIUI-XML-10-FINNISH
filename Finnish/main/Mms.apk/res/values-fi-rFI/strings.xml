@@ -84,6 +84,7 @@
   <string name="cloud_state_disabled">Ota Mi Pilven synkronointi käyttöön synkronoidaksesi viestit</string>
   <string name="cloud_state_sync_finished">Synkronoitu Mi Pilveen</string>
   <string name="cloud_state_syncing">Synkronoidaan Mi Pilveen…</string>
+  <string name="cmcc_privacy">China Mobile Operaattorin Tietosuojasopimus</string>
   <string name="compressing">Kuva on liian iso. Pakataan…</string>
   <string name="confirm">OK</string>
   <string name="confirm_add_blacklist_dialog_dspt">Lisätäänkö tämä numero estolistallesi?</string>
@@ -101,8 +102,7 @@
   <string name="confirm_export_dialog_description">Edelliset keskustelut tämän yhteystiedon kanssa ei pidetä enää piilossa.</string>
   <string name="confirm_export_dialog_title">Poista yksityisistä yhteystiedoista</string>
   <string name="confirm_no_block_positive">Poista esto</string>
-  <string name="confirm_no_block_title">"Poistetaanko tämän numeron esto ja palautetaanko kaikki lähetetyt viestit tästä numerosta?
-(Numero lisätään poikkeuksiin.)"</string>
+  <string name="confirm_no_block_title">Poistetaanko esto valituilta numeroilta? Ne lisätään poikkeuksiin, mutta aiemmin estetyt kohteet eivät ilmesty takaisin viesteihin.</string>
   <string name="confirm_rate_limit">Suuri määrä multimediaviestejä lähetetään.</string>
   <string name="confirm_restore_all_title">Palautetaanko kaikki lähetetyt viestit tästä numerosta?</string>
   <string name="confirm_restore_checkbox">Palauta estetyt viestit</string>
@@ -149,12 +149,8 @@
   <string name="delivery_toast_body_more">%1$s ja %2$d henkilö(ä) vastaanotti viestin</string>
   <string name="dialog_message_fake_cell_detect_error">Haluatko korjata tämän viestin virheitä? MIUI:n tulee lähettää puhelinnumero (%1$s), viestin sisältö ja sijaintitiedot palvelimilleen tehdäkseen tämän.</string>
   <string name="dialog_message_mx">Mi Viestin avulla voit lähettää viestejä toisille MIUI-laitteille ilman maksuja. Mi Viestin aktivoimiseen vaaditaan lähtevä tekstiviesti. Operaattorisi veloittaa sinua tästä viestistä. Sinun täytyy hyväksyä meidän \"%1$s\" ja \"%2$s\" ennen Mi Viestin käyttämistä.</string>
-  <string name="dialog_message_mx_rcs">Mi Viestin avulla voit lähettää viestejä toisille MIUI-laitteille ja China Mobile -käyttäjille ilman maksuja. Mi Viestin aktivoimiseen vaaditaan lähtevä tekstiviesti. Operaattorisi veloittaa sinua tästä viestistä. Sinun täytyy hyväksyä meidän \"%1$s\" ja \"%2$s\" ennen Mi Viestin käyttämistä. Hyväksytkö?</string>
-  <string name="dialog_message_networking">Viestisovelluksen on yhdistettävä internetiin ja saatava sijaintitietosi, jotta se voi tarjota Älykästä Viestintää, Lähettäjän ID-tunnistuksen ja muita palveluita. Sinun täytyy hyväksyä meidän \"%1$s\" ja \"%2$s\" ennen näiden palveluiden käyttämistä. Sallitaanko?</string>
-  <string name="dialog_message_networking_mx">Mi Viestin avulla voit lähettää viestejä toisille MIUI-laitteille ilman maksuja. Mi Viestin aktivoimiseen vaaditaan lähtevä tekstiviesti. Operaattorisi veloittaa sinua tästä viestistä. Sinun täytyy hyväksyä meidän \"%1$s\" ja \"%2$s\" ennen Mi Viestin käyttämistä. Viestisovelluksen on yhdistettävä internetiin ja saatava sijaintitietosi, jotta se voi tarjota Älykästä Viestintää, Lähettäjän ID-tunnistuksen ja muita palveluita. Sallitaanko?</string>
-  <string name="dialog_message_networking_mx_rcs">Mi Viestin avulla voit lähettää viestejä toisille MIUI-laitteille ja China Mobile -käyttäjille ilman maksuja. Mi Viestin aktivoimiseen vaaditaan lähtevä tekstiviesti. Operaattorisi veloittaa sinua tästä viestistä. Sinun täytyy hyväksyä meidän \"%1$s\" ja \"%2$s\" ennen Mi Viestin käyttämistä. Viestisovelluksen on yhdistettävä internetiin ja saatava sijaintitietosi, jotta se voi tarjota Älykästä Viestintää, Lähettäjän ID-tunnistuksen ja muita palveluita. Sallitaanko?</string>
-  <string name="dialog_message_networking_rcs">China Mobile:n viestinnän avulla voit lähettää viestejä toisille China Mobile -käyttäjille ilman maksuja. Sinun täytyy hyväksyä meidän \"%1$s\" ja \"%2$s\" ennen China Mobile viestinnän käyttämistä. Viestisovelluksen on yhdistettävä internetiin ja saatava sijaintitietosi, jotta se voi tarjota Älykästä Viestintää, Lähettäjän ID-tunnistuksen ja muita palveluita. Sallitaanko?</string>
-  <string name="dialog_message_rcs">China Mobile:n viestinnän avulla voit lähettää viestejä toisille China Mobile -käyttäjille ilman maksuja. Sinun täytyy hyväksyä meidän \"%1$s\" ja \"%2$s\" ennen China Mobile viestinnän käyttämistä. Hyväksytkö?</string>
+  <string name="dialog_message_networking">Viestisovelluksen on yhdistettävä internetiin ja saatava sijaintitietosi, jotta se voi tarjota Älykästä Viestintää, Lähettäjän ID-tunnistuksen ja muita palveluita. Hyväksytkö?</string>
+  <string name="dialog_message_rcs">China Mobile:n viestinnän avulla voit lähettää viestejä toisille China Mobile -käyttäjille ilman maksuja. Sinun täytyy hyväksyä \"%1$s\" ennen China Mobile viestinnän käyttämistä.</string>
   <string name="dialog_message_sms_report">Roskaviestit ja lähettäjän tiedot lähetetään MIUI:lle, kun ilmoitat niistä. Niitä käytetään vain parantaakseen MIUI:n roskaviestin suodattimia.</string>
   <string name="dialog_title_fake_cell_detect_error">Korjaaminen</string>
   <string name="dialog_title_mx_rcs">Mi Viesti</string>
@@ -551,7 +547,7 @@
   <string name="recommend_bar_cancel">Hylkää</string>
   <string name="recommend_bar_message_mx">Mi Viestin avulla voit lähettää viestejä toisiin MIUI-laitteisiin ilman maksuja.</string>
   <string name="recommend_bar_message_mx_rcs">Mi Viestin avulla voit lähettää viestejä toisiin MIUI-laitteisiin ja China Mobile:n käyttäjille ilman maksuja.</string>
-  <string name="recommend_bar_message_rcs">China Mobile Viestinnän avulla voit lähettää viestejä toisille käyttäjille ilman maksuja.</string>
+  <string name="recommend_bar_message_rcs">China Mobile Viestinnän avulla voit lähettää viestejä toisille China Mobile käyttäjille ilman maksuja.</string>
   <string name="recommend_bar_message_smart_message">Kopioi kertakäyttösalasanat, seuraa pakettejasi, käytä älyvalikkoja ja paljon muuta</string>
   <string name="recommend_bar_ok">Ota käyttöön</string>
   <string name="recommend_bar_title_mx_rcs">Mi Viesti</string>

@@ -1,10 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <!-- MIUI 10 valmis -->
-  <string name="aod_mode_time_summary">Ajasta milloin laitteesi tulisi siirtyä Aina päällä -tilaan</string>
-  <string name="aod_mode_time_title">Ajastus</string>
-  <string name="aod_mode_turn_off">Pois käytöstä</string>
-  <string name="aod_mode_turn_on">Käytössä</string>
+  
   <string name="miui_lab_drive_mode_desc">Käytä ääniohjausta &amp; kuuntele WeChat viestejä</string>
   <string name="miui_lab_drive_mode_title">Autotila</string>
   <string name="miui_lab_super_resolution_desc">Tee kuvista terävempiä</string>
@@ -303,8 +300,15 @@ Aseta vain laitteet vierekkäin (yleensä takakannet vastakkain) ja kosketa näy
   <string name="animator_duration_scale_title">Animaattori</string>
   <string name="another_migration_already_in_progress">Toinen siirto on jo käynnissä.</string>
   <string name="anti_spam">Estolista</string>
+  <string name="aod_close_color_inversion">Tätä ominaisuutta ei voi yhdistää käänteisen värin kanssa. Poista käänteinen väri ensin käytöstä.</string>
+  <string name="aod_got_it">Selvä</string>
   <string name="aod_mode_summary">Näytä aina aika, päivämäärä ja viestit, kun näyttö on sammutettu.</string>
-  <string name="aod_mode_title">Aina päällä -tila</string>
+  <string name="aod_mode_title">Aina käytössä -tila</string>
+  <string name="aod_mode_time_summary">Ajasta milloin laitteesi tulisi siirtyä Aina käytössä -tilaan</string>
+  <string name="aod_mode_time_title">Ajastus</string>
+  <string name="aod_mode_turn_off">Pois käytöstä</string>
+  <string name="aod_mode_turn_on">Käytössä</string>
+  <string name="aod_to_close">Poista käytöstä</string>
   <string name="apn_apn">APN</string>
   <string name="apn_auth_type">Todennustyyppi</string>
   <string name="apn_auth_type_chap">CHAP</string>
@@ -366,9 +370,9 @@ Aseta vain laitteet vierekkäin (yleensä takakannet vastakkain) ja kosketa näy
   <string name="app_launch_open_domain_urls_title">Avaa tuetut linkit</string>
   <string name="app_launch_other_defaults_title">Muut oletusarvot</string>
   <string name="app_launch_supported_domain_urls_title">Tuetut linkit</string>
-  <string name="app_link_open_always">Avaa tässä sovelluksessa.</string>
+  <string name="app_link_open_always">Avaa</string>
   <string name="app_link_open_ask">Kysy aina.</string>
-  <string name="app_link_open_never">Älä avaa tässä sovelluksessa.</string>
+  <string name="app_link_open_never">Älä avaa</string>
   <string name="app_list_memory_use">Sovellusten käyttötiedot</string>
   <string name="app_list_preference_none">Ei mitään</string>
   <string name="app_memory_use">Muistin käyttö</string>
@@ -1466,8 +1470,8 @@ Asetus vaikuttaa tämän puhelimen kaikkiin käyttäjiin."</string>
   <string name="default_app">(Oletus)</string>
   <string name="default_apps_title">Oletus</string>
   <string name="default_assist_title">Avustajasovellus</string>
-  <string name="default_browser_title">Selainsovellus</string>
-  <string name="default_browser_title_none">Ei oletusselain</string>
+  <string name="default_browser_title">Selain</string>
+  <string name="default_browser_title_none">Ei valittu</string>
   <string name="default_calendar_app_title">Kalenterisovellus</string>
   <string name="default_contacts_app_title">Yhteystietosovellus</string>
   <string name="default_emergency_app">Hätäsovellus</string>
@@ -1477,7 +1481,7 @@ Asetus vaikuttaa tämän puhelimen kaikkiin käyttäjiin."</string>
   <string name="default_launcher_title">Oletuskäynnistin</string>
   <string name="default_map_app_title">Karttasovellus</string>
   <string name="default_notification_assistant">Ilmoitusapuri</string>
-  <string name="default_phone_title">Puhelinsovellus</string>
+  <string name="default_phone_title">Soittaminen</string>
   <string name="default_rule_name">Ajastin 1</string>
   <string name="default_sound">Oletusääni</string>
   <string name="default_spell_checker">Oletusarvoinen oikoluku</string>
@@ -1991,7 +1995,8 @@ Saat lisätietoja organisaatiosi järjestelmänvalvojalta."</string>
   <string name="floating_window_switch_label">Ota kelluvat ikkunat käyttöön</string>
   <string name="floating_window_switch_label_disable">Poista kelluvat ikkunat käytöstä</string>
   <string name="fluency_mode">Järjestelmän animaatiot</string>
-  <string name="fluency_mode_confirm_and_reboot">Käynnistä nyt</string>
+  <string name="fluency_mode_confirm_and_reboot">Käynnistä uudelleen nyt</string>
+  <string name="following_us_title">Seuraa meitä</string>
   <string name="font_size_exhuge">Suurin</string>
   <string name="font_size_huge">Suurempi</string>
   <string name="font_size_large">Suuri</string>
@@ -2195,7 +2200,7 @@ Voit muuttaa tätä asetusta myöhemmin kohdassa Asetukset > Sovellukset ja ilmo
   <string name="high_power_system">Akun käytön optimointi ei ole käytettävissä.</string>
   <string name="history_details_title">Historiatiedot</string>
   <string name="home">Aloitusnäytön asetukset</string>
-  <string name="home_app">Aloitusnäyttösovellus</string>
+  <string name="home_app">Käynnistin</string>
   <string name="home_key">Koti</string>
   <string name="home_work_profile_not_supported">Ei tue työprofiileja</string>
   <string name="http_invoke_app">Verkkosovellukset</string>
@@ -2240,6 +2245,7 @@ Voit muuttaa tätä asetusta myöhemmin kohdassa Asetukset > Sovellukset ja ilmo
   <string name="install_no_market_app_summary">Salli tuntemattomista lähteistä tulevien sovelluksien asentaminen.</string>
   <string name="install_no_market_app_title">Tuntemattomat lähteet</string>
   <string name="install_other_apps">Tuntemattomien sovellusten asentaminen</string>
+  <string name="install_preinstall_app">Vaihdetaan aluetta…</string>
   <string name="install_text">Asenna</string>
   <string name="install_type_instant">Pikasovellus</string>
   <string name="install_unknown_applications">Salli sovellusten asentaminen muualta kuin Play Kaupasta.</string>
@@ -3062,7 +3068,7 @@ Valitse käyttöjärjestelmäsi:"</string>
   <string name="no_connected_devices">Ei yhdistettyjä laitteita</string>
   <string name="no_data_usage">Tietoja ei käytetty.</string>
   <string name="no_default_apps">Ei oletussovelluksia</string>
-  <string name="no_default_home">Oletusaloitusnäyttöä ei valittu</string>
+  <string name="no_default_home">Ei valittu</string>
   <string name="no_device_admins">Laitteenhallintasovelluksia ei ole saatavilla.</string>
   <string name="no_internet_access_remember">Älä kysy uudelleen tässä verkossa</string>
   <string name="no_internet_access_text">Tässä verkossa ei ole internetyhteyttä. Säilytetäänkö yhteys?</string>
@@ -4443,7 +4449,7 @@ PIN-koodi on mahdollisesti virheellinen."</string>
   <string name="smartcover_lock_or_unlock_screen_tittle">Älykotelo-tila</string>
   <string name="smartcover_sensitive_summary">Lukitse tai avaa puhelimen lukitus automaattisesti älykotelon avulla</string>
   <string name="smartcover_sensitive_title">Älykotelo</string>
-  <string name="sms_application_title">Tekstiviestisovellus</string>
+  <string name="sms_application_title">Viestintä</string>
   <string name="sms_change_default_dialog_text">Haluatko, että oletussovellus on %1$s eikä enää %2$s?</string>
   <string name="sms_change_default_dialog_title">Vaihdetaanko tekstiviestisovellus?</string>
   <string name="sms_change_default_no_previous_dialog_text">Käytetäänkö tekstiviestisovellusta %s?</string>
@@ -4511,9 +4517,11 @@ Laitteeseesi asennettu luotettu varmenne tekee tämän mahdolliseksi."</string>
   <string name="status_bar_settings_basic_settings">Asetukset</string>
   <string name="status_bar_settings_custom_carrier">Muokkaa operaattorin nimeä</string>
   <string name="status_bar_settings_custom_wifi_name">Muokkaa Wi-Fi nimeä</string>
+  <string name="status_bar_settings_customer_feedback">palaute</string>
   <string name="status_bar_settings_enable_notification">Näytä ilmoitukset</string>
   <string name="status_bar_settings_expand_top_notification">Laajenna ylin ilmoitus</string>
   <string name="status_bar_settings_expandable_under_keyguard">Näytä Lukitusnäytöllä</string>
+  <string name="status_bar_settings_function_description">Tietoja tästä ominaisuudesta</string>
   <string name="status_bar_settings_long_click_sort">Siirrä nappulaa painamalla sitä pohjassa</string>
   <string name="status_bar_settings_manage_notification">Sovellusilmoitukset</string>
   <string name="status_bar_settings_no_carrier">Ei mitään</string>
@@ -4543,6 +4551,11 @@ Laitteeseesi asennettu luotettu varmenne tekee tämän mahdolliseksi."</string>
   <string name="status_bar_settings_toggle_collapse_after_clicked">Tiivistä kosketuksen jälkeen</string>
   <string name="status_bar_settings_toggle_position">Nappuloiden sijainnit</string>
   <string name="status_bar_settings_user_fold">Ilmoituksien kansio</string>
+  <string name="status_bar_settings_user_fold_description1">Ilmoituksien kansio esiteltiin MIUI 9:ssä. Tämä ominaisuus suodattaa ei tärkeät ilmoitukset ja asettaa ne erilliseen kansioon.</string>
+  <string name="status_bar_settings_user_fold_description2">MIUI muistaa mitä ilmoituksia napautat ja sen jälkeen käyttää useita kriteerejä määrittääkseen onko ne tärkeitä vai ei.</string>
+  <string name="status_bar_settings_user_fold_description3">Jos mielestäsi tärkeät ilmoitukset menevät silti Ilmoituksien kansioon, ilmoitathan asiasta meille. Arvostamme palautettasi.</string>
+  <string name="status_bar_settings_user_fold_disable">Pois käytöstä</string>
+  <string name="status_bar_settings_user_fold_enable">Käytössä</string>
   <string name="status_bar_settings_user_fold_summary">Kaikki ei tärkeät ilmoitukset ilmestyvät erilliseen kansioon</string>
   <string name="status_bar_style_list">Yhdistetty</string>
   <string name="status_bar_style_page">Erikseen</string>
@@ -4892,6 +4905,7 @@ Se on Googlen tapa synkronoida tietoja, ja sen avulla voit käyttää yhteystiet
   <string name="title_font_current2">Järjestelmäfontti</string>
   <string name="title_font_size">Kirjasimen koko</string>
   <string name="title_hdmi_color_calibration">Värikorjaus preset</string>
+  <string name="title_jeejen">Jeejen Aloitusnäyttö</string>
   <string name="title_layout_current">Tekstin koko</string>
   <string name="title_layout_current2">Tekstin koko</string>
   <string name="to_close">Poista käytöstä</string>
@@ -5052,11 +5066,11 @@ Se on Googlen tapa synkronoida tietoja, ja sen avulla voit käyttää yhteystiet
   <string name="unlock_set_unlock_none_title">Ei mitään</string>
   <string name="unlock_set_unlock_off_title">Ei mitään</string>
   <string name="unlock_set_unlock_password_none">Ei mitään</string>
-  <string name="unlock_set_unlock_password_summary">Syötä numeroita tai kirjaimia neljä tai useampi laitteen lukituksen avaamiseksi</string>
+  <string name="unlock_set_unlock_password_summary">Anna numeroita tai kirjaimia neljä tai useampi laitteen lukituksen avaamiseksi</string>
   <string name="unlock_set_unlock_password_title">Salasana</string>
   <string name="unlock_set_unlock_pattern_summary">Piirrä yksinkertainen kuvio sormellasi laitteen lukituksen avaamiseksi</string>
   <string name="unlock_set_unlock_pattern_title">Kuvio</string>
-  <string name="unlock_set_unlock_pin_summary">Syötä neljä numeroa laitteen lukituksen avaamiseksi</string>
+  <string name="unlock_set_unlock_pin_summary">Anna 4-16 numeroa laitteen lukituksen avaamiseksi</string>
   <string name="unlock_set_unlock_pin_title">PIN-koodi</string>
   <string name="unlock_set_unlock_summary">Aseta näytön lukitus</string>
   <string name="unlock_setup_wizard_fingerprint_details">Kun olet määrittänyt näytön lukituksen, voit määrittää myös sormenjälkesi kohdassa Asetukset &gt; Tietoturva.</string>

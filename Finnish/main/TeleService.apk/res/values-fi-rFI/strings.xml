@@ -439,7 +439,7 @@ Siirtonopeus"</string>
   <string name="card_title_MOcall_forwarding">Lähtevä siirretty puhelu</string>
   <string name="card_title_MTcall_forwarding">Saapuva puhelu on siirretty</string>
   <string name="card_title_call_deflected">Puhelu siirretty</string>
-  <string name="card_title_call_ended">Puhelu loppui</string>
+  <string name="card_title_call_ended">"Puhelu päättyi "</string>
   <string name="card_title_callconnectedect">Puhelu yhdistetty ECT</string>
   <string name="card_title_callconnectingect">Puhelu yhdistyy ECT</string>
   <string name="card_title_calliswaiting">Puhelu odottaa</string>
@@ -459,7 +459,7 @@ Siirtonopeus"</string>
   <string name="card_title_incoming_barred">Saapuvat puhelut estetty</string>
   <string name="card_title_incoming_call">Uusi puhelu</string>
   <string name="card_title_multipartycall">Usean ryhmän puhelu</string>
-  <string name="card_title_on_hold">Pidossa</string>
+  <string name="card_title_on_hold">"Pidossa "</string>
   <string name="card_title_outgoing_barred">Lähtevät puhelut estetty</string>
   <string name="card_title_redialing">Soitetaan uudelleen</string>
   <string name="card_title_unconditionalCF">Ehdoton soitonsiirto on käytössä</string>

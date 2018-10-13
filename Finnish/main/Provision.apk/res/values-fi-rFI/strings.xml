@@ -95,8 +95,11 @@ Sinun täytyy hyväksyä Kika:n Tietosuojakäytäntö ennen tämän ominaisuuden
   <string name="terms_privacy_policy_input_method_kika">Kika:n Tietosuojakäytäntö</string>
   <string name="title_fingerprint">Aseta salasana</string>
   <string name="user_agreement">Palveluehdot</string>
+  <string name="voice_assist_advice">Mi AI sallii ääniohjauksen käyttämisen, mutta se kuluttaa enemmän virtaa (+1% tunnissa).</string>
+  <string name="voice_assist_condition">"Voit käyttää Mi AI:ta näissä tilanteissa:
+1. Kun näyttö on päällä.
+2. Kun kuuntelet musiikkia näyttö sammutettuna."</string>
   <string name="voice_assist_desp">Sano \"Mi AI\" puhelimellesi. Mi AI tunnistaa äänesi ja voi ohjata laitettasi.</string>
-  <string name="voice_assist_desp_screen_light">Näyttösi valaistuttua, sano \"Mi AI\" puhelimeesi. Mi AI tunnistaa äänesi ja voi ohjata laitettasi.</string>
   <string name="voice_assist_title">Herätä äänellä</string>
   <string name="welcome">Tervetuloa</string>
 </resources>

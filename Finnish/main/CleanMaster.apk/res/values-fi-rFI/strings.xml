@@ -572,6 +572,8 @@
   <string name="toast_select_white_need_remove">Valitse poistettavat kohteet</string>
   <string name="toast_selecte_group_restore_succeed">Kuvat palautettiin</string>
   <string name="toast_uninstall_success">Asennuksen poisto valmis</string>
+  <string name="toast_updater_close_4g_text">Sovelluksia ei päivitetä käyttäen mobiilidataa (4G)</string>
+  <string name="toast_updater_open_4g_text">Sovellukset päivitetään käyttäen mobiilidataa (4G)</string>
   <string name="total_clean">Puhdistettu yhteensä: %s</string>
   <string name="total_clean_text">Tyhjennä</string>
   <string name="unlike">Ei kiitos</string>

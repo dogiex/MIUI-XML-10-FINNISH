@@ -52,7 +52,7 @@
   <string name="cancel_alarm_description">Peruuta hälytys</string>
   <string name="cloud_service_state_open_reminder">Ota Mi Pilven synkronointi käyttöön synkronoidaksesi muistiot.</string>
   <string name="cloud_trash_bin_title">Poista muistiot Mi Pilvestä</string>
-  <string name="cta_reminder">Tämä sovellus tarvitsee yhteyden internetiin varmuuskopioidakseen muistiot Mi Pilveen ja myös pääsyn lukea yhteystietosi merkatakseen muistiot puheluiden aikana.</string>
+  <string name="cta_reminder">Muistio tarvitsee käyttöoikeuden yhdistää internetiin, nauhoittaa ääntä ja käyttää yhteystietojasi toimiakseen normaalisti. Sallitko?</string>
   <string name="date_time_picker_alarm_reminder">Hälytys</string>
   <string name="date_time_picker_dialog_title">Aseta päivämäärä ja aika</string>
   <string name="date_time_picker_has_not_set_alarm">Hälytystä ei ole asetettu</string>

@@ -45,6 +45,10 @@
         <item>Äänimuistiot</item>
         <item>Liitä alkuperäinen ääninauhoitus muistioihin luodaksesi muistioita sisäänrakennetulla puheesta-tekstiksi moottorilla.</item>
      </string-array>
+     <string-array name="second_guide_contents_pad_or_inter">
+        <item>Äänimuistiot</item>
+        <item>Voit nyt luoda äänimuistioita. Napauta vain kuvaketta, nauhoita ääntäsi ja tallenna äänitiedosto muistion sisälle.</item>
+    </string-array>
     <string-array name="welcome_notes_content">
         <item>"Tervetuloa Muistioon
 "</item>

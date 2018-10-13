@@ -231,6 +231,9 @@
   <string name="data_monitor">Datan käytön monitorointi</string>
   <string name="data_monitor_dialog_message">Näyttää siltä, että jokin kuluttaa mobiilidataasi. Avaa aloitussivu lopettaaksesi tämän.</string>
   <string name="data_traffic_continue">Jatka</string>
+  <string name="data_traffic_download_cancel">Peruuta</string>
+  <string name="data_traffic_download_prompt">Nykyinen video voidaan ladata vain Wi-Fi-ympäristössä</string>
+  <string name="data_traffic_download_setting">Asetukset</string>
   <string name="data_traffic_goto">Ilmainen dataliikenne</string>
   <string name="data_traffic_prompt_free_data">Videoiden selaaminen mobiilidatalla lisää datan käyttöä. Hanki ilmainen dataliikenne.</string>
   <string name="data_traffic_prompt_message">Videoiden selaaminen mobiilidatalla lisää datan käyttöä. Jos operaattorikohtainen tiedonsiirtoraja ylittyy, operaattori voi veloittaa sinulta lisäkustannuksia.</string>
