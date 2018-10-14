@@ -1674,9 +1674,6 @@ Saat lisätietoja järjestelmänvalvojalta."</string>
   <string name="special_mode_ok">Käynnistä uudelleen</string>
   <string name="stat_sys_data_connected_1x_half">1X</string>
   <string name="status_bar_accessibility_dismiss_recents">Hylkää viimeaikaiset sovellukset</string>
-  <string name="status_bar_clock_date_format">"EEEE d. MMMM'ta'"</string>
-  <string name="status_bar_date_format">"EEEE d. MMMM'ta'"</string>
-  <string name="status_bar_date_format_12">"EEEE d. MMMM'ta'"</string>
   <string name="status_bar_network_flow_content">"Tänään: %1$s   Jäljellä: %2$s"</string>
   <string name="status_bar_network_flow_exceed_content">Tänään: %1$s&amp;nbsp;&amp;nbsp;&amp;nbsp;Raja ylitetty: %3$s</string>
   <string name="status_bar_network_flow_limit">"   Kuukausittainen raja: %1$s   "</string>
