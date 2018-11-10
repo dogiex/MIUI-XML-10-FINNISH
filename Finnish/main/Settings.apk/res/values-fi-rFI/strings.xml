@@ -10,7 +10,6 @@
   <string name="navigation_guide_appswitch_title">Vaihda edelliseen sovellukseen</string>
   <string name="paper_mode_side_effect_hint">Suurempi voimakkuus voi vaikuttaa tapaan, jolla sisältö näkyy.</string>
   <string name="status_bar_carrier_settings_no_sim_card">Ei SIM-korttia</string>
-  <string name="status_bar_settings_show_carrier_under_keyguard">Näytä operaattori laitteen ollessa lukittuna</string>
   <string name="super_resolution_access_title">Käytettävissä olevat sovellukset</string>
   <string name="super_resolution_desc">Tee kuvista tarkempia käyttäen AI-algoritmeja</string>
   <string name="super_resolution_maintain">Super-resoluutio ei ole vielä käytettävissä.</string>
@@ -285,6 +284,9 @@ Järjestelmänvalvoja voi valvoa tähän käyttäjäprofiiliin liittyviä asetuk
   <string name="amber_alerts_title">AMBER-hälytykset</string>
   <string name="ambient_display_pickup_summary">Tarkista ilmoitukset nopeasti ottamalla puhelin käteesi.</string>
   <string name="ambient_display_pickup_title">Tarkista ilmoitukset nostamalla puhelimesi</string>
+  <string name="ambient_display_screen_summary_always_on">Aina päällä / Lisää akun käyttöä</string>
+  <string name="ambient_display_screen_summary_notifications">Uusia ilmoituksia</string>
+  <string name="ambient_display_screen_title">Ambient-näyttö</string>
   <string name="ambient_display_summary">Tarkista ilmoitukset nopeasti kaksoisnapauttamalla näyttöä.</string>
   <string name="ambient_display_title">Tarkista ilmoitukset kaksoisnapauttamalla puhelimen näyttöä</string>
   <string name="android_beam_disabled_summary">Käyttääksesi tätä toimintoa, ota NFC käyttöön</string>
@@ -2314,6 +2316,9 @@ Voit muuttaa tätä asetusta myöhemmin kohdassa Asetukset > Sovellukset ja ilmo
   <string name="keywords_accounts">tili</string>
   <string name="keywords_airplane">Lentokone;Lentokonetila;Lento;Lentotila</string>
   <string name="keywords_all_apps">sovellukset, lataus, järjestelmä</string>
+  <string name="keywords_ambient_display">saapuva ilmoitus</string>
+  <string name="keywords_ambient_display_screen">Ambient-näyttö, Lukitusruudun näyttö</string>
+  <string name="keywords_android_version">android tietoturva taso, baseband versio, kernel versio</string>
   <string name="keywords_app">RAM</string>
   <string name="keywords_app_permissions">sovellukset, käyttöoikeudet, suojaus</string>
   <string name="keywords_auto_rotate">Kierto;Kierrä näyttö;Suunta;Näytön suunta;Pystysuunta;Vaakasuunta;Pystysuora;Vertikaalinen;Vaakasuora;Horisontaalinen</string>
@@ -4535,8 +4540,10 @@ Laitteeseesi asennettu luotettu varmenne tekee tämän mahdolliseksi."</string>
   <string name="status_bar_settings_notification_sound_custom">Mukautettu ääni</string>
   <string name="status_bar_settings_notification_use_app_icon">Käytä sovelluskuvakkeita ilmoituksissa</string>
   <string name="status_bar_settings_notification_vibrate">Värinä</string>
+  <string name="status_bar_settings_peek_notification_icon">Näytä kuvakkeet saapuville ilmoituksille</string>
   <string name="status_bar_settings_show_carrier">Näytä operaattorin nimi</string>
   <string name="status_bar_settings_show_carrier_summary">Operaattorin nimi silti näytetään Lukitusnäytöllä ja ilmoitusalueella vaikka tämä ominaisuus ei ole käytössä</string>
+  <string name="status_bar_settings_show_carrier_under_keyguard">Näytä operaattori laitteen ollessa lukittuna</string>
   <string name="status_bar_settings_show_floating_notification">Kelluvat ilmoitukset</string>
   <string name="status_bar_settings_show_floating_notification_summary">Salli tärkeät ilmoitukset näytön yläreunassa</string>
   <string name="status_bar_settings_show_flow_info">Näytä flow tiedot</string>
