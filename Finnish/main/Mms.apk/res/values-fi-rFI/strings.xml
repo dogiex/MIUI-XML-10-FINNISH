@@ -325,7 +325,7 @@
   <string name="multimedia_message">Multimediaviesti</string>
   <string name="multimedia_notification">Multimediaviestin ilmoitus</string>
   <string name="mx2_type_description">[%s]</string>
-  <string name="mx_activate_allow_notice">Lähtevä tekstiviesti saatetaan vaatia ilmaisten viesti- ja äänipalvelun aktivoimista varten. Operaattorisi veloittaa sinua tästä viestistä. Sitä paitsi tämän ominaisuuden ollessa käytössä, mobiilidataa vaaditaan pieni määrä, jotta voidaan tarkistaa onko toinen käyttäjä online-tilassa. Hyväksytäänkö?
+  <string name="mx_activate_allow_notice">Lähtevä tekstiviesti saatetaan vaatia ilmaisten viesti- ja äänipalvelun aktivoimista varten. Operaattorisi veloittaa sinua tästä viestistä. Sitä paitsi tämän ominaisuuden ollessa käytössä, mobiilidataa vaaditaan pieni määrä, jotta voidaan tarkistaa onko toinen käyttäjä online-tilassa. Hyväksytäänkö?</string>
   <string name="mx_activate_dlg_title">Aktivoi Mi Viesti</string>
   <string name="mx_activate_dlg_title_ex">Aktivoi Mi Viesti &amp; Ääni</string>
   <string name="mx_activate_error_malformed_info">Sinun täytyy aktivoida Mi Viesti uudelleen.</string>
