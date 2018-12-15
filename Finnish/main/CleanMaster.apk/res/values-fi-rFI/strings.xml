@@ -80,6 +80,7 @@
   <string name="cd_list_item_collapse">tiivistetty</string>
   <string name="cd_list_item_expanded">laajennettu</string>
   <string name="cd_percent">prosentti</string>
+  <string name="cd_scanning">skannataan</string>
   <string name="cd_settings">asetukset</string>
   <string name="cd_sort_type">lajittelutyyppi</string>
   <string name="button_text_cleanup">Puhdista</string>
@@ -120,7 +121,7 @@
   <string name="clean_content_three">3 asiaa</string>
   <string name="clean_content_two">2 asiaa</string>
   <string name="clean_content_zero">Ei yhtään</string>
-  <string name="clean_summary">Puhdistettiin %1$s tiedostoa</string>
+  <string name="clean_summary">Tyhjennettiin %1$s</string>
   <string name="clear_bigfiles">Poista suuret tiedostot, kuvien kaksoiskappaleet ja muut tarpeettomat asiat</string>
   <string name="clear_immediately">Puhdista nyt</string>
   <string name="clear_safe_notify">Ilmoitusalueen widgetti</string>

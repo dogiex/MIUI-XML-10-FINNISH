@@ -31,6 +31,10 @@
         <item quantity="zero">%d viestiä</item>
         <item quantity="one">%d viesti</item>
     </plurals>
+    <plurals name="mark_number_dialog_subtitle">
+        <item quantity="other">Merkitty %2$s %1$d henkilön toimesta</item>
+        <item quantity="one">Merkitty %2$s %1$d henkilön toimesta</item>
+    </plurals>
     <plurals name="message_count">
         <item quantity="other">%1$s viestiä</item>
         <item quantity="one">%1$s viesti</item>

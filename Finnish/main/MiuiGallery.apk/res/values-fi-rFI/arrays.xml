@@ -12,6 +12,91 @@
         <item>Äidinisä</item>
         <item>Äidinäiti</item>
     </string-array>
+    <string-array name="card_last_week_day">
+        <item>Viime Maanantai</item>
+        <item>Viime Tiistai</item>
+        <item>Viime Keskiviikko</item>
+        <item>Viime Torstai</item>
+        <item>Viime Perjantai</item>
+    </string-array>
+    <string-array name="chinese_holiday_last_year">
+        <item>Viime Kiinan Uudenvuoden Aattona</item>
+        <item>Viime Kiinan Uutenavuotena</item>
+        <item>Viime Lyhtyjuhla</item>
+        <item>Viime Dragon Boat Festivaali</item>
+        <item>Viime Qixi Festivaali</item>
+        <item>Viime Keskisyksy Festivaali</item>
+    </string-array>
+    <string-array name="chinese_holiday_past_year">
+        <item>"Chinese New Year's Eve through the years"</item>
+        <item>Chinese New Year through the years</item>
+        <item>Lantern Festival through the years</item>
+        <item>Dragon Boat Festival through the years</item>
+        <item>Qixi Festival through the years</item>
+        <item>Mid-Autumn Festival through the years</item>
+    </string-array>
+    <string-array name="holiday_last_year">
+        <item>Viime Uuden vuoden päivä</item>
+        <item>Viime Ystävänpäivä</item>
+        <item>Viime Vappupäivänä</item>
+        <item>Viime Lastenpäivänä</item>
+        <item>Viime Kansallispäivänä</item>
+        <item>Viime Jouluna</item>
+    </string-array>
+    <string-array name="holiday_past_year">
+        <item>"New Year's Day through the years"</item>
+        <item>"Valentine's Day through the years"</item>
+        <item>Labor Day through the years</item>
+        <item>"Children's Day through the years"</item>
+        <item>National Day through the years</item>
+        <item>Christmas through the years</item>
+    </string-array>
+    <string-array name="month_last_year">
+        <item>Viime Tammikuu</item>
+        <item>Viime Helmikuu</item>
+        <item>Viime Maaliskuu</item>
+        <item>Viime Huhtikuu</item>
+        <item>Viime Toukokuu</item>
+        <item>Viime Kesäkuu</item>
+        <item>Viime Heinäkuu</item>
+        <item>Viime Elokuu</item>
+        <item>Viime Syyskuu</item>
+        <item>Viime Lokakuu</item>
+        <item>Viime Marraskuu</item>
+        <item>Viime Joulukuu</item>
+    </string-array>
+    <string-array name="month_past_year">
+        <item>Tammikuun muistot</item>
+        <item>Helmikuun muistot</item>
+        <item>Maaliskuun muistot</item>
+        <item>Huhtikuun muistot</item>
+        <item>Toukokuun muistot</item>
+        <item>Kesäkuun muistot</item>
+        <item>Heinäkuun muistot</item>
+        <item>Elokuun muistot</item>
+        <item>Syyskuun muistot</item>
+        <item>Lokakuun muistot</item>
+        <item>Marraskuun muistot</item>
+        <item>Joulukuun muistot</item>
+    </string-array>
+    <string-array name="season_last_year">
+        <item>Viime kevät</item>
+        <item>Viime kesä</item>
+        <item>Viime syksy</item>
+        <item>Viime talvi</item>
+    </string-array>
+    <string-array name="season_past_year">
+        <item>Kevään muistot</item>
+        <item>Kesän muistot</item>
+        <item>Syksyn muistot</item>
+        <item>Talven muistot</item>
+    </string-array>
+    <string-array name="season_recap">
+        <item>Kevään kertaus</item>
+        <item>Kesän kertaus</item>
+        <item>Syksyn kertaus</item>
+        <item>Talven kertaus</item>
+    </string-array>
     <string-array name="relation_with_me">
         <item>Minä</item>
         <item>Lapsi</item>

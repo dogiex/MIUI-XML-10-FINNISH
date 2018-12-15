@@ -1,5 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <!-- 8.9.17 -->
+  <string name="tax_thershold_native_new">%s (uusi)</string>
+  <string name="tax_thershold_native_new_description">Verot lasketaan uuden verolain mukaan 1. lokakuuta 2018 alkaen</string>
+  <!-- // 8.9.17 // -->
   <string name="angle">deg</string>
   <string name="app_name">Laskin</string>
   <string name="app_name_danfa">Mi Laskin</string>
@@ -495,7 +499,7 @@
   <string name="unit_data_short_length_cun">cun</string>
   <string name="unit_data_short_length_dm">dm</string>
   <string name="unit_data_short_length_fen">fen</string>
-  <string name="unit_data_short_length_fm">fm</string>
+  <string name="unit_data_short_length_fm">ftm</string>
   <string name="unit_data_short_length_ft">ft</string>
   <string name="unit_data_short_length_fur">fur</string>
   <string name="unit_data_short_length_gongli">gongli</string>

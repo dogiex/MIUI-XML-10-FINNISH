@@ -32,7 +32,7 @@
   <string name="timer_cancel_hint">Lopeta</string>
   <string name="timer_cancel_timer">Peruuta ajastin</string>
   <string name="timer_continue_timer">Jatka ajastinta</string>
-  <string name="timer_created">Ajastin luotiin</string>
+  <string name="timer_created">Ajastin lisättiin onnistuneesti</string>
   <string name="timer_end_time">Ajastin pysähtyy klo %s</string>
   <string name="timer_end_time_format">"d. MMMM'ta' HH:mm"</string>
   <string name="timer_end_time_format_today">HH:mm</string>
@@ -106,7 +106,7 @@
   <string name="edit_systemtime">Muokkaa järjestelmän aikaa</string>
   <string name="elapsed_time_format">+%s</string>
   <string name="every_day">Joka päivä</string>
-  <string name="expired_timers_dismissed">Ajastin hylättiin</string>
+  <string name="expired_timers_dismissed">Hylättiin ajastin onnistuneesti</string>
   <string name="force_touch_add_alarm">Lisää hälytys</string>
   <string name="force_touch_enter_stopwatch">Sekuntikello</string>
   <string name="force_touch_enter_timer">Ajastin</string>
@@ -118,7 +118,7 @@
   <string name="install_weather_app_error">Sovelluksen lataaminen epäonnistui.</string>
   <string name="install_weather_app_loading">Odota hetki…</string>
   <string name="invalid_time">Virheellinen aika: %3$s %1$d: %2$d</string>
-  <string name="invalid_timer_length">Virheellinen ajastimen pituus</string>
+  <string name="invalid_timer_length">Ajastimen pituus on virheellinen</string>
   <string name="keep_screen_on">Pidä näyttö päällä</string>
   <string name="label">Aseta nimike</string>
   <string name="label_pref_summary">Nimeä tämä hälytys</string>

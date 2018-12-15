@@ -122,10 +122,10 @@
   <string name="count_down">Lähtölaskenta: %1$s</string>
   <string name="create_shortcut_success">Pikakuvake lisätty onnistuneesti</string>
   <string name="daily_clockin">Check in</string>
-  <string name="data_consumption_cancel">Exit</string>
+  <string name="data_consumption_cancel">Älä hyväksy</string>
   <string name="data_consumption_checkbox_hint">Älä näytä uudelleen</string>
   <string name="data_consumption_confirm">OK</string>
-  <string name="data_consumption_message">Tämä sovellus tarvitsee internetyhteyden käyttäen Wi-Fiä toimiakseen normaalisti.</string>
+  <string name="data_consumption_message">Tiedostohallinta tarvitsee verkkoyhteyden käyttäessäsi sitä. Hyväksytkö?</string>
   <string name="data_consumption_message1">Tiedostohallinta tarvitsee internetyhteyden, jotta suositut videot ja tarrat tulevat käytettäviksi.</string>
   <string name="data_consumption_title">Internetyhteys</string>
   <string name="decompress_cancel">Peruuta</string>

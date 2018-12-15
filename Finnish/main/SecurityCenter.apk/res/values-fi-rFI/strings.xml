@@ -1,14 +1,22 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <!-- 8.9.17 -->
+  <string name="card_main_deepclean_whatsapp_title">WhatsApp puhdistaja</string>
+  <string name="card_main_hwtest_title">Laitteistotesti</string>
+  <string name="device_manager_apply_step_1">Aktivoidaanko laitteen järjestelmänvalvoja tälle sovellukselle?</string>
+  <string name="device_manager_apply_step_2">"Aktivoimalla laitteen järjestelmänvalvoja tälle sovellukselle saattaa altistaa henkilökohtaiset tietosi.
+Kaikki laitteellasi olevat tiedot voidaan poistaa ja Lukitusnäytön salasanasi voidaan nollata."</string>
+  <string name="device_manager_apply_step_3">Varmista, että ymmärrät kaikki mahdolliset riskit ennen jatkamista. Aktivoidaanko laitteen järjestelmänvalvoja tälle sovellukselle nyt?</string>
+  <string name="first_aid_result_summary_not_finished">Tarkistusta ei suoritettu loppuun. Joitakin riskejä saattaa olla havaitsematta.</string>
+  <!-- // 8.9.17 // -->
   <!-- MIUI 10 valmis -->
-  
-     <string name="gb_msg_not_shielded_summary">Näytä</string>
-     <string name="gs_gamebox">Pelin sisäiset pikakuvakkeet</string>
-     <string name="gs_gamebox_detail">Näytä pelin sisäinen pikakuvakepaneeli</string>
-     <string name="midrop_post_notification_contentText">Kokeile Mi Drop:ia. Se on nopea ja ilman mainoksia.</string>
-     <string name="midrop_post_notification_contentTitle">Tarvitsetko tiedostojen siirtämistä?</string>
-     <string name="screenrecord_not_find">Asenna viimeisin versio Näytön Nauhoittajasta ja yritä uudelleen.</string>
-     <!-- MIUI 10 valmis -->
+  <string name="gb_msg_not_shielded_summary">Näytä</string>
+  <string name="gs_gamebox">Pelin sisäiset pikakuvakkeet</string>
+  <string name="gs_gamebox_detail">Näytä pelin sisäinen pikakuvakepaneeli</string>
+  <string name="midrop_post_notification_contentText">Kokeile Mi Drop:ia. Se on nopea ja ilman mainoksia.</string>
+  <string name="midrop_post_notification_contentTitle">Tarvitsetko tiedostojen siirtämistä?</string>
+  <string name="screenrecord_not_find">Asenna viimeisin versio Näytön Nauhoittajasta ja yritä uudelleen.</string>
+  <!-- MIUI 10 valmis -->
   <string name="Phonepass">Salli puhelut</string>
   <string name="SMS_and_MMS">Teksti- ja multimediaviestit</string>
   <string name="SMSpass">Salli tekstiviestit</string>
@@ -847,15 +855,10 @@ Jotta voit käyttää laitteesi kaikkia ominaisuuksia normaalisti, Äärimmäine
   <string name="first_aid_card_apn_title">Verkkoon ei voi yhdistää</string>
   <string name="first_aid_card_consume_power_button1">Rajoita</string>
   <string name="first_aid_card_consume_power_button2">Poista käytöstä</string>
-  <string name="first_aid_card_consume_power_button3">Poista käytöstä</string>
-  <string name="first_aid_card_consume_power_button4">Poista käytöstä</string>
   <string name="first_aid_card_consume_power_summary1">Enemmän kuin 5 sovellusta voi käynnistyä automaattisesti. Rajoita niitä säästääksesi virtaa.</string>
   <string name="first_aid_card_consume_power_summary2">Poista kannettava hotspot käytöstä säästääksesi virtaa</string>
-  <string name="first_aid_card_consume_power_summary3">Poista Bluetooth käytöstä säästääksesi virtaa</string>
-  <string name="first_aid_card_consume_power_summary4">Poista GPS käytöstä säästääksesi virtaa</string>
   <string name="first_aid_card_consume_power_title">Virrankäyttö</string>
   <string name="first_aid_card_float_window_button">Rajoita</string>
-  <string name="first_aid_card_float_window_summary">%s voi näkyä virheellisesti. Rajoita kelluvia ilmoituksia.</string>
   <string name="first_aid_card_float_window_title">Sallit kelluvia ilmoituksia</string>
   <string name="first_aid_card_kadun_button1">Vapauta tilaa</string>
   <string name="first_aid_card_kadun_button2">Rajoita</string>
@@ -881,7 +884,7 @@ Jotta voit käyttää laitteesi kaikkia ominaisuuksia normaalisti, Äärimmäine
   <string name="first_aid_item4_content">Akku</string>
   <string name="first_aid_item5_content">Muut ongelmat</string>
   <string name="first_aid_result_feedback_button">Lähetä</string>
-  <string name="first_aid_result_feedback_summary">En voi ratkaista laitteeni ongelmia.</string>
+  <string name="first_aid_result_feedback_summary">Ensiaputarkistus ei löytänyt yhtään ongelmaa. Minä kuitenkin huomasin joitakin.</string>
   <string name="first_aid_result_feedback_title">Palaute</string>
   <string name="first_aid_result_summary_normal">Kaikki näyttää hyvältä!</string>
   <string name="first_aid_scanning_item1">Tarkistetaan suorityskykyongelmia…</string>
@@ -1681,7 +1684,7 @@ Tämä toiminta vähentää akun kestoa."</string>
   <string name="power_center_repeat">Toista</string>
   <string name="power_center_scan_item_title_GPS">Säädä GPS:n tarkkuus</string>
   <string name="power_center_scan_item_title_abnormal">Akkuongelmia</string>
-  <string name="power_center_scan_item_title_abnormal_apps">Epänormaali virrankulutus sovelluksella</string>
+  <string name="power_center_scan_item_title_abnormal_apps">Virtaa kuluttavat sovellukset</string>
   <string name="power_center_scan_item_title_auto_invoke">Ketjukäynnistys</string>
   <string name="power_center_scan_item_title_auto_start">Automaattinen käynnistys</string>
   <string name="power_center_scan_item_title_battery_details">Akun käytön tiedot</string>
@@ -1827,7 +1830,7 @@ Tämä toiminta vähentää akun kestoa."</string>
   <string name="privacy_apps_manage_dialog_title">Tietoja piilotetuista sovelluksista</string>
   <string name="privacy_apps_manager_dialog_message">Tämän sovelluksen kuvaketta ei näytetä Aloitusnäytöllä piilotettuasi tämän sovelluksen. Piilotetaanko tämä sovellus nyt?</string>
   <string name="privacy_apps_tutorial">Oppitunti</string>
-  <string name="privacy_apps_tutorial_prompt_pageone">"Piilotettuasi sovelluksen, se siirretään piilotettuun kansioon. Sen Aloitusnäytön pikakuvake on piilotettu myös.
+  <string name="privacy_apps_tutorial_prompt_pageone">"Piilotettuasi sovelluksen, se siirretään piilotettuun kansioon. Sen Aloitusnäytön pikakuvake piilotetaan myös.
 Tätä ominaisuutta ei tueta järjestelmäsovelluksilla."</string>
   <string name="privacy_apps_tutorial_prompt_pagethree">Annettuasi salasanasi, piilotettujen sovelluksien kansio tulee esiin.</string>
   <string name="privacy_apps_tutorial_prompt_pagetwo">Levitä kahta sormea näytölläsi. Näet viestin, joka pyytää antamaan Sovelluslukon salasanasi.</string>
@@ -1862,7 +1865,7 @@ Kalibroinnin aikana, MIUI lähettää tekstiviestin operaattorillesi saadakseen 
   <string name="read_all_sms">Lue kaikki</string>
   <string name="receive_now">Vastaanota</string>
   <string name="recently_reject_message">Hylättiin %1$s asennus ja %2$d muuta sovellusta</string>
-  <string name="recently_reject_message_one">Hylättiin %1$s asennuspyyntöä</string>
+  <string name="recently_reject_message_one">Hylättiin %1$s asennuspyyntö</string>
   <string name="recommend_news">Vastaanota suosituksia</string>
   <string name="recommended">Kiinnostavat</string>
   <string name="reject_all">Rajoita kaikki</string>

@@ -1,5 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <!-- 8.9.17 -->
+  <string name="trans_cancel_dialog_survey_title">Miksi keskeytit siirron?</string>
+  <string name="trans_dialog_survey_finish">Lähetä</string>
+  <string name="trans_success_dialog_button_market_comment">Kommentoi</string>
+  <string name="trans_success_dialog_button_survey">Kysely</string>
+  <string name="trans_success_dialog_market_comment_and_survey_title">Olet valmis rokkaamaan! Kerro meille, mitä mieltä olet Mi Moverista.</string>
+  <string name="trans_success_dialog_survey_title">Arvostamme palautettasi</string>
+  <string name="trans_success_survey_hint">Täytä ensin kaikki kentät.</string>
+  <!-- // 8.9.17 // -->
   <!-- 8.6.28 -->
   <string name="err_acquire_system_service">Järjestelmäpalvelua ei voitu käynnistää.</string>
   <string name="trans_button_exit">Poistu</string>

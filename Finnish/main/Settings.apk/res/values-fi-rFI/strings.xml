@@ -1,5 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <!-- 8.9.17 -->
+  <string name="accessibility_summary_source">Provided by %s</string>
+  <string name="bootloader_device_bind_no_data_network">Poista Wi-Fi käytöstä ja lisää tilisi ja laitteesi käyttäen mobiilidataa.</string>
+  <string name="bootloader_device_bind_server_token_expired_1">Ei voitu vahvistaa. Yritä lisätä tilisi ja laitteesi uudelleen.</string>
+  <string name="bootloader_device_bind_server_token_expired_2">Ei voitu vahvistaa. Kirjaudu tiliisi uudelleen ja aloita alusta.</string>
+  <string name="credentials_title_verification">Vahvistaminen</string>
+  <string name="mipush_fake_channel_group_name">Mi Push</string>
   <!-- MIUI 10 valmis -->
   
   <string name="miui_lab_drive_mode_desc">Käytä ääniohjausta &amp; kuuntele WeChat viestejä</string>
@@ -973,8 +980,9 @@ Siirtonopeus"</string>
   <string name="bootloader_locked_answer_1">Lukitsemme laitteet varmistaaksemme, että ne on ovat turvassa ja ettei henkilökohtaiset tietosi jaeta kolmansille osapuolille. Jos sinun täytyy päästä Fastboot tilaan ja asentaa laitteesi, voit avata lukon.</string>
   <string name="bootloader_locked_answer_1_warning">Muista: Et voi käyttää \"Etsi laite\" ominaisuutta puhelimen lukituksen avaamisen jälkeen.</string>
   <string name="bootloader_locked_answer_2">"1. Varmista, että olet asettanut jo SIM-kortin laitteeseesi.
-2. Napauta alapuolelta \"Lisää tili\" liittääksesi Mi Tilisi laitteen kanssa.
-3. Lataa lukituksen poistotyökalu verkkosivuiltamme. Huomaa, että sinun täytyy poistaa laitteiden lukitus tietokoneella. Lataa täältä:"</string>
+2. Poista Wi-Fi käytöstä ja ota mobiilidata käyttöön. Varmista, että laitteesi voi yhdistää internetiin käyttäen mobiilidataa.
+3. Napauta alapuolelta \"Lisää tili\" liittääksesi Mi Tilisi laitteen kanssa.
+4. Lataa lukituksen poistotyökalu verkkosivuiltamme. Huomaa, että sinun täytyy poistaa laitteiden lukitus tietokoneella. Lataa täältä:"</string>
   <string name="bootloader_locked_answer_2_no_sim">"1. Napauta alapuolelta \"Lisää tili\" liittääksesi Mi Tilisi laitteen kanssa.
 2. Lataa lukituksen poistotyökalu verkkosivuiltamme. Huomaa, että sinun täytyy poistaa laitteiden lukitus tietokoneella. Lataa täältä:"</string>
   <string name="bootloader_locked_check_status">Lisää tili ja laite</string>
@@ -1895,8 +1903,8 @@ Saat lisätietoja organisaatiosi järjestelmänvalvojalta."</string>
   <string name="factory_reset_summary">Poista kaikki tiedot laitteen sisäiseltä tallennustilalta</string>
   <string name="failed_to_check_find_device_status_content">Etsi laite tilaa ei voitu tarkistaa. Odota minuutti tai kaksi ja yritä uudelleen.</string>
   <string name="failed_to_check_find_device_status_title">Tilaa ei voitu tarkistaa</string>
-  <string name="failed_to_erase_text">Poista lukitusnäytön salasana käytöstä ennen 1217 toiminnon suorittamista.</string>
-  <string name="failed_to_erase_title">Kielletty toiminta</string>
+  <string name="failed_to_erase_text">Poista Lukitusnäytön salasana käytöstä ennen \"1217\" -koodin antamista.</string>
+  <string name="failed_to_erase_title">Tätä toimintoa ei voitu suorittaa</string>
   <string name="failed_to_open_app_settings_toast">Sovelluksen %1$s asetuksia ei voi avata</string>
   <string name="failed_to_shut_down_find_device_content">Etsi laite -toimintoa ei voitu poistaa käytöstä. Odota minuutti tai kaksi ja yritä uudelleen.</string>
   <string name="failed_to_shut_down_find_device_title">Ei voitu poistaa käytöstä</string>
@@ -2962,7 +2970,7 @@ Valitse käyttöjärjestelmäsi:"</string>
   <string name="navigation_guide_app_summary">Pyyhkäise näytön yläosan reunalta vasemmalle tai oikealle</string>
   <string name="navigation_guide_app_title">Käynnistä sovelluksen toiminto</string>
   <string name="navigation_guide_appswitch_anim_summary">Pyyhkäise näytön poikki aloittamalla reunasta palataksesi takaisin edelliseen sovellukseen</string>
-  <string name="navigation_guide_appswitch_anim_title">Vaihda edelliseen sovellukseen</string>
+  <string name="navigation_guide_appswitch_anim_title">Siirry takaisin edelliseen sovellukseen</string>
   <string name="navigation_guide_appswitch_click">Ota käyttöön ensin \"Palaa takaisin edelliseen sovellukseen\"</string>
   <string name="navigation_guide_back_summary">Pyyhkäise näytön reunaa vasemmalle tai oikealle</string>
   <string name="navigation_guide_back_title">Siirry takaisin</string>
@@ -4088,8 +4096,8 @@ Näytön kiinnittäminen:
   <string name="search_screenshot">Kuvakaappaus</string>
   <string name="search_second_space">Toinen tila;Kaksi tilaa;2 tilaa;Piilota sovelluksia;Piilota tiedostoja;Piilota kuvia;Lukitusnäyttö;Lukitusnäytön salasana;Yksityisyys;Yksityisyystila;Yksityinen tila;Yksityinen;Vierastila;Vieras istunto;Vieras käyttö;Vierastili;Vieras</string>
   <string name="search_security_encryption_title">Salaa laite käyttämällä lukitusnäytön salasanaa;Salaa;Salaus;Salaa laite;Salaa puhelin</string>
-  <string name="security_input">Tietoturvasyöttö</string>
-  <string name="security_input_hint">Käytetään tietoturvasyöttöä anna salasana</string>
+  <string name="security_input">Turvallinen näppäimistö</string>
+  <string name="security_input_hint">Käytä turvallista näppäimistöä antaessasi salasanoja</string>
   <string name="search_security_passwords_title">Salasana;Näytön lukitus;PIN;Kuvio</string>
   <string name="search_security_privacy_settings_title">Yksityisyys;Tietoturva;Tuntemattomat lähteet;Näytä salasana;Sovelluksen allekirjoitus;Sovelluksien allekirjoitukset;Tyhjennä käyttöoikeustiedot;Tyhjennä käyttöoikeus</string>
   <string name="search_security_settings">Yksityisyysasetukset;Tietoturva;Yksityisyys</string>
@@ -4522,7 +4530,7 @@ Laitteeseesi asennettu luotettu varmenne tekee tämän mahdolliseksi."</string>
   <string name="status_bar_settings_basic_settings">Asetukset</string>
   <string name="status_bar_settings_custom_carrier">Muokkaa operaattorin nimeä</string>
   <string name="status_bar_settings_custom_wifi_name">Muokkaa Wi-Fi nimeä</string>
-  <string name="status_bar_settings_customer_feedback">palaute</string>
+  <string name="status_bar_settings_customer_feedback">Palaute</string>
   <string name="status_bar_settings_enable_notification">Näytä ilmoitukset</string>
   <string name="status_bar_settings_expand_top_notification">Laajenna ylin ilmoitus</string>
   <string name="status_bar_settings_expandable_under_keyguard">Näytä Lukitusnäytöllä</string>

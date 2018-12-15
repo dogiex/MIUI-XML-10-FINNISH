@@ -312,7 +312,7 @@
      <string name="face_unlock_offset_top">Nosta puhelintasi hieman</string>
      <string name="face_unlock_open_eye">Avaa silmäsi leveämmäksi</string>
      <string name="face_unlock_passwork">Käytä salasanaa</string>
-     <string name="face_unlock_passwork_and_fingerprint">Käytä salasanaa tai kasvojen tietoja</string>
+     <string name="face_unlock_passwork_and_fingerprint">Käytä salasanaa tai sormenjälkeä</string>
      <string name="face_unlock_quality">Kasvojasi ei nähty kunnolla</string>
      <string name="face_unlock_reenter_content">Kasvojentunnistusalgoritmia päivitetään. Tallenna kasvojen tiedot uudelleen napauttamalla.</string>
      <string name="face_unlock_reenter_title">Tallenna kasvojesi tiedot uudelleen.</string>
@@ -321,6 +321,7 @@
      <string name="face_unlock_rise">Laske päätäsi</string>
      <string name="face_unlock_rotated_left">Käännä päätäsi oikealle</string>
      <string name="face_unlock_rotated_right">Käännä päätäsi vasemmalle</string>
+     <string name="face_unlock_sc_status">Paina näyttöä alaspäin avataksesi kameran</string>
      <string name="face_unlock_stay_away_screen">Pysy 25-40 cm etäisyydellä näytöstä</string>
      <string name="fingerprint_add_text">Sormenjälkikäyttöliittymä päivitettiin. Lisää sormenjälkesi uudelleen.</string>
      <string name="fingerprint_add_title">Lisää sormenjälki</string>
@@ -403,7 +404,7 @@ prioriteetti"</string>
      <string name="keyguard_accessibility_sim_puk_area">SIM-koodin PUK-koodin alue</string>
      <string name="keyguard_carrier_default">Ei palvelua</string>
      <string name="keyguard_charged">Ladattu</string>
-     <string name="keyguard_charging_back_to_lockscreen">Takaisin lukitusnäytölle</string>
+     <string name="keyguard_charging_back_to_lockscreen">Takaisin Lukitusnäytölle</string>
      <string name="keyguard_charging_info_battery_used_time_text">Akkukäytöllä</string>
      <string name="keyguard_charging_info_click_to_detail">Näytä tiedot</string>
      <string name="keyguard_charging_info_drained_power_percent_text">Kuluttanut</string>
@@ -810,7 +811,7 @@ valvoa"</string>
      <string name="status_bar_clock_date_format">"EEEE d. MMMM'ta'"</string>
      <string name="status_bar_clock_date_format_12">"EEEE d. MMMM'ta'"</string>
      <string name="status_bar_clock_date_time_format">"H:mm d.  MMMM'ta'"</string>
-     <string name="status_bar_clock_date_time_format_12">"aah:mm d. MMMM'ta'"</string>
+     <string name="status_bar_clock_date_time_format_12">"h:mmaa d. MMMM'ta'"</string>
      <string name="status_bar_date_format">"EEEE
 d. MMMM'ta'"</string>
   <string name="status_bar_date_format_12">"EEEE
@@ -1761,7 +1762,6 @@ Pyyhkäise alas lukitaksesi"</string>
   <string name="usb_debugging_title">Sallitaanko USB-virheenkorjaus?</string>
   <string name="usb_device_confirm_prompt">Avataanko %1$s, kun tämä USB-laite on yhdistettynä?</string>
   <string name="usb_device_permission_prompt">Sallitaanko %1$s sovellukselle pääsy USB-laitteelle?</string>
-  <string name="usb_function_charging_text">Yhdistetty lataus-tilassa</string>
   <string name="usb_mode_dont_ask">Muista tämä valinta</string>
   <string name="usb_mode_mount_storage_title">Avataanko USB-muisti?</string>
   <string name="usb_mode_notification">USB-muisti</string>

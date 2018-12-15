@@ -46,6 +46,8 @@ tämä ominaisuus lisätään Toiseen tilaan automaattisesti."</string>
   <string name="confirmDelete">Poista</string>
   <string name="confirmSecondSpacePassword">Vahvista Toisen tilan salasana</string>
   <string name="confirm_airspace_password">Vahvista Työtilan salasana</string>
+  <string name="confirm_close_password_desc">Et voi siirtyä Toiseen tilaan Lukitusnäytöltä jos poistat salasanan käytöstä. Poistetaanko siitä huolimatta?</string>
+  <string name="confirm_close_password_title">Poistetaan salasana käytöstä</string>
   <string name="confirm_main_space_password">Vahvista Ensimmäisen tilan salasana</string>
   <string name="confirm_restore">Älä näytä</string>
   <string name="contactData">Yhteystiedot</string>

@@ -1,5 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <!-- 8.9.17 -->
+  <string name="conference_call_disable_tip">Puheluita ei voi soittaa. Varmista, että laitteesi on yhdistettynä 4G-verkkoon, joka tukee VoLTE:a.</string>
+  <!-- // 8.9.17 // -->
   <!-- miui 10 valmis -->
   <string name="contact_detail_entry_pay_request">Pyydä rahaa</string>
   <!-- miui 10 valmis -->
@@ -58,7 +61,6 @@
   <string name="btn_split_contact">Erota</string>
   <string name="button_cancel_scan">Lopeta</string>
   <string name="button_join_service_number">Liity Palvelunumeroon</string>
-  <string name="button_my_center">Minun Keskus</string>
   <string name="button_scan">Skannaa uudelleen</string>
   <string name="caching_vcard_message">Lisätään vCard-tietojen välimuistiversiot paikalliseen väliaikaistallennustilaan. Tuonti alkaa pian.</string>
   <string name="caching_vcard_title">Vie välimuistiin</string>
@@ -489,7 +491,6 @@ Syy: %s"</string>
   <string name="firewall_setting">Estolista</string>
   <string name="force_touch_miprofile">Yhteyskortti</string>
   <string name="force_touch_new_contact">Uusi yhteystieto</string>
-  <string name="foundTooManyContacts">Löytyi yli %d yhteystietoa.</string>
   <string name="frequentList">Usein käytetyt</string>
   <string name="full_name">Nimi</string>
   <string name="gallery">Galleria</string>
@@ -605,7 +606,6 @@ Odota…"</string>
   <string name="lunarBirthdayLabelsGroup">Lunar birthday</string>
   <string name="lunar_calendar">农历</string>
   <string name="lunar_leap">闰</string>
-  <string name="lunar_yue">月</string>
   <string name="make_primary">Muista tämä valinta</string>
   <string name="map_custom">Näytä osoite %s</string>
   <string name="map_home">Näytä kotiosoite</string>
@@ -666,7 +666,6 @@ Odota…"</string>
   <string name="menu_splitAggregate">Poista linkitys</string>
   <string name="menu_sync_remove">Poista synkronointiryhmä</string>
   <string name="menu_viewContact">Näytä yhteystieto</string>
-  <string name="merge_contact_message">%1$d yhteystietoa, joilla osittain samoja tietoja</string>
   <string name="messageShortcutActivityTitle">Valitse vastaanottajan numero</string>
   <string name="miprofile_account_type">Käyntikortit</string>
   <string name="miprofile_alertdialog_edit">Syötä nimi</string>
@@ -1027,8 +1026,6 @@ Kosketa tähteä yhteystiedon nimen vieressä
   <string name="search_wipe_data">Järjestä;Yhteystiedot</string>
   <string name="searching_vcard_message">Etsitään vCardin tietoja SD-kortilta…</string>
   <string name="select_all">Valitse kaikki</string>
-  <string name="select_all_exceed">Voit valita enintään %1$d, kaikkia ei voi valita</string>
-  <string name="select_exceed">Voit valita enintään %1$d</string>
   <string name="select_groups">Valitse ryhmät</string>
   <string name="select_none">Kohteita ei valittu</string>
   <string name="select_show_contacts">Yhteystietoluettelo</string>

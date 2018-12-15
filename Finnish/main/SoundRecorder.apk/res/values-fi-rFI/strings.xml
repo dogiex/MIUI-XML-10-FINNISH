@@ -1,7 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="alert_message_clear_records">Poistetaanko valitut nauhoitukset?</string>
-  <string name="alert_message_delete_record">Poistetaanko valitut nauhoitukset?</string>
+  <string name="alert_message_delete_local_record">Poistetaanko tämä nauhoitus?</string>
+  <string name="alert_message_delete_record">Poistamalla nauhoituksen laitteeltasi se poistetaan myös Mi Pilvestä. Poistetaanko nyt?</string>
   <string name="alert_message_delete_record_title">Poistetaanko nauhoitus?</string>
   <string name="app_name">Ääninauhuri</string>
   <string name="back">Takaisin</string>

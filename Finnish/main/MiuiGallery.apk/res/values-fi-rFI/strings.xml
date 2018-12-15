@@ -1,5 +1,41 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <!-- 8.9.17 -->
+  <string name="added_to_favorites_desc">Added to favorites</string>
+  <string name="card_delete_description">Tätä tarinaa ei enää näytetä. Poistetaanko siitä huolimatta?</string>
+  <string name="card_delete_negative_text">Peruuta</string>
+  <string name="card_delete_positive_text">Poista</string>
+  <string name="card_delete_title">Poista tarina</string>
+  <string name="card_title_annual_selection">Vuosittainen kertaus</string>
+  <string name="card_title_from_to">%1$s - %2$s</string>
+  <string name="card_title_last2years_someone">BFFs</string>
+  <string name="card_title_last_week_end">Viime viikonloppuna</string>
+  <string name="card_title_last_year_today">Tämä päivä viime vuonna</string>
+  <string name="card_title_lastweek_meet">Yhdessä</string>
+  <string name="card_title_one_day">Unohtumaton päivä</string>
+  <string name="card_title_past_year_today">Tämä päivä vuosien varrella</string>
+  <string name="card_title_period_last_month">Viime kuukauden kertaus</string>
+  <string name="card_title_period_last_week">Viime viikon kertaus</string>
+  <string name="card_title_period_six_month">Viime puoli vuotta</string>
+  <string name="card_title_period_three_month">Viime kolme kuukautta</string>
+  <string name="card_title_recent_place">%1$s viimeaikoine</string>
+  <string name="card_title_someone">Ystävyys</string>
+  <string name="card_title_somewhere">%1$s</string>
+  <string name="empty_title_no_cards">Tarinasi näytetään täällä.</string>
+  <string name="more">Lisää</string>
+  <string name="operation_favorites">Suosikit</string>
+  <string name="removed_from_favorites_desc">Poistettiin suosikeista</string>
+  <string name="rename_dialog_hint">Anna otsikko</string>
+  <string name="rename_dialog_title">Nimeä tarina uudelleen</string>
+  <string name="story_action_remove">Poista tarinoista</string>
+  <string name="story_action_share">Jaa</string>
+  <string name="story_option_menu_rename">Nimeä uudelleen</string>
+  <string name="story_remove_confirm_message">Poistetut kuvat ei näy tässä tarinassa uudelleen. Löydät ne silti Galleriasta.</string>
+  <string name="story_remove_confirm_positive">Poista</string>
+  <string name="story_remove_confirm_title">Poistetaan kuvia</string>
+  <string name="story_rename_invalid_char">\"%s\" ei voi käyttää tarinan otsikkona. Käytä kirjaimia, numeroita tai Kiinalaisia kirjaimia.</string>
+  <string name="story_rename_invalid_prefix">Tarinoiden otsikoita ei voi aloittaa \".\" tai \"_\" symboleilla</string>
+  <!-- // 8.9.17 // -->
   <!-- miui 10 valmis -->
   <string name="ai_album_open_switch_button_title">Aloita kuvien analysointi</string>
   <string name="ai_album_requesting_title">AI-algoritmi käsittelee vielä kuviasi. Tule takaisin hetken kuluttua.</string>
@@ -138,7 +174,7 @@
   <string name="app_name_view_video">Katso videoita</string>
   <string name="application_icon">Sovelluskuvake</string>
   <string name="apply">Aseta</string>
-  <string name="assistant_page_label">Avustaja</string>
+  <string name="assistant_page_label">Tarinat</string>
   <string name="associate_face_album">Valitse albumi</string>
   <string name="auto_backup_introduce">Varmuuskopioi kuvat ja videot automaattisesti (Mi Tili vaaditaan)</string>
   <string name="auto_download_media_title">Lataa kuvat Mi Pilvestä automaattisesti</string>
@@ -641,7 +677,7 @@
   <string name="cleaner_screen_shot_action">Tyhjennä</string>
   <string name="cleaner_screen_shot_description">Poista kuvakaappaukset, joita et enää tarvitse.</string>
   <string name="cleaner_screen_shot_title">Poista kuvakaappauksia</string>
-  <string name="cleaner_slim_action">Aloitetaan optimointi…</string>
+  <string name="cleaner_slim_action">Aloita optimointi</string>
   <string name="cleaner_slim_description">Säilytä optimoidut kuvat laitteellasi. Alkuperäiset tiedotot säilytetään Mi Pilvessä.</string>
   <string name="cleaner_slim_start">Optimoi</string>
   <string name="cleaner_slim_title">Optimoi kuvat</string>

@@ -365,6 +365,10 @@ Jos otat mobiilidatan uudelleen käyttöön, operaattorisi saattaa veloittaa sin
         <item quantity="other">%d sovellusta on piilotettu</item>
         <item quantity="one">%d sovellus on piilotettu</item>
     </plurals>
+    <plurals name="first_aid_card_float_window_summary">
+        <item quantity="other">%d sovellusta saattaa näkyä väärin. Rajoita kelluvia ilmoituksia.</item>
+        <item quantity="one">%d sovellus saattaa näkyä väärin. Rajoita kelluvia ilmoituksia.</item>
+    </plurals>
     <plurals name="first_aid_result_summary_exception">
         <item quantity="other">%1$d ongelmaa vaatii optimointia</item>
         <item quantity="one">%1$d ongelma vaatii optimointia</item>

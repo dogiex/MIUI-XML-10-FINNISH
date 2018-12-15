@@ -23,7 +23,7 @@
 	<string-array name="thermal_summaries">
         <item>Priorisoi lämpötilan säätö</item>
         <item>Priorisoi suorituskyky</item>
-        <item>Määritys poistettu käytöstä äärimmäisessä virransäästötilassa</item>
+        <item>Ei toimi Äärimmäisessä tilassa</item>
     </string-array>
     <string-array name="power_mode_entries">
         <item>Suorituskyky</item>

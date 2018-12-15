@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="about_extreme_mode">Äärimmäinen virransäästö</string>
+  <string name="about_extreme_mode">Äärimmäinen tila</string>
   <string name="about_hide_mode">Tietoja Virransäästöstä</string>
   <string name="active_classify">Lajittele aktiivisuustilan mukaan</string>
   <string name="app_list_title">Valitse sovellukset</string>
@@ -32,7 +32,7 @@ Virransäästö kohtelee tärkeitä sovelluksia valikoivasti."</string>
   <string name="empty_title_apps_container_list">Ei sovelluksia</string>
   <string name="enable_sleep_mode">Ota Lepotila käyttöön optimoidaksesi akun käyttöä yöllä</string>
   <string name="error_filename_too_long">Syöttämäsi tiedostonimi on liian pitkä.</string>
-  <string name="extreme_mode_max_item_alert">Vain 4 sovellusta voidaan valita olemaan käynnissä taustalla äärimmäisen virransäästötilan ollessa käynnissä</string>
+  <string name="extreme_mode_max_item_alert">Voit valita enintään neljä sovellusta olemaan käynnissä taustalla Äärimmäisessä tilassa</string>
   <string name="extreme_power_config_mode_category">Äärimmäinen tila</string>
   <string name="extreme_power_config_mode_desc">Siirry Äärimmäiseen tilaan poistaaksesi seuraavat ominaisuudet käytöstä: synkronointi, bluetooth, GPS, NFC, tuplanapautus, painikkeiden valot, Lukitusnäytön herättäminen ilmoituksista ja myös ilmoitusvalot. MIUI keskittyy virransäästöön.</string>
   <string name="extreme_power_config_mode_title">Äärimmäinen tila</string>
@@ -43,7 +43,7 @@ Virransäästö kohtelee tärkeitä sovelluksia valikoivasti."</string>
   <string name="important_warning">Huomio</string>
   <string name="lasttime_applist_cloud">Päivitetyt sovellukset：</string>
   <string name="lasttime_feature_cloud">Päivitetyt ominaisuudet:</string>
-  <string name="message_i_know">Tiedän</string>
+  <string name="message_i_know">Selvä</string>
   <string name="nonui_mode_config_description">Älä valaise näyttöä ilmoituksista, poista LED-valo, sormenjälkitunnistin ja kosketukset käytöstä, kun MIUI havaitsee että et käytä laitettasi.</string>
   <string name="nonui_mode_config_title">Ei-interaktiivinen tila</string>
   <string name="performance_category">Suorituskyky</string>

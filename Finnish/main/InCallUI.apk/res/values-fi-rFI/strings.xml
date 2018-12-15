@@ -107,6 +107,7 @@
   <string name="description_image_button_two">kaksi</string>
   <string name="description_image_button_video_answer">Videopuhelu</string>
   <string name="description_image_button_zero">nolla</string>
+  <string name="description_message_list_title">Luettelo pikavastauksista</string>
   <string name="description_target_answer">Vastaa</string>
   <string name="dialog_activate_livetalk">Varmistetaan numero</string>
   <string name="dialog_call_ordinary_telephone">Normaali puhelu</string>
