@@ -516,7 +516,7 @@ lähetettyä linkkiä."</string>
   <string name="tencent">Tencent</string>
   <string name="tencent_shortcut_name">蜗牛有爱情</string>
   <string name="to_be_play_label_v5">"Seuraavaksi: "</string>
-  <string name="toast_back_key_pressed_notice">Poistuaksesi, napauta Takaisin uudelleen</string>
+  <string name="toast_back_key_pressed_notice">Poistuaksesi, napauta Takaisin -painiketta uudelleen</string>
   <string name="toast_message_continue_play_from">Toista kohdasta </string>
   <string name="toast_message_continue_play_hour">t </string>
   <string name="toast_message_continue_play_minute">min </string>
