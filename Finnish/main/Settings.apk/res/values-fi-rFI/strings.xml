@@ -3303,7 +3303,7 @@ Valitse käyttöjärjestelmäsi:"</string>
   <string name="paper_mode_end_time_title">Poista käytöstä</string>
   <string name="paper_mode_get_location_dlg_msg">Pääsy sijaintitietoihisi vaaditaan, jotta voidaan laskea tarkka aika auringonnoususta- ja laskusta?</string>
   <string name="paper_mode_get_location_dlg_negative_btn_text">Peruuta</string>
-  <string name="paper_mode_get_location_dlg_positive_btn_text">Mene Asetuksiin</string>
+  <string name="paper_mode_get_location_dlg_positive_btn_text">Siirry Asetuksiin</string>
   <string name="paper_mode_get_location_dlg_title">Aseta sijainti</string>
   <string name="paper_mode_start_time_title">Ota käyttöön</string>
   <string name="passpoint_content">Kohteen %1$s kirjautumistiedot</string>

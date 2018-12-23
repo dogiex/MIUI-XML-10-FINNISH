@@ -1597,7 +1597,7 @@ mukauttaaksesi Galleriasi"</string>
   <string name="to_count">%d yhteensä</string>
   <string name="to_enable_gallery_sync_dialog_message">Ota Gallerian synkronointi ensin käyttöön</string>
   <string name="to_enable_sync_dialog_message">Ota synkronointi ensin käyttöön</string>
-  <string name="to_enable_sync_dialog_positive_button_text">Mene Asetuksiin</string>
+  <string name="to_enable_sync_dialog_positive_button_text">Siirry Asetuksiin</string>
   <string name="to_enable_sync_dialog_title">Synkronointi</string>
   <string name="today">Tänään</string>
   <string name="too_many_recipients">Voit lisätä enintään %2$s vastaanottajaa (Tällä hetkellä lisätyt %1$s).</string>

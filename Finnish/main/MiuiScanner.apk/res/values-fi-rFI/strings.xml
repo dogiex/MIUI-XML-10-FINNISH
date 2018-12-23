@@ -153,7 +153,7 @@
   <string name="error_invalid_request">Tunnistusvirhe</string>
   <string name="error_media_storage_failure">Kuvaa ei voitu tallentaa</string>
   <string name="error_minute_limit">Liian monta yrityskertaa yhden minuutin aikana</string>
-  <string name="error_permissions">Lukijalla ei ole tarvittavia käyttöoikeuksia toimiakseen normaalisti. Mene Asetuksiin ja tarkasta käyttöoikeudet jatkaaksesi.</string>
+  <string name="error_permissions">Lukijalla ei ole tarvittavia käyttöoikeuksia toimiakseen normaalisti. Siirry Asetuksiin ja tarkasta käyttöoikeudet jatkaaksesi.</string>
   <string name="error_server_error">Palvelinvirhe</string>
   <string name="feed_search_fail">Ei tuloksia, yritä uudelleen</string>
   <string name="feedback_description_camera_access">Lukija ei saa yhteyttä Kameraan</string>

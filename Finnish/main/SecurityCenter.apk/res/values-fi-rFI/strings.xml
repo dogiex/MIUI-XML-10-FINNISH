@@ -458,7 +458,7 @@ Kaikki laitteellasi olevat tiedot voidaan poistaa ja Lukitusnäytön salasanasi 
   <string name="btn_stop_diagnostic">Lopeta</string>
   <string name="btn_text_already_opened">Päällä</string>
   <string name="btn_text_goto_power_rank">Näytä akun tilasto</string>
-  <string name="btn_text_goto_setup">Mene Asetuksiin</string>
+  <string name="btn_text_goto_setup">Siirry Asetuksiin</string>
   <string name="btn_text_network_speed_detail">Yhteys</string>
   <string name="btn_text_open_now">Ota käyttöön</string>
   <string name="btn_text_optimize_extend_battery_time">Lisää %s</string>

@@ -1323,9 +1323,9 @@ Selaimen täytyy yhdistää internetiin toimiakseen normaalisti. Sinun täytyy h
   <string name="voice_connect_network">Verkkoyhteyttä ei voitu muodostaa.</string>
   <string name="voice_description">Äänihaku</string>
   <string name="voice_network_connection">Äänihaku tarvitsee internetyhteyden toimiakseen normaalisti.</string>
-  <string name="voice_open_permission_baidu">Mene Asetuksiin ja anna Puhetunnistuksen Asetuksille äänen käyttöoikeus</string>
-  <string name="voice_open_permission_xiaoai">Mene Asetuksiin ja anna Xiaoai Äänimoottorille äänen käyttöoikeus</string>
-  <string name="voice_open_permission_xunfei">Mene Asetuksiin ja anna Ääniasetuksille äänen käyttöoikeus</string>
+  <string name="voice_open_permission_baidu">Siirry Asetuksiin ja anna Puhetunnistuksen Asetuksille äänen käyttöoikeus</string>
+  <string name="voice_open_permission_xiaoai">Siirry Asetuksiin ja anna Xiaoai Äänimoottorille äänen käyttöoikeus</string>
+  <string name="voice_open_permission_xunfei">Siirry Asetuksiin ja anna Ääniasetuksille äänen käyttöoikeus</string>
   <string name="voice_search_permission">Äänihaku tarvitsee käyttää mikrofoniasi toimiakseen normaalisti.</string>
   <string name="voice_semantic_analysis">Selain pystyy analysoimaan semantiikan, kun olet sallinut sen yhdistää.</string>
   <string name="voice_start_description">Aloita</string>
