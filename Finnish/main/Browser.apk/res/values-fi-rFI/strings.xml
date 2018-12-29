@@ -45,7 +45,7 @@
     <string name="action_menu_text_fullscreen">Koko näyttö</string>
     <string name="action_menu_text_fullscreen_enter">Siirry kokonäytölle</string>
     <string name="action_menu_text_fullscreen_exit">Poistu kokonäytöltä</string>
-    <string name="action_menu_text_history">Kirjanmerkit & Historia</string>
+    <string name="action_menu_text_history">Kirjanmerkit &amp; Historia</string>
     <string name="action_menu_text_nightmode">Yötila</string>
     <string name="action_menu_text_nightmode_off">Yötila</string>
     <string name="action_menu_text_nightmode_on">Yötila</string>
@@ -356,7 +356,7 @@ katsoaksesi avoimia välilehtiä muilta laitteilta."</string>
     <string name="firstUsingSearchEngineTips">Vaihdetaanko hakukonetta?</string>
     <string name="fling_on_border_gesture_hint">Voit valita tälle eleelle toiminnon Asetuksista</string>
     <string name="force_quick_search_title">Hae</string>
-    <string name="force_touch_bookmark_history_title">Kirjanmerkit & historia</string>
+    <string name="force_touch_bookmark_history_title">Kirjanmerkit &amp; historia</string>
     <string name="force_touch_infoflow_title">Uutiset</string>
     <string name="forward_description">Eteenpäin</string>
     <string name="geolocation_permissions_prompt_dont_share">Hylkää</string>
@@ -401,7 +401,6 @@ katsoaksesi avoimia välilehtiä muilta laitteilta."</string>
     <string name="hint">Vihje</string>
     <string name="history">Historia</string>
     <string name="home_description">Koti</string>
-    <string name="homepage_base">https://www.google.com/webhp?client={CID}&source=android-home</string>
     <string name="homepage_delete_card_menu">Poista</string>
     <string name="homepage_get_location">Hae sijainti</string>
     <string name="homepage_get_location_failed">Tietoja ei saatu, valitse kaupunki</string>
@@ -619,7 +618,7 @@ Are you sure you want to navigate away from this page?"</string>
     <string name="mw_miuichromium_error_page_btn_close">Close</string>
     <string name="mw_miuichromium_error_page_btn_refresh">Refresh</string>
     <string name="mw_miuichromium_error_page_btn_report_issue">Report issue</string>
-    <string name="mw_miuichromium_error_page_description_no_connection">Verkkoyhteyttä ei voitu muodostaa heikon signaalin tai virheellisen verkon määrityksen takia. Tarkista %s1verkkoasetukset%s2 ja yritä uudelleen.</string>
+    <string name="mw_miuichromium_error_page_description_no_connection" formatted="false">Verkkoyhteyttä ei voitu muodostaa heikon signaalin tai virheellisen verkon määrityksen takia. Tarkista %s1verkkoasetukset%s2 ja yritä uudelleen.</string>
     <string name="mw_miuichromium_error_page_diagnose">Network diagnostics</string>
     <string name="mw_miuichromium_error_page_diagnose_banner">Network diagnostics</string>
     <string name="mw_miuichromium_error_page_diagnose_certificate">"Couldn't verify network protocol"</string>
@@ -674,11 +673,11 @@ Are you sure you want to navigate away from this page?"</string>
     <string name="mw_miuichromium_error_page_server_error">Too many devices are trying to connect</string>
     <string name="mw_miuichromium_error_page_suggestion_check_app_proxy">Check the settings of the proxy apps installed on your device.</string>
     <string name="mw_miuichromium_error_page_suggestion_check_connetion">Check your Internet connection.</string>
-    <string name="mw_miuichromium_error_page_suggestion_check_mobile_proxy">(Mobiilidata) Nollaa %s1APN-asetuksesi%s2.</string>
+    <string name="mw_miuichromium_error_page_suggestion_check_mobile_proxy" formatted="false">(Mobiilidata) Nollaa %s1APN-asetuksesi%s2.</string>
     <string name="mw_miuichromium_error_page_suggestion_check_url">"Check the URL you've entered."</string>
-    <string name="mw_miuichromium_error_page_suggestion_check_wifi_proxy">(Wi-Fi) Tarkista %s1välityspalvelimen asetuksesi%s2.</string>
-    <string name="mw_miuichromium_error_page_suggestion_clear_cache">Tyhjennä välimuisti (%s1Asetukset%s2 - Tyhjennä välimuisti).</string>
-    <string name="mw_miuichromium_error_page_suggestion_clear_cache_and_cookies">Tyhjennä välimuisti ja evästeet (%s1Asetukset%s2 - Tyhjennä tiedot, tilitietosi saattaa hävitä).</string>
+    <string name="mw_miuichromium_error_page_suggestion_check_wifi_proxy" formatted="false">(Wi-Fi) Tarkista %s1välityspalvelimen asetuksesi%s2.</string>
+    <string name="mw_miuichromium_error_page_suggestion_clear_cache" formatted="false">Tyhjennä välimuisti (%s1Asetukset%s2 - Tyhjennä välimuisti).</string>
+    <string name="mw_miuichromium_error_page_suggestion_clear_cache_and_cookies" formatted="false">Tyhjennä välimuisti ja evästeet (%s1Asetukset%s2 - Tyhjennä tiedot, tilitietosi saattaa hävitä).</string>
     <string name="mw_miuichromium_error_page_suggestion_clear_cache_and_cookies_no_invoke">Clear cache and cookies (your account info may be lost).</string>
     <string name="mw_miuichromium_error_page_suggestion_clear_cache_no_invoke">Clear cache.</string>
     <string name="mw_miuichromium_error_page_suggestion_connect_and_retry">Reload after connecting to the internet</string>
@@ -712,17 +711,17 @@ Are you sure you want to navigate away from this page?"</string>
     <string name="mw_mr_user_route_category_name">Devices</string>
     <string name="mw_new_tab_otr_not_saved">"Chrome <em>won’t save</em> the following information:
         <ul>
-          <li>Your browsing history
-          <li>Cookies and site data
-          <li>Information entered in forms
+          <li>Your browsing history</li>
+          <li>Cookies and site data</li>
+          <li>Information entered in forms</li>
         </ul>"</string>
     <string name="mw_new_tab_otr_subtitle">Now you can browse privately, and other people who use this device won’t see your activity. However, downloads and bookmarks will be saved.</string>
     <string name="mw_new_tab_otr_title">You’ve gone incognito</string>
     <string name="mw_new_tab_otr_visible">"Your activity <em>might still be visible</em> to:
         <ul>
-          <li>Websites you visit
-          <li>Your employer or school
-          <li>Your internet service provider
+          <li>Websites you visit</li>
+          <li>Your employer or school</li>
+          <li>Your internet service provider</li>
         </ul>"</string>
     <string name="mw_no_matches">No matches</string>
     <string name="mw_notification_category_browser">Selain</string>
@@ -974,7 +973,7 @@ Muista, että lataamasi tiedostot ja lisäämäsi kirjanmerkin silti tallennetaa
     <string name="pref_force_userscalable">Ota skaalaus käyttöön</string>
     <string name="pref_force_userscalable_summary">Ohita sivuston skaalauksenhallintapyyntö</string>
     <string name="pref_general_title">Yleiset</string>
-    <string name="pref_key_gesture_title">Painikkeet & eleet</string>
+    <string name="pref_key_gesture_title">Painikkeet &amp; eleet</string>
     <string name="pref_label_advert_manager">Hallitse merkittyjä mainoksia</string>
     <string name="pref_nav_mode_summary_pad">Tabletti</string>
     <string name="pref_nav_mode_summary_phone">Puhelin</string>
@@ -1155,17 +1154,17 @@ Selaimen täytyy yhdistää internetiin toimiakseen normaalisti. Sinun täytyy h
     <string name="show_security_tip_dialog_title">Tietosuojakäytäntö</string>
     <string name="sign_and_open">Kirjaudu ja avaa</string>
     <string name="sign_in">Kirjaudu sisään</string>
-    <string name="sign_in_to">Kirjaudu sisään osoitteeseen %s1 \"%s2\"</string>
+    <string name="sign_in_to" formatted="false">Kirjaudu sisään osoitteeseen %s1 \"%s2\"</string>
     <string name="signed_in">Kirjauduttiin sisään</string>
     <string name="skip_button_label">Ohita</string>
     <string name="skip_current_version">Ohita tämä versio</string>
     <string name="slide_guide">Pyyhkäise palataksesi</string>
     <string name="snapshot">Paikallinen</string>
     <string name="snapshot_failed">Sivua ei voitu tallentaa.</string>
-    <string name="snapshot_successed">Avaa Kirjanmerkit & Historia -%gt; PAIKALLINEN nähdäksesi sivun</string>
+    <string name="snapshot_successed">Avaa Kirjanmerkit &amp; Historia -%gt; PAIKALLINEN nähdäksesi sivun</string>
     <string name="soft_toast_see_view">Näytä</string>
     <string name="ssl_bad_clock_date_settings">Aseta päivämäärä</string>
-    <string name="ssl_bad_clock_warning">Yksityistä yhteyttä kohteeseen %s1 ei voi muodostaa, koska laitteesi päivämäärä ja aika (%s2) ovat väärin.</string>
+    <string name="ssl_bad_clock_warning" formatted="false">Yksityistä yhteyttä kohteeseen %s1 ei voi muodostaa, koska laitteesi päivämäärä ja aika (%s2) ovat väärin.</string>
     <string name="ssl_certificate">Turvallisuusvarmenne</string>
     <string name="ssl_certificate_is_valid">Tämä varmenne on voimassa.</string>
     <string name="ssl_continue">Jatka</string>
@@ -1364,5 +1363,5 @@ Selaimen täytyy yhdistää internetiin toimiakseen normaalisti. Sinun täytyy h
     <string name="voice_title_please">Aloita puhuminen…</string>
     <string name="voice_title_speech_again">Puhetta ei ymmärretty</string>
     <string name="weather_location_confirm_message">Poistamalla tämän ominaisuuden käytöstä voi vaikuttaa käyttökokemukseen.</string>
-    <string name="webpage_title">Kirjanmerkit & Historia</string>
+    <string name="webpage_title">Kirjanmerkit &amp; Historia</string>
 </resources>
