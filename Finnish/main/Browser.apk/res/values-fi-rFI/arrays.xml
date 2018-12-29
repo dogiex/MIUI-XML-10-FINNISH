@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <resources>
     <string-array name="pref_fling_on_border_gesture_entries">
         <item>Sivu takaisin eteenpäin</item>
@@ -17,6 +17,11 @@
         <item>Pystysuora näkymä</item>
         <item>Vaakasuora näkymä</item>
     </string-array>
+    <string-array name="pref_tab_restore_array">
+        <item>Kysy aina</item>
+        <item>Avaa</item>
+        <item>Sulje</item>
+    </string-array>
     <string-array name="pref_text_zoom_choices">
         <item>Hyvin pieni</item>
         <item>Pieni</item>
@@ -29,6 +34,14 @@
         <item>Pöytäkone</item>
         <item>iPhone</item>
         <item>iPad</item>
+    </string-array>
+    <string-array name="readmode_theme_background_color">
+        <item>valkoinen</item>
+        <item>beige</item>
+        <item>ruskea</item>
+        <item>vihreä</item>
+        <item>harmaa</item>
+        <item>musta</item>
     </string-array>
     <string-array name="shortcut_dialog_delete">
         <item>Poista</item>
