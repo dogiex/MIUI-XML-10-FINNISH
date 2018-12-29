@@ -337,6 +337,7 @@
   <string name="ball_hupu">HuPu</string>
   <string name="ball_net_errot">Verkkoyhteyttä ei voitu muodostaa.</string>
   <string name="ball_recent_no_data">Tulevista otteluista ei ole tietoja.</string>
+  <string name="battery_history">Akku</string>
   <string name="beijing">Peking</string>
   <string name="bicycle">Pyöräily</string>
   <string name="bl_open_failed">手环开通失败,你可以点击其它手环再试</string>
@@ -1063,7 +1064,7 @@ Useita tilauksia, jotka lähetetään SF Expressin kautta Taobaon, Tmallin ja Xi
   <string name="miuishare_share_editor_title">Jaa</string>
   <string name="miuishare_title_more">Lisää</string>
   <string name="miuishare_title_share">Jaa</string>
-  <string name="miuishare_wechat_timeline_title">Wechat Aikajana</string>
+  <string name="miuishare_wechat_timeline_title">WeChat Hetket</string>
   <string name="miuishare_weibo_title">Weibo</string>
   <string name="month_day_format">d.M.</string>
   <string name="month_day_hour_minute_format_en">d.M. HH:mm</string>
@@ -1590,7 +1591,7 @@ Useita tilauksia, jotka lähetetään SF Expressin kautta Taobaon, Tmallin ja Xi
   <string name="wx_paycode">Maksu</string>
   <string name="wx_photo">Kuva</string>
   <string name="wx_scan">Lukija</string>
-  <string name="wx_timeline">Akku</string>
+  <string name="wx_timeline">Hetket</string>
   <string name="xiaomi_search_label">Haku</string>
   <string name="xspace_resolver_activity_title">Valitse sovellus</string>
   <string name="year_month_day_all_format_en">d.M.yyyy HH:mm:ss</string>

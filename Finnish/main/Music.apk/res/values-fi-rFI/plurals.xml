@@ -8,10 +8,6 @@
         <item quantity="other">Haetaan albumeiden kansikuvia ja sanoituksia (%1$d/%2$d)</item>
         <item quantity="one">Haetaan albumeiden kansikuvia ja sanoituksia (%1$d/%2$d)</item>
     </plurals>
-    <plurals name="Nbackup_songs">
-        <item quantity="other">Varmuuskopioidaan kappaleita, %1$d kappaletta jäljellä (%2$.1f Mt)</item>
-        <item quantity="one">Varmuuskopioidaan kappaletta, %1$d kappale jäljellä (%2$.1f Mt)</item>
-    </plurals>
     <plurals name="Ndialog_renew_content">
         <item quantity="other">"Tilauksesi on päättymässä %d päivän kuluttua.
 Haluatko meidän auttavan sinua uusimaan sen?"</item>
@@ -32,10 +28,6 @@ yhteensä %2$d kappaletta"</item>
         <item quantity="one">"Luotu %1$s
 yhteensä %2$d kappale"</item>
     </plurals>
-    <plurals name="Nstop_backup_songs_message">
-        <item quantity="other">%d kappaletta ei ole varmuuskopioitu Mi Pilveen. Lopetetaanko nyt?</item>
-        <item quantity="one">%d kappale ei ole varmuuskopioitu Mi Pilveen. Lopetetaanko nyt?</item>
-    </plurals>
     <plurals name="Ntracks_add_to_playlist">
         <item quantity="other">%d kappaletta lisätty soittolistalle</item>
         <item quantity="one">Kappale lisätty soittolistalle</item>
@@ -51,14 +43,6 @@ yhteensä %2$d kappale"</item>
     <plurals name="Ntracks_similar_count">
         <item quantity="other">%d samanlaista kappaletta</item>
         <item quantity="one">%d samankaltainen kappale</item>
-    </plurals>
-    <plurals name="Nunbackup_audios">
-        <item quantity="other">%1$d kappaletta ei ole varmuuskopioitu (%2$.1f Mt)</item>
-        <item quantity="one">%1$d kappale ei ole varmuuskopioitu (%2$.1f Mt)</item>
-    </plurals>
-    <plurals name="Nupload_song_button">
-        <item quantity="other">Varmuuskopioi %1$d kappaletta (%2$.1f Mt)</item>
-        <item quantity="one">Varmuuskopioi %1$d kappale (%2$.1f Mt)</item>
     </plurals>
     <plurals name="comment_count">
         <item quantity="other">%d kommenttia</item>
@@ -81,10 +65,6 @@ Huomio: Tiedosto poistetaan myös tältä laitteelta."</item>
     <plurals name="dialog_remove_descript">
         <item quantity="other">Poistetaanko %d kappaletta?</item>
         <item quantity="one">Poistetaanko %d kappale?</item>
-    </plurals>
-    <plurals name="dialog_remove_from_cloud_descript">
-        <item quantity="other">Poistetaanko %d kappaletta Mi Pilvestä? Ne poistetaan myös laitteen soittolistalta.</item>
-        <item quantity="one">Poistetaanko %d kappale Mi Pilvestä? Se poistetaan myös laitteen soittolistalta.</item>
     </plurals>
     <plurals name="download_finished">
         <item quantity="other">%d kappaletta ladattu</item>
