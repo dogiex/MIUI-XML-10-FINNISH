@@ -342,7 +342,7 @@ Kaikki verkosta löytyvät tekstitykset tarjoaa opensubtitles.org."</string>
     <string name="ovp_setting_clear_cache_title">Tyhjennä välimuisti</string>
     <string name="ovp_setting_privacy_policy_title">Tietosuojakäytäntö</string>
     <string name="ovp_setting_privacy_switch_tips">Joitakin ominaisuuksia ei ole saatavilla jos peruutat valtuutuksen</string>
-    <string name="ovp_setting_privacy_switch_title">Valtuuttaminen & peruutus</string>
+    <string name="ovp_setting_privacy_switch_title">Valtuuttaminen &amp; peruuttaminen</string>
     <string name="ovp_setting_version_info_title">Versio</string>
     <string name="ovp_start_error_msg">Tätä videota ei voi toistaa</string>
     <string name="ovp_video_bad_network_condition">Verkkoyhteyttä ei voitu muodostaa.</string>
@@ -369,7 +369,7 @@ Kaikki verkosta löytyvät tekstitykset tarjoaa opensubtitles.org."</string>
     <string name="pw_comment_back">Takaisin</string>
     <string name="pw_comment_detail">Tiedot</string>
     <string name="pw_comment_let_me_comment">Minulla on kommentti…</string>
-    <string name="pw_comment_reply">%sVastaa%s</string>
+    <string name="pw_comment_reply" formatted="false">%sVastaa%s</string>
     <string name="pw_comment_reply_to">Vastaa %s</string>
     <string name="pw_comment_send">Lähetä</string>
     <string name="pw_comment_type_all">Kaikki kommentit</string>
