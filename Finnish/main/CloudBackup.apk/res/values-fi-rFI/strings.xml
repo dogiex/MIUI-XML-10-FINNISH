@@ -119,7 +119,6 @@ Huomio: Asennettujen sovelluksien datatietoja ei varmuuskopioida Mi Pilveen. Kä
   <string name="lack_of_storage">Tallennustilaa ei ole riittävästi</string>
   <string name="latest_backup_time_loading">Ladataan…</string>
   <string name="load_backup_failed">Varmuuskopioiden lataaminen epäonnistui</string>
-  <string name="loading_progress_num">(%s%%)</string>
   <string name="loading_user_backup">Ladataan käyttäjän varmuuskopioita…</string>
   <string name="main_space">Ensimmäinen tila</string>
   <string name="managespace_delete_backup">Poista</string>
@@ -139,8 +138,6 @@ Huomio: Asennettujen sovelluksien datatietoja ei varmuuskopioida Mi Pilveen. Kä
   <string name="open_wifi">Ota Wi-Fi käyttöön</string>
   <string name="open_wifi_description">Yhdistä Wi-Fi-verkkoon palauttaaksesi sovelluksen</string>
   <string name="open_wifi_setting">Wi-Fi asetukset</string>
-  <string name="pattern_backup_name_with_home">%1$s (%2$s%3$s: %4$s)</string>
-  <string name="pattern_backup_name_without_home">%1$s (%2$s%3$s)</string>
   <string name="process_whole_recovery">Palautetaan \"%s\"</string>
   <string name="provision_error_connect_msg">Testaa verkko ja yritä uudelleen. Varmuuskopiot ei ole käytettävissä, kun laitteesi on offline-tilassa.</string>
   <string name="provision_error_connect_title">Ei voi yhdistää</string>
