@@ -36,7 +36,7 @@ Tietoja ei poisteta."</string>
   <string name="new_version">Uusi versio löytyi!</string>
   <string name="no_info">Tietoja ei ole saatavilla.</string>
   <string name="no_network">Ei pääsyä verkkoon.</string>
-  <string name="no_update">Sinulla on jo uusin versio!</string>
+  <string name="no_update">Sinulla on jo uusin versio tai palvelimella on ongelma. Tarkista Xiaomi.eu -verkkosivuilta uusi versio!</string>
   <string name="no_xioamieu">"Et käytä Xiaomi.eu ryhmän tekemää MIUI:ta!
 Päivitykset eivät ole käytettävissä sinulle!"</string>
   <string name="notif_cancel">Peruuta</string>
