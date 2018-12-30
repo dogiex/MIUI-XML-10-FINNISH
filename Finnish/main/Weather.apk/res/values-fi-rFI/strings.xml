@@ -85,7 +85,7 @@
   <string name="button_sure_abandon">Hylätäänkö muutokset?</string>
   <string name="card_vote_item_vs">VS</string>
   <string name="change_alert">Tarkista verkkoyhteytesi ja yritä uudelleen</string>
-  <string name="china_version_first_start_network_msg">Käyttämällä tätä tuotetta, hyväksyt Xiaomin %1$s ja %2$s. Jotta saat tarkempia säätietoja, Sää-sovellus hakee sijaintitietosi ja käyttää sitä ja sen täytyy yhdistää verkkoon. Hyväksytkö?</string>
+  <string name="china_version_first_start_network_msg">Käyttääksesi Säätä, sinun täytyy hyväksyä Xiaomin %1$s ja %2$s. Sään on käytettävä sijaintitietojasi ja yhdistettävä internetiin toimiakseen normaalisti. Hyväksytkö?</string>
   <string name="city_exceeded_warning">Voit lisätä enintään 10 kaupunkia</string>
   <string name="clear_net_mock_success">Net mock clear success</string>
   <string name="commercial">Mainos</string>
@@ -95,8 +95,9 @@
   <string name="content_desc_activity_main_add_city_manage">Hallitse kaupunkeja</string>
   <string name="content_desc_activity_main_more_settings">Lisäasetukset</string>
   <string name="content_desc_back_button">Takaisin</string>
+  <string name="content_desc_city_manage_del">Poista</string>
+  <string name="content_desc_city_manage_edit">Hallitse kaupunkeja</string>
   <string name="content_desc_close_button">Sulje</string>
-  <string name="content_desc_edit_city_manage">Hallitse kaupunkeja</string>
   <string name="daily_forcast_drawer_on_bottom">Piilota</string>
   <string name="daily_forcast_no_stable_direction">Tuulahdus</string>
   <string name="daily_forcast_no_wind">0</string>
@@ -270,7 +271,7 @@ Lisää kaupunki manuaalisesti napauttamalla"</string>
   <string name="update_setting_title_text">Päivitä säätiedot</string>
   <string name="updated_a_moment_ago">Päivitetty hetki sitten</string>
   <string name="updating">Päivitetään…</string>
-  <string name="user_agreement">Palveluehdot</string>
+  <string name="user_agreement">Käyttöehdot</string>
   <string name="view_forecast_item_yesterday">Eilen</string>
   <string name="view_indexes_item_today">Tänään</string>
   <string name="view_indexes_item_tommorrow">Huomenna</string>

@@ -8,7 +8,6 @@
   <string name="close_panel">Poista Pikavalikko käytöstä</string>
   <string name="customize_entries">Valitse pikatoiminnot</string>
   <string name="enable_touch_assistant">Ota Pikavalikko käyttöön</string>
-  <string name="enabled_for_pad_hint">Toimi, kun \"Estä navigointi-painikkeet vaaka-asennossa\" on otettu käyttöön</string>
   <string name="function_settings">Pikatoiminnon asetukset</string>
   <string name="handy_mode_default_to_close_whether_open">Yhden käden-tila ei ole käytössä oletuksena. Otetaanko Yhden käden-tila käyttöön?</string>
   <string name="hide_touch_assistant">Piilota automaattisesti</string>

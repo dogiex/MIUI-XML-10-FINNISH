@@ -103,6 +103,10 @@
         <item quantity="other">%d työpäivää</item>
         <item quantity="one">%d työpäivä</item>
     </plurals>
+    <plurals name="event_reminders_to_max">
+        <item quantity="other">Voit asettaa enintään %d muistutusta</item>
+        <item quantity="one">Voit asettaa enintään %d muistutuksen</item>
+    </plurals>
     <plurals name="Ndays_after">
         <item quantity="other">%1$d天后</item>
         <item quantity="one">%1$d天后</item>

@@ -120,6 +120,7 @@
   <string name="securespaces_extension_encryption_serviceName">spaceencryption</string>
   <string name="security_permission_denied_text">Pääsy kielletty</string>
   <string name="security_permission_failed_text">Sisäinen virhe, yritä myöhemmin uudelleen</string>
+  <string name="security_permission_network_failed_text">Verkkoyhteyttä ei voitu muodostaa. Tarkista verkkoasetuksesi ja yritä uudelleen.</string>
   <string name="security_permission_validate_warning">Kiitos, että autat tekemään MIUI:sta paremman!</string>
   <string name="security_permission_wifi_and_data_opened_text">Wi-Fi ja mobiilidata otettu käyttöön</string>
   <string name="security_permission_xiaomi_account_missed_text">Syötä Mi Tilisi ID</string>
@@ -166,6 +167,8 @@
   <string name="switch_brand_desc_tv">Tietoturvapalvelut tarjoaa Spaces Mobile</string>
   <string name="switch_desc_tv">Kaksi tilaa. Yksi laite.</string>
   <string name="switching_tv">Vaihdetaan…</string>
+  <string name="talk_back_water_mark_string1">TalkBack on käytössä</string>
+  <string name="talk_back_water_mark_string2">Paina ja pidä pohjassa \"Äänenvoimakkuus+\" ja \"Äänenvoimakkuus-\" kolmen sekunnin ajan poistaaksesi sen käytöstä</string>
   <string name="total">Älä häiritse</string>
   <string name="total_description">Mykistää äänet ja poistaa värinän käytöstä kaikilta kohteilta paitsi herätyskellolta</string>
   <string name="total_title">Älä häiritse</string>

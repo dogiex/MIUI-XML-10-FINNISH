@@ -336,4 +336,11 @@
         <item>Läpinäkyvä</item>
         <item>Valkoinen tausta</item>
     </string-array>
+    <string-array name="edit_event_dislike">
+        <item>Ei haluamaani tapahtumatyyppiä</item>
+        <item>Lisää asetuksia</item>
+        <item>Joitakin asetuksia ei voida määrittää</item>
+        <item>Katsele vain</item>
+        <item>En kerro sinulle</item>
+    </string-array>
 </resources>

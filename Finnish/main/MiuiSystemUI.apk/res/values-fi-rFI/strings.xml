@@ -252,9 +252,7 @@
      <string name="do_disclosure_with_name">Tätä laitetta hallitsee %s</string>
      <string name="do_not_silence">Älä hiljennä</string>
      <string name="do_not_silence_block">Älä hiljennä tai estä</string>
-     <string name="doze_brightness_sensor_type" />
-     <string name="doze_pickup_subtype_performs_proximity_check" />
-     <string name="drag_to_add_tiles">Lisää laattoja raahaamalla</string>
+     <string name="drag_to_add_tiles">Paina ja pidä pohjassa lisätäksesi tai järjestääksesi kohteita uudelleen</string>
      <string name="drag_to_remove_tiles">Poista raahaamalla tänne</string>
      <string name="drive_mode_tip_idle">Autotila on käytössä</string>
      <string name="drive_mode_tip_idle_notch">Autotila</string>
@@ -519,7 +517,8 @@ Yritä uudelleen %2$d sekunnin kuluttua."</string>
      <string name="left_nav_bar_button_type">Ylimääräisen vasemman painikkeen tyyppi</string>
      <string name="lock_screen_date">"EEEE d. MMMM'ta'"</string>
      <string name="lock_screen_date_12">"EEEE d. MMMM'ta'"</string>
-     <string name="lock_screen_no_sim_card">Ei SIM-korttia</string>
+     <string name="lock_screen_no_sim_card_emergency_only">Vain hätäpuhelut</string>
+     <string name="lock_screen_no_sim_card_no_service">Ei palvelua</string>
      <string name="lock_wallpaper_enter">Siirry</string>
      <string name="lock_wallpaper_learn_more">Lisää</string>
      <string name="lockscreen_access_pattern_area">Kuvion alue.</string>
@@ -758,6 +757,7 @@ Olet myös yhteydessä VPN-palvelimeen, joka voi valvoa verkon käyttöäsi."</s
      <string name="quick_settings_sync_label">Synkronointi</string>
      <string name="quick_settings_tethering_label">Tethering</string>
      <string name="quick_settings_time_label">Aika</string>
+     <string name="quick_settings_toast_drag_to_enable_custom_tile">Lisätäksesi kohteita, paina ja pidä sitä pohjassa ja sen jälkeen raahaa se paneelin yläosaan.</string>
      <string name="quick_settings_user_label">Minä</string>
      <string name="quick_settings_user_new_user">Uusi käyttäjä</string>
      <string name="quick_settings_user_title">Käyttäjä</string>
@@ -1424,6 +1424,7 @@ Jos otat datan uudelleen käyttöön, operaattorisi saattaa laskuttaa siitä."</
   <string name="local_backup_password_toast_confirmation_mismatch">Salasanat ei täsmää</string>
   <string name="local_backup_password_toast_success">Uusi varmuuskopion salasana asetettiin</string>
   <string name="local_backup_password_toast_validation_failure">Varmuuskopion salasanaa ei voitu asettaa</string>
+  <string name="lock_screen_carrier_airplane_mode_on">Lentokonetila</string>
   <string name="lockscreen_carrier_default">Ei palvelua</string>
   <string name="long_screenshot_not_support_msg">Nykyinen sovellus ei tue pitkiä kuvakaappauksia.</string>
   <string name="long_screenshot_out_of_memory_error">Epäonnistui liian suuren kuvan vuoksi</string>
@@ -1581,7 +1582,7 @@ Saat lisätietoja järjestelmänvalvojalta."</string>
   <string name="recent_task_unlock_text">Avaa lukitus</string>
   <string name="recents_app_info_button_label">Sovellustiedot</string>
   <string name="recents_caption_resize">Valitse uuden tehtävän asettelu</string>
-  <string name="recents_drag_hint_message">Jaa näyttö vetämällä tähän</string>
+  <string name="recents_drag_hint_message">Paina ja pidä sovellusta pohjassa ja raahaa se tänne.</string>
   <string name="recents_empty_message">Ei viimeaikaisia kohteita</string>
   <string name="recents_empty_message_dismissed_all">Kaikki on hoidettu.</string>
   <string name="recents_empty_message_multi_window">Avaa sovelluksia Aloitusnäytöltä</string>
@@ -1716,6 +1717,7 @@ Pyyhkäise alas lukitaksesi"</string>
   <string name="torch_activity_hint">Ota taskulamppu käyttöön lukitusnäytössä pitämällä pohjassa [icon]</string>
   <string name="torch_activity_name">Taskulamppu</string>
   <string name="torch_closed">Taskulamppu ei käytössä</string>
+  <string name="torch_high_temperature_warning">Laitteesi on ylikuumentunut. Taskulamppua ei voi käyttää tällä hetkellä.</string>
   <string name="torch_opened">Taskulamppu käytössä</string>
   <string name="track_frame_time">Profiilin GPU-hahmonnus</string>
   <string name="transition_animation_scale_title">Siirtymä</string>

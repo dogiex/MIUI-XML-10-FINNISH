@@ -63,7 +63,6 @@
   <string name="dialog_btn_ok_disabled_net">Verkkoasetukset</string>
   <string name="dialog_cannot_resume">Lataus on keskeytetty eikä sitä voi jatkaa.</string>
   <string name="dialog_confirm_delete_checkbox_message">Poista myös paikalliset tiedostot</string>
-  <string name="dialog_confirm_delete_downloads_message">Poistetaanko %d tehtävää?</string>
   <string name="dialog_confirm_delete_the_download_item_message">Poista nämä tehtävät</string>
   <string name="dialog_content_limit0">Rajoita latauksia</string>
   <string name="dialog_content_limit_max">Rajoittamaton</string>
@@ -99,7 +98,6 @@
   <string name="download_filesize_unknown">Tuntematon</string>
   <string name="download_from">Lähde:</string>
   <string name="download_in_process">Ladataan</string>
-  <string name="download_info_count_deleted_tasks">%s latausta poistettu</string>
   <string name="download_info_start_deleted_tasks">Poista lataukset</string>
   <string name="download_list_get_free_vip">Xunlei kokeiluaika</string>
   <string name="download_list_get_hightspeed_flow_auto_open">Xunlei Latauksen Kiihdyttäjä on käytössä</string>
@@ -373,9 +371,7 @@
   <string name="sniff_no_result_text">Tuloksia ei löytynyt</string>
   <string name="sniff_result_empty_prompt">Lähdettä ei löytynyt</string>
   <string name="sniff_result_num_prefix">Löydetty</string>
-  <string name="sniff_result_num_video_suffix">kohdetta</string>
   <string name="sniff_result_num_website_suffix">nettisivuja</string>
-  <string name="sniff_result_website_intro">Yhteensä %1$d kohdetta | Lähde: %2$s</string>
   <string name="sniff_search_assoicate_sizeinfo">Koko: %1$s</string>
   <string name="sniff_search_install">Asenna</string>
   <string name="sniff_shortcut_cloudconfig_btn">OK</string>

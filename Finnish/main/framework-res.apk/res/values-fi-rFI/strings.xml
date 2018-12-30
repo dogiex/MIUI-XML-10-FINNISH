@@ -889,6 +889,7 @@ Yritä uudelleen %2$d sekunnin kuluttua."</string>
   <string name="notification_channel_voice_mail">Vastaajaviestit</string>
   <string name="notification_channel_vpn">VPN-tila</string>
   <string name="notification_channel_wfc">Wi-Fi-puhelut</string>
+  <string name="notification_description">Äänipuhelun tila</string>
   <string name="notification_header_divider_symbol">•</string>
   <string name="notification_header_divider_symbol_with_spaces">" • "</string>
   <string name="notification_hidden_by_policy_text">Sisältö on piilotettu käytännön perusteella.</string>
@@ -1394,6 +1395,8 @@ Pitkäkestoinen kova äänenvoimakkuus saattaa heikentää kuuloa."</string>
   <string name="ssl_ca_cert_warning">Verkkoa saatetaan valvoa</string>
   <string name="ssl_certificate">Suojausvarmenne</string>
   <string name="ssl_certificate_is_valid">Varmenne on voimassa.</string>
+  <string name="status_communication_speaker_summary">Hands-free puhelu on käynnissä. Ääni toistetaan silti kaiuttimen kautta, vaikka kuulokkeet yhdistetään.</string>
+  <string name="status_communication_summary">Puhelu on käynnissä. Voit säätää vain puhelun äänenvoimakkuutta tällä hetkellä.</string>
   <string name="stk_cc_ss_to_dial">SS-pyyntö muutettiin DIAL-pyynnöksi.</string>
   <string name="stk_cc_ss_to_dial_video">SS-pyyntö muutettiin Video DIAL-pyynnöksi.</string>
   <string name="stk_cc_ss_to_ss">SS-pyyntö muutettiin uudeksi SS-pyynnöksi.</string>

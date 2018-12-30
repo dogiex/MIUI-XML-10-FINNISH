@@ -1135,6 +1135,7 @@ Tämän ominaisuuden voi poistaa käytöstä [Asetuksista]"</string>
   <string name="checking_decryption">Tarkistetaan…</string>
   <string name="checking_find_device_status">Tarkistetaan Etsi laite -tilaa…</string>
   <string name="checking_for_updates">Tarkistetaan päivityksiä…</string>
+  <string name="child_mode_settings">Lapsilukko</string>
   <string name="choose_a_card_to_reset">Valitse tyhjennettävä SIM-kortti</string>
   <string name="choose_profile">Valitse profiili</string>
   <string name="choose_smartcover_type">Valitse kotelon tyyppi</string>
@@ -1338,6 +1339,9 @@ Voit jatkaa puhelimesi käyttöä, kun palautat tehdasasetukset. Kun olet määr
   <string name="daltonizer_mode_tritanomaly">Tritanomalia (sini-keltasokeus)</string>
   <string name="daltonizer_type">Korjaustila</string>
   <string name="daltonizer_type_overridden">Tämän ohittaa %1$s</string>
+  <string name="dangerous_option">Korkean riskin kehittäjäasetukset</string>
+  <string name="dangerous_option_hint">%1$s on käytössä. Napauta vaihtaaksesi asetuksia.</string>
+  <string name="dangerous_option_hint_title">Korkean riskin ominaisuus on käytössä</string>
   <string name="dashboard_title">Asetukset</string>
   <string name="data_limit">Datankäyttöraja</string>
   <string name="data_saver_off">Pois käytöstä</string>
@@ -1743,6 +1747,7 @@ Asetus vaikuttaa tämän puhelimen kaikkiin käyttäjiin."</string>
   <string name="emergency_address_title">Päivitä hätäosoite</string>
   <string name="emergency_info_summary">Käyttäjän %1$s tiedot ja yhteystiedot</string>
   <string name="emergency_info_title">Hätätilannetiedot</string>
+  <string name="emergency_sos_title">Hätätilanne SOS</string>
   <string name="emergency_tone_alert">Ilmoitus</string>
   <string name="emergency_tone_silent">Äänetön</string>
   <string name="emergency_tone_summary">Aseta toiminta hätäpuhelun tapauksessa</string>
@@ -1964,6 +1969,7 @@ Saat lisätietoja organisaatiosi järjestelmänvalvojalta."</string>
   <string name="fingerprint_manage_tittle">Sormenjälki</string>
   <string name="fingerprint_not_identified_msg">Sormenjäljen luku epäonnistui. Syötä salasana.</string>
   <string name="fingerprint_not_recognized">Ei tunnistettu</string>
+  <string name="fingerprint_others_title">Muu</string>
   <string name="fingerprint_payment">Sormenjälki maksut</string>
   <string name="fingerprint_removal_failed">Sormenjälkeä ei voitu poistaa, yritä myöhemmin uudelleen</string>
   <string name="fingerprint_swipe_for_notifications_summary">Voit katsoa ilmoitukset pyyhkäisemällä puhelimen takaosassa olevasta sormenjälkitunnistimesta alaspäin.</string>
@@ -2154,6 +2160,15 @@ Varmuuskopioita ei vähennetä Drive-tallennustilan kiintiöstäsi. Suuria ja ke
   <string name="gxzw_add_fingerprint_put_finger_message">Paina näyttöä ja nosta sormesi, kun tunnet värinän. Toista useita kertoja.</string>
   <string name="gxzw_add_fingerprint_put_finger_title">Paina ja nosta värinän jälkeen</string>
   <string name="gxzw_add_fingerprint_title">Lisää sormenjälkesi</string>
+  <string name="gxzw_anim_light">Neon</string>
+  <string name="gxzw_anim_metal">Metalli</string>
+  <string name="gxzw_anim_pulse">Syke</string>
+  <string name="gxzw_anim_rhythm">Rytmi</string>
+  <string name="gxzw_anim_title">Sormenjäljen animaatio</string>
+  <string name="gxzw_dialog_message">Käyttääksesi näytön sisäistä sormenjälkitunnistinta normaalisti, älä käytä näytön suojia. Jos olet sitä mieltä, että näytön suoja on kuitenkin tarpeellinen, valitse yhteensopiva malli valtuutettujen mallien joukosta.</string>
+  <string name="gxzw_dialog_not_show_again">Älä näytä uudelleen</string>
+  <string name="gxzw_dialog_ok">Selvä</string>
+  <string name="gxzw_dialog_title">Tietoja näytön sisäisestä sormenjälkitunnistimesta</string>
   <string name="handy_mode">Yhden käden-tila</string>
   <string name="handy_mode_enable">Yhden käden-tila</string>
   <string name="handy_mode_size">Näytön koko</string>
@@ -2562,7 +2577,7 @@ numeroa, kuin Ensimmäisen tilan PIN-koodi."</string>
   <string name="lockpassword_choose_your_pin_header">Aseta PIN-koodisi</string>
   <string name="lockpassword_choose_your_pin_header_second_space">"Aseta Toisen tilan
 PIN-koodi"</string>
-  <string name="lockpassword_choose_your_pin_title">Anna 4-16 numeroa</string>
+  <string name="lockpassword_choose_your_pin_title" formatted="false">Anna %d-%d numeroa</string>
   <string name="lockpassword_confirm_for_second_user">Vahvista Toisen tilan salasana</string>
   <string name="lockpassword_confirm_passwords_dont_match">Salasanat eivät täsmää</string>
   <string name="lockpassword_confirm_pins_dont_match">PIN-koodit eivät täsmää</string>
@@ -2816,6 +2831,7 @@ Tällä laitteella on muita paikalla olevia käyttäjiä.
   <string name="menu_use_uss">Käytä USS-muistimääritystä</string>
   <string name="mi_pay">Mi Wallet</string>
   <string name="mi_pay_summary">Bussikortti/Mi Pay/Kortin emulaattori</string>
+  <string name="mi_service">Mi Palvelu</string>
   <string name="mi_service_app_detail">Datan käytön tiedot</string>
   <string name="mi_shopping_mall">Mi Kauppa</string>
   <string name="mi_upi_settings">Mi Pay Tili</string>
@@ -2842,6 +2858,55 @@ Tällä laitteella on muita paikalla olevia käyttäjiä.
   <string name="miui_lab_settings">MIUI lab</string>
   <string name="miui_lab_slogan">Opi. Tutki. Löydä.</string>
   <string name="miui_master_clear_summary">Poistaa kaikki tiedot puhelimesta</string>
+  <string name="miui_optimization_disabled">Poista MIUI-optimointi käytöstä</string>
+  <string name="miui_sos_audio_summary">Toista SOS-viesti, kun hätäyhteystieto vastaa</string>
+  <string name="miui_sos_audio_title">SOS-ääniviesti</string>
+  <string name="miui_sos_call_log_duration">Kesto</string>
+  <string name="miui_sos_call_log_min">min</string>
+  <string name="miui_sos_call_log_none">Minulla ei ole puheluhistoriaa viimeiseltä tunnilta.</string>
+  <string name="miui_sos_call_log_sec">s</string>
+  <string name="miui_sos_call_log_stranger">Tuntematon</string>
+  <string name="miui_sos_call_log_summary">Lähetä puheluhistoria viimeiseltä tunnilta hätäyhteystiedollesi</string>
+  <string name="miui_sos_call_log_title">Lähetä puheluhistoria</string>
+  <string name="miui_sos_call_warning_sim_unable">Ei signaalia. Tekstiviestiä ei voi lähettää.</string>
+  <string name="miui_sos_calling_summary">Laitteesi soittaa automaattisesti hätäyhteystiedollesi ja toistaa nauhoittamasi SOS-ääniviestin. Puhelu lopetetaan viestisi toistamisen jälkeen. Automaattinen soittaminen lopetetaan ensimmäisen onnistuneen yrityksen jälkeen.</string>
+  <string name="miui_sos_calling_title">Automaattinen soittaminen</string>
+  <string name="miui_sos_contacts_add">Hätäyhteystiedot</string>
+  <string name="miui_sos_contacts_category">Hätäyhteystiedot</string>
+  <string name="miui_sos_emergency_contacts">Hätäyhteystiedot</string>
+  <string name="miui_sos_emergency_contacts_quantity">%d lisätty</string>
+  <string name="miui_sos_emergency_delivered_sms" formatted="false">%1s(%2s) on jo hyväksynyt</string>
+  <string name="miui_sos_emergency_delivered_sms_noname">%1s on jo hyväksynyt</string>
+  <string name="miui_sos_emergency_failed_sms" formatted="false">%1s(%2s) SOS-viestin lähettäminen epäonnistui.</string>
+  <string name="miui_sos_emergency_failed_sms_noname">%1s SOS-viestin lähettäminen epäonnistui.</string>
+  <string name="miui_sos_enable_switch_summary">Paina Virta-painiketta nopeasti 5 kertaa lähettääksesi SOS-tekstiviestin sijaintisi tietojen kanssa hätäyhteystiedoillesi</string>
+  <string name="miui_sos_enable_switch_title">Hätätila</string>
+  <string name="miui_sos_exit_dialog_cancel">Peruuta</string>
+  <string name="miui_sos_exit_dialog_message">Aktivoit Hätätilan. Sijaintitietosi lähetetään hätäyhteystiedoillesi. Poistetaanko käytöstä siitä huolimatta?</string>
+  <string name="miui_sos_exit_dialog_ok">OK</string>
+  <string name="miui_sos_exit_dialog_title">Poistetaan Hätätila käytöstä</string>
+  <string name="miui_sos_green_guard_summary">Jaa sijaintitiedot reaaliajassa</string>
+  <string name="miui_sos_green_guard_title">Lapsilukko</string>
+  <string name="miui_sos_launch_error">Hätätilaa ei voitu aktivoida</string>
+  <string name="miui_sos_launch_error_confirm">Selvä</string>
+  <string name="miui_sos_launch_error_message">Matkapuhelinverkkoon ei voi yhdistää. Hätätilaa ei voi käyttää.</string>
+  <string name="miui_sos_launching_summary">Aktivoidaan Hätätila %d s kuluttua</string>
+  <string name="miui_sos_launching_title">SOS</string>
+  <string name="miui_sos_menu_add">Lisää</string>
+  <string name="miui_sos_menu_edit">Muokkaa</string>
+  <string name="miui_sos_msg_call_log_prefix">Tässä on puheluhistoriani viimeiseltä tunnilta:</string>
+  <string name="miui_sos_play_voice">Toista SOS-viesti</string>
+  <string name="miui_sos_remind_add">Lisää</string>
+  <string name="miui_sos_remind_infocontent">Lisäsin sinut hätäyhteystietoihini. Saat viestin sijaintitietojeni kanssa, jos olen vaarassa. [Mi Emergency SOS]</string>
+  <string name="miui_sos_remind_open">Hätätila vaatii vähintään yhden hätäyhteystiedon toimiakseen normaalisti.</string>
+  <string name="miui_sos_remind_sendinfo">Älä unohda kertoa näille henkilöille, että he kuuluvat nyt hätäyhteystietoihisi, sillä silloin he voivat auttaa sinua hätätapauksessa nopeammin.</string>
+  <string name="miui_sos_remind_sendnow">Lähetä nyt</string>
+  <string name="miui_sos_remind_title">Huomio</string>
+  <string name="miui_sos_settings_alert_contacts_repeat">Yhteystiedon kaksoiskappaleita ei voi lisätä.</string>
+  <string name="miui_sos_settings_alert_contacts_too_many">Voit lisätä enintään kolme hätäyhteystietoa.</string>
+  <string name="miui_sos_settings_category">SOS-asetukset</string>
+  <string name="miui_sos_statusbar_summary">Napauta poistaaksesi käytöstä</string>
+  <string name="miui_sos_statusbar_title">Hätätila on aktivoitu</string>
   <string name="miui_touch_filtered_warning">Jos sovellus estää käyttöoikeusikkunan, raahaa päällä oleva kohde pois edestä tai sulje sovellus.</string>
   <string name="miui_updater">Järjestelmän päivitys</string>
   <string name="miui_userguide">Käyttöopas</string>
@@ -4476,6 +4541,11 @@ PIN-koodi on mahdollisesti virheellinen."</string>
   <string name="sort_max_use">Järjestä enimmäiskäytön mukaan</string>
   <string name="sort_order_alpha">Lajittele nimen mukaan</string>
   <string name="sort_order_size">Lajittelu koon mukaan</string>
+  <string name="sos_privacy_and_content_policy">Käyttöehdot ja Tietosuojakäytäntö</string>
+  <string name="sos_privacy_dialog_button_cancel">Peruuta</string>
+  <string name="sos_privacy_dialog_button_ok">Jatka</string>
+  <string name="sos_privacy_dialog_message">"Ottaaksesi Hätätilan aputoiminnon käyttöön, vahvista ja lue %s. Jotta Hätätilan aputoiminto toimisi normaalisti, se voi käyttää sijaintitietojasi, mobiiliverkkoasi ja lukea osoitekirjaasi, vahvistatko?</string>
+  <string name="sos_privacy_dialog_title">Käyttöehdot</string>
   <string name="sound_category_call_ringtone_vibrate_title">Soittoääni &amp; ilmoitusäänet</string>
   <string name="sound_category_sound_title">Yleiset</string>
   <string name="sound_category_system_title">Järjestelmä</string>
@@ -4812,6 +4882,7 @@ Nopeampi ^1 voi toimia tehokkaammin."</string>
   <string name="suw_back_button_label">Takaisin</string>
   <string name="suw_more_button_label">Lisää</string>
   <string name="suw_next_button_label">Seuraava</string>
+  <string name="switch_access_service_on">Vaihda pääsy</string>
   <string name="switch_off_text">Ei käytössä</string>
   <string name="switch_on_text">Käytössä</string>
   <string name="switch_screen_button_order">Peilaa painikkeet</string>
@@ -4857,10 +4928,10 @@ Se on Googlen tapa synkronoida tietoja, ja sen avulla voit käyttää yhteystiet
   <string name="system_shortcut_wake">Herätä painikkeiden pikavalinnoilla</string>
   <string name="system_storage">Järjestelmän tallennusmedia</string>
   <string name="system_ui_settings">Näytä SystemUI-viritin</string>
-  <string name="system_update_settings_list_item_summary"/>
   <string name="system_update_settings_list_item_title">Järjestelmäpäivitykset</string>
   <string name="talkback_summary">Näytönlukuohjelma ensisijaisesti näkövammaisille ja heikkonäköisille</string>
   <string name="talkback_title">TalkBack</string>
+  <string name="talkback_watermark_enable">TalkBack vesileima</string>
   <string name="tap_to_wake">Herätä napauttamalla</string>
   <string name="tap_to_wake_summary">Herätä laite napauttamalla näyttöä kahdesti.</string>
   <string name="taplus_title">Taplus</string>
@@ -5085,7 +5156,7 @@ Se on Googlen tapa synkronoida tietoja, ja sen avulla voit käyttää yhteystiet
   <string name="unlock_set_unlock_password_title">Salasana</string>
   <string name="unlock_set_unlock_pattern_summary">Piirrä yksinkertainen kuvio sormellasi laitteen lukituksen avaamiseksi</string>
   <string name="unlock_set_unlock_pattern_title">Kuvio</string>
-  <string name="unlock_set_unlock_pin_summary">Anna 4-16 numeroa laitteen lukituksen avaamiseksi</string>
+  <string name="unlock_set_unlock_pin_summary" formatted="false">Anna %d-%d numeroa laitteen lukituksen avaamiseksi</string>
   <string name="unlock_set_unlock_pin_title">PIN-koodi</string>
   <string name="unlock_set_unlock_summary">Aseta näytön lukitus</string>
   <string name="unlock_setup_wizard_fingerprint_details">Kun olet määrittänyt näytön lukituksen, voit määrittää myös sormenjälkesi kohdassa Asetukset &gt; Tietoturva.</string>

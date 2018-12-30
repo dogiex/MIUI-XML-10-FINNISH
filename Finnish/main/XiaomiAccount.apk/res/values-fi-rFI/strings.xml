@@ -371,7 +371,7 @@ Aktivoi tilisi seuraamalla
   <string name="passport_skip_login">Ohita</string>
   <string name="passport_skip_register">Ohita rekisteröinti</string>
   <string name="passport_skip_setup_account_msg">Voit asettaa Mi Tilin myöhemmin Asetuksissa.</string>
-  <string name="passport_skip_setup_account_title">Ohita asetus</string>
+  <string name="passport_skip_setup_account_title">Etkö käytä Mi Pilveä?</string>
   <string name="passport_sms_send_success">Lähetetty</string>
   <string name="passport_sms_verification_code_login">Kirjaudu sisään tekstiviestillä</string>
   <string name="passport_sync_account_data">Synkronoidaan tilitietoja…</string>

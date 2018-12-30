@@ -200,7 +200,7 @@
   <string name="negDesc">Vaihda lämpötiloja nollan ala- ja yläpuolella</string>
   <string name="network_confirm_content">Valuuttamuuntimen, veron- ja lainalaskurin on yhdistettävä internetiin ja käytettävä laitteen sijaintitietoja toimiakseen normaalisti.</string>
   <string name="network_confirm_title">Käyttöoikeuksia vaaditaan</string>
-  <string name="percent"/>
+  <string name="not_supported_due_to_language">Tämä ominaisuus on käytettävissä vain Kiinan kielellä</string>
   <string name="percentDesc">prosentti</string>
   <string name="percentage">%</string>
   <string name="pi">π</string>

@@ -173,6 +173,7 @@
   <string name="add_account_keywords">Lisää tili;lisää sähköposti tili</string>
   <string name="add_attachment">Lisää liitetiedosto</string>
   <string name="add_calendar">Muistuta</string>
+  <string name="add_file_exception">Lisää poikkeus. Yritä lisätä toisesta polusta.</string>
   <string name="add_label">Lisää kansio</string>
   <string name="add_pre_message_attachments">Lisätäänkö edellisen viestin liitetiedostot??</string>
   <string name="add_pre_message_attachments_no">Älä lisää</string>

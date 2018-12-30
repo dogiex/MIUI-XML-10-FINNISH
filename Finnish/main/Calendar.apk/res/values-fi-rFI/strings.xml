@@ -209,6 +209,7 @@
   <string name="edit_event_confirm_message">Hylätäänkö muutokset?</string>
   <string name="edit_event_countdown_name_empty_hint">Syötä tapahtuman nimi</string>
   <string name="edit_event_countdown_name_hint">Tapahtuma</string>
+  <string name="edit_event_dislike_title">Miksi peruutit?</string>
   <string name="edit_event_from_label">Alkaa</string>
   <string name="edit_event_input_year">Syötä vuosi</string>
   <string name="edit_event_label">Tiedot</string>
@@ -257,7 +258,6 @@
   <string name="event_lunar_month">月</string>
   <string name="event_reminder_allday_day_zero">Sinä päivänä klo %2$s</string>
   <string name="event_reminder_value_zero">Ennen tapahtumaa</string>
-  <string name="event_reminders_to_max">Voit asettaa enintään %d muistutusta</string>
   <string name="event_title">Otsikko</string>
   <string name="event_view">Näytä tapahtuma</string>
   <string name="every_weekday">Joka arkipäivä (Ma–Pe)</string>

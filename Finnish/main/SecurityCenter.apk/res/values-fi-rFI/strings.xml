@@ -13,8 +13,8 @@ Kaikki laitteellasi olevat tiedot voidaan poistaa ja Lukitusnäytön salasanasi 
   <string name="gb_msg_not_shielded_summary">Näytä</string>
   <string name="gs_gamebox">Pelin sisäiset pikakuvakkeet</string>
   <string name="gs_gamebox_detail">Näytä pelin sisäinen pikakuvakepaneeli</string>
-  <string name="midrop_post_notification_contentText">Kokeile Mi Drop:ia. Se on nopea ja ilman mainoksia.</string>
-  <string name="midrop_post_notification_contentTitle">Tarvitsetko tiedostojen siirtämistä?</string>
+  <string name="midrop_post_notification_contentText">Kokeile Mi Dropia, jonka siirtonopeus on jopa 50M/s.</string>
+  <string name="midrop_post_notification_contentTitle">Jaatko tiedostoja?</string>
   <string name="screenrecord_not_find">Asenna viimeisin versio Näytön Nauhoittajasta ja yritä uudelleen.</string>
   <!-- MIUI 10 valmis -->
   <string name="Phonepass">Salli puhelut</string>
@@ -543,19 +543,11 @@ Kaikki laitteellasi olevat tiedot voidaan poistaa ja Lukitusnäytön salasanasi 
   <string name="card_main_xspace_action">Luo</string>
   <string name="card_main_xspace_summary">Käytä kahta tiliä millä tahansa sovelluksella</string>
   <string name="card_main_xspace_title">Kaksoissovellukset</string>
-  <string name="card_sms_report">Ilmoita käyttämällä tekstiviestiä</string>
   <string name="card_tc_failed">Kalibrointi epäonnistui</string>
-  <string name="card_tc_failed_content">"Mahdolliset syyt:
- 1. Operaattorit vastaavat hitaammin kuun alussa jo loppupuolella. Yritä uudelleen muutaman päivän kuluttua.
- 2. Verkkopyynnön mallipohja tarvitaan, kun kalibroit ensimmäisen kerran. Yhdistä verkkoon ja yritä uudelleen.
- 3. Operaattorisi ei välttämättä tue jäljellä olevan datan määrän ja saldon lähettämistä tekstiviestitse. Ota yhteyttä operaattoriisi lisätietoja varten.
- 4. Operaattorin datassa saattaa olla virhe. Kokeile operaattorin diagnostiikkaa ratkaistaksesi tämän.
- 5. Eikö mikään näytä auttavan? Napauta \"Ilmoita käyttämällä tekstiviestiä\" lähettääksesi palautteen Xiaomi:lle tekstiviestinä."</string>
   <string name="celcius_symbol">°C</string>
   <string name="charging_text_battery_full_time">"Edellinen lataus "</string>
   <string name="charging_text_battery_nearly_full">Ladattu lähes täyteen</string>
   <string name="charging_text_battery_perfect">Ladattu täyteen</string>
-  <string name="check_network_state">Testaa verkko</string>
   <string name="choose">Valitse</string>
   <string name="clean_immediately">Tyhjennä</string>
   <string name="cleaned">Tyhjennetty</string>
@@ -960,8 +952,8 @@ Jotta voit käyttää laitteesi kaikkia ominaisuuksia normaalisti, Äärimmäine
   <string name="gb_first_window_antimsg_summary_quick_answer">Käytä pikavastauksia</string>
   <string name="gb_first_window_antimsg_summary_transparent_show">Näytä teksti läpinäkyvällä taustalla</string>
   <string name="gb_first_window_antimsg_title">Kätevät ilmoitukset</string>
-  <string name="gb_first_window_gamebox_summary_four">Käytä pikavastauksia, luo näytön nauhoituksia ja kuvakaappauksia</string>
-  <string name="gb_first_window_gamebox_summary_six">Tyhjennä välimuisti, luo näytön nauhoituksia ja kuvakaappauksia</string>
+  <string name="gb_first_window_gamebox_summary_four">Tyhjennä välimuisti, luo näytön nauhoituksia ja kuvakaappauksia</string>
+  <string name="gb_first_window_gamebox_summary_six">Käytä pikavastauksia, luo näytön nauhoituksia ja kuvakaappauksia</string>
   <string name="gb_first_window_handsfree_summary">Ota kaiutin käyttöön automaattisesti</string>
   <string name="gb_first_window_handsfree_title">Handsfree-puhelut</string>
   <string name="gb_first_window_start">Aloita pelaaminen</string>
@@ -1114,7 +1106,6 @@ Jotta voit käyttää laitteesi kaikkia ominaisuuksia normaalisti, Äärimmäine
   <string name="label_callwait">Puhelun odottamisen ilmoitus</string>
   <string name="label_mi_stats">Mi analytiikka</string>
   <string name="last_check_canceled">Edellinen skannaus peruutettiin</string>
-  <string name="later">稍后处理</string>
   <string name="left_precent">60%</string>
   <string name="legal_workday">Lailliset työpäivät</string>
   <string name="legal_workday_invalidate">Ma-Pe (juhlapyhän tiedot vanhentunut)</string>
@@ -1191,9 +1182,7 @@ Operaattori saattaa veloittaa sinua lisämaksuista, jos käytät mobiilidataa uu
   <string name="lucky_max_chat_title">来自QQ</string>
   <string name="lucky_money_group_summary">个人发送的红包不需抢，建议您仅提醒群红包，以免提醒次数过多。</string>
   <string name="lucky_my_luckymoney">我的红包战绩</string>
-  <string name="lucky_sound_mode_gold">金币</string>
   <string name="lucky_sound_mode_lucky">红包来了</string>
-  <string name="lucky_sound_mode_no">静音</string>
   <string name="lucky_sound_warn">红包声音提醒</string>
   <string name="lucky_str_yuan">%s元</string>
   <string name="lucky_warning_count_title">来自微信</string>
@@ -1232,12 +1221,8 @@ vastausta"</string>
 <string name="main_tobe_added_desc">Mobiilidataa alkaen ¥0.03/Mt</string>
   <string name="main_today_used">Käytetty tänään</string>
   <string name="main_toolbar_firewall">Rajoita datan käyttöä</string>
-  <string name="main_toolbar_internet_by_mobiledata">Mobiilidata</string>
-  <string name="main_toolbar_internet_by_pc_brige">USB internet</string>
-  <string name="main_toolbar_internet_by_wifi">Wi-Fi</string>
   <string name="main_toolbar_purchase">Top up</string>
   <string name="main_toolbar_statistic">Datan käyttötilastot</string>
-  <string name="main_used_bill">%s CNY</string>
   <string name="man_add_application">Lisää automaattisesti käynnistyvät sovellukset manuaalisesti</string>
   <string name="manage_hybrid_permissions">Hallinnoi sovelluksen käyttöoikeuksia</string>
   <string name="managed_user_title">Kaikki työsovellukset</string>
@@ -1551,7 +1536,6 @@ Tämä toiminta vähentää akun kestoa."</string>
   <string name="open_right_now">立刻抢红包</string>
   <string name="open_right_now_short">立刻抢</string>
   <string name="operator_diagnostic">Operaattorin diagnostiikat</string>
-  <string name="operator_mi_sim">Mi SIM</string>
   <string name="operator_name_cmcc">China Mobile</string>
   <string name="operator_name_telcom">China Telecom</string>
   <string name="operator_name_unicom">China Unicom</string>
@@ -2177,7 +2161,6 @@ jonka määritit manuaalisesti (%2$s). Vaihdetaanko SIM-kortin sijainniksi %3$s?
   <string name="status_bar_network_flow_phone_balance">"   Puhelimen saldo:%1$s "</string>
   <string name="status_bar_network_flow_purchase">"   Osta &gt;"</string>
   <string name="status_bar_network_flow_setup_data_plan">"   Aseta datapaketti &gt;"</string>
-  <string name="status_bar_network_flow_today">Tänään: %1$s</string>
   <string name="still_retain_btn">Säilytä</string>
   <string name="suggest_app_tolock">Ehdotukset</string>
   <string name="suggest_app_tolock_masked">Piilotettu</string>
@@ -2490,7 +2473,6 @@ Lisää saldoa napauttamalla."</string>
   <string name="traffic_setting_fragment_button2_text">Tallenna</string>
   <string name="traffic_setting_fragment_city">Kaupunki</string>
   <string name="traffic_setting_fragment_default">Valitse</string>
-  <string name="traffic_setting_fragment_find_brand">Etkö ole varma operaattorista?</string>
   <string name="traffic_setting_fragment_loacation_alert_nomore">Älä näytä uudelleen</string>
   <string name="traffic_setting_fragment_operator">Operaattori</string>
   <string name="traffic_setting_fragment_operator_setting">Operaattoriasetukset</string>
