@@ -381,6 +381,8 @@
   <string name="cannot_get_download_url">获取不到安全服务下载地址</string>
   <string name="card_agenda_settings">Asetukset</string>
   <string name="card_already_fly">Lähti jo</string>
+  <string name="card_banner_close_never">不再提示</string>
+  <string name="card_banner_close_tomorrow">明天提醒我</string>
   <string name="card_book_all">Kaikki varaukset</string>
   <string name="card_book_nodata">Ei varauksia</string>
   <string name="card_bookall_flight">Lentoliput</string>

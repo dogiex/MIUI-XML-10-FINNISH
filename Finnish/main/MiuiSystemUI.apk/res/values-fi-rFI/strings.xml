@@ -800,6 +800,8 @@ Olet myös yhteydessä VPN-palvelimeen, joka voi valvoa verkon käyttöäsi."</s
      <string name="snooze_option_30_min">30 minuutin</string>
      <string name="snooze_undo">KUMOA</string>
      <string name="snoozed_for_time">Torkutettu %1$s ajaksi</string>
+     <string name="sos_status_bar_summary">Poistu napauttamalla</string>
+     <string name="sos_status_bar_title">SOS</string>
      <string name="speed_bump_explanation">Vähemmän tärkeät ilmoitukset alla</string>
      <string name="ssl_ca_cert_warning">"Verkkoa saatetaan
 valvoa"</string>
@@ -811,7 +813,7 @@ valvoa"</string>
      <string name="status_bar_clock_date_format">"EEEE d. MMMM'ta'"</string>
      <string name="status_bar_clock_date_format_12">"EEEE d. MMMM'ta'"</string>
      <string name="status_bar_clock_date_time_format">"H:mm d.  MMMM'ta'"</string>
-     <string name="status_bar_clock_date_time_format_12">"h:mmaa d. MMMM'ta'"</string>
+     <string name="status_bar_clock_date_time_format_12">"h:mm aa d. MMMM'ta'"</string>
      <string name="status_bar_date_format">"EEEE
 d. MMMM'ta'"</string>
   <string name="status_bar_date_format_12">"EEEE
@@ -1490,6 +1492,7 @@ Saat lisätietoja järjestelmänvalvojalta."</string>
   <string name="no_sim_card">Ei SIM-korttia</string>
   <string name="no_weather_description">Hae säätiedot &gt;</string>
   <string name="not_support_multi_window">Nykyinen sovellus ei tue Jaettua näyttöä</string>
+  <string name="notch_sos_status_bar_title">SOS</string>
   <string name="notch_status_bar_date_format_12">"EEEE d. MMMM'ta'"</string>
   <string name="notification_header_title">Ilmoitukset</string>
   <string name="notification_hidden_text">Sinulla on uusi viesti</string>

@@ -13,7 +13,6 @@
   <string name="date_calculate_hint">Selvitä mikä päivämäärä on tietyn päivän jälkeen</string>
   <string name="date_jump_hint">Siirry suoraan tiettyyn päivään</string>
   <string name="date_jump_title">Siirry päivämäärään</string>
-  <string name="edit_event_birthday_reminder_3_days_before">Muistuta myös 3 päivää etukäteen</string>
   <string name="guide_card_import">Tuo</string>
   <string name="guide_card_primary_text">Tuo ystäviesi syntymäpäivät</string>
   <string name="guide_card_second_text">Älä koskaan unohda tärkeitä päivämääriä</string>
@@ -52,20 +51,14 @@
   <string name="accessibility_pick_start_date">Aloituspäivä</string>
   <string name="accessibility_pick_start_time">Aloitusaika</string>
   <string name="accessibility_pick_time_zone">Aikavyöhyke</string>
-  <string name="accessibility_reminder_time">Muistutuksen aika</string>
   <string name="accessibility_remove_attendee">Poista osallistuja</string>
   <string name="accessibility_remove_reminder">Poista muistutus</string>
   <string name="accessibility_repeats">Toisto</string>
   <string name="accessibility_sync_cal">Synkronoi Kalenteri</string>
   <string name="account_and_calendar">Tilit</string>
-  <string name="accounts">Tilit ja synkronointi</string>
-  <string name="acct_not_synced">Tätä tiliä ei synkronoida. Kalenterisi ei välttämättä ole ajan tasalla.</string>
   <string name="acessibility_cal_notification">Kalenteri-ilmoitus</string>
-  <string name="acessibility_selected_marker_description">Valittu tapahtuma</string>
-  <string name="action_bar_more_menu_view_description">Lisää</string>
   <string name="action_bar_return">Takaisin</string>
   <string name="action_text_card_manager">Kanava</string>
-  <string name="action_text_today">Tänään</string>
   <string name="ad_card_connecting">连接中</string>
   <string name="ad_card_download_count">%1$s人下载</string>
   <string name="ad_card_download_count_million">%1$s万人下载</string>
@@ -82,10 +75,8 @@
   <string name="add_event">Lisää tapahtuma</string>
   <string name="address">地址</string>
   <string name="agenda_month_empty_hint">Ei tapahtumia tänään</string>
-  <string name="agenda_today">TÄNÄÄN, %1$s</string>
   <string name="agenda_tomorrow">HUOMENNA, %1$s</string>
   <string name="agenda_view">Tapahtumat</string>
-  <string name="agenda_yesterday">Eilen, %1$s</string>
   <string name="alarm_label">Unohda</string>
   <string name="alert_reminder_divider">|</string>
   <string name="alert_reminder_expired">Vanhentunut</string>
@@ -112,12 +103,6 @@
   <string name="birthday_term">Syntymäpäivä</string>
   <string name="book_card_free">免费</string>
   <string name="book_card_rating_text">|   %1$s 条评论</string>
-  <string name="button_day">Päivä</string>
-  <string name="button_month">Kuukausi</string>
-  <string name="button_week">Viikko</string>
-  <string name="calculate_result">Tulos</string>
-  <string name="calendar_network_error">网络错误</string>
-  <string name="calendar_refresh">Päivitä</string>
   <string name="can_not_create_long_event">Tapahtuman nimi on liian pitkä</string>
   <string name="can_not_modify_allday_event">Koko päivän tapahtumaa ei voida muokata</string>
   <string name="can_not_modify_event">Tapahtumaa ei voida muokata</string>
@@ -128,7 +113,6 @@
   <string name="card_detail_dialog_title">Tilataanko nyt?</string>
   <string name="card_detail_hint">Sisältö näytetään aloitusnäytöllä ja päivitetään päivittäin, kun tilaat sen</string>
   <string name="card_detail_title">Tiedot</string>
-  <string name="card_manager">Hallitse tilauksia</string>
   <string name="card_manager_no_data">Ei tilauksia vielä</string>
   <string name="card_title_change">Lisää</string>
   <string name="change_response_title">Muuta vastausta</string>
@@ -177,10 +161,8 @@
   <string name="date_today">" (tänään)"</string>
   <string name="day_view_new_event_hint">+ Uusi tapahtuma</string>
   <string name="default_reminder_mode">Muistutukset</string>
-  <string name="delete_calendar">Poista tilaus</string>
   <string name="delete_recurring_event_title">Poistetaanko %s?</string>
   <string name="delete_this_event_title">Poistetaanko tämä tapahtuma?</string>
-  <string name="deleting_calendar">Poistetaan tilausta…</string>
   <string name="description_calendar">Järjestelmäsovellukset/Kalenteri</string>
   <string name="description_calendar_edit_event">Järjestelmäsovellukset/Kalenteri/Agenda</string>
   <string name="description_calendar_huangli"/>
@@ -190,8 +172,6 @@
   <string name="does_not_repeat">Yksittäinen tapahtuma</string>
   <string name="done">Takaisin</string>
   <string name="download">下载</string>
-  <string name="download_finished">下载完成</string>
-  <string name="downloaded">已下载</string>
   <string name="downloading">下载中</string>
   <string name="downloading_wallpaper">原图下载中</string>
   <string name="edit_date_calculate_days_backward_error_hint">Eteenpäin ei voi laskea</string>
@@ -203,7 +183,6 @@
   <string name="edit_event_birthday_import_from_contact">Tuo syntymäpäivä yhteystiedoista</string>
   <string name="edit_event_birthday_name_empty_hint">Syötä nimi</string>
   <string name="edit_event_birthday_name_hint">Nimi</string>
-  <string name="edit_event_birthday_reminder_time">Muistutusaika</string>
   <string name="edit_event_calendar_label">Kalenteri</string>
   <string name="edit_event_choose_date">Valitse päivämäärä</string>
   <string name="edit_event_confirm_message">Hylätäänkö muutokset?</string>
@@ -276,7 +255,6 @@
   <string name="flight_seat_no">座位%1$s</string>
   <string name="flight_state">航班状态</string>
   <string name="flight_time">实际%1$s</string>
-  <string name="force_touch_title_add_new_event">Lisää tapahtuma</string>
   <string name="fortune_birthday">生日</string>
   <string name="fortune_card_caiwei">财位：</string>
   <string name="fortune_card_set_bazi">设置生辰八字</string>
@@ -381,7 +359,6 @@
   <string name="limit_setting_label">车辆限行提醒设置</string>
   <string name="limit_setting_tips">开启并设置提醒后，你的爱车当天限行时你会收到日历的限行提醒。非数字尾号设置说明：%1$s</string>
   <string name="limit_setting_tips_url">点击查看</string>
-  <string name="limit_tips_bar_title">点击设置限行通知提醒，爱车限行早知道</string>
   <string name="limit_today">今天</string>
   <string name="limit_tomorrow">明天</string>
   <string name="live_text">直播</string>
@@ -398,11 +375,9 @@
   <string name="lunar_day"/>
   <string name="lunar_to_solar"/>
   <string name="match_ed">已结束</string>
-  <string name="match_ing">进行中</string>
   <string name="match_not_started">未开始</string>
   <string name="match_select_activity_label">Liigat</string>
   <string name="menu_general_preferences">Yleiset asetukset</string>
-  <string name="menu_preferences">Asetukset</string>
   <string name="menu_reminder_preferences">Muistutukset</string>
   <string name="missing_name">(Ei nimeä)</string>
   <string name="missing_required_permission">Olet rajoittanut vaadittavia käyttöoikeuksia.</string>
@@ -448,8 +423,6 @@
   <string name="movie_event_title">电影：</string>
   <string name="network_not_available">Verkkoyhteyttä ei voi muodostaa</string>
   <string name="new_event_description">Uusi</string>
-  <string name="new_event_dialog_label">Uusi tapahtuma</string>
-  <string name="new_event_dialog_option">Uusi tapahtuma</string>
   <string name="no_contact_birthday_hint">Ei tuotavia syntymäpäiviä</string>
   <string name="no_events_hint">Ei tapahtumia</string>
   <string name="no_network">"Verkkoyhteyttä ei voitu muodostaa.
@@ -459,7 +432,6 @@ Tarkista verkkoyhteys ja yritä uudelleen."</string>
   <string name="no_visiable_calendar_message">Sinun täytyy lisätä kalenteritili. Napauta Lisää tili jatkaaksesi.</string>
   <string name="no_visiable_calendar_select_account">Lisää tili</string>
   <string name="no_visiable_calendar_title">Lisää tili</string>
-  <string name="not_synced">ei synkronoitu</string>
   <string name="olympic_rank">排名</string>
   <string name="olympic_total">总数</string>
   <string name="olympic_vs">VS</string>
@@ -490,7 +462,6 @@ Tarkista verkkoyhteys ja yritä uudelleen."</string>
   <string name="pengzu">彭祖</string>
   <string name="phone_num">电话</string>
   <string name="prefDialogTitle_vibrateWhen">Värinä</string>
-  <string name="pref_error_no_ringtone_select">Oletus soittoääni</string>
   <string name="pref_reminder_time">Muistutuksen aika</string>
   <string name="pref_title_alarm_remind">Muistuta hälytyksellä</string>
   <string name="pref_title_no_remind">Ei muistutusta</string>
@@ -516,7 +487,6 @@ Tarkista verkkoyhteys ja yritä uudelleen."</string>
   <string name="preferences_use_home_tz_title">Käytä kotiaikavyöhykettä</string>
   <string name="preferences_week_start_day_dialog">Viikko alkaa päivänä</string>
   <string name="preferences_week_start_day_title">Viikko alkaa päivänä</string>
-  <string name="provided_ad">赞助商提供</string>
   <string name="pull_to_refresh_hint">Vedä lataaksesi tapahtumat %1$d ajalta</string>
   <string name="recommend_card_add">立即订阅</string>
   <string name="recommend_card_adding">订阅中</string>
@@ -557,14 +527,12 @@ Tarkista verkkoyhteys ja yritä uudelleen."</string>
   <string name="rest_day_indication">: )</string>
   <string name="saving_event">Tapahtuma tallennettu.</string>
   <string name="saving_event_with_guest">Lähetetään päivityksiä…</string>
-  <string name="search">Haku</string>
   <string name="search_calendar">Päiväys;Kuun termit;Kuu;Almanakka;Ennustus;Agenda;Kokous;Muistutus;Loma;Juhlapyhä;Syntymäpäivä;2016;2017;Kevätjuhla;Uudenvuoden päivä;Kansainvälinen Työläisten päivä;Keskisyksyn juhla</string>
   <string name="search_calendar_edit_event">Kokous;Muistutus;Agenda</string>
   <string name="search_calendar_huangli"/>
   <string name="search_calendar_settings">Kalenteri;Agenda;Muistutus</string>
   <string name="search_calendar_subscribe_group"/>
   <string name="select_date">Siirry päivämäärään</string>
-  <string name="select_synced_calendars_title">Synkronoitavat kalenterit</string>
   <string name="set_as_wallpaper">设为壁纸</string>
   <string name="setting_about_calendar_version">Kalenterin versio:</string>
   <string name="setting_about_imei">IMEI:</string>
@@ -628,11 +596,8 @@ Tarkista verkkoyhteys ja yritä uudelleen."</string>
   <string name="subscribe_card_success">Tilattiin onnistuneesti! Tarkista tiedot kotisivulta.</string>
   <string name="subscribe_card_success_for_homepage">Tilattiin “%1$s” onnistuneesti</string>
   <string name="subscribe_channel_bottom_hint">—— Mi Kalenteri ——</string>
-  <string name="subscribe_channel_click_hint">Tilaus vaaditaan</string>
-  <string name="subscribe_channel_footer_button">Hallitse tilauksia</string>
   <string name="subscribe_channel_footer_desc">Tarkista tilauksesi tai poista tilaus</string>
   <string name="subscribe_channel_footer_title">Tilattu</string>
-  <string name="subscribe_channel_footer_view">Tarkista</string>
   <string name="subscribe_channel_hint">"Tilaa tykkäämäsi palvelut ja vastaanota päivityksiä päivittäin kotisivullesi
 Voit myös lisätä muistutuksia, jotta et menetä mitään tärkeää."</string>
   <string name="subscribe_channel_subscribe">Tilaa</string>
@@ -640,14 +605,11 @@ Voit myös lisätä muistutuksia, jotta et menetä mitään tärkeää."</string
   <string name="subscribe_channel_title">Kanava</string>
   <string name="subscribing_card">Tilataan</string>
   <string name="swipe_up_guide_hint_text">上滑发现更多</string>
-  <string name="synced">synkronoitu</string>
   <string name="taishen">胎神</string>
   <string name="talk_back_month">月</string>
   <string name="talk_back_read_date">%1$s (%2$s kuukalenterin mukaan)</string>
   <string name="talk_back_setting">Asetukset</string>
   <string name="template_announce_item_index">Tapahtuma %1$s / %2$s.</string>
-  <string name="template_week_num">Viikko %1$s</string>
-  <string name="text_day">日</string>
   <string name="text_year">年</string>
   <string name="ticket_card_date">%1$s月%2$s日</string>
   <string name="ticket_card_description">今日可预定</string>

@@ -76,6 +76,10 @@
         <item quantity="other">Voit syöttää enintään %1$d päivää</item>
         <item quantity="one">Voit syöttää enintään %1$d päivän</item>
     </plurals>
+    <plurals name="event_reminders_to_max">
+        <item quantity="other">Voit asettaa enintään %d muistutusta</item>
+        <item quantity="one">Voit asettaa enintään %d muistutuksen</item>
+    </plurals>
     <plurals name="month_more_events">
         <item quantity="other">+%d</item>
         <item quantity="one">+1</item>
@@ -102,10 +106,6 @@
     <plurals name="work_days">
         <item quantity="other">%d työpäivää</item>
         <item quantity="one">%d työpäivä</item>
-    </plurals>
-    <plurals name="event_reminders_to_max">
-        <item quantity="other">Voit asettaa enintään %d muistutusta</item>
-        <item quantity="one">Voit asettaa enintään %d muistutuksen</item>
     </plurals>
     <plurals name="Ndays_after">
         <item quantity="other">%1$d天后</item>

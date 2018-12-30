@@ -394,6 +394,8 @@ katsoaksesi avoimia välilehtiä muilta laitteilta."</string>
     <string name="guide_motor_text">moottori</string>
     <string name="guide_politics_text">politiikka</string>
     <string name="guide_skip">Ohita</string>
+    <string name="guide_slide_down">Pyyhkäise alaspäin</string>
+    <string name="guide_slide_up">Pyyhkäise ylöspäin</string>
     <string name="guide_sports_text">urheilu</string>
     <string name="guide_start_experience">Aloita</string>
     <string name="guide_tech_text">teknologia</string>

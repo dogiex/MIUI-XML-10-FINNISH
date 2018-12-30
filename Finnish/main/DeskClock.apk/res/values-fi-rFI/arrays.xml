@@ -64,13 +64,12 @@
         <item>Guinea</item>
         <item>Senegal</item>
         <item>Tansania</item>
-        <item>Djiboutin tasavalta</item>
+        <item>Djibouti</item>
         <item>Sierra Leone</item>
         <item>Botswana</item>
         <item>Zimbabwe</item>
         <item>Etelä-Afrikka</item>
         <item>Uganda</item>
-        <item>Sudanin tasavalta</item>
         <item>Ruanda</item>
         <item>Kongon demokraattinen tasavalta</item>
         <item>Nigeria</item>
@@ -83,7 +82,6 @@
         <item>Tunisia</item>
         <item>Yhdysvallat</item>
         <item>Argentiina</item>
-        <item>Aruba</item>
         <item>Paraguay</item>
         <item>Barbados</item>
         <item>Belize</item>
@@ -102,7 +100,6 @@
         <item>Kanada</item>
         <item>El Salvador</item>
         <item>Brasilia</item>
-        <item>Turks- ja Caicossaaret</item>
         <item>Grenada</item>
         <item>Guatemala</item>
         <item>Guyana</item>
@@ -137,8 +134,6 @@
         <item>Yhdysvallat</item>
         <item>Trinidad ja Tobago</item>
         <item>Haiti</item>
-        <item>Puerto Rico</item>
-        <item>Dominikaaninen tasavalta</item>
         <item>Brasilia</item>
         <item>Kanada</item>
         <item>Saint Kitts ja Nevis</item>
@@ -148,7 +143,6 @@
         <item>Kanada</item>
         <item>Kanada</item>
         <item>Kanada</item>
-        <item>Antarktis</item>
         <item>Svalbard ja Jan Mayen</item>
         <item>Kazakstan</item>
         <item>Jordania</item>
@@ -168,7 +162,7 @@
         <item>Vietnam</item>
         <item>Kiina</item>
         <item>Indonesia</item>
-        <item>Israel</item>
+        <item></item>
         <item>Afghanistan</item>
         <item>Pakistan</item>
         <item>Nepal</item>
@@ -182,7 +176,6 @@
         <item>Qatar</item>
         <item>Myanmar</item>
         <item>Saudi-Arabia</item>
-        <item>Kiina</item>
         <item>Etelä-Korea</item>
         <item>Kiina</item>
         <item>Singapore</item>
@@ -240,14 +233,14 @@
         <item>Tšekki</item>
         <item>Latvia</item>
         <item>Italia</item>
-        <item>San Marino</item>
+        <item></item>
         <item>Bosnia ja Hertsegovina</item>
-        <item>Ukraina</item>
+        <item></item>
         <item>Makedonia</item>
         <item>Bulgaria</item>
         <item>Ruotsi</item>
         <item>Viro</item>
-        <item>Vatikaanivaltio</item>
+        <item></item>
         <item>Itävalta</item>
         <item>Liettua</item>
         <item>Puola</item>
@@ -260,11 +253,8 @@
         <item>Fidži</item>
         <item>Guam</item>
         <item>Yhdysvallat</item>
-        <item>Australia</item>
         <item>Uusi-Kaledonia</item>
-        <item>Samoa</item>
         <item>Ranskan Polynesia</item>
-        <item>Antigua ja Barbuda</item>
         <item>Yhdysvallat</item>
         <item>Yhdysvallat</item>
         <item>Kanada</item>

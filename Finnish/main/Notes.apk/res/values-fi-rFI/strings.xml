@@ -52,6 +52,10 @@
   <string name="cancel_alarm_description">Peruuta hälytys</string>
   <string name="cloud_service_state_open_reminder">Ota Mi Pilven synkronointi käyttöön synkronoidaksesi muistiot.</string>
   <string name="cloud_trash_bin_title">Poista muistiot Mi Pilvestä</string>
+  <string name="cta_confirm_cancel">Älä salli</string>
+  <string name="cta_confirm_ok">Salli</string>
+  <string name="cta_dialog_message">Muistio tarvitsee käyttöoikeuksia yhdistää internetiin, nauhoittaa ääntä ja käyttää yhteystietojasi toimiakseen normaalisti. Sallitaanko?</string>
+  <string name="cta_dialog_title">Käyttöoikeuksia vaaditaan</string>
   <string name="cta_reminder">Muistio tarvitsee käyttöoikeuden yhdistää internetiin, nauhoittaa ääntä ja käyttää yhteystietojasi toimiakseen normaalisti. Sallitko?</string>
   <string name="date_time_picker_alarm_reminder">Hälytys</string>
   <string name="date_time_picker_dialog_title">Aseta päivämäärä ja aika</string>

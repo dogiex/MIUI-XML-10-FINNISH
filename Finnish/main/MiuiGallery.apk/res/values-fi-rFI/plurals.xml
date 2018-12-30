@@ -76,6 +76,10 @@
         <item quantity="other">%d videota</item>
         <item quantity="one">%d video</item>
     </plurals>
+    <plurals name="creation_max_image">
+        <item quantity="other">Valitse enintään %d kuvaa</item>
+        <item quantity="one">Valitse enintään %d kuva</item>
+    </plurals>
     <plurals name="custom_select_title_items_selected">
         <item quantity="other">%d kohdetta valittu</item>
         <item quantity="one">%d kohde valittu</item>

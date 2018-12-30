@@ -13,8 +13,9 @@ Kaikki laitteellasi olevat tiedot voidaan poistaa ja Lukitusnäytön salasanasi 
   <string name="gb_msg_not_shielded_summary">Näytä</string>
   <string name="gs_gamebox">Pelin sisäiset pikakuvakkeet</string>
   <string name="gs_gamebox_detail">Näytä pelin sisäinen pikakuvakepaneeli</string>
-  <string name="midrop_post_notification_contentText">Kokeile Mi Dropia, jonka siirtonopeus on jopa 50M/s.</string>
-  <string name="midrop_post_notification_contentTitle">Jaatko tiedostoja?</string>
+  <string name="gs_gamebox_slip">Avaa painamalla näyttöä alaspäin</string>
+  <string name="midrop_post_notification_contentText">Siirrä tiedostoja jopa 50 Mt/s nopeudella Mi Dropissa.</string>
+  <string name="midrop_post_notification_contentTitle">Onko tarvetta jakaa tiedostoja?</string>
   <string name="screenrecord_not_find">Asenna viimeisin versio Näytön Nauhoittajasta ja yritä uudelleen.</string>
   <!-- MIUI 10 valmis -->
   <string name="Phonepass">Salli puhelut</string>
@@ -637,7 +638,7 @@ Operaattorisi saattaa veloittaa sinulta lisäkustannuksia jos otat mobiilidatan 
   <string name="descx_quick_scan_cancel">Skannaus peruutettu</string>
   <string name="descx_quick_scan_preparation">Odota hetki…</string>
   <string name="detail_app_button">Sovellustiedot</string>
-  <string name="details_subtitle">Käytön tiedot</string>
+  <string name="details_subtitle">Käyttötiedot</string>
   <string name="diagnostic_attention_dialog_message">%1$s diagnostiikka on käynnissä. Odota sen valmistumista ja yritä uudelleen..</string>
   <string name="dialog_app_roaming_message">%1$s ei voi käyttää mobiilidataa roaming-tilassa. Kun olet ulkomailla roaming-tilassa, vain poikkeuslistalle lisäämäsi sovellukset voi käyttää mobiilidataa.</string>
   <string name="dialog_app_roaming_title">Ulkomaan roaming-tila ei ole käytössä sovellukselle %1$s</string>
@@ -934,7 +935,8 @@ Jotta voit käyttää laitteesi kaikkia ominaisuuksia normaalisti, Äärimmäine
   <string name="gamebooster_lowbattery_notification_title">Akun taso on vähemmän, kuin 5%%</string>
   <string name="gamebooster_main_activity_back">Takaisin</string>
   <string name="gamebooster_network_dialog_message">Sallitaanko Tietoturvan yhdistää verkkoon, jotta voidaan käyttää Pelien nopeuttajan kaikkia ominaisuuksia?</string>
-  <string name="gamebooster_network_dialog_title">Jotkut ominaisuudet ei ole käytettävissä</string>
+  <string name="gamebooster_network_dialog_title">Jotkut ominaisuudet eivät ole käytettävissä</string>
+  <string name="gamebox_app_not_find">Asenna sovellus ensin.</string>
   <string name="gamebox_qq_not_find">Asenna QQ ja yritä uudelleen.</string>
   <string name="gamebox_type_close">Älä näytä</string>
   <string name="gamebox_type_float">Kiinteä pikakuvake</string>
@@ -2200,6 +2202,7 @@ jonka määritit manuaalisesti (%2$s). Vaihdetaanko SIM-kortin sijainniksi %3$s?
   <string name="summary_permission">Vältä ei-toivottuja maksuja suojaa henkilökohtaiset tiedot</string>
   <string name="summary_permission_root">Näyttää, että tällä laitteella on root oikeus. Se saattaa vahingoittaa laitteesi tietoturvaa.</string>
   <string name="summary_power_optimizer">Vähennä laitteesi suorituskykyä, kun akun taso on alhainen</string>
+  <string name="summary_rcs_switch">Lähetä tekstiviestejä China Mobile -käyttäjille ilman kustannuksia</string>
   <string name="summary_realname_verify">Vahvista henkilöllisyytesi, jotta maksuista tulee turvallisempaa.</string>
   <string name="summary_restrict_data_usage">Rajoitit tämän sovelluksen datan käyttöä.</string>
   <string name="summary_show_notification">Tyhjennä välimuisti, näytä akun tila, ja estä kohteita Ilmoitusalueella</string>
@@ -2392,6 +2395,7 @@ Tässä ohjeet:
   <string name="title_permission_root">Root oikeus</string>
   <string name="title_permission_yes">Käyttöoikeuden hallinta käytössä</string>
   <string name="title_power_optimizer">Virransäästö</string>
+  <string name="title_rcs_switch">Ota China Mobile Viestintä käyttöön</string>
   <string name="title_realname_verify">ID varmistus</string>
   <string name="title_reply">Kommentoi</string>
   <string name="title_restrict_data_usage">%s ei voi yhdistää internetiin?</string>

@@ -8,4 +8,16 @@
         <item quantity="other">%d minuuttia jäljellä</item>
         <item quantity="one">%d minuutti jäljellä</item>
     </plurals>
+    <plurals name="duration_seconds">
+        <item quantity="other">%d sekuntia</item>
+        <item quantity="one">1 sekunti</item>
+    </plurals>
+    <plurals name="duration_minutes">
+        <item quantity="other">%d minuuttia</item>
+        <item quantity="one">1 minuutti</item>
+    </plurals>
+    <plurals name="duration_hours">
+        <item quantity="other">%d tuntia</item>
+        <item quantity="one">1 tunti</item>
+    </plurals>
 </resources>

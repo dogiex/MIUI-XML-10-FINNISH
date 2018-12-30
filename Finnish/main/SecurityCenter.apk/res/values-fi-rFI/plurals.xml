@@ -249,8 +249,8 @@ Jos otat mobiilidatan uudelleen käyttöön, operaattorisi saattaa veloittaa sin
         <item quantity="one">%d riski,</item>
     </plurals>
     <plurals name="hints_handle_item_text_virus_number">
-        <item quantity="other">%d troijalaista,</item>
-        <item quantity="one">%d troijalainen,</item>
+        <item quantity="other">%d troijalaista</item>
+        <item quantity="one">%d troijalainen</item>
     </plurals>
     <plurals name="white_list_risk_app_header">
         <item quantity="other">Vaarallisia sovelluksia: %d</item>
@@ -372,5 +372,11 @@ Jos otat mobiilidatan uudelleen käyttöön, operaattorisi saattaa veloittaa sin
     <plurals name="first_aid_result_summary_exception">
         <item quantity="other">%1$d ongelmaa vaatii optimointia</item>
         <item quantity="one">%1$d ongelma vaatii optimointia</item>
+    </plurals>
+    <plurals name="game_booster_incoming_call_duration_p1">
+        <item quantity="other">%1$s:</item>
+    </plurals>
+    <plurals name="game_booster_incoming_call_duration_p2">
+        <item quantity="other">%1$s</item>
     </plurals>
 </resources>

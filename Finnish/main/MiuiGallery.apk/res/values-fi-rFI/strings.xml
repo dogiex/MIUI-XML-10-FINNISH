@@ -726,6 +726,7 @@
   <string name="collage_poster_global_summer_flower_text">KESÄ</string>
   <string name="collage_poster_global_tea_text">TEEHETKI</string>
   <string name="collage_rotate">Kierrä</string>
+  <string name="collage_select_image_range">Kollaasit voivat sisältää 1-4 kuvaa</string>
   <string name="collage_title_layout">Ulkoasu</string>
   <string name="collage_title_poster">Juliste</string>
   <string name="collaps_people">Piilota</string>
@@ -993,6 +994,7 @@ on käytettävissä"</string>
   <string name="finish_fill_baby">Luo</string>
   <string name="flash_off">Ei salamaa</string>
   <string name="flash_on">Salama käytössä</string>
+  <string name="frame_not_support_image_ratio">Tätä kuvasuhdetta ei tueta</string>
   <string name="free_view_desc">3D-näkymä</string>
   <string name="gallery_setting">Asetukset</string>
   <string name="gallery_sync_disable_toast">Gallerian synkronointi ei ole käytössä</string>
@@ -1163,6 +1165,7 @@ mukauttaaksesi Galleriasi"</string>
   <string name="operation_in_process">Käsitellään…</string>
   <string name="operation_move_to_other_albums">Siirrä toisiin albumeihin</string>
   <string name="operation_not_show_in_photos_tab">Älä näytä Kuvissa</string>
+  <string name="operation_produce">Luovuus</string>
   <string name="operation_projection">Suoratoista</string>
   <string name="operation_remove_face">Poista</string>
   <string name="operation_remove_from_face_album">Poista albumista</string>
@@ -1205,10 +1208,12 @@ mukauttaaksesi Galleriasi"</string>
   <string name="photo_editor_beauty_compare">Alkuperäinen</string>
   <string name="photo_editor_crop_and_rotate">Rajaa</string>
   <string name="photo_editor_crop_auto">Auto</string>
+  <string name="photo_editor_crop_auto_tips">Rajattiin automaattisesti</string>
   <string name="photo_editor_crop_reset">Nollaa</string>
   <string name="photo_editor_crop_rotation_format">%d°</string>
   <string name="photo_editor_doodle">Piirrä</string>
   <string name="photo_editor_filter">Suodata</string>
+  <string name="photo_editor_frame">Kehys</string>
   <string name="photo_editor_label">Muokkaa</string>
   <string name="photo_editor_long_crop">Rajaa</string>
   <string name="photo_editor_miui_beauty">Kaunista</string>
@@ -1263,6 +1268,7 @@ mukauttaaksesi Galleriasi"</string>
   <string name="photo_editor_talkback_redo">Tee uudelleen</string>
   <string name="photo_editor_talkback_undo">Kumoa</string>
   <string name="photo_editor_text">Teksti</string>
+  <string name="photo_movie_select_image_range">Videoleikkeet voivat sisältää 3-6 kuvaa</string>
   <string name="photo_page_save_uri_image_fail">Galleriaan tallentaminen epäonnistui</string>
   <string name="photo_page_save_uri_image_ok">Kuva tallennettiin Galleriaan</string>
   <string name="photo_print_menu_loading">Ladataan liitännäistä…</string>
@@ -1476,6 +1482,7 @@ mukauttaaksesi Galleriasi"</string>
   <string name="secret_reason_unknow_reasons">Tuntematon virhe</string>
   <string name="secret_reason_video_not_support">Videoita ei voi lisätä piilotettuun albumiin</string>
   <string name="see_ignore_faces">Näytä henkilöt, jotka olet ohittanut</string>
+  <string name="select_image_operation">Lisätään kuvia</string>
   <string name="select_item_face">"Onko tämä '%s'?"</string>
   <string name="select_origin_tip">Alkuperäinen tiedosto (%s)</string>
   <string name="send_file_beautify_failed">Jakaminen epäonnistui</string>
@@ -1613,6 +1620,7 @@ mukauttaaksesi Galleriasi"</string>
   <string name="unpublish_failed">Julkaisun lopetus epäonnistui</string>
   <string name="unpublish_succeeded">Albumin julkaisu lopetettiin</string>
   <string name="unpublishing">Peruutetaan…</string>
+  <string name="unsupport_video">%s ei toimi videoiden kanssa</string>
   <string name="user_agree">Hyväksy</string>
   <string name="user_agreement2">Palveluehdot</string>
   <string name="user_agreement4">Tietosuojakäytännön</string>

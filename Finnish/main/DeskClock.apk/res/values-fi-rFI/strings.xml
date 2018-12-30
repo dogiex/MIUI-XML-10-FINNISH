@@ -39,7 +39,7 @@
   <string name="timer_pause_timer">Pysäytä ajastin</string>
   <string name="timer_running">Ajastin on käynnissä</string>
   <string name="timer_start_timer">Käynnistä ajastin</string>
-  <string name="worldclock_input_hint_text">Anna kaupunki</string>
+  <string name="worldclock_input_hint_text">Hae maata tai kaupunkia</string>
   <string name="worldclock_search_city">Valitse kaupunki</string>
   <string name="worldclock_world_time">Aikavyöhykkeet</string>
   <string name="worldcolock_timezone_current">Nykyinen: %1$s</string>
@@ -206,6 +206,10 @@
   <string name="timer_alarm_cancel_pad">Lopeta ääni napauttamalla näyttöä</string>
   <string name="timer_alarm_dot_matrix_label">AJASTIN</string>
   <string name="timer_alert_alert_silenced">Ajastin hiljennetty %d minuutin jälkeen.</string>
+  <string name="timer_alert_mute_off">Hälytys soi kun ajastin loppuu</string>
+  <string name="timer_alert_mute_on">Hälytys ei soi kun ajastin loppuu</string>
+  <string name="timer_alert_mute_remind">Mykistä hälytys napauttamalla</string>
+  <string name="timer_alert_mute_switch">Ajastimen hälytyksien mykistämiskytkin</string>
   <string name="timer_clock_alert_text">Aseta ajastin</string>
   <string name="timer_continue">Jatka</string>
   <string name="timer_got_it">OK</string>
