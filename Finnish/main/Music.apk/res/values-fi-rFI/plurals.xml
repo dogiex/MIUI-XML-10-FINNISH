@@ -102,6 +102,10 @@ Huomio: Tiedosto poistetaan myös tältä laitteelta."</item>
         <item quantity="other">%d kappaletta</item>
         <item quantity="one">%d kappale</item>
     </plurals>
+    <plurals name="video_count">
+        <item quantity="other">Videota</item>
+        <item quantity="one">Video</item>
+    </plurals>
     <plurals name="video_play_count">
         <item quantity="other">%1$s katselukertaa</item>
         <item quantity="one">%1$s katselukerta</item>

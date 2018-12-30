@@ -54,13 +54,11 @@
   <string name="always_use_metered">Käytä aina mobiilidataa</string>
   <string name="app_label">Lataukset</string>
   <string name="artist">Artisti</string>
-  <string name="artist_album">Albumi</string>
   <string name="artist_area_all">Kaikki</string>
   <string name="artist_area_china">Kiina</string>
   <string name="artist_area_europe_usa">Eurooppa/USA</string>
   <string name="artist_area_japan">Japani</string>
   <string name="artist_area_korea">Korea</string>
-  <string name="artist_favor">Kiinnostavat</string>
   <string name="artist_gender_all">Kaikki</string>
   <string name="artist_gender_female">Nainen</string>
   <string name="artist_gender_group">Ryhmä</string>
@@ -68,7 +66,6 @@
   <string name="artist_home_search_hint">Etsi artisteja</string>
   <string name="artist_is_empty">Artistin nimi ei voi olla tyhjä.</string>
   <string name="artist_name">Artisti</string>
-  <string name="artist_news">Uutiset</string>
   <string name="audio_picker_title">Valitse kappale</string>
   <string name="auto_update">Päivitä automaattisesti</string>
   <string name="auto_update_tip">Voit päivittää järjestelmäsovelluksia käyttäen mobiilidataa. Tämä saattaa lisätä lisäkustannuksia.</string>
@@ -117,8 +114,6 @@
   <string name="connect_now">Yhdistä</string>
   <string name="connecting_apk">Yhdistetään…</string>
   <string name="count_format">%2$1.1fK</string>
-  <string name="cp_info_first">Musiikin online suoratoistopalvelun pääosin tarjoaa Ultimate Oy.</string>
-  <string name="create_order_fail">Tilausta ei voitu luoda, yritä uudelleen.</string>
   <string name="create_playlist">Luo soittolista</string>
   <string name="create_playlist_failure">Soittolistan luominen epäonnistui</string>
   <string name="current_album">Nykyinen albumin kansikuva</string>
@@ -175,7 +170,6 @@
   <string name="dialog_title_queued_body">Tiedosto ei ole vielä käytettävissä</string>
   <string name="dialog_title_remove_tracks">Poista</string>
   <string name="disallow_add_to_fm">FM Radioon ei voi lisätä kappaleita</string>
-  <string name="disallow_add_to_personal_radio">Henkilökohtaiseen radioon ei voi lisätä kappaleita</string>
   <string name="do_not_remind_this_version">Älä muistuta minua tästä versiosta</string>
   <string name="download">Lataa</string>
   <string name="download_added_to_list">Lisättiin latauslistalle</string>
@@ -371,7 +365,6 @@
   <string name="individuation_card_login_message">Kirjaudu sisään löytääksesi lisää rakastamiasi kappaleita</string>
   <string name="individuation_card_title">Sinulle</string>
   <string name="individuation_cart_login_title">Haluatko nähdä lisää suosituksia?</string>
-  <string name="individuation_recommend_message">Ota suositukset käyttöön, jotta saat henkilökohtaisia suosituksia.</string>
   <string name="individuation_recommend_switch_message">Tämän palvelun poistaminen käytöstä vaikuttaa henkilökohtaiseen Mi Musiiki-palveluihin. Poistetaanko käytöstä siitä huolimatta?</string>
   <string name="individuation_recommend_title">Suositukset</string>
   <string name="input_hint_prefix">Anna %1$s</string>
@@ -381,11 +374,6 @@
   <string name="is_scanning">Tarkistetaan tallennustilaa…</string>
   <string name="is_scanning_support_online">"Tarkistetaan tallennustilaa…
 (Sillä aikaa voit suoratoistaa musiikkia)"</string>
-<string name="karaoke_message">Lataa ja asentaa Karaoke-liitännäinen, jotta voit käyttää tätä ominaisuutta.</string>
-  <string name="karaoke_my_studio">Studioni</string>
-  <string name="karaoke_negative_text">Myöhemmin</string>
-  <string name="karaoke_positive_text">OK</string>
-  <string name="karaoke_title">Esittelyssä karaoke</string>
   <string name="keep_queued_download">Säilytä</string>
   <string name="ktv_playlist">KTV soittolista</string>
   <string name="language_page_confirm">Vahvista</string>
@@ -403,8 +391,6 @@
   <string name="local_music_is_not_available">Laitteellasi ei ole kappaleita.</string>
   <string name="local_page_album_more">Näytä kaikki</string>
   <string name="local_page_artist_more">Lisää kappaleita artistilta %s</string>
-  <string name="local_page_custom_subtitle">Uusia kappaleita joka päivä</string>
-  <string name="local_page_custom_title">Sinulle</string>
   <string name="local_page_playlist">Soittolistat</string>
   <string name="local_page_song_download_history">Lataukset</string>
   <string name="long_press_to_select_lyric">Paina &amp; pidä pohjassa valitaksesi paikallinen sanoitustiedosto</string>
@@ -439,7 +425,6 @@
   <string name="miuishare_account_login_ok">Kirjaudu sisään</string>
   <string name="miuishare_no_network">Verkkoyhteyttä ei voi muodostaa.</string>
   <string name="miuishare_publish">Lähetä</string>
-  <string name="miuishare_share_done">Jaettiin onnistuneesti</string>
   <string name="miuishare_share_editor_title">Jaa</string>
   <string name="miuishare_title_more">Lisää</string>
   <string name="miuishare_title_share">Jaa</string>
@@ -451,7 +436,7 @@
   <string name="modify_song_info_success">Kappaleen tiedot päivitettiin</string>
   <string name="more">Lisää</string>
   <string name="more_add_song_list">Lisää kappaleita jonoon</string>
-  <string name="more_milink">Mi Linkki</string>
+  <string name="more_milink_and_bluetooth">Mi Linkki &amp; Bluetooth</string>
   <string name="more_settings">Lisäasetukset</string>
   <string name="more_settings_summary">Nukkuma-ajastin, tiedostojen suodattaminen ja paljon muuta</string>
   <string name="more_share">Jaa</string>
@@ -464,9 +449,7 @@
   <string name="my_account">Mi Tili</string>
   <string name="my_music_empty">Soittolista on tyhjä.</string>
   <string name="my_music_empty_goto_online">Kappaleita ei löytynyt</string>
-  <string name="nav_online_playlist">Soittolistat</string>
   <string name="network_error_and_retry">Yhdistäminen epäonnistui, yritä uudelleen napauttamalla</string>
-  <string name="network_failure">Tarkista yhteytesi ja yritä uudelleen.</string>
   <string name="network_request_error">Verkkoyhteyttä ei voi muodostaa</string>
   <string name="network_settings_error">Verkkoyhteyttä ei voi muodostaa</string>
   <string name="network_traffic">Datan käyttö</string>
@@ -479,7 +462,6 @@
   <string name="no_local_songs">Tyhjä</string>
   <string name="no_local_songs_selected">Kappaleita ei voi lähettää, koska niitä ei ole ladattu</string>
   <string name="no_local_source_find">Kappaletta ei löytynyt</string>
-  <string name="no_online_song_selected">Kappaleita ei ole valittuna</string>
   <string name="no_results_return">Ei hakutuloksia</string>
   <string name="no_scanned_songs">Tyhjä</string>
   <string name="no_song_downloaded">Ladattavia kappaleita ei löytynyt</string>
@@ -490,7 +472,6 @@
   <string name="not_login">Ei kirjautuneena</string>
   <string name="not_now">Ei nyt</string>
   <string name="not_selected">Valitse kappale</string>
-  <string name="nothing_changed_toast">Et ole muuttanut vielä mitään.</string>
   <string name="notif_title_file_size">%1$d yhteensä</string>
   <string name="notif_title_multiple_downloading">Ladataan %1$d tiedostoa</string>
   <string name="notif_title_single_downloading">Ladataan %1$s</string>
@@ -606,7 +587,6 @@ Ole onnellinen"</string>
   <string name="search_instant_online_music">Online</string>
   <string name="search_menu_title">Haku</string>
   <string name="search_songs_count">Kappaleet: %d</string>
-  <string name="search_title">Haku</string>
   <string name="select">Valitse</string>
   <string name="select_all">Valitse kaikki</string>
   <string name="select_desc_sub">Voit valita enintään 3 kieltä</string>
@@ -619,7 +599,6 @@ Ole onnellinen"</string>
   <string name="select_three_languages">Voit valita vähintään 3 kieltä</string>
   <string name="selected_count">Valittuna %1$d/%2$d</string>
   <string name="send_to_title">Lähetä kohteeseen (%1$s)</string>
-  <string name="server_error">Tapahtui virhe. Odota minuutti tai kaksi ja yritä uudelleen.</string>
   <string name="service_and_settings">Palvelu ja asetukset</string>
   <string name="session_create_error">Palvelin palautti ISTUNNON LUONTIVIRHE-koodin, ota yhteyttä SDK-kehittäjiin!</string>
   <string name="set_as_ring">Aseta soittoääneksi</string>
@@ -646,8 +625,10 @@ Ole onnellinen"</string>
   <string name="shuffle_on_notif">Sekoitus käytössä.</string>
   <string name="signup_type_silent_default">äänetön</string>
   <string name="signup_type_user_default">LoginSDK consumer</string>
-  <string name="similar_songs">Samankaltaiset kappaleet</string>
-  <string name="similar_videos">Samankaltaiset videot</string>
+  <string name="similar_albums">Samankaltaisia albumeja</string>
+  <string name="similar_playlists">Samankaltaisia soittolistoja</string>
+  <string name="similar_songs">Samankaltaisia kappaleita</string>
+  <string name="similar_videos">Samankaltaisia videoita</string>
   <string name="sleep_mode">Nukkuma-ajastin</string>
   <string name="sleep_mode_canceled">Nukkuma-tila poistettu käytöstä</string>
   <string name="sleep_mode_summary">Lopeta soitin tietyn ajan jälkeen</string>
@@ -669,7 +650,6 @@ Ole onnellinen"</string>
   <string name="storage_internal">Sisäinen tallennustila</string>
   <string name="storage_sd_card">SD-kortti</string>
   <string name="storage_usb">USB tallennustila</string>
-  <string name="stream_quality">Suoratoiston laatu</string>
   <string name="streamloadingtext">Yhdistetään kohteeseen %s</string>
   <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
   <string name="tab_album">Albumit</string>
