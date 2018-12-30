@@ -28,6 +28,33 @@
   <string name="bugreport_dump_start_notification_title">Luodaan virheraporttia…</string>
   <string name="bugreport_tool_log_dumping_desc">Kestää noin minuutin</string>
   <string name="bugreport_tool_log_dumping_title">Luodaan virheraporttia</string>
+  <string name="catch_full_log_action_cancel">Peruuta</string>
+  <string name="catch_full_log_action_complete">Valmis ja lähetä</string>
+  <string name="catch_full_log_action_start">Luo loki</string>
+  <string name="catch_full_log_add_original_photo">Lisää kuva</string>
+  <string name="catch_full_log_add_photo">Lisää kuva</string>
+  <string name="catch_full_log_add_photo_dialog_content">Jos ilmoittamasi ongelma koskee kameran kuvanlaatua, lisää alkuperäinen kuva (rajaamaton) auttaaksesi meitä paikallistamaan ongelman. Lisätäänkö kuva nyt?</string>
+  <string name="catch_full_log_dialog_confirm_text">Siirry Aloitusnäytölle</string>
+  <string name="catch_full_log_dialog_content">MIUI generoi lokia. Tämä saattaa vaikuttaa laitteen yleiseen tuottavuuteen. Jos et voi toistaa ongelmaa, siirry takaisin lokeihin ja napauta \"Peruuta\".</string>
+  <string name="catch_full_log_dump_hprof_failed">Viivelokia ei voitu luoda</string>
+  <string name="catch_full_log_item_content_catch_direct">"Vaiheet:
+1. Palaa takaisin toimintoon, jonka haluat ilmoittaa ja toista se.
+2. Tule takaisin tälle sivulle ja napauta \"Valmis ja lähetä\"."</string>
+  <string name="catch_full_log_item_content_need_open">"Vaiheet:
+1. Napauta \"Luo loki\".
+2. Palaa takaisin toimintoon, jonka haluat ilmoittaa ja toista se.
+3. Tule takaisin tälle sivulle ja napauta \"Valmis ja lähetä\"."</string>
+  <string name="catch_full_log_item_title_audio">Ääni, äänen nauhoittaminen ja puhelun ääni</string>
+  <string name="catch_full_log_item_title_bt">Bluetooth</string>
+  <string name="catch_full_log_item_title_dump_heap">Viive</string>
+  <string name="catch_full_log_item_title_gps">Sijaintipalvelut</string>
+  <string name="catch_full_log_item_title_sensor">Anturit</string>
+  <string name="catch_full_log_item_title_signal">Puhelin, signaali ja mobiiliverkot</string>
+  <string name="catch_full_log_item_title_wifi">Wi-Fi ja Mi Drop</string>
+  <string name="catch_full_log_notification_content">Napauta palataksesi takaisin lokeihin</string>
+  <string name="catch_full_log_notification_title">Luodaan lokia…</string>
+  <string name="catch_full_log_start_dump_hprof">Luo viiveloki</string>
+  <string name="catch_full_log_submit_directly">Lähetä</string>
   <string name="close_feedback_main">Piilota</string>
   <string name="cta_cancel">Peruuta</string>
   <string name="cta_confirm">OK</string>
@@ -274,8 +301,8 @@
   <string name="related_question_answer_details">Liittyvä ongelma</string>
   <string name="reply">Vastaa</string>
   <string name="reply_failed">Vastaaminen epäonnistui</string>
-  <string name="reply_option_log_hint">可选</string>
-  <string name="reply_select_log_hint">选择日志文件</string>
+  <string name="reply_option_log_hint">Valinnainen</string>
+  <string name="reply_select_log_hint">Valitse loki</string>
   <string name="reply_successful">Vastaaminen onnistui</string>
   <string name="report_miui">Ilmoita bugi</string>
   <string name="request_empty_data">Ei tietoja</string>
@@ -302,12 +329,14 @@
   <string name="tab_title_preferences">Asetukset</string>
   <string name="tab_title_report">Palaute</string>
   <string name="title_answer_feedback_main">Löysimme vastauksia!</string>
+  <string name="title_catch_full_log">Lokit</string>
   <string name="title_customer_service">Asiakaspalvelu</string>
   <string name="title_frequent_question_feedback_main">UKK</string>
   <string name="title_mi_family">Mi Koteja lähellä</string>
   <string name="title_nonsystem_app">Muut sovellukset</string>
   <string name="title_same_question_feedback_main">MIUI keskustelupalstalla samankaltaisia ongelmia</string>
   <string name="title_system_app">MIUI sovellukset</string>
+  <string name="toast_catch_full_log_catching">Voit luoda vain yhden lokin kerrallaan.</string>
   <string name="toast_description_required">Sinun täytyy kirjoittaa selitys</string>
   <string name="toast_feedback_collect_store">Kerätään lokeja…</string>
   <string name="toast_feedback_network_unavailable">Verkkoyhteyttä ei voi muodostaa</string>
