@@ -4,11 +4,6 @@
         <item>Poika</item>
         <item>Tyttö</item>
     </string-array>
-    <string-array name="menu_copy_or_move">
-        <item>Siirrä</item>
-        <item>Kopioi</item>
-        <item>@string/cancel</item>
-    </string-array>
     <string-array name="owner_relation">
         <item>Isä</item>
         <item>Äiti</item>
