@@ -55,6 +55,8 @@
     <string name="action_menu_text_share">Jaa</string>
     <string name="action_menu_text_snapshot">Tallenna sivu</string>
     <string name="action_menu_text_video">Video</string>
+    <string name="action_menu_toast_incognito_off">Poista incognito-tila käytöstä</string>
+    <string name="action_menu_toast_incognito_on">Ota incognito-tila käyttöön</string>
     <string name="action_menu_toolbox">Työkalut</string>
     <string name="action_menu_useful_page">Lisää pikakuvake</string>
     <string name="action_menu_useful_page_added">Lisätty aloitussivulle</string>
@@ -102,6 +104,7 @@
     <string name="agree_permissions_request">Salli</string>
     <string name="alert_tips">Tämä sivusto saattaa olla turvallisuusriski</string>
     <string name="allow">Salli</string>
+    <string name="app_download_market_text">Käytä Mi Markettia lataaksesi, nopeammin ja turvallisemmin</string>
     <string name="app_new_version">Uusin versio tästä sovelluksesta on jo asennettuna</string>
     <string name="app_update_install">Valmiina asentamaan päivitys.</string>
     <string name="application_name">Selain</string>
@@ -206,6 +209,7 @@
     <string name="contextmenu_dial_dot">Soita</string>
     <string name="contextmenu_download_image">Tallenna kuva</string>
     <string name="contextmenu_download_image_as">Tallenna nimellä</string>
+    <string name="contextmenu_incognito">Incognito-tila</string>
     <string name="contextmenu_manually_block_ad">Merkitse mainokseksi</string>
     <string name="contextmenu_map">Kartta</string>
     <string name="contextmenu_openlink">Avaa</string>
@@ -265,8 +269,11 @@
     <string name="document_download_background_btn">Lataa taustalla</string>
     <string name="document_download_cancel_btn">Peruuta</string>
     <string name="document_download_failed">Lataaminen epäonnistui</string>
+    <string name="document_download_immediate">Lataa heti</string>
+    <string name="document_download_normal">Normaali lataaminen</string>
     <string name="document_download_official">Lataa virallinen versio</string>
     <string name="document_download_open_direct">Avaa suoraan</string>
+    <string name="document_download_recommending">Turvallinen lataaminen (Suositus)</string>
     <string name="document_download_title">Ladataan</string>
     <string name="document_open_file">Avaa %s</string>
     <string name="document_open_message">Parantaaksesi lukukokemusta ja pitääksesi turvallisuudesta huolen, käytä WPS:n kustomoitua versiota</string>
@@ -279,10 +286,9 @@
     <string name="download_completed">Ladattu</string>
     <string name="download_default_path_txt">Muista tämä valinta</string>
     <string name="download_dialog_default_path_invalid">Valitsemasi sijainti latauksille on virheellinen. Tallennetaan oletussijaintiin…</string>
-    <string name="download_dialog_file_length_hint_txt">Tiedoston koko: </string>
+    <string name="download_dialog_file_length_default_txt">Odota hetki…</string>
     <string name="download_dialog_file_length_lessthan1kb">Vähemmän kuin 1 Kt</string>
     <string name="download_dialog_file_length_nolength_error_txt">Ei voitu ladata</string>
-    <string name="download_dialog_file_length_nolength_txt">Odota hetki…</string>
     <string name="download_failed">Lataus epäonnistui</string>
     <string name="download_filter_all">Kaikki</string>
     <string name="download_filter_apk">APK</string>
@@ -896,6 +902,7 @@ Muista, että lataamasi tiedostot ja lisäämäsi kirjanmerkin silti tallennetaa
     <string name="not_now">Ei nyt</string>
     <string name="not_remind_again">Muista valintani</string>
     <string name="notif_install_successful">Lataus valmis</string>
+    <string name="novel_toast_hint">Tämä verkkosivu on lisättu kirjahyllyyn</string>
     <string name="ok">OK</string>
     <string name="open_app_confirm_message">Sallitaanko tämän sivun avata %s?</string>
     <string name="open_cloud_sync">Avaa pilven synkronointi</string>
@@ -971,8 +978,7 @@ Muista, että lataamasi tiedostot ja lisäämäsi kirjanmerkin silti tallennetaa
     <string name="pref_file_downlaod_save_reset_default_settings">Palauta oletussijainti</string>
     <string name="pref_file_download_default_path_prefix">Oletussijainti: %s</string>
     <string name="pref_file_download_save_modify_default_path">Latausten sijainti</string>
-    <string name="pref_fling_on_border">Pyyhkäise reunalta</string>
-    <string name="pref_fling_on_border_title_summary">Pyyhkäise vasemmasta tai oikeasta reunasta</string>
+    <string name="pref_fling_gesture">Pyyhkäisyn ele</string>
     <string name="pref_font_size_category">Tekstin koko</string>
     <string name="pref_force_userscalable">Ota skaalaus käyttöön</string>
     <string name="pref_force_userscalable_summary">Ohita sivuston skaalauksenhallintapyyntö</string>
@@ -1025,12 +1031,12 @@ Muista, että lataamasi tiedostot ja lisäämäsi kirjanmerkin silti tallennetaa
     <string name="pref_security_show_security_warning">Näytä suojausvaroitukset</string>
     <string name="pref_security_show_security_warning_summary">Näytä varoitus, jos sivun suojauksessa on ongelma</string>
     <string name="pref_set_homepage_to">Aseta etusivuksi</string>
-    <string name="pref_slide_back_forward">Pyyhkäise taakse- tai eteenpäin</string>
     <string name="pref_tab_restore">Palauta viimeisin sivu käynnistettäessä</string>
     <string name="pref_ua_string">Käytettävä laite</string>
     <string name="pref_version_info">Versio</string>
     <string name="pref_volume_key_action">Vieritä käyttäen äänenvoimakkuudensäätöpainikkeita</string>
     <string name="progress_dialog_setting_wallpaper">Asetetaan taustakuvaa…</string>
+    <string name="publish_to_topic">julkaise otsikkoon</string>
     <string name="pull_to_refresh_pull_label">Vedä päivittääksesi</string>
     <string name="pull_to_refresh_release_label">Vapauta suositellaksesi ja päivittääksesi</string>
     <string name="pwa_app_name">Verkkosovellukset</string>
@@ -1233,6 +1239,7 @@ Selaimen täytyy yhdistää internetiin toimiakseen normaalisti. Sinun täytyy h
     <string name="suggestion_more_news">LISÄÄ UUTISIA</string>
     <string name="suggestion_more_news_start_title_text">Aiheeseen liittyvät uutiset</string>
     <string name="suggestion_sliding_ads_info_mark_text">MAINOKSET</string>
+    <string name="suggestion_sliding_item_more_text">NÄYTÄ LISÄÄ</string>
     <string name="suggestion_topic_subtitle_hyphen">Tarkenna</string>
     <string name="suggestion_translation_more">NÄYTÄ LISÄÄ</string>
     <string name="switch_proxy_dialog_msg">Verkon kaappaus havaittu. Käytä MIUI:n sisäänrakennettua Tietoturva-sovellusta tai raportoi tämä matkapuhelinoperaattorillesi.</string>

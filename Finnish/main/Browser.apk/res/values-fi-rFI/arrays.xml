@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <resources>
-    <string-array name="pref_fling_on_border_gesture_entries">
+    <string-array name="pref_fling_gesture_entries">
         <item>Sivu takaisin eteenpäin</item>
         <item>Vaihda välilehtiä</item>
         <item>Ei mitään</item>
