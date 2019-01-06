@@ -172,7 +172,6 @@
   <string name="app_name_view_picture">Katso kuvia</string>
   <string name="app_name_view_video">Katso videoita</string>
   <string name="application_icon">Sovelluskuvake</string>
-  <string name="apply">Aseta</string>
   <string name="assistant_page_label">Tarinat</string>
   <string name="associate_face_album">Valitse albumi</string>
   <string name="auto_backup_introduce">Varmuuskopioi kuvat ja videot automaattisesti (Mi Tili vaaditaan)</string>
@@ -198,10 +197,6 @@
   <string name="baby_album_sharers_page_title">Jaa perheen kanssa</string>
   <string name="baby_birthday">Syntymäpäivä</string>
   <string name="baby_face_desc">Vauva-albumi</string>
-  <string name="baby_lock_wallpaper">Lukitusnäytön taustakuva</string>
-  <string name="baby_lock_wallpaper_cancelled">Vaihdettiin Lukitusnäytön taustakuva oletukseksi</string>
-  <string name="baby_lock_wallpaper_save_settings_msg">Asetetaanko nykyiset asetukset?</string>
-  <string name="baby_lock_wallpaper_title">Käytä vauvakuvia Lukitusnäytön taustakuvina</string>
   <string name="baby_name_cannot_empty">Syötä nimi</string>
   <string name="baby_name_cannot_start_with">"Nimi ei voi alkaa merkillä '%s'"</string>
   <string name="baby_name_contain_invalidate_char">"Nimi ei voi sisältää merkkiä '%s'"</string>
@@ -271,7 +266,6 @@
   <string name="byteShort">t</string>
   <string name="camera_needs_auto_backup_tip">Kamera albumi täytyy varmuuskopioida</string>
   <string name="cancel">Peruuta</string>
-  <string name="cancel_baby_lock_wallpaper_confirm_msg">Vaihdetaanko Lukitusnäytön taustakuva oletukseksi?</string>
   <string name="cancel_download_btn_text">Lopeta</string>
   <string name="cancel_hint">Toiminto peruutettu</string>
   <string name="cannot_remove_creator">Luojaa ei voi poistaa</string>
@@ -801,6 +795,11 @@
   <string name="disable_auto_upload_tip">Uusia ja poistettuja kuvia ei synkronoida Mi Pilveen. Tämä albumi siirretään muihin albumeihin.</string>
   <string name="disable_auto_upload_title">Poista Mi Pilven synkronointi käytöstä</string>
   <string name="do_not_remind_me">Älä näytä uudelleen</string>
+  <string name="document_provider_guide_step_1">1. Napauta \"Lisää\" -painiketta.</string>
+  <string name="document_provider_guide_step_2">2. Napauta \"Näytä sisäinen tallennustila\".</string>
+  <string name="document_provider_guide_step_3">3. Napauta sivuvalikkopainiketta.</string>
+  <string name="document_provider_guide_step_4">4. Valitse \"SD-kortti\".</string>
+  <string name="document_provider_guide_step_5">5. Napauta \"Valitse\".</string>
   <string name="double_tap_to_higher_definition">Tuplanapauta uudelleen HD esikatselua varten</string>
   <string name="download_canceled">Lataaminen peruutettu</string>
   <string name="download_error_format">%s lataaminen epäonnistui</string>
@@ -906,6 +905,18 @@
   <string name="exit_video_play">Poistu</string>
   <string name="expand_desc">Lisää</string>
   <string name="expand_people">Näytä lisää henkilöitä</string>
+  <string name="ext_sdcard_first_entrance_request_failed_text">Galleria tallentaa sisäiselle tallennustilalle. Voit vaihtaa tätä asetusta Asetukset &gt; Tallennustila &gt; Tallennustilan asetukset.</string>
+  <string name="ext_sdcard_first_entrance_request_failed_title">Käyttöoikeutta ei voitu antaa.</string>
+  <string name="ext_sdcard_guide_first_page_button_text">Seuraava</string>
+  <string name="ext_sdcard_guide_last_page_button_text">Anna käyttöoikeudet</string>
+  <string name="ext_sdcard_guide_text">Galleria tarvitsee lupasi käyttää SD-korttia. Tässä ohjeet:</string>
+  <string name="ext_sdcard_operation_failed_text">Galleria tarvitsee SD-kortin käyttöoikeuden.</string>
+  <string name="ext_sdcard_operation_failed_title">Tätä toimintoa ei voitu suorittaa</string>
+  <string name="ext_sdcard_permission_request_button_text">Selvä</string>
+  <string name="ext_sdcard_permission_request_reason">Galleria tarvitsee lupasi käyttää SD-korttia. Se sallii sinun poistaa ja muokata kuvia ja videoita, jotka ovat tallennettuna SD-kortillesi.</string>
+  <string name="ext_sdcard_permission_request_title">Salli Gallerian käyttää SD-korttia</string>
+  <string name="ext_sdcard_request_failed_button_text">OK</string>
+  <string name="ext_sdcard_request_succeed_toast_text">Olet valmis rokkaamaan!</string>
   <string name="face_album_empty">"Kuvia ei ole tarpeeksi henkilöiden tunnistamista varten.
 Ota ystävistäsi lisää kuvia!"</string>
   <string name="face_album_empty_syncing">Synkronoidaan tietoja, tule takaisin hetken kuluttua</string>
@@ -1493,7 +1504,6 @@ mukauttaaksesi Galleriasi"</string>
   <string name="send_secret_file_failed">Jakaminen epäonnistui</string>
   <string name="send_secret_file_space_low">Tallennustilaa ei ole tarpeeksi</string>
   <string name="send_too_many_files_error">Voit lähettää enintään %d kohdetta kerrallaan</string>
-  <string name="set_as_baby_lock_wallpaper">Aseta Lukitusnäytön taustakuvaksi</string>
   <string name="set_as_slide_wallpaper_description">Tämä kuva on esikatselukuva, ladataanko alkuperäinen?</string>
   <string name="set_as_slide_wallpaper_title">Aseta diaesityksen taustakuvaksi</string>
   <string name="set_as_wallpaper_description">Tämä kuva on esikatselukuva, ladataanko alkuperäinen?</string>

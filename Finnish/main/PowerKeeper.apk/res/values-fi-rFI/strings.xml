@@ -42,8 +42,8 @@ Virransäästö kohtelee tärkeitä sovelluksia valikoivasti."</string>
   <string name="failure">Virhe</string>
   <string name="hide_mode_desc">Kun sovellus on käynnissä taustalla, sen työskentelyä seurataan akun käytön vähentämiseksi. Tämä toiminto hakee ja käyttää käyttäjätietoja %s mukaisesti</string>
   <string name="hide_system_app">Piilota järjestelmäsovellukset</string>
-  <string name="high_temp_state">Korkea lämpötila</string>
-  <string name="high_temp_state_message">Korkean lämpötilan suoja. Data, Wi-Fi AP, GPS, Kameran jne. käyttö on rajoitettu</string>
+  <string name="high_temp_state">Ylikuumeneminen</string>
+  <string name="high_temp_state_message">Laitteesi ylikuumenee. Mobiilidata, Wi-Fi-hotspotit, GPS ja kameran käyttö on rajoitettu.</string>
   <string name="hints_loading_text">Odota hetki…</string>
   <string name="important_warning">Huomio</string>
   <string name="lasttime_applist_cloud">Päivitetyt sovellukset：</string>

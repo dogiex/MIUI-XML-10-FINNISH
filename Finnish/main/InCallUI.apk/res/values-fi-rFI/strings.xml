@@ -1,7 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="antispam_local_marked">Paikallisesti merkattu</string>
-  <string name="antispam_marked_count">%1$d MIUI-käyttäjää on raportoinut tämän</string>
   <string name="antispam_notification_title">Tuntematon numero</string>
   <string name="antispam_provider">Tunnistanut %s</string>
   <string name="areacode_set_default">Aseta oletukseksi</string>
@@ -48,7 +47,6 @@
   <string name="call_recording_notification_message_sd_unmounted">SD-kortti on poistettu.</string>
   <string name="call_recording_notification_title">Puhelu nauhoitettu</string>
   <string name="call_recording_notification_title_error">Puhelua ei voitu nauhoittaa</string>
-  <string name="call_title_redialing_with_times">Soitettu %d kertaa</string>
   <string name="caller_manage_header">Konferenssipuhelu %s</string>
   <string name="can_not_call_oneself">Tähän numeroon ei voi soittaa</string>
   <string name="can_not_use">Ei voi käyttää</string>
@@ -80,7 +78,6 @@
   <string name="close_camera_failed">Kameraa ei voitu poistaa käytöstä…</string>
   <string name="close_camera_requesting">Poistetaan kamera käytöstä…</string>
   <string name="conference_call_description" formatted="false">%s,%s jne. yhteensä %s</string>
-  <string name="conference_call_number">%s henkilöä</string>
   <string name="conference_call_recorder_title">Konferenssipuhelu</string>
   <string name="conference_call_single_description" formatted="false">%s jne. yhteensä %s</string>
   <string name="conference_caller_info_name">%1$s konferenssipuhelu</string>

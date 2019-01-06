@@ -1,8 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="conference_call_number">
+        <item quantity="other">%s henkilöä</item>
+        <item quantity="one">%s henkilö</item>
+    </plurals>
+    <plurals name="call_title_redialing_with_times">
+        <item quantity="other">Uudelleensoitettu %d kertaa</item>
+        <item quantity="one">Uudelleensoitettu %d kerran</item>
+    </plurals>
     <plurals name="call_recording_notification_complete">
         <item quantity="other">%d puhelua nauhoitettu.</item>
         <item quantity="one">yksi puhelu nauhoitettu.</item>
+    </plurals>
+    <plurals name="antispam_marked_count">
+        <item quantity="other">%d MIUI:n käyttäjää ilmoittanut</item>
+        <item quantity="one">%d MIUI:n käyttäjä ilmoittanut</item>
     </plurals>
     <plurals name="livetalk_left_minute">
         <item quantity="other">%d minuuttia jäljellä</item>

@@ -242,12 +242,12 @@ Kaikki laitteellasi olevat tiedot voidaan poistaa ja Lukitusnäytön salasanasi 
   <string name="app_manager_reset_app_preferences_button">Palauta sovellukset</string>
   <string name="app_manager_reset_app_preferences_desc">"Tämä palauttaa kaikki asetukset seuraaville toiminnoille:
 
- "&lt;li&gt;Käytöstä poistetut sovellukset&lt;/li&gt;"
- "&lt;li&gt;Käytöstä poistetut sovellusilmoitukset&lt;/li&gt;"
- "&lt;li&gt;Oletussovellukset&lt;/li&gt;"
- "&lt;li&gt;Sovellusten taustalla tapahtuvat datarajoitukset&lt;/li&gt;"
+"&lt;li&gt;Käytöstä poistetut sovellukset&lt;/li&gt;"
+"&lt;li&gt;Käytöstä poistetut sovellusilmoitukset&lt;/li&gt;"
+"&lt;li&gt;Oletussovellukset&lt;/li&gt;"
+"&lt;li&gt;Sovellusten taustalla tapahtuvat datarajoitukset&lt;/li&gt;"
 
- Et menetä mitään sovellustietoja."</string>
+Et menetä mitään sovellustietoja."</string>
   <string name="app_manager_reset_app_preferences_title">Palautetaanko sovellusasetukset?</string>
   <string name="app_manager_search_prompt">Etkö löytänyt tuloksia? Kokeile tulosten näyttämistä kaikista sovelluksista.</string>
   <string name="app_manager_show_all_apps">Näytä kaikki sovellukset</string>
@@ -579,15 +579,6 @@ Kaikki laitteellasi olevat tiedot voidaan poistaa ja Lukitusnäytön salasanasi 
   <string name="convenient_summary">Avaa kaikki sovellukset syöttämällä salasana kerran</string>
   <string name="correction_attention_dialog_message">Säädetään asetuksia. Odota prosessin valmistumista ja yritä uudelleen.</string>
   <string name="cpu_usage_android_system">Android-järjestelmä</string>
-  <string name="cpu_usage_app_bg_restrict_default">Automaattinen (suositus)</string>
-  <string name="cpu_usage_app_bg_restrict_default_short">Automaattinen</string>
-  <string name="cpu_usage_app_bg_restrict_full">Rajoita taustatyöskentelyä</string>
-  <string name="cpu_usage_app_bg_restrict_no_limit">Älä rajoita</string>
-  <string name="cpu_usage_app_bg_restrict_partly">%s jälkeen</string>
-  <string name="cpu_usage_app_bg_restrict_partly_short">%s jälkeen</string>
-  <string name="cpu_usage_app_bg_restrict_title">Tausta-asetukset</string>
-  <string name="cpu_usage_app_tip_can_not_restrict_system_app">Järjestelmäpalveluita ei voi rajoittaa</string>
-  <string name="cpu_usage_app_uninstalled_toast">Tämä sovellus on poistettu</string>
   <string name="cpu_usage_process_run_time_little_time">Vähemmän, kuin 1 minuutti</string>
   <string name="cpu_usage_view_action_btn_text">Näytä napauttamalla</string>
   <string name="create_shortcut">Luo Aloitusnäytölle pikakuvaketa Pelien nopeuttajasta</string>
@@ -597,6 +588,13 @@ Kaikki laitteellasi olevat tiedot voidaan poistaa ja Lukitusnäytön salasanasi 
   <string name="current_network_state_not_need_diagnose">Internet-yhteys on normaali.</string>
   <string name="customize_limit_pkg">%s (mukautettu)</string>
   <string name="customizer_mode_user_define_name">Sääntöni</string>
+  <string name="daily_card_setting_fragment_daily_card_brand">Operaattori</string>
+  <string name="daily_card_setting_fragment_daily_card_brand_value">Valitse operaattori</string>
+  <string name="daily_card_setting_fragment_daily_card_setting">Päiväkohtaisen datapaketin asetukset</string>
+  <string name="daily_card_setting_fragment_daily_card_summary">MIUI asettaa tiedonsiirtorajasi ja sovellukset, joilla rajoittamaton tiedonsiirto valitsemasi operaattorin mukaan. Jos operaattoriasi ei ole listalla, valitse \"Muu\" ja määritä päiväkohtainen datapakettisi manuaalisesti.</string>
+  <string name="daily_card_setting_fragment_daily_package">Päiväkohtainen tiedonsiirtoraja</string>
+  <string name="daily_card_setting_fragment_month_package">Kuukausittainen datapaketti</string>
+  <string name="daily_card_setting_fragment_package_summary">Jos päiväkohtainen datapakettisi sisältää kuukausittaisen datapaketin, sitä käytetään ennen päiväkohtaista pakettia.</string>
   <string name="daily_limit_and_lock_screen">Tiedonsiirtovaroitus</string>
   <string name="daily_limit_network_available_body">Näytä datan käytön tilastot napauttamalla.</string>
   <string name="daily_limit_over_message">Olet ylittänyt päivittäisen tiedonsiirtorajan.</string>
@@ -643,6 +641,8 @@ Operaattorisi saattaa veloittaa sinulta lisäkustannuksia jos otat mobiilidatan 
   <string name="diagnostic_attention_dialog_message">%1$s diagnostiikka on käynnissä. Odota sen valmistumista ja yritä uudelleen..</string>
   <string name="dialog_app_roaming_message">%1$s ei voi käyttää mobiilidataa roaming-tilassa. Kun olet ulkomailla roaming-tilassa, vain poikkeuslistalle lisäämäsi sovellukset voi käyttää mobiilidataa.</string>
   <string name="dialog_app_roaming_title">Ulkomaan roaming-tila ei ole käytössä sovellukselle %1$s</string>
+  <string name="dialog_change_package_type_summary">Vaihtamalla datapaketin tyyppiä nollaa kaikki datan käytön asetukset (esim. tiedonsiirtorajat) niiden oletusarvoiksi. Vaihdetaanko datapaketin tyyppiä nyt?</string>
+  <string name="dialog_change_package_type_title">Datapaketin tyypin vaihtaminen</string>
   <string name="dialog_msg_auto_start_declare">Jotkut sovellukset saattaa ilmoittaa väärin, että MIUI on estänyt sitä käynnistymästä. Tarkista sovelluksille myönnetyt käyttöoikeudet asetuksista Asetukset, Käyttöoikeudet.</string>
   <string name="dialog_msg_stop_virus_scan">Lopetetaanko käynnissä oleva tietoturvatarkistus?</string>
   <string name="dialog_no_longer_alert">Älä näytä uudelleen</string>
@@ -786,17 +786,7 @@ Se lisätään poikkeuksiin, mutta jo ennestään estetyt kohteet ei ilmesty puh
   <string name="exo_track_surround_5_point_1">5.1 surround-ääni</string>
   <string name="exo_track_surround_7_point_1">7.1 surround-ääni</string>
   <string name="exo_track_unknown">Tuntematon</string>
-  <string name="extreme_add_white_list_summary">Lisää enintään 4 sovellusta</string>
-  <string name="extreme_add_white_list_title">Taustalla olevat poikkeukset</string>
-  <string name="extreme_power_save_description">"Äärimmäinen virransäästö lopettaa kaikki sovelluksen taustalla olevat työskentelyt poistuessasi sovelluksesta ja siirtyessäsi takaisin Aloitusnäytölle. Tämä sovellus ei lähetä sinulle ilmoituksia tai vastaanota päivityksiä.
-
-Jos haluat sovelluksen työskentelevän taustalla, lukitse se Viimeaikaisissa tai lisää se taustalla oleviin poikkeuksiin alapuolella. Enintään 4 sovellusta voi olle käynnissä taustalla Äärimmäisen virransäästön käytön aikana.
-
-Äärimmäinen virransäästö poistaa NFC:n käytöstä oletuksena. Voit muuttaa tätä Asetuksissa.
-
-Jotta voit käyttää laitteesi kaikkia ominaisuuksia normaalisti, Äärimmäinen virransäästö poistetaan käytöstä automaattisesti, kun akkusi on vähintään 30% ladattu."</string>
   <string name="extreme_power_save_mode_card_summary">Ota Äärimmäinen tila käyttöön säästääksesi virtaa, kun akku on vähissä.</string>
-  <string name="extreme_power_save_mode_summary">Äärimmäinen virransäästö rajoittaa taustatyöskentelyä, lopettaa synkronoinnin.</string>
   <string name="extreme_power_save_mode_title">Äärimmäinen virransäästö</string>
   <string name="fast_open">速抢模式</string>
   <string name="fast_open_dialog_message">开启速抢模式后，当您收到红包时，系统将自动打开抢红包页面，抢红包更快更方便。</string>
@@ -1199,6 +1189,9 @@ Operaattori saattaa veloittaa sinua lisämaksuista, jos käytät mobiilidataa uu
   <string name="main_button_usage_adjusting">Vaihdetaan…</string>
   <string name="main_button_usage_adjusting_bill">Vaihdetaan…</string>
   <string name="main_button_usage_package_setting">Aseta tiedonsiirtoraja</string>
+  <string name="main_daily_card_guide_dialog_ok">Aseta</string>
+  <string name="main_daily_card_guide_dialog_summary">Voit valita päiväkohtaisen, kuukausittaisen ja rajoittamattoman paketin välillä. Asetetaanko datapaketin tyyppi nyt?</string>
+  <string name="main_daily_card_guide_dialog_title">Aseta datapaketin tyyppi</string>
   <string name="main_daily_package">Päiväkohtainen datapaketti</string>
   <string name="main_indicator_title">Aktivointi</string>
   <string name="main_leisure_remained">Hiljaisen ajan dataa jäljellä</string>
@@ -1224,6 +1217,7 @@ vastausta"</string>
   <string name="main_toolbar_firewall">Rajoita datan käyttöä</string>
   <string name="main_toolbar_purchase">Top up</string>
   <string name="main_toolbar_statistic">Datan käyttötilastot</string>
+  <string name="main_traffic_detail">Datan käyttö</string>
   <string name="man_add_application">Lisää automaattisesti käynnistyvät sovellukset manuaalisesti</string>
   <string name="manage_hybrid_permissions">Hallinnoi sovelluksen käyttöoikeuksia</string>
   <string name="managed_user_title">Kaikki työsovellukset</string>
@@ -1263,15 +1257,8 @@ vastausta"</string>
   <string name="megabyteShort">Mt</string>
   <string name="megabyte_per_second">Mt/s</string>
   <string name="memory_check_content">Vapautettiin %s</string>
-  <string name="memory_clean_btn_click_text">Paranna nopeutta</string>
-  <string name="memory_clean_cleaning_title">Tyhjennetään välimuistia</string>
-  <string name="memory_clean_click_tip">Paranna nopeutta</string>
   <string name="memory_clean_memory_size_tip">Välimuisti</string>
   <string name="memory_clean_no_need_clean">Kaikki näyttää hyvältä</string>
-  <string name="memory_clean_no_running_process">Ei tyhjennettäviä tehtäviä</string>
-  <string name="memory_clean_running_process_title">Seurataan sovelluksia (%d)</string>
-  <string name="memory_cleaned_memory_info">Käytettävissä oleva muisti</string>
-  <string name="memory_cleaned_memory_up">Nopeutta parannettiin</string>
   <string name="memory_clear_unused">Tyhjennä välimuisti (%s)</string>
   <string name="menu_add">Lisää</string>
   <string name="menu_bl_call_log">Näytä estetyt puhelut</string>
@@ -1432,20 +1419,18 @@ Kokeile käyttää toista ethernet-kaapelia reitittimesi yhdistämiseen. Jos luu
   <string name="no_game">Pelejä ei löytynyt</string>
   <string name="no_lucky_money">尚未收到红包</string>
   <string name="not_available">暂无</string>
+  <string name="not_limited_brand">Rajoittamaton</string>
   <string name="note">Muistio</string>
   <string name="note_call_none">Ei puheluita</string>
   <string name="note_list_none">Lista on tyhjä</string>
   <string name="note_sms_none">Ei viestejä</string>
   <string name="notification_battery_consume_abnormal_title">Akku tyhjenee liian nopeasti</string>
-  <string name="notification_exit_extreme_mode_text">Akkua on ladattu enemmän kuin %s</string>
-  <string name="notification_exit_extreme_mode_title">Poistettiin Äärimmäinen virransäästö käytöstä</string>
   <string name="notification_exit_power_save_mode">Virransäästö poistettiin käytöstä</string>
   <string name="notification_exit_power_save_mode_subtitle">Akku %s ladattu.</string>
   <string name="notification_mask_summary">Piilota ilmoituksen sisältö Lukitusnäytöltä ja Ilmoitusalueelta</string>
   <string name="notification_mask_title">Piilota sisältö</string>
   <string name="notification_masked_item">Piilota ilmoitukset</string>
   <string name="notification_masked_subtitle">Piilota ilmoitukset Sovelluslukolla suojatuilta sovelluksilta</string>
-  <string name="notification_open_extreme_mode_text">Otettiin Äärimmäinen virransäästö käyttöön</string>
   <string name="notification_summary_cmcc_app_check">Näytä yksityiskohdat koskettamalla.</string>
   <string name="notify_channel_name_security">Järjestelmän tietoturva</string>
   <string name="notify_daily_data_usage_body">Rajoittaaksesi datan käyttöä automaattisesti, aseta kuukausittainen datapaketti.</string>
@@ -1470,46 +1455,15 @@ Kokeile käyttää toista ethernet-kaapelia reitittimesi yhdistämiseen. Jos luu
   <string name="ok">OK</string>
   <string name="ok_button">OK</string>
   <string name="old_sdk_deny_warning">Sovellus ei ole yhteensopiva viimeisimmän Android käyttöoikeusvaatimuksien kanssa. Kielletyt käyttöoikeudet saattaa vaikuttaa siihen, kuin tämä sovellus toimii.</string>
-  <string name="om_btn_text_quick_fix">Optimoi</string>
-  <string name="om_cpu_overload_activity_title">Sovellukset, joilla korkea suorittimen käyttö</string>
-  <string name="om_cpu_overload_app_fixed">Kaikki ongelmat korjattiin</string>
-  <string name="om_cpu_overload_app_name">Sovellukset, joilla korkea suorittimen käyttö</string>
-  <string name="om_cpu_overload_detail">Käytti %1$s suorittimen kapasiteettia %2$s ajan</string>
-  <string name="om_cpu_overload_proc_activity_title">Ongelmat</string>
-  <string name="om_cpu_overload_proc_title">Ongelmat</string>
-  <string name="om_cpu_usage_warn_title_text">"Tämä sovellus saattaa hidastaa
-laitettasi"</string>
-  <string name="om_formatted_percent_string">%s%%</string>
-  <string name="om_ill_proc_activity_title">Ongelmat</string>
-  <string name="om_ill_proc_handle_uninstall_prompt">Poista tämä sovellus korjataksesi akun käytön ongelmia.</string>
-  <string name="om_ill_proc_handle_unstaill_title">Poistetaanko %s?</string>
-  <string name="om_ill_proc_type_alarm_detail">Korjaa taustatyöskentelyn ongelmat</string>
-  <string name="om_ill_proc_type_alarm_title">Sovellus herättää laitetta usein ja kuluttaa akkua</string>
-  <string name="om_ill_proc_type_cpu_detail">Korjaa suorittimen työmäärää koskevat ongelmat</string>
-  <string name="om_ill_proc_type_cpu_title">Sovellus käyttää suoritinta ja kuluttaa akkua</string>
-  <string name="om_ill_proc_type_gps_detail">Korjaa GPS käytön ongelmat</string>
-  <string name="om_ill_proc_type_gps_title">Sovellus käyttää GPS:ää usein ja kuluttaa akkua</string>
-  <string name="om_ill_proc_type_radio_detail">Korjaa verkkoyhteyden ongelmat</string>
-  <string name="om_ill_proc_type_radio_title">Sovellus yhdistää verkkoon usein ja kuluttaa akkua</string>
-  <string name="om_ill_proc_type_wakelock_detail">Korjaa lepotilan ongelmat</string>
-  <string name="om_ill_proc_type_wakelock_title">Sovellus estää lepotilan ja kuluttaa akkua</string>
-  <string name="om_ill_proc_type_wifiscan_detail">Korjaa Wi-Fi skannauksen ongelmat</string>
-  <string name="om_ill_proc_type_wifiscan_title">Sovellus hakee Wi-Fi-verkkoja usein ja kuluttaa akkua</string>
   <string name="om_lock_app_locked_app">Lukittu</string>
-  <string name="om_lock_app_locked_app_occupy_memory">Liian monen sovelluksen lukitseminen vähentää puhelimesi suorituskykyä</string>
-  <string name="om_lock_app_tip_msg">Lukitse napauttamalla</string>
   <string name="om_lock_app_unlocked_app">Avattu</string>
-  <string name="om_media_scan_time_warn_title">"Mediapalvelin toimii taustalla.
-Tämä toiminta vähentää akun kestoa."</string>
-  <string name="om_media_scan_timeout_proc_detail">Mediapalvelin toimii taustalla. Voit rajoittaa sen toimintaa.</string>
-  <string name="om_media_scan_timeout_proc_name">Mediapalvelin</string>
-  <string name="om_memory_clean_cleaning_text">Parannetaan nopeutta…</string>
-  <string name="om_notify_cpu_load_too_high_summary">Rajoita taustatyöskentelyä parantaaksesi nopeutta</string>
-  <string name="om_notify_cpu_load_too_high_title">Suorittimen käyttö %s on liian korkea</string>
-  <string name="om_notify_need_clean_memory_summary">Tyhjennä välimuisti parantaaksesi nopeutta</string>
-  <string name="om_notify_need_clean_memory_title">Välimuistin koko saavutti %s</string>
-  <string name="om_other_processes">Muut tehtävät</string>
-  <string name="om_other_processes_cpu_usage_summary">Suorittimen käytön keskiarvo on alhaisempi kuin %s%%</string>
+  <string name="om_locked_apps_summary">Lukittuja sovelluksia ei huomioida nopeuden parantamisessa.</string>
+  <string name="om_memory_clean_memory_info_text">%1$s / %2$s</string>
+  <string name="om_not_finish_speedboost">Nopeuden parantamista vaaditaan</string>
+  <string name="om_promotion">Mainos</string>
+  <string name="om_running_locked_apps">Käynnissä olevat lukitut sovellukset</string>
+  <string name="om_running_system_apps">Käynnissä olevat järjestelmäsovellukset</string>
+  <string name="om_running_third_apps">Käynnissä olevat kolmannen osapuolen sovellukset</string>
   <string name="om_settings_cpu_over_load_notify">Suorittimen käyttö</string>
   <string name="om_settings_cpu_over_load_summary">Ilmoita, kun suorittimen käyttö on liian korkea</string>
   <string name="om_settings_lock_app">Lukitse sovelluksia</string>
@@ -1561,7 +1515,6 @@ Tämä toiminta vähentää akun kestoa."</string>
   <string name="optimize_result_button_see_detaills">Tiedot</string>
   <string name="optimize_result_button_to_set">Aseta</string>
   <string name="optimize_result_button_update_now">Päivitä</string>
-  <string name="optimize_result_header_view_summary">Nopeuden parantaminen</string>
   <string name="optimize_result_summary_sucurity_risk">Jotkut tietoturvaominaisuudet ei ole käytössä. Tee laitteestasi turvallisempi ottamalla nämä ominaisuudet käyttöön:</string>
   <string name="optimize_result_summary_system_default_settings">Käyttämällä MIUI:n oletussovelluksia parannat järjestelmän vakautta ja tietoturvaa.</string>
   <string name="optimize_result_title_sucurity_risk">Tietoturvariskejä löytyi</string>
@@ -1745,6 +1698,7 @@ Tämä toiminta vähentää akun kestoa."</string>
   <string name="pref_category_daily_package_tile">Päiväkohtainen datapaketti</string>
   <string name="pref_category_extra_package_tile">Top-up paketti</string>
   <string name="pref_category_half_year_package_tile">Puolen vuoden datapaketti</string>
+  <string name="pref_category_package_type_title">Datapaketin tyyppi</string>
   <string name="pref_category_title_module_settings">Ominaisuuksien asetukset</string>
   <string name="pref_category_title_other">Lisäasetukset</string>
   <string name="pref_category_title_securitycenter_settings">Yleiset asetukset</string>
@@ -1783,17 +1737,23 @@ Tämä toiminta vähentää akun kestoa."</string>
   <string name="pref_roaming_daily_limit_setting_cat_title">Päiväkohtainen datan raja</string>
   <string name="pref_roaming_setting_gategory">Asetukset</string>
   <string name="pref_special_package_setting">Mukautettu datapaketti</string>
-  <string name="pref_special_package_setting_summary">Hallitse hiljaisen ajan dataa, top-up paketteja, päiväkohtaista datapakettia, ja määriteltyä dataa</string>
+  <string name="pref_special_package_setting_summary">Hallitse hiljaisen ajan dataa, top-up paketteja ja määriteltyä dataa</string>
   <string name="pref_summary_upload_data_usage">Ilmoita datan käyttötietosi auttaaksesi meitä parantamaan MIUI:n palveluita. Ilmoittamisprosessi käsitellään Tietosuojakäytäntömme mukaisesti.</string>
   <string name="pref_title_declaration">Tärkeä vastuuvapauslauseke</string>
   <string name="pref_title_diagnostics_show_float_notification">Kelluvat ilmoitukset</string>
   <string name="pref_title_manual_check_virus_db_update">Tarkista päivitykset</string>
   <string name="pref_title_over_traffic_limit_warning">Kun ylitetty</string>
   <string name="pref_title_traffic_limit_number">Koko</string>
+  <string name="pref_title_traffic_package_type">Datapaketin tyyppi</string>
   <string name="pref_title_traffic_speed_state">Näytä verkon nopeus</string>
   <string name="pref_title_update_notification">Datan käytön ilmoitukset</string>
   <string name="pref_title_upload_data_usage">Ilmoita datan käyttötiedot</string>
+  <string name="pref_traffic_daily_package">Päiväkohtainen datapaketti</string>
+  <string name="pref_traffic_daily_package_brand">Päiväkohtaisen datapaketin tarjoaja</string>
   <string name="pref_traffic_manage_title">Datan käyttö</string>
+  <string name="pref_traffic_monthly_package">Kuukausittainen datapaketti</string>
+  <string name="pref_traffic_package_type_summary">Kuukausittainen/Päivittäinen/Rajoittamaton</string>
+  <string name="pref_traffic_unlimited_package">Rajoittamaton datapaketti</string>
   <string name="pref_warning_values">Tiedonsiirtovaroituksen taso</string>
   <string name="pref_whitelist_setting">Data roamingin poikkeukset</string>
   <string name="preferred_app_entries_browser">Selain</string>
@@ -2474,10 +2434,18 @@ Lisää saldoa napauttamalla."</string>
   <string name="traffic_setting_fragment_button1_text">Peruuta</string>
   <string name="traffic_setting_fragment_button2_text">Tallenna</string>
   <string name="traffic_setting_fragment_city">Kaupunki</string>
+  <string name="traffic_setting_fragment_daily_summary">Mobiilidata päivitetään päivittäin</string>
+  <string name="traffic_setting_fragment_daily_title">Päiväkohtainen datapaketti</string>
   <string name="traffic_setting_fragment_default">Valitse</string>
   <string name="traffic_setting_fragment_loacation_alert_nomore">Älä näytä uudelleen</string>
+  <string name="traffic_setting_fragment_month_summary">Mobiilidata ja puheminuutit päivitetään kuukausittain</string>
+  <string name="traffic_setting_fragment_month_title">Kuukausikohtainen datapaketti</string>
+  <string name="traffic_setting_fragment_next">Seuraava</string>
+  <string name="traffic_setting_fragment_not_limited_summary">Rajoittamattoman mobiilidatan vaihtoehdot</string>
+  <string name="traffic_setting_fragment_not_limited_title">Rajoittamaton datapaketti</string>
   <string name="traffic_setting_fragment_operator">Operaattori</string>
   <string name="traffic_setting_fragment_operator_setting">Operaattoriasetukset</string>
+  <string name="traffic_setting_fragment_packege_type">Datapaketin asetukset</string>
   <string name="traffic_setting_fragment_province">Maakunta</string>
   <string name="traffic_setting_fragment_send_num">Operaattorin puhelinnumero</string>
   <string name="traffic_setting_fragment_send_num_tips">Syötä puhelinnumero</string>

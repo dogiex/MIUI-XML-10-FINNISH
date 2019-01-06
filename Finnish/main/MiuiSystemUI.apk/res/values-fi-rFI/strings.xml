@@ -1292,6 +1292,7 @@ Jos otat datan uudelleen käyttöön, operaattorisi saattaa laskuttaa siitä."</
   <string name="dock_forced_resizable">Sovellus ei ehkä toimi jaetulla näytöllä.</string>
   <string name="dock_keyguard_locked_failed_to_dock_text">Näytön jakaminen ei ole tuettu Lukitusnäytöllä.</string>
   <string name="dock_non_resizeble_failed_to_dock_text">Sovellus ei tue jaetun näytön tilaa.</string>
+  <string name="download_lock_wallpaper">Lataa Musiikkia tuplanapauttamalla</string>
   <string name="drive_mode_tip">Olet Ajotilassa</string>
   <string name="enable_adb">USB-vianetsintä</string>
   <string name="enable_adb_summary">Vianetsintätila USB-liitännän ollessa käytössä</string>

@@ -2279,6 +2279,7 @@ Voit muuttaa tätä asetusta myöhemmin kohdassa Asetukset > Sovellukset ja ilmo
   <string name="input_methods_and_subtype_enabler_title">Valitse aktiiviset syöttötavat</string>
   <string name="input_methods_settings_label_format">%1$s-asetukset</string>
   <string name="input_methods_settings_title">Tekstisyöttö</string>
+  <string name="input_pattern_hint_text">Piirrä lukituksenpoistokuviosi</string>
   <string name="input_settings">Syöttötavan asetukset</string>
   <string name="install_all_warning">Tuntemattomista lähteistä tulevat sovellukset voivat helpommin kaapata puhelimesi ja henkilötietosi. Lataamalla sovelluksia tästä lähteestä hyväksyt, että olet itse vastuussa puhelimellesi aiheutuvista vahingoista tai tietojen katoamisesta, joka saattaa johtua sovellusten käytöstä.</string>
   <string name="install_applications">Tuntemattomat lähteet</string>
@@ -2880,11 +2881,10 @@ Tällä laitteella on muita paikalla olevia käyttäjiä.
   <string name="miui_sos_audio_summary">Toista SOS-viesti, kun hätäyhteystieto vastaa</string>
   <string name="miui_sos_audio_title">SOS-ääniviesti</string>
   <string name="miui_sos_call_log_duration">Kesto</string>
-  <string name="miui_sos_call_log_min">min</string>
   <string name="miui_sos_call_log_none">Minulla ei ole puheluhistoriaa viimeiseltä tunnilta.</string>
-  <string name="miui_sos_call_log_sec">s</string>
   <string name="miui_sos_call_log_stranger">Tuntematon</string>
   <string name="miui_sos_call_log_summary">Lähetä puheluhistoria viimeiseltä tunnilta hätäyhteystiedollesi</string>
+  <string name="miui_sos_call_log_time_unit">%1$d m %2$d s</string>
   <string name="miui_sos_call_log_title">Lähetä puheluhistoria</string>
   <string name="miui_sos_call_warning_sim_unable">Ei signaalia. Tekstiviestiä ei voi lähettää.</string>
   <string name="miui_sos_calling_summary">Laitteesi soittaa automaattisesti hätäyhteystiedollesi ja toistaa nauhoittamasi SOS-ääniviestin. Puhelu lopetetaan viestisi toistamisen jälkeen. Automaattinen soittaminen lopetetaan ensimmäisen onnistuneen yrityksen jälkeen.</string>

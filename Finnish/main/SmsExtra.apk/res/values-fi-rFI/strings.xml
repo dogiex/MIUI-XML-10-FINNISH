@@ -1,12 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="activity_not_found">Tälle toiminnolle ei löytynyt sovellusta</string>
+  <string name="allow_network_hint">Ota \"Päivitä tiedot automaattisesti\" käyttöön tai tarkista verkkoyhteytesi</string>
+  <string name="already_updated">Ajan tasalla</string>
   <string name="back_to_message_list">Takaisin viestiluetteloon</string>
   <string name="button_close">Sulje</string>
-  <string name="cm_privacy_dialog_allow">Salli</string>
+  <string name="click_to_update">Tarkista päivitykset napauttamalla</string>
+  <string name="cm_privacy_dialog_allow">Hyväksyn</string>
   <string name="cm_privacy_dialog_cancel">Peruuta</string>
-  <string name="cm_privacy_dialog_spannable_tips">mobiilioperaattorin yksityisyysprotokolla</string>
-  <string name="cm_privacy_dialog_tips">Älykäs tekstiviestipalvelu on operaattorin muokkaama. Jos olet lukenut ja hyväksyt %1s, hyväksyt avaamaan palvelun, sinun täytyy yhdistää ja paikantaa palvelu käyttääksesi sitä. Hyväksytkö?</string>
+  <string name="cm_privacy_dialog_spannable_tips">Tietosuojakäytäntö</string>
+  <string name="cm_privacy_dialog_tips">Älyviestintäpalvelut tarjoaa operaattorisi. Viesti-sovelluksen täytyy yhdistää internetiin ja käyttää sijaintiasi tarjotakseen näitä palveluita. Sinun täytyy hyväksyä operaattorisi %1s ennen kuin voit käyttää näitä palveluita. Hyväksytkö?</string>
   <string name="cm_privacy_dialog_title">Huomio</string>
   <string name="confirm_delete_conversation">Poistetaanko tämä koko palsta?</string>
   <string name="confirm_delete_group_message">Poistetaanko ryhmäviestit?</string>
@@ -16,6 +19,7 @@
   <string name="confirm_dialog_title">Poistetaanko?</string>
   <string name="copy_message_text">Kopioi</string>
   <string name="copy_message_text_success">Kopioitiin onnistuneesti</string>
+  <string name="current_data_version">Mi Viestin versio</string>
   <string name="delete">Poista</string>
   <string name="delete_message">Poista</string>
   <string name="from_label">"Lähettäjä: "</string>
@@ -31,7 +35,7 @@
   <string name="hybrid_try_again">Yritä uudelleen</string>
   <string name="imageview_ad">Mainos</string>
   <string name="menu_forward">Välitä</string>
-  <string name="menu_lock">Suosikki</string>
+  <string name="menu_lock">Lisää suosikkeihin</string>
   <string name="menu_unlock">Poista suosikeista</string>
   <string name="message_details_title">Viestin tiedot</string>
   <string name="message_type_label">"Tyyppi: "</string>
@@ -50,8 +54,9 @@
   <string name="sim2">SIM-kortti 2</string>
   <string name="smart_messages_network_allow_message">Mi Viesti tarvitsee yhteyden internetiin, jotta sen palvelut toimivat normaalisti. Sallitaanko nyt?</string>
   <string name="smart_messages_network_allow_title">Internetyhteys vaaditaan</string>
-  <string name="summary_pref_cm_smart_sms">Tarjoaa kortin malleja, tekstiviestien palvelunumeroita jne.</string>
+  <string name="summary_pref_cm_smart_sms">Kortin malleja, tekstiviestien palvelunumeroita ja paljon muuta.</string>
   <string name="text_message">Tekstiviesti</string>
   <string name="title_pref_cm_smart_sms">China Mobile Älykäs tekstiviesti</string>
+  <string name="updating">Päivitetään…</string>
   <string name="view_message_details">Näytä tiedot</string>
 </resources>

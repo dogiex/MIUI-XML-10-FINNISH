@@ -86,9 +86,9 @@ Jos otat mobiilidatan uudelleen käyttöön, operaattorisi saattaa veloittaa sin
         <item quantity="other">Verkon käyttö on rajoitettu %d sovellukselle</item>
         <item quantity="one">Verkon käyttö on rajoitettu %d sovellukselle</item>
     </plurals>
-    <plurals name="om_ill_proc_multi_app_title">
-        <item quantity="other">%d sovellusta ei toimi kunnolla ja kuluttaa akkua</item>
-        <item quantity="one">%d sovellus ei toimi kunnolla ja kuluttaa akkua</item>
+    <plurals name="om_locked_apps_title">
+        <item quantity="other">%d lukittua sovellusta</item>
+        <item quantity="one">%d lukittu sovellus</item>
     </plurals>
     <plurals name="power_center_battery_day">
         <item quantity="other">"%d päivää "</item>

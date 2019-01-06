@@ -462,6 +462,7 @@
   <string name="corpus_hint_apps">Hae sovelluksia</string>
   <string name="corpus_label_apps">Sovellukset</string>
   <string name="cta_desc">Se on ideaalinen pikakuvakkeille, tiedoille ja suosikkiominaisuuksillesi</string>
+  <string name="cta_dialog_miot_text_all">Varmistaaksemme, että se toimii normaalisti, Mi Home saattaa joutua hankkimaan verkkosi, sijaintisi, valtuutuksen Bluetoothin käyttöönottamiseksi, käyttämään matkapuhelinverkkoasi, mikrofonia ja lukemaan yhteystietojasi. Vahvistatko?</string>
   <string name="cta_dialog_negative">Poistu</string>
   <string name="cta_dialog_positive">Hyväksyn</string>
   <string name="cta_dialog_text_all">Käyttääksesi Sovellusholvia sinun täytyy lukea ja hyväksyä %1$s\"Käyttöehdot\" %2$s ja %3$s \"Tietosuojakäytännön\" %4$s. Palvelu vaatii myös internetyhteyden ja pääsyn sijaintipalveluihin. Joidenkin palveluiden käyttämä sisällön kerääjä vaatii myös internetyhteyden. Hyväksytkö?</string>
