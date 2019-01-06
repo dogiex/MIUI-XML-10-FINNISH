@@ -75,6 +75,11 @@
     <string name="character_counter_pattern">%1$d / %2$d</string>
     <string name="click_to_reload_more">Lataa lisää napauttamalla</string>
     <string name="click_to_retry">Yritä uudelleen</string>
+    <string name="com_mixpanel_android_close">Sulje</string>
+    <string name="com_mixpanel_android_done">Valmis</string>
+    <string name="com_mixpanel_android_exit">Poistu</string>
+    <string name="com_mixpanel_android_logo">By Mixpanel</string>
+    <string name="com_mixpanel_android_notification_image">Kuvaa ei näytetä</string>
     <string name="com_permission_desc">Mi Video ei voi käyttää laitteesi videoita. Salli käyttö Asetuksissa.</string>
     <string name="com_permission_title">Käyttöoikeuksia vaaditaan</string>
     <string name="common_google_play_services_enable_button">Ota käyttöön</string>
@@ -124,6 +129,7 @@
     <string name="exo_controls_rewind_description">Kelaa taaksepäin</string>
     <string name="exo_controls_stop_description">Lopeta</string>
     <string name="explore_on_mi_video">Löydä lisää Mi Videossa</string>
+    <string name="failed_to_fetch_data">Tietoja ei voitu ladata.</string>
     <string name="finish">Valmis</string>
     <string name="for_you">Sinua varten</string>
     <string name="fw_loading">Odota hetki…</string>
@@ -277,6 +283,7 @@ Kaikki verkosta löytyvät tekstitykset tarjoaa opensubtitles.org."</string>
     <string name="mr_system_route_name">Järjestelmä</string>
     <string name="mr_user_route_category_name">Laitteet</string>
     <string name="need_update_app">Päivitä Mi Video käyttääksesi sen kaikkia ominaisuuksia</string>
+    <string name="network_connect_info">Verkkoyhteyttä ei voitu muodostaa. Tarkista verkkoasetuksesi ja yritä uudelleen.</string>
     <string name="network_failed">Verkkoyhteyttä ei voitu muodostaa</string>
     <string name="next">Seuraava</string>
     <string name="no_recommend_data">Ei suositeltuja videoita juuri nyt</string>
@@ -321,6 +328,7 @@ Kaikki verkosta löytyvät tekstitykset tarjoaa opensubtitles.org."</string>
     <string name="ovp_home_item_camera">Galleria</string>
     <string name="ovp_home_item_download">Lataukset</string>
     <string name="ovp_home_item_folder">Tiedostot</string>
+    <string name="ovp_home_no_data_callback">Tietoja ei voitu ladata. Päivitä vetämällä alaspäin.</string>
     <string name="ovp_home_online_content_title">Online</string>
     <string name="ovp_info_video_loading">Odota hetki…</string>
     <string name="ovp_load_playinfo_failure">Tietoja ei voitu hakea</string>
