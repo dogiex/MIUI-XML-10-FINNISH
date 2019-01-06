@@ -119,7 +119,6 @@ Huomio: Asennettujen sovelluksien datatietoja ei varmuuskopioida Mi Pilveen. Kä
   <string name="lack_of_storage">Tallennustilaa ei ole riittävästi</string>
   <string name="latest_backup_time_loading">Ladataan…</string>
   <string name="load_backup_failed">Varmuuskopioita ei voitu ladata</string>
-  <string name="loading_progress_num">(%s %%)</string>
   <string name="loading_user_backup">Ladataan käyttäjän varmuuskopioita…</string>
   <string name="main_space">Ensimmäinen tila</string>
   <string name="managespace_delete_backup">Poista</string>
