@@ -875,8 +875,8 @@ d. MMMM'ta'"</string>
      <string name="structure_face_delete_data_dialog_msg_retry">Yritä uudelleen</string>
      <string name="structure_face_delete_data_dialog_title">Kameran käynnistäminen epäonnistui</string>
      <string name="structure_face_hardware_abnormal_btn">Selvä</string>
-     <string name="structure_face_hardware_abnormal_msg">Kasvojen tietoja ei voi tallentaa laserin virheen vuoksi. Ota yhteyttä asiakaspalveluun saadaksesi apua.</string>
-     <string name="structure_face_hardware_abnormal_title">Laser virhe</string>
+     <string name="structure_face_hardware_abnormal_msg">Tapahtui laitteistovirhe. Käynnistä laitteesi uudelleen. Jos tämä ei auta, soita numeroon 400-100-5678 apua varten.</string>
+     <string name="structure_face_hardware_abnormal_title">Laitteistovirhe</string>
      <string name="structure_face_modules_abnormal_btn">Käynnistä uudelleen</string>
      <string name="structure_face_modules_abnormal_msg">Kasvojen tietoja ei voi tallentaa optisen moduulivirheen vuoksi. Käynnistä laitteesi uudelleen ja yritä uudelleen.</string>
      <string name="structure_face_modules_abnormal_title">Optinen moduulivirhe</string>
@@ -894,6 +894,7 @@ d. MMMM'ta'"</string>
      <string name="structure_face_unlock_model_other_title">Kasvojentunnistus</string>
      <string name="structure_face_unlock_not_same_person">Sinun täytyy suorittaa kaikki vaiheet itse. Älä vaihda paikkoja kenenkään muun kanssa.</string>
      <string name="structure_face_unlock_really_person">Näyttää siltä, että olet vaihtanut kasvosi objektin kanssa.</string>
+     <string name="structure_face_unlock_tof_covered">Kasvojen tietoja ei voitu lisätä. Siirry kauemmaksi näytöstä.</string>
      <string name="switch_bar_off">Pois käytöstä</string>
      <string name="switch_bar_on">Käytössä</string>
      <string name="switch_system_user">Avaa Ensimmäinen tila</string>
@@ -1295,6 +1296,8 @@ Jos otat datan uudelleen käyttöön, operaattorisi saattaa laskuttaa siitä."</
   <string name="drive_mode_tip">Olet Ajotilassa</string>
   <string name="enable_adb">USB-vianetsintä</string>
   <string name="enable_adb_summary">Vianetsintätila USB-liitännän ollessa käytössä</string>
+  <string name="enable_atrace">Ota ATrace käyttöön</string>
+  <string name="enable_atrace_summary">Tallenna Kernel-tapahtumat käyttäen ATracea</string>
   <string name="enable_freeform_support">Ota käyttöön vapaamuotoiset ikkunat</string>
   <string name="enable_freeform_support_summary">Ota kokeellisten vapaamuotoisten ikkunoiden tuki käyttöön.</string>
   <string name="enable_opengl_traces_title">Ota OpenGL-jälj. käyttöön</string>

@@ -1603,7 +1603,7 @@ Seuraava jakso alkaa %2$d päivän kuluttua (%3$s)"</string>
   <string name="tty_mode_option_title">TTY-tila</string>
   <string name="turn_off_dual_4g_failed">Dual 4G:tä ei voitu poistaa käytöstä.</string>
   <string name="turn_on_dual_4g_failed">Dual 4G:tä ei voitu ottaa käyttöön.</string>
-  <string name="turnover_mute_summary">Kun puhelin on vaakatasossa näyttö ylöspäin, käännä se ympäri mykistääksesi soittoäänen.</string>
+  <string name="turnover_mute_summary">Kun puhelin on vaakatasossa näyttö ylöspäin, käännä se ympäri mykistääksesi soittoäänen, poistaaksesi värinän käytöstä ja lopettaaksesi ilmoitusvalon vilkkumisen.</string>
   <string name="turnover_mute_title">Mykistä soittoääni kääntämällä</string>
   <string name="undefined">Ei mitään</string>
   <string name="unknown">Tuntematon</string>

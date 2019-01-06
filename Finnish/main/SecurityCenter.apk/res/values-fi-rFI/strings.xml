@@ -74,6 +74,7 @@ Kaikki laitteellasi olevat tiedot voidaan poistaa ja Lukitusnäytön salasanasi 
   <string name="activity_title_virus_settings">Asetukset</string>
   <string name="activity_title_white_list">Poikkeukset</string>
   <string name="ad_btn_default_text">Lisätietoa</string>
+  <string name="ad_split_screen_title">Vaihda kokonäytön tilaan avataksesi</string>
   <string name="ad_update_time">Viimeksi päivitetty %s</string>
   <string name="ad_update_time_unKnown">Edellinen päivitys tuntematon</string>
   <string name="adb_install_no_network">Yhdistä verkkoon ja yritä uudelleen</string>
@@ -843,9 +844,6 @@ Jotta voit käyttää laitteesi kaikkia ominaisuuksia normaalisti, Äärimmäine
   <string name="first_aid_card_airplane_button">Poista käytöstä</string>
   <string name="first_aid_card_airplane_summary">Poista Lentokonetila käytöstä soittaaksesi puheluita ja yhdistääksesi verkkoon</string>
   <string name="first_aid_card_airplane_title">Puheluja ei voi soittaa tai verkkoon ei voi yhdistää</string>
-  <string name="first_aid_card_apn_button">Korjaa</string>
-  <string name="first_aid_card_apn_summary">APN:t muutettiin. Korjaa yhdistääksesi verkkoon.</string>
-  <string name="first_aid_card_apn_title">Verkkoon ei voi yhdistää</string>
   <string name="first_aid_card_consume_power_button1">Rajoita</string>
   <string name="first_aid_card_consume_power_button2">Poista käytöstä</string>
   <string name="first_aid_card_consume_power_summary1">Enemmän kuin 5 sovellusta voi käynnistyä automaattisesti. Rajoita niitä säästääksesi virtaa.</string>
@@ -1437,7 +1435,6 @@ Kokeile käyttää toista ethernet-kaapelia reitittimesi yhdistämiseen. Jos luu
   <string name="note_call_none">Ei puheluita</string>
   <string name="note_list_none">Lista on tyhjä</string>
   <string name="note_sms_none">Ei viestejä</string>
-  <string name="notification_battery_consume_abnormal_summary">Akku on tyhjentynyt %2$s viimeisen %1$d minuutin aikana</string>
   <string name="notification_battery_consume_abnormal_title">Akku tyhjenee liian nopeasti</string>
   <string name="notification_exit_extreme_mode_text">Akkua on ladattu enemmän kuin %s</string>
   <string name="notification_exit_extreme_mode_title">Poistettiin Äärimmäinen virransäästö käytöstä</string>
@@ -1660,11 +1657,11 @@ Tämä toiminta vähentää akun kestoa."</string>
   <string name="power_center_charge_time">%1$s kunnes täynnä</string>
   <string name="power_center_hints_scan_danger_result">Voit korjata akkuongelmat nyt</string>
   <string name="power_center_list_item_auto_brightness">Säädä näytön kirkkaus automaattisesti</string>
-  <string name="power_center_list_item_battery_status_time">h</string>
+  <string name="power_center_list_item_battery_status_time">t</string>
   <string name="power_center_list_item_close_bluetooth">Poista Bluetooth käytöstä</string>
   <string name="power_center_list_item_deep_save_title">Lisäasetukset</string>
   <string name="power_center_list_item_set_lockscreen_time">Laita näyttö nukkumaan 30 sekunnin toimettomuuden jälkeen</string>
-  <string name="power_center_main_percent_formatted">%s%%</string>
+  <string name="power_center_main_percent_formatted">%s %%</string>
   <string name="power_center_ontime_boot">Käynnistymisen aika</string>
   <string name="power_center_ontime_shutdown">Sammuttamisen aika</string>
   <string name="power_center_repeat">Toista</string>

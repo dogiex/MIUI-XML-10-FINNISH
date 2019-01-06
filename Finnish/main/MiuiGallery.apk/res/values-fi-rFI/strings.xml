@@ -1175,6 +1175,7 @@ mukauttaaksesi Galleriasi"</string>
   <string name="operation_save">Tallenna</string>
   <string name="operation_send">Lähetä</string>
   <string name="operation_set_contact_photo">Aseta yhteystiedon kuvaksi</string>
+  <string name="operation_set_slide_wallpaper">Aseta diaesityksen taustakuvaksi</string>
   <string name="operation_set_wallpaper">Aseta taustakuvaksi</string>
   <string name="operation_share">Jaa</string>
   <string name="operation_show_in_photos_tab">Näytä Kuvissa</string>
@@ -1317,6 +1318,7 @@ mukauttaaksesi Galleriasi"</string>
   <string name="picker_image_will_download">%d valituista kuvista ei ole laitteella. Ne ladataan.</string>
   <string name="picker_no_network_message">Lataa yhdistämällä verkkoon</string>
   <string name="picker_origin_need_download">%1$d valituista kuvista (%2$d Mt) ei ole laitteella. Ladataanko käyttäen mobiilidata-yhteyttä?</string>
+  <string name="picker_origin_request_progress_fail">Alkuperäistä kuvaa ei voitu ladata verkkovirheen takia.</string>
   <string name="picker_origin_request_progress_message">Valmistellaan alkuperäisiä tiedostoja (%1$d/%2$d)…</string>
   <string name="picker_title_format">Valitse %1$d-%2$d kuvaa</string>
   <string name="picker_title_selection_format">Valitut kuvat: %d</string>
@@ -1492,6 +1494,8 @@ mukauttaaksesi Galleriasi"</string>
   <string name="send_secret_file_space_low">Tallennustilaa ei ole tarpeeksi</string>
   <string name="send_too_many_files_error">Voit lähettää enintään %d kohdetta kerrallaan</string>
   <string name="set_as_baby_lock_wallpaper">Aseta Lukitusnäytön taustakuvaksi</string>
+  <string name="set_as_slide_wallpaper_description">Tämä kuva on esikatselukuva, ladataanko alkuperäinen?</string>
+  <string name="set_as_slide_wallpaper_title">Aseta diaesityksen taustakuvaksi</string>
   <string name="set_as_wallpaper_description">Tämä kuva on esikatselukuva, ladataanko alkuperäinen?</string>
   <string name="set_as_wallpaper_title">Aseta taustakuvaksi</string>
   <string name="set_face_group_toast_msg_new_user">Pidä henkilöä pohjassa yhdistääksesi tai jättääksesi huomiotta ne.</string>

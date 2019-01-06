@@ -10,7 +10,7 @@
   <string name="addBlackList">Estä</string>
   <string name="add_attachment">Lisää liitetiedostoja</string>
   <string name="add_contact">vCard</string>
-  <string name="add_miui_contact">Mi Kortti</string>
+  <string name="add_miui_contact">Yhteystieto</string>
   <string name="add_music">Lisää musiikkia</string>
   <string name="add_number_to_sender">Lisää numero lähettäjään %s</string>
   <string name="add_picture">Lisää kuva</string>
@@ -146,7 +146,6 @@
   <string name="delete_wild_sims_title">Poista valitut numerot</string>
   <string name="delivery_report_activity">Toimitusraportti</string>
   <string name="delivery_toast_body">%s vastaanotti viestin</string>
-  <string name="delivery_toast_body_more">%1$s ja %2$d henkilö(ä) vastaanotti viestin</string>
   <string name="dialog_message_fake_cell_detect_error">Haluatko korjata tämän viestin virheitä? MIUI:n tulee lähettää puhelinnumero (%1$s), viestin sisältö ja sijaintitiedot palvelimilleen tehdäkseen tämän.</string>
   <string name="dialog_message_mx">Mi Viestin avulla voit lähettää viestejä toisille MIUI-käyttäjille ilman maksuja. Mi Viestin aktivoimiseen vaaditaan lähtevä tekstiviesti. Operaattorisi veloittaa sinua tästä viestistä. Sinun täytyy hyväksyä meidän \"%1$s\" ja \"%2$s\" ennen Mi Viestin käyttämistä.</string>
   <string name="dialog_message_networking">Viestisovelluksen täytyy käyttää Keltaisiasivuja tarjotakseen Lähettäjän ID-tunnistuksen. Viestisovelluksen ja Keltaisensivujen on yhdistettävä internetiin ja saatava sijaintitietosi toimiakseen normaalisti. Hyväksytkö?</string>
@@ -538,9 +537,10 @@
   <string name="rcs_service_agreement">Palvelusopimus</string>
   <string name="rcs_setting">China Mobile Viestinnän asetukset</string>
   <string name="rcs_silence_message">Mykistä viesti-ilmoitukset</string>
-  <string name="rcs_summary_auto_resend_mms">Muunna China Mobilen multimediaviestit tekstiviesteiksi alkuperäisen epäonnistuneen viestin lähettämisen jälkeen. Operaattorisi veloittaa sinua tästä viestistä.</string>
+  <string name="rcs_summary_auto_resend_mms">Muunna China Mobilen multimediaviestit MMS-viesteiksi alkuperäisen viestin epäonnistuneen lähettämisen jälkeen. Operaattorisi veloittaa sinua tästä viestistä.</string>
   <string name="rcs_summary_auto_resend_sms">Muunna China Mobilen tekstiviestit normaaleiksi tekstiviesteiksi alkuperäisen epäonnistuneen viestin lähettämisen jälkeen. Operaattorisi veloittaa sinua tästä viestistä.</string>
   <string name="rcs_summary_silence_message">Mykistä viesti-ilmoitukset, kun työpöytäsovellus on käytössä</string>
+  <string name="rcs_unavailable">China Mobile Viestintää ei voi käyttää juuri nyt. China Mobile SIM-kortti ei ole oletus datakorttisi.</string>
   <string name="rcs_wait_for_retry_text">Odotetaan…</string>
   <string name="received_at_time">Vastaanotettu klo: %1s</string>
   <string name="received_label">"Vastaanotettu: "</string>

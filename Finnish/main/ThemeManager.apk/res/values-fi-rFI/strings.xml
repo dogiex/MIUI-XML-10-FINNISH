@@ -67,6 +67,7 @@
   <string name="component_category_finest_title">YLEINEN</string>
   <string name="component_category_more_title">LISÄÄ</string>
   <string name="component_title_ringtone">Soittoääni</string>
+  <string name="component_title_settings_video_wallpaper">Taustakuvia erikoistehosteilla</string>
   <string name="component_title_video_wallpaper">Taustakuvaelokuvat</string>
   <string name="component_title_wallpaper">Taustakuva</string>
   <string name="current_using_desktop_wallpaper_text">Aloitusnäyttö</string>
@@ -524,6 +525,9 @@
   <string name="theme_current_using_has_update">Teeman päivitys saatavilla</string>
   <string name="theme_description_title_customized">Kustomoitu</string>
   <string name="theme_description_title_default">Oletus</string>
+  <string name="theme_detail_tab_comment">Kommentit</string>
+  <string name="theme_detail_tab_recommend">Suositut</string>
+  <string name="theme_detail_tab_theme">Teemat</string>
   <string name="theme_empty_redirect">Takaisin Teemoihin</string>
   <string name="theme_favorite_add_fail">Suosikkeihin lisääminen epäonnistui</string>
   <string name="theme_favorite_add_success">Lisätty suosikkeihin</string>
@@ -560,7 +564,7 @@
   <string name="title_component">Mukauta teema</string>
   <string name="title_my_audio_resource">Soittoääneni</string>
   <string name="title_my_miwallpaper_resource">Live taustakuvani</string>
-  <string name="title_my_miwallpaper_video_file_resource">Videotaustakuvani</string>
+  <string name="title_my_miwallpaper_video_file_resource">Taustakuvaelokuvani</string>
   <string name="title_my_wallpaper_resource">Taustakuvani</string>
   <string name="title_system_audio_notification_resource">Järjestelmän ilmoitukset</string>
   <string name="title_system_audio_resource">Järjestelmän soittoäänet</string>

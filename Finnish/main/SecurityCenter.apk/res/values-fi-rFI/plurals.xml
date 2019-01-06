@@ -122,7 +122,11 @@ Jos otat mobiilidatan uudelleen käyttöön, operaattorisi saattaa veloittaa sin
         <item quantity="other">Löytyi %d akkuongelmaa, korjaa ne</item>
         <item quantity="one">Löytyi %d akkuongelma, korjaa se</item>
     </plurals>
-    <plurals name="power_center_menu_text">asd
+    <plurals name="notification_battery_consume_abnormal_summary">
+        <item quantity="other">Akku on tyhjentynyt %2$d %% viimeisen %1$d minuutin aikana</item>
+        <item quantity="one">Akku on tyhjentynyt %2$d %% viimeisen %1$d minuutin aikana</item>
+    </plurals>
+    <plurals name="power_center_menu_text">
         <item quantity="other">kohdetta</item>
         <item quantity="one">kohde</item>
     </plurals>

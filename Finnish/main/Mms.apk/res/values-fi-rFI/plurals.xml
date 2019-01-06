@@ -22,6 +22,10 @@
         <item quantity="zero">Valitse kohteet</item>
         <item quantity="one">%d valittu</item>
     </plurals>
+    <plurals name="delivery_toast_body_more_plurals">
+        <item quantity="other">%1$s ja %2$d muuta henkilöä vastaanottivat viestin</item>
+        <item quantity="one">%1$s ja %2$d muu henkilö vastaanotti viestin</item>
+    </plurals>
     <plurals name="group_message_failed_title">
         <item quantity="other">Lähettäminen epäonnistui %d yhteystiedolle</item>
         <item quantity="one">Lähettäminen epäonnistui %d yhteystiedolle</item>
