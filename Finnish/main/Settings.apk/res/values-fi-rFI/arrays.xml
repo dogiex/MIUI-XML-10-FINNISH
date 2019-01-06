@@ -792,6 +792,20 @@
         <item>Tarkista vain DRM-suojattu sisältö</item>
         <item>Tarkista aina</item>
     </string-array>
+    <string-array name="keyguard_notification_status_entries">
+        <item>Herätä näyttö</item>
+        <item>Näytä animaatio</item>
+        <item>Älä herätä näyttöä</item>
+    </string-array>
+    <string-array name="led_color_entries">
+        <item>Sininen</item>
+        <item>Punainen</item>
+        <item>Keltainen</item>
+        <item>Vihreä</item>
+        <item>Syaani</item>
+        <item>Valkoinen</item>
+        <item>Violetti</item>
+    </string-array>
     <string-array name="led_freq_entries">
         <item>2 sekuntia</item>
         <item>3 sekuntia</item>

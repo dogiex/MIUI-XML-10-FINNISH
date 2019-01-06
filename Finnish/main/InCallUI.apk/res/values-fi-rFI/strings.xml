@@ -132,7 +132,7 @@
   <string name="do_not_ask">Älä näytä uudelleen</string>
   <string name="do_not_support_video_calls_by_remote">Toinen laite ei tue videopuheluita</string>
   <string name="emergency_call_dialog_number_for_display">Hätänumero</string>
-  <string name="inCallLabel">Puhelun käyttöliittymä</string>
+  <string name="inCallLabel">Puhelin</string>
   <string name="incall_call_type_label_sip">Internet-puhelu</string>
   <string name="incall_error_supp_service_conference">Puheluja ei voi yhdistää.</string>
   <string name="incall_error_supp_service_hangup">Puheluja ei voi vapauttaa.</string>

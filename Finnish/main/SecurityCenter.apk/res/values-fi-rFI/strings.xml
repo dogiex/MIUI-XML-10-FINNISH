@@ -894,7 +894,7 @@ Jotta voit käyttää laitteesi kaikkia ominaisuuksia normaalisti, Äärimmäine
   <string name="fod_finger_notice_title">Aseta sormesi näytölle</string>
   <string name="fod_finger_windows_tips">Vahvista sormenjälkesi</string>
   <string name="fod_tips_split_screen_more_than_half">Anna salasana</string>
-  <string name="forbid_autobright_summary">Näytön kirkkaus pysyy samana, kun pelaat pelejä</string>
+  <string name="forbid_autobright_summary">Automaattinen näytön kirkkaus poistetaan käytöstä pelaamisen ajaksi ja palautetaan takaisin lopetettuasi</string>
   <string name="forbid_autobright_title">Korjaa näytön kirkkaus</string>
   <string name="foreground_traffic">Etuala %s</string>
   <string name="forget_password_button_text">Unohdin salasanan</string>
@@ -1014,6 +1014,7 @@ Jotta voit käyttää laitteesi kaikkia ominaisuuksia normaalisti, Äärimmäine
   <string name="gs_performance_mode">Suorituskykytila</string>
   <string name="gs_performance_mode_detail">Lisää suorittimen käyttöä varmistaaksesi saumattoman suorituskyvyn</string>
   <string name="gs_sign_notification">Muistuta kirjautua sisään päivittäin klo 20</string>
+  <string name="gs_slip_gamebox_detail">Käytä liukusäädintä tuodaksesi pikakuvakepaneelin näkyviin. Pikavastaukset ja näytön nauhoitusvalinnat ovat käytettävissä.</string>
   <string name="guide_get_operator_error">Väärä operaattori?</string>
   <string name="guide_operator_text">"Nykyinen operaattorisi: "</string>
   <string name="guide_quck_open">Ota käyttöön</string>

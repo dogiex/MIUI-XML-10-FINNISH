@@ -1002,6 +1002,8 @@ Siirtonopeus"</string>
   <string name="bootloader_status_unlocked">Lukitus avattu</string>
   <string name="bootloader_status_unlocked_info">Tämä laitteen lukitus on avattu</string>
   <string name="bootloader_summary">Asenna laitteesi USB:n kautta</string>
+  <string name="bootloader_tips">Mi Tilisi lisäämisen jälkeen, älä kirjaudu sillä ulos, älä suorita tehdasasetuksien palautusta tai tyhjennä järjestelmäsovelluksen tietoja. Jos suoritat edellä mainittuja asioita, lisää tilisi uudelleen tai et voi poistaa laitteesi lukitusta.</string>
+  <string name="bootloader_tips_ok">Selvä</string>
   <string name="breathing_light_color_menu_title">Valon väri</string>
   <string name="breathing_light_color_summary">Valon väri, kun saat uuden ilmoituksen</string>
   <string name="breathing_light_freq_summary">Vilkuta valoa, kun saat uusia ilmoituksia</string>
@@ -1058,6 +1060,12 @@ Tämän ominaisuuden voi poistaa käytöstä [Asetuksista]"</string>
   <string name="call_manager_enable_summary">Anna palvelun hallinnoida puheluita.</string>
   <string name="call_manager_enable_title">Ota Call Manager käyttöön</string>
   <string name="call_manager_title">Call Manager</string>
+  <string name="call_records_name_1">Debbie Smith</string>
+  <string name="call_records_name_2">Jason Lee</string>
+  <string name="call_records_name_3">Tom Fowles</string>
+  <string name="call_records_summary_1">9:35 | 26 sekuntia | China Unicom</string>
+  <string name="call_records_summary_2">16. Elokuuta | 1 m 16 s | China Mobile</string>
+  <string name="call_records_summary_3">16. Elokuuta | 2 m 24 s | China Unicom</string>
   <string name="call_settings_primary_user_only">Muuta puheluasetuksia Ensimmäisessä tilassa</string>
   <string name="call_settings_summary">Ota käyttöön puhelinvastaaja, soitonsiirrot, koputuspalvelu, soittajan tunnus</string>
   <string name="call_settings_title">Puheluasetukset</string>
@@ -2341,6 +2349,7 @@ Voit muuttaa tätä asetusta myöhemmin kohdassa Asetukset > Sovellukset ja ilmo
   <string name="keyboard_shortcuts_helper">Pikanäppäinapuri</string>
   <string name="keyboard_shortcuts_helper_summary">Näytä käytettävissä olevat pikanäppäimet</string>
   <string name="keyguard_advance_setting_title">Lisäasetukset</string>
+  <string name="keyguard_notification_status_title">Ilmoitukset</string>
   <string name="keyguard_security_setting_others">Muut</string>
   <string name="keyguard_security_setting_privacy_policy">Tietosuojakäytäntö</string>
   <string name="keyguard_vertical_clock_title">Pystysuora Kello</string>
@@ -2424,6 +2433,7 @@ Voit muuttaa tätä asetusta myöhemmin kohdassa Asetukset > Sovellukset ja ilmo
   <string name="launch_google_search">Käynnistä Google-avustaja</string>
   <string name="launch_recents">Käynnistä Viimeaikaiset</string>
   <string name="launch_voice_assistant">Käynnistä Ääniavustaja</string>
+  <string name="launcher_icon">Kuvakkeet</string>
   <string name="launcher_title">Aloitusnäyttö &amp; Viimeaikaiset</string>
   <string name="launching_cit">Käynnistetään CIT</string>
   <string name="launching_pho">Käynnistetään puhelimen tietoja…</string>
@@ -3344,6 +3354,8 @@ Valitse käyttöjärjestelmäsi:"</string>
   <string name="page_layout_31">Jack Tang</string>
   <string name="page_layout_32">Play Kauppa</string>
   <string name="page_layout_33">Google</string>
+  <string name="page_layout_34">Puhelin</string>
+  <string name="page_layout_35">Muistiot</string>
   <string name="page_layout_4">Musiikki</string>
   <string name="page_layout_5">Video</string>
   <string name="page_layout_6">Sovellukset</string>
@@ -6003,6 +6015,7 @@ Muodosta yhteys toiseen Wi-Fi-verkkoon valitsemalla "&lt;b&gt;Takaisin&lt;/b&gt;
   <string name="wizard_back">Edellinen</string>
   <string name="wizard_finish">Valmis</string>
   <string name="wizard_next">Seuraava</string>
+  <string name="words_title">Teksti</string>
   <string name="work_alarm_ringtone_title">Työherätyksen oletusääni</string>
   <string name="work_mode_label">Työtila</string>
   <string name="work_mode_summary">Sallii työprofiiliin toiminnan, esimerkiksi sovellukset ja taustasynkronoinnin.</string>

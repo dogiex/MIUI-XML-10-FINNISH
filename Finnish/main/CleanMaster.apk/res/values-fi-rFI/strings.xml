@@ -34,6 +34,10 @@
   <string name="apk_status_installed_old">Vanha versio</string>
   <string name="apk_status_uninstalled">Ei asennettu</string>
   <string name="apk_title_alipay_plugin">支付宝插件</string>
+  <string name="app_clean_group_document_recv">Vastaanotetut tiedostot</string>
+  <string name="app_clean_group_document_send">Lähetetyt tiedostot</string>
+  <string name="app_clean_group_image_recv">Vastaanotetut kuvat</string>
+  <string name="app_clean_group_image_send">Lähetetyt kuvat</string>
   <string name="app_description_content">Puhdistaja löytää laitteellasi olevat roskat ja vapauttaa tallennustilaa. Varmista, että voit elää ilman näitä ominaisuuksia, ennen kuin poistat sovelluksen.</string>
   <string name="app_description_title">Tietoja Puhdistajasta</string>
   <string name="app_name">JunkEngine</string>
@@ -208,6 +212,15 @@
   <string name="engine_cm">Clean Master</string>
   <string name="engine_init">Alustetaan…</string>
   <string name="engine_tm">Tencent</string>
+  <string name="facebook_clean_exit_confirm_cancel">Jatka tarkistamista</string>
+  <string name="facebook_clean_exit_confirm_msg">Facebookin tarkistaminen ei ole vielä valmis. Lopetetaanko tarkistaminen nyt?</string>
+  <string name="facebook_clean_exit_confirm_ok">Lopeta</string>
+  <string name="facebook_clean_exit_confirm_title">Lopetetaanko tarkistaminen?</string>
+  <string name="facebook_cleaner">Facebookin puhdistaja</string>
+  <string name="facebook_group_cache">Välimuistitiedostot</string>
+  <string name="facebook_group_gif">GIF-animaatiot</string>
+  <string name="facebook_group_image">Kuvat</string>
+  <string name="facebook_group_video">Videot</string>
   <string name="file">Tiedostot</string>
   <string name="file_not_found">Tiedostoa ei löytynyt</string>
   <string name="flow_rank_title">Datan käyttö</string>
@@ -640,10 +653,6 @@
   <string name="whatsapp_group_voice">Ääniviestit</string>
   <string name="whatsapp_group_wallpaper">Taustakuvat</string>
   <string name="whatsapp_title">WhatsAppin puhdistaja</string>
-  <string name="whatsapp_type_document_recv">Vastaanotetut tiedostot</string>
-  <string name="whatsapp_type_document_send">Lähetetyt tiedostot</string>
-  <string name="whatsapp_type_image_recv">Vastaanotetut kuvat</string>
-  <string name="whatsapp_type_image_send">Lähetetyt kuvat</string>
   <string name="white_list_ad_header">Mainos-tiedostot: %d</string>
   <string name="white_list_apk_header">Asennuspaketit: %d</string>
   <string name="white_list_cache_header">Välimuistitiedostot: %d</string>

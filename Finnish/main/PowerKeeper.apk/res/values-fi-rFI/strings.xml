@@ -8,6 +8,9 @@
   <string name="app_preload_policies_summary">Käytä koneoppimista ennustaaksesi todennäköisimmin käyttämäsi sovellukset, ja lataamalla ne ennakkoon.</string>
   <string name="app_preload_policies_title">AI-ennakkolataaminen</string>
   <string name="appconfig_active_app_dialog_title">Hallinnoi aktiivisia sovelluksia</string>
+  <string name="atrace_saved">Tallennettiin onnistuneesti</string>
+  <string name="atrace_saving">Tallennetaan atrace lokia…</string>
+  <string name="atrace_start">Nauhoitetaan atrace lokia…</string>
   <string name="base_info">Perustiedot</string>
   <string name="cloud_addr_info">Pilven tiedot</string>
   <string name="cloud_china_addr">Päivitä Kiinan palvelimen tiedot</string>

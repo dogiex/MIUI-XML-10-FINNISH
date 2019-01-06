@@ -35,6 +35,7 @@
   <string name="ad_app_is_downloading">Ladataan…</string>
   <string name="add_resource_detail_fail">Lähdettä ei voi lisätä</string>
   <string name="all_resources">Kaikki</string>
+  <string name="app_ad_title">Päivittäiset Suositukset</string>
   <string name="app_name">Teemat</string>
   <string name="apply_default_font_tip">Jatketaanko järjestelmän nykyisen fontin käyttämistä?</string>
   <string name="apply_font_btn_exclude">Ei nyt</string>
@@ -164,6 +165,9 @@
   <string name="gift_used">Lähetetty</string>
   <string name="hide_free">Piilota ilmainen %1$s</string>
   <string name="hide_incompatible">Piilota yhteensopimattomat %1$s</string>
+  <string name="hide_pull_down_message">Piilotetaanko nippu?</string>
+  <string name="hide_pull_down_negative">Älä piilota</string>
+  <string name="hide_pull_down_positive">Piilota</string>
   <string name="home_apply_failured">Aloitusnäytön taustakuvaa ei voi asettaa</string>
   <string name="home_apply_success">Aloitusnäytön taustakuva asetettu</string>
   <string name="in_the_end">Ei enempää näytettäviä kohteita</string>
@@ -223,6 +227,7 @@
   <string name="my_gifts_purchased">Ostetut</string>
   <string name="my_gifts_received">Vastaanotetut</string>
   <string name="no_data">Verkkoyhteyttä ei voi muodostaa</string>
+  <string name="no_net_work_connection">Tarkista verkkoasetuksesi ja yritä uudelleen.</string>
   <string name="online_no_network">Verkkoyhteyttä ei voi muodostaa</string>
   <string name="online_precust_abstract">Abstrakti</string>
   <string name="online_precust_animal">Eläin</string>
@@ -245,6 +250,9 @@
   <string name="provision_loading_tips">Odota hetki…</string>
   <string name="provision_second_title">Valitse useista oletusteemoista yksi</string>
   <string name="provision_title">Valitse teema</string>
+  <string name="pull_down_view_error_message">Hups! Ei internetyhteyttä. Tarkista yhteytesi tai yritä uudelleen.</string>
+  <string name="pull_down_view_refresh">Päivitä</string>
+  <string name="pull_down_view_title">Mitä uutta</string>
   <string name="purchased_list">Ostetut</string>
   <string name="purchased_list_current">Optimoidut teemat</string>
   <string name="purchased_list_legacy">Legacy teemat</string>
@@ -257,6 +265,7 @@
   <string name="refresh_footer_release">Lataa lisää vapauttamalla</string>
   <string name="region_not_support">Teemat ei ole tuettu sinun alueellasi.</string>
   <string name="reload">Yritä uudelleen</string>
+  <string name="request_time_out">Pyyntö aikakatkaistiin. Yritä uudelleen.</string>
   <string name="resource_account_abnormal_state">Tilivirhe. Odota minuutti tai kaksi ja yritä uudelleen.</string>
   <string name="resource_account_fail_to_add">Tilin lisääminen epäonnistui</string>
   <string name="resource_account_login">Kirjaudu sisään</string>
@@ -473,6 +482,7 @@
   <string name="search_hint_header_text">Suositut hakusanat</string>
   <string name="search_menu_title">Haku</string>
   <string name="selected_resource_file_invalid">Valittua lähteen tiedostoa ei voi käyttää</string>
+  <string name="server_internal_error">Tapahtui palvelinvirhe. Odota minuutti tai kaksi ja yritä uudelleen.</string>
   <string name="set_color_ring_back_tone">Aseta mukautettu soittoääni</string>
   <string name="settings">Asetukset</string>
   <string name="shortcut_add">Lisää</string>
@@ -482,6 +492,7 @@
   <string name="shortcut_title">Tykkäätkö taustakuvistamme?</string>
   <string name="show_free">Näytä ilmaiset %1$s</string>
   <string name="show_incompatible">Näytä yhteensopimattomat %1$s</string>
+  <string name="swipe_find_more">Pyyhkäise ylös</string>
   <string name="system_precust">Esiasennettu</string>
   <string name="tag_ad">Mainos</string>
   <string name="the_picture_is_not_support">Kuvaa ei tueta</string>
@@ -591,6 +602,8 @@
   <string name="video_data_tips_message">Mobiilidatan käyttäminen voi aiheuttaa lisäkustannuksia. Jatketaanko siitä huolimatta?</string>
   <string name="video_data_tips_title">Tiedonsiirtovaroitus</string>
   <string name="video_silence_apply_success">Määritettiin video ilman ääntä onnistuneesti</string>
+  <string name="vip_level_dialog_positive">我知道了</string>
+  <string name="vip_level_dialog_title">温馨提示</string>
   <string name="wallpaper_apply">Aseta</string>
   <string name="wallpaper_crop">Rajaa</string>
   <string name="wallpaper_decoded_error">Taustakuvan lataaminen epäonnistui</string>

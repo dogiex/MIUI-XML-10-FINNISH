@@ -9,6 +9,14 @@
         <item quantity="other">Virheellinen PUK-koodi, %d yritystä jäljellä</item>
         <item quantity="one">Virheellinen PUK-koodi, %d yritys jäljellä</item>
      </plurals>
+     <plurals name="input_password_after_timeout_msg">
+        <item quantity="other">Salasana vaaditaan %d tunnin käyttämättömyyden jälkeen</item>
+        <item quantity="one">Salasana vaaditaan %d tunnin käyttämättömyyden jälkeen</item>
+    </plurals>
+    <plurals name="input_pattern_after_timeout_msg">
+        <item quantity="other">Kuvion piirtäminen vaaditaan %d tunnin käyttämättömyyden jälkeen</item>
+        <item quantity="one">Kuvion piirtäminen vaaditaan %d tunnin käyttämättömyyden jälkeen</item>
+    </plurals>
      <plurals name="keyguard_charging_info_could_use_hour_time_text">
         <item quantity="other">Noin %d tuntia jäljellä</item>
         <item quantity="one">Noin %d tunti jäljellä</item>

@@ -338,8 +338,8 @@ Yhteystietokortit on poistettu käytöstä"</string>
   <string name="description_image_button_plus">plus</string>
   <string name="description_image_button_pound">ruutu</string>
   <string name="description_image_button_seven">seitsemän</string>
-  <string name="description_image_button_sim1_dial">Soita käyttäen SIM1:stä</string>
-  <string name="description_image_button_sim2_dial">Soita käyttäen SIM2:sta</string>
+  <string name="description_image_button_sim1_named_dial">Soita käyttäen SIM-korttia 1 %s</string>
+  <string name="description_image_button_sim2_named_dial">Soita käyttäen SIM-korttia 2 %s</string>
   <string name="description_image_button_six">kuusi</string>
   <string name="description_image_button_star">tähti</string>
   <string name="description_image_button_three">kolme</string>
@@ -988,6 +988,8 @@ Kosketa tähteä yhteystiedon nimen vieressä
   <string name="savingContact">Tallennetaan yhteystietoa…</string>
   <string name="savingDisplayGroups">Tallennetaan näyttövalintoja…</string>
   <string name="scan">Skannaa</string>
+  <string name="scan_business_card">Skannaa käyntikortti</string>
+  <string name="scan_bussiness_card_merge_tip">Ristiriitaiset tiedot on korvattu</string>
   <string name="scan_duplicate_message">%1$d yhteystietoa samanlaisilla tiedoilla</string>
   <string name="scan_merge">Etsitään yhteystietojen kaksoiskappaleita…</string>
   <string name="scan_qrcode_card_hint1">Skannaa ylläoleva QR-koodi</string>

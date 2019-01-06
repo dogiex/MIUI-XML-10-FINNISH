@@ -378,6 +378,8 @@ katsoaksesi avoimia välilehtiä muilta laitteilta."</string>
     <string name="google_bookmarks">Google</string>
     <string name="green_kid_block_request">Vanhemmat on estänyt verkkosivuston vierailun.</string>
     <string name="guide_chosen_type_main_title">Kerro meille mistä pidät</string>
+    <string name="guide_chosen_type_main_title_behind">mitä pidät</string>
+    <string name="guide_chosen_type_main_title_front">Kerro meille</string>
     <string name="guide_chosen_type_subtitle">Merkitse kiinnostuksen kohteesi saadaksesi niihin liittyviä suosituksia</string>
     <string name="guide_entertainment_text">viihde</string>
     <string name="guide_fashion_text">muoti</string>

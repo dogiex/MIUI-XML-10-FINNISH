@@ -528,6 +528,7 @@
   <string name="rename_alert">Jos vaihdat tämän tiedoston tiedostotunnisteen, et välttämättä voi avata sitä.</string>
   <string name="rename_alert2">Tiedosto piilotetaan tiedostonimen päätteen muuttamisen jälkeen.</string>
   <string name="rename_failed">%1$s ei voi nimetä uudelleen</string>
+  <string name="rename_input_null">Anna uusi tiedostonimi</string>
   <string name="repair_done">Palautettu</string>
   <string name="repair_error">Palautus epäonnistui</string>
   <string name="repair_file">Palauta salatut tiedostot</string>

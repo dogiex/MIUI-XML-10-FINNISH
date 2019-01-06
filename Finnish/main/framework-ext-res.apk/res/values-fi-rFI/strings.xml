@@ -187,5 +187,6 @@
   <string name="voice_input_error_other">Tapahtui virhe. Odota minuutti tai kaksi ja yritä uudelleen.</string>
   <string name="wifi_assistant_wifi_no_internet">Tällä Wi-Fi-verkolla ei ole yhteyttä internetiin</string>
   <string name="wifi_assistant_wifi_no_internet_detail">Näytä tiedot napauttamalla</string>
+  <string name="xspace_head">Kaksoissovellus</string>
   <string name="xspace_resolver_activity_title">Valitse sovellus</string>
 </resources>
