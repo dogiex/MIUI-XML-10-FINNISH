@@ -13,6 +13,8 @@
   <string name="btn_share">Jaa</string>
   <string name="btn_stop">Lopeta</string>
   <string name="btn_yes">Kyllä</string>
+  <string name="channel_downloading">Lataaminen kesken</string>
+  <string name="channel_update">Uusi versio saatavilla</string>
   <string name="check_new_version">Tarkista</string>
   <string name="dialog_3g_desc">Huomioithan, että käyttämällä mobiilidataa ROM:ien lataamiseen saattaa viedä suuren osan datapaketistasi.</string>
   <string name="dialog_3g_title">Varoitus!</string>

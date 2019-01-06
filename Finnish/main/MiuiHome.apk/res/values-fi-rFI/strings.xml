@@ -5,6 +5,7 @@
   <string name="announce_for_move">Siirry riviin %1$d sarakkeeseen %2$d</string>
   <string name="announce_for_move_hotseat">Siirry telakan sijaintiin %1$d</string>
   <string name="announce_for_unchecked">%1$s, ei tarkistettu</string>
+  <string name="announce_for_widget_span">Leveys %1$d, korkeus %2$d</string>
   <string name="backup_fail">Käynnistintä ei voitu varmuuskopioida</string>
   <string name="icon_reorganize_channel">Järjestä kuvakkeita</string>
   <string name="notification_reset_title">Kuvakkeet järjestettiin onnistuneesti</string>
@@ -14,10 +15,12 @@
   <string name="action_add_to_workspace">Lisää työtilaan</string>
   <string name="activity_not_found">Sovellusta ei ole asennettu laitteellesi</string>
   <string name="add_screen">Lisää näyttö</string>
+  <string name="announce_for_app_move_in_folder">Siirrettiin kansiossa sijaintiin %1$d</string>
   <string name="announce_for_choose_default_screen">Aseta näyttö %1$d oletusaloitusnäytöksi</string>
   <string name="announce_for_close_default_preview">Suljettiin oletusaloitusnäytön asetukset</string>
   <string name="announce_for_close_folder">Suljettiin kansio</string>
   <string name="announce_for_close_launcher_menu">Suljettiin valikko</string>
+  <string name="announce_for_create_folder_with_app">Luotiin kansio sovellukselle %1$s</string>
   <string name="announce_for_delete_gadget_and_widget">Widgetti</string>
   <string name="announce_for_delete_item">%1$s poistettiin</string>
   <string name="announce_for_drag_enter_delete_zone">Raahattiin kohteita poistoalueelle</string>
@@ -278,12 +281,14 @@
   <string name="recommend_apk_size_and_desc">%1$d Mt | %2$s</string>
   <string name="recommend_apps_default_title">Tyhjä</string>
   <string name="recommend_apps_no_data">Ei dataa</string>
+  <string name="recommend_apps_no_data_toast">Ei suosituksia juuri nyt.</string>
   <string name="recommend_apps_notice">Mainostetut sovellukset</string>
   <string name="recommend_apps_notice_nodata">Mainostetut sovellukset (Ei tietoja)</string>
   <string name="recommend_apps_switch_title">Mainostetut sovellukset</string>
   <string name="recommend_apps_tips">Tämä ominaisuus vaatii internetyhteyden toimiakseen normaalisti. Poista tämä ominaisuus käytöstä napauttamalla tämän kansion nimeä.</string>
   <string name="recommend_loading">Ladataan</string>
-  <string name="refresh">Päivitä</string>
+  <string name="recommend_refresh">Päivitä</string>
+  <string name="recommend_xout">Älä näytä</string>
   <string name="reset_description_first_time">Voit palauttaa ulkoasun kohteesta %1$s 2 tunnin sisällä</string>
   <string name="reset_description_others">Voit palauttaa ulkoasun kohteesta %1$s</string>
   <string name="reset_fail">Ei voitu palauttaa</string>

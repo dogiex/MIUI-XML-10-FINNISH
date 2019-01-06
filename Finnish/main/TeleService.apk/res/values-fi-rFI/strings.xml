@@ -1429,6 +1429,7 @@ SIM-korttisi lukitaan seuraavan epäonnistuneen yrityksen jälkeen."</string>
   <string name="sim_service_setting">Mi SIM &amp; Mi Roaming</string>
   <string name="simulate_color_space">Simuloi väriavaruus</string>
   <string name="singleContactImportedMsg">Tuotu kontakti</string>
+  <string name="sip_account_disable">Tili ei ole aktiivinen. Puheluita ei voi hyväksyä.</string>
   <string name="sip_account_list">SIP-tilit</string>
   <string name="sip_accounts">SIP-tilit</string>
   <string name="sip_accounts_title">Tilit</string>
@@ -1446,6 +1447,7 @@ SIM-korttisi lukitaan seuraavan epäonnistuneen yrityksen jälkeen."</string>
   <string name="sip_menu_discard">Hylkää</string>
   <string name="sip_menu_save">Tallenna</string>
   <string name="sip_profile_create_error">Uutta SIP-profiilia ei voitu luoda</string>
+  <string name="sip_receive_call_disable">Puheluita ei voi hyväksyä. Salli ensin puheluiden hyväksyminen.</string>
   <string name="sip_receive_calls">Vastaanota saapuvia puheluita</string>
   <string name="sip_receive_calls_summary">Käyttää enemmän akkua</string>
   <string name="sip_save_register_error">Uutta SIP-profiilia ei voitu luoda ja tallentaa</string>

@@ -113,4 +113,5 @@ Sinun täytyy hyväksyä Kika:n Tietosuojakäytäntö ennen tämän ominaisuuden
   <string name="voice_assist_desp">Sano \"Mi AI\" puhelimellesi. Mi AI tunnistaa äänesi ja voi ohjata laitettasi.</string>
   <string name="voice_assist_title">Herätä äänellä</string>
   <string name="welcome">Tervetuloa</string>
+  <string name="zone_picker_title">Valitse aikavyöhyke</string>
 </resources>

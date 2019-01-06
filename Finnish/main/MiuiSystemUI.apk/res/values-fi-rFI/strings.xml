@@ -928,7 +928,7 @@ Puhelimesi voi kuumentua liikaa jos:
      <string name="tuner_toast">Onneksi olkoon! Järjestelmän UI-viritin lisättiin Asetuksiin</string>
      <string name="tuner_warning">Järjestelmän UI-viritin tuo lisätapoja muokata Android-käyttöliittymää. Nämä kokeelliset toiminnot saattaa muuttua, hajota tai poistua tulevaisuuden julkaisuissa. Jatka varoen.</string>
      <string name="tuner_warning_title">Hauska joillekin, mutta ei kaikille</string>
-     <string name="unlock_camera_steady">Pidä kamera vakaana</string>
+     <string name="unlock_camera_steady">Älä liikuta puhelintasi</string>
      <string name="unlock_failed">Sisäinen virhe</string>
      <string name="unlock_failed_face_not_found">Tunnistetaan</string>
      <string name="unlock_label">Poista lukitus</string>

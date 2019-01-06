@@ -2849,6 +2849,7 @@ Tällä laitteella on muita paikalla olevia käyttäjiä.
   <string name="menu_stats_unplugged">%1$s laturin irrottamisen jälkeen</string>
   <string name="menu_use_uss">Käytä USS-muistimääritystä</string>
   <string name="mi_pay">Mi Wallet</string>
+  <string name="mi_pay_indonesia">Akun Mi Pay</string>
   <string name="mi_pay_summary">Bussikortti/Mi Pay/Kortin emulaattori</string>
   <string name="mi_service">Mi Palvelu</string>
   <string name="mi_service_app_detail">Datan käytön tiedot</string>
@@ -4630,7 +4631,7 @@ Laitteeseesi asennettu luotettu varmenne tekee tämän mahdolliseksi."</string>
   <string name="status_bar_settings_basic_settings">Asetukset</string>
   <string name="status_bar_settings_custom_carrier">Muokkaa operaattorin nimeä</string>
   <string name="status_bar_settings_custom_wifi_name">Muokkaa Wi-Fi nimeä</string>
-  <string name="status_bar_settings_customer_feedback">palaute</string>
+  <string name="status_bar_settings_customer_feedback">Palaute</string>
   <string name="status_bar_settings_enable_notification">Näytä ilmoitukset</string>
   <string name="status_bar_settings_expand_top_notification">Laajenna ylin ilmoitus</string>
   <string name="status_bar_settings_expandable_under_keyguard">Näytä Lukitusnäytöllä</string>

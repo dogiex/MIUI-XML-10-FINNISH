@@ -31,7 +31,7 @@
   <string name="catch_full_log_action_cancel">Peruuta</string>
   <string name="catch_full_log_action_complete">Valmis ja lähetä</string>
   <string name="catch_full_log_action_start">Luo loki</string>
-  <string name="catch_full_log_add_original_photo">Lisää kuva</string>
+  <string name="catch_full_log_add_original_photo">Lisää alkuperäinen kuva tai lyhytvideo</string>
   <string name="catch_full_log_add_photo">Lisää kuva</string>
   <string name="catch_full_log_add_photo_dialog_content">Jos ilmoittamasi ongelma koskee kameran kuvanlaatua, lisää alkuperäinen kuva (rajaamaton) auttaaksesi meitä paikallistamaan ongelman. Lisätäänkö kuva nyt?</string>
   <string name="catch_full_log_dialog_confirm_text">Siirry Aloitusnäytölle</string>
@@ -120,7 +120,7 @@
   <string name="feedback_report_remind_login_desc">Kirjaudu Mi Tiliisi, jotta meidän insinöörit voivat olla sinuun yhteydessä. Voit myös katsella raporttisi edistymistä täältä \"Minun raportit\"."</string>
   <string name="feedback_report_remind_login_desc2">Voit myös nähdä raporttisi etenemistä menemällä \"Raporttini\".</string>
   <string name="feedback_retest_label">Askeleet ongelman jäljentämiseen</string>
-  <string name="feedback_select_images">Lisää kuvia</string>
+  <string name="feedback_select_images">Lisää kuva tai lyhytvideo</string>
   <string name="feedback_select_modem_log">Lisää modeemin lokitiedot</string>
   <string name="feedback_select_modem_log_not_select_desc">Ei valittu \"Lisää modeemin lokit\"</string>
   <string name="feedback_select_modem_log_select_desc">Valittu \"Lisää modeemin lokit\"</string>
@@ -331,12 +331,14 @@
   <string name="title_answer_feedback_main">Löysimme vastauksia!</string>
   <string name="title_catch_full_log">Lokit</string>
   <string name="title_customer_service">Asiakaspalvelu</string>
+  <string name="title_first_aid">Ensiapu</string>
   <string name="title_frequent_question_feedback_main">UKK</string>
   <string name="title_mi_family">Mi Koteja lähellä</string>
   <string name="title_nonsystem_app">Muut sovellukset</string>
   <string name="title_same_question_feedback_main">MIUI keskustelupalstalla samankaltaisia ongelmia</string>
   <string name="title_system_app">MIUI sovellukset</string>
   <string name="toast_catch_full_log_catching">Voit luoda vain yhden lokin kerrallaan.</string>
+  <string name="toast_catch_full_log_open_failed">Lokin nauhoittamista ei voitu aloittaa.</string>
   <string name="toast_description_required">Sinun täytyy kirjoittaa selitys</string>
   <string name="toast_feedback_collect_store">Kerätään lokeja…</string>
   <string name="toast_feedback_network_unavailable">Verkkoyhteyttä ei voi muodostaa</string>
@@ -347,7 +349,7 @@
   <string name="toast_fill_brackets">Raportistasi puuttuu joitain tietoja</string>
   <string name="toast_loading_app_id">Noudetaan tietoja…</string>
   <string name="toast_log_not_exists">Vaadittu lokitiedosto on poistettu tai sitä ei ole olemassa</string>
-  <string name="toast_log_too_large">Ei voi lähettää. Tiedosto on liian suuri.</string>
+  <string name="toast_log_too_large">Ei voi lähettää. Loki on liian suuri.</string>
   <string name="toast_module_required">Valitse kohde</string>
   <string name="toast_network_unavailable">Lähetys epäonnistui. Verkkoyhteyttä ei voi muodostaa.</string>
   <string name="toast_pending_log_collection">Kerätään vieläkin lokeja…</string>
@@ -357,7 +359,7 @@
   <string name="toast_report_copied_to_clipboard">Raportti kopioitiin leikepöydälle</string>
   <string name="toast_report_sent_failed">Raporttia ei voida lähettää</string>
   <string name="toast_report_sent_succeed">Raportti on lähetetty</string>
-  <string name="toast_screenshot_too_large">10 Mt suurempia tiedostoja ei voi lähettää.</string>
+  <string name="toast_screenshot_too_large">10 Mt suurempia kuvia tai videoita ei voi lähettää.</string>
   <string name="toast_third_packagename_required">Syötä sovelluksen nimi</string>
   <string name="toast_title_required">Kuvaile ongelmasi</string>
   <string name="topic_author">1#</string>

@@ -110,15 +110,16 @@ Huomio: Asennettujen sovelluksien datatietoja ei varmuuskopioida Mi Pilveen. Kä
   <string name="download_settings">Ladataan Aloitusnäytön asetuksia %s%%</string>
   <string name="download_settings_fail">Aloitusnäytön asetuksien lataaminen epäonnistui</string>
   <string name="error_num_placeholder">--</string>
-  <string name="error_retry_later">Epäonnistui, yritä myöhemmin uudelleen.</string>
+  <string name="error_retry_later">Toimintoa ei voitu suorittaa. Odota minuutti tai kaksi ja yritä uudelleen…</string>
   <string name="error_unknown">Jotain meni pieleen</string>
   <string name="get_device_id_error">Laitteen ID-numeron noutaminen epäonnistui</string>
-  <string name="home_hint_global_launcher">Poco Aloitusnäyttö</string>
-  <string name="home_hint_other_launcher">Muu Aloitusnäyttö</string>
+  <string name="home_hint_global_launcher">Poco Käynnistin</string>
+  <string name="home_hint_other_launcher">Muu käynnistin</string>
   <string name="home_restore_error">Aloitusnäytön palauttaminen epäonnistui</string>
   <string name="lack_of_storage">Tallennustilaa ei ole riittävästi</string>
   <string name="latest_backup_time_loading">Ladataan…</string>
-  <string name="load_backup_failed">Varmuuskopioiden lataaminen epäonnistui</string>
+  <string name="load_backup_failed">Varmuuskopioita ei voitu ladata</string>
+  <string name="loading_progress_num">(%s %%)</string>
   <string name="loading_user_backup">Ladataan käyttäjän varmuuskopioita…</string>
   <string name="main_space">Ensimmäinen tila</string>
   <string name="managespace_delete_backup">Poista</string>
@@ -176,6 +177,6 @@ Huomio: Asennettujen sovelluksien datatietoja ei varmuuskopioida Mi Pilveen. Kä
   <string name="total_space">Tilaa yhteensä: %s</string>
   <string name="try_again">Napauta yrittääksesi uudelleen</string>
   <string name="try_continue">Napauta jatkaaksesi</string>
-  <string name="unsupported_home">Päivitä viimeisimpään käyttöjärjestelmään.</string>
+  <string name="unsupported_home">Päivitä MIUI viimeisimpään käyttöjärjestelmään.</string>
   <string name="wait_icon_download">Ladataan sovelluksien kuvakkeita</string>
 </resources>

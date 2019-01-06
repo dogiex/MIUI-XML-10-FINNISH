@@ -494,7 +494,7 @@ Vapauta vähintään %s."</string>
   <string name="trans_disconnected_tips_title">Etälaitteen yhteys katkaistu</string>
   <string name="trans_failed_details_page_title">Epäonnistuneet siirrot</string>
   <string name="trans_generate_qr_code_failed">QR-koodia ei voitu luoda</string>
-  <string name="trans_generate_qrcode_failed">QR-koodia ei voitu luoda. Yritä uudelleen.</string>
+  <string name="trans_generate_qrcode_failed">QR-koodia ei voitu luoda. Sulje muut sovellukset ja yritä uudelleen.</string>
   <string name="trans_generating_qrcode">Luodaan QR-koodia…</string>
   <string name="trans_intro_desc_1">Mi puhelimella, yhdistä Wi-Fi-verkkoon ja napauta \"Olen vastaanottaja\". Valitse iOS -laitteesi ja kirjaudu sisään iCloudiin ja tuo tiedot.</string>
   <string name="trans_intro_desc_3">Peruuta siirto, poistu Mi Moverista ja aloita alusta. Tiedostojen kaksoiskappaleet korvataan uuden siirron aikana.</string>

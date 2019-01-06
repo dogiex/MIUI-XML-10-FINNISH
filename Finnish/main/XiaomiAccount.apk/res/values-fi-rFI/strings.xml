@@ -89,6 +89,7 @@
   <string name="change_password">Vaihda salasana</string>
   <string name="change_phone_number">Vaihda puhelinnumero</string>
   <string name="cloud_service">Mi Pilvi</string>
+  <string name="collect_diagnosis_log">Luo diagnostiikkaloki</string>
   <string name="completed">Kaikki valmiina!</string>
   <string name="confirm_activate_email">Todennettu</string>
   <string name="confirm_bundled_phone_dialog_title">Vahvista liitetty puhelinnumero</string>
@@ -117,6 +118,10 @@
   <string name="device_list_title">Laitteeni</string>
   <string name="device_name">Laitteen nimi</string>
   <string name="device_trust_info">Luotetut laitteet</string>
+  <string name="diagnosis_log_send_failed">Diagnostiikkalokin lähettäminen epäonnistui.</string>
+  <string name="diagnosis_log_sent_format">"Diagnostiikkaloki lähetettiin.
+ID: %s
+Lähetä tämä koodi teknikolle."</string>
   <string name="empty_device_list_notice">Ei laitteita</string>
   <string name="error_dup_binded_email">Tämä sähköpostiosoite on jo olemassa toisella Mi Tilillä.</string>
   <string name="error_invalid_bind_address">Syöttämäsi sähköpostiosoite on väärin.</string>
@@ -144,6 +149,7 @@
   <string name="find_device_request_prepare_error">Tilan saanti epäonnistui, yritä myöhemmin uudelleen</string>
   <string name="find_device_unknown_error">Laitteen tilan saanti epäonnistui, odota minuutti tai kaksi ja yritä uudelleen</string>
   <string name="first_login_time">Ensimmäinen kirjautumisyritys: %s</string>
+  <string name="for_diagnosis_usage_only">Käytä tätä tietoa vain diagnostiikkaa varten.</string>
   <string name="get_back_pwd">Salasanan palauttaminen</string>
   <string name="get_device_list_failed">Laitteita ei voitu hakea</string>
   <string name="get_phone_bind_exceed_limit">Voit liittää puhelinnumeroita enintään kolmelle Mi Tilille. Tilejä ei voi lisätä.</string>
@@ -191,6 +197,7 @@
   <string name="oauth_getting_scopes">Todennetaan tiliä…</string>
   <string name="oauth_scopes_intro">%2$s saa seuraavat käyttöoikeudet: %3$s</string>
   <string name="oauth_title">Kirjaudu Mi Tilillä</string>
+  <string name="ok">OK</string>
   <string name="other_devices_title">Muut laitteet</string>
   <string name="passport_Resend">Lähetä uudelleen</string>
   <string name="passport_access_denied">Pääsy kielletty</string>
@@ -446,7 +453,9 @@ Aktivoi tilisi seuraamalla
   <string name="search_user_detail_path">Asetukset/Mi Tili/Henkilökohtaiset tiedot</string>
   <string name="search_user_detail_top_key_words">Henkilökohtaiset tiedot,Vaihda Profiilikuva,Vaihda Käyttäjänimi,Vaihda Lempinimi,Vaihda Syntymäaika,Vaihda Sukupuoli</string>
   <string name="select_location_title">Valitse sijaintisi</string>
+  <string name="send_diagnosis_log">Lähetä diagnostiikkaloki</string>
   <string name="send_email_activate_message">Vahvistussähköposti lähetetty</string>
+  <string name="sending">Lähetetään...</string>
   <string name="service_error">Palveluvirhe</string>
   <string name="set_success">Muutettiin onnistuneesti</string>
   <string name="sign_in">Kirjaudutaan sisään</string>
@@ -456,6 +465,7 @@ Aktivoi tilisi seuraamalla
   <string name="sms_send_success">Lähetetty</string>
   <string name="sns_access_token_expired_warning">Tilin kirjautuminen on vanhentunut. Yhdistä tili uudelleen kirjautumalla sisään uudelleen.</string>
   <string name="talkback_scan_barcode">Skannaa QR-koodi</string>
+  <string name="temporary_not_available">Toistaiseksi ei käytettävissä</string>
   <string name="trusted_browsers">Luotetut selaimet</string>
   <string name="trusted_browsers_prompt">Selain ei ole enää luotettu jos poista evästeet.</string>
   <string name="turn_off_find_device_failed_title">Laitteen etsintää ei voi sammuttaa</string>
