@@ -89,7 +89,7 @@
   <string name="change_password">Vaihda salasana</string>
   <string name="change_phone_number">Vaihda puhelinnumero</string>
   <string name="cloud_service">Mi Pilvi</string>
-  <string name="collect_diagnosis_log">Luo diagnostiikkaloki</string>
+  <string name="collect_diagnosis_log">Generoi diagnostiikkaloki</string>
   <string name="completed">Kaikki valmiina!</string>
   <string name="confirm_activate_email">Todennettu</string>
   <string name="confirm_bundled_phone_dialog_title">Vahvista liitetty puhelinnumero</string>
@@ -118,10 +118,10 @@
   <string name="device_list_title">Laitteeni</string>
   <string name="device_name">Laitteen nimi</string>
   <string name="device_trust_info">Luotetut laitteet</string>
-  <string name="diagnosis_log_send_failed">Diagnostiikkalokin lähettäminen epäonnistui.</string>
-  <string name="diagnosis_log_sent_format">"Diagnostiikkaloki lähetettiin.
+  <string name="diagnosis_log_send_failed">Lokia ei voitu lähettää.</string>
+  <string name="diagnosis_log_sent_format">"Loki lähetettiin onnistuneesti.
 ID: %s
-Lähetä tämä koodi teknikolle."</string>
+Lähetä tämä koodi valvojalle."</string>
   <string name="empty_device_list_notice">Ei laitteita</string>
   <string name="error_dup_binded_email">Tämä sähköpostiosoite on jo olemassa toisella Mi Tilillä.</string>
   <string name="error_invalid_bind_address">Syöttämäsi sähköpostiosoite on väärin.</string>
@@ -149,7 +149,7 @@ Lähetä tämä koodi teknikolle."</string>
   <string name="find_device_request_prepare_error">Tilan saanti epäonnistui, yritä myöhemmin uudelleen</string>
   <string name="find_device_unknown_error">Laitteen tilan saanti epäonnistui, odota minuutti tai kaksi ja yritä uudelleen</string>
   <string name="first_login_time">Ensimmäinen kirjautumisyritys: %s</string>
-  <string name="for_diagnosis_usage_only">Käytä tätä tietoa vain diagnostiikkaa varten.</string>
+  <string name="for_diagnosis_usage_only">Käytetään vain ongelmien paikallistamiseksi.</string>
   <string name="get_back_pwd">Salasanan palauttaminen</string>
   <string name="get_device_list_failed">Laitteita ei voitu hakea</string>
   <string name="get_phone_bind_exceed_limit">Voit liittää puhelinnumeroita enintään kolmelle Mi Tilille. Tilejä ei voi lisätä.</string>
@@ -383,7 +383,7 @@ Aktivoi tilisi seuraamalla
   <string name="passport_skip_setup_account_title">Etkö käytä Mi Pilveä?</string>
   <string name="passport_sms_send_success">Lähetetty</string>
   <string name="passport_sms_verification_code_login">Kirjaudu sisään käyttäen tekstiviestiä</string>
-  <string name="passport_sms_verification_code_login_or_register">Kirjaudu tai rekisteröidy käyttäen tekstiviestiä</string>
+  <string name="passport_sms_verification_code_login_or_register">Kirjaudu tai luo tili käyttäen tekstiviestiä</string>
   <string name="passport_sync_account_data">Synkronoidaan tilitietoja…</string>
   <string name="passport_sync_account_data_failed_warning">Tilitietojasi synkronoidaan nyt, voit kirjautua sisään käyttämällä Mi Tilisi ID:tä. Jos haluat kirjautua sisään käyttämällä puhelinnumeroasi tai sähköpostiosoitettasi, odota kunnes tiedot on kokonaan synkronoitu.</string>
   <string name="passport_title_reg">Luo tili</string>
@@ -455,7 +455,7 @@ Aktivoi tilisi seuraamalla
   <string name="select_location_title">Valitse sijaintisi</string>
   <string name="send_diagnosis_log">Lähetä diagnostiikkaloki</string>
   <string name="send_email_activate_message">Vahvistussähköposti lähetetty</string>
-  <string name="sending">Lähetetään...</string>
+  <string name="sending">Lähetetään…</string>
   <string name="service_error">Palveluvirhe</string>
   <string name="set_success">Muutettiin onnistuneesti</string>
   <string name="sign_in">Kirjaudutaan sisään</string>
@@ -465,7 +465,7 @@ Aktivoi tilisi seuraamalla
   <string name="sms_send_success">Lähetetty</string>
   <string name="sns_access_token_expired_warning">Tilin kirjautuminen on vanhentunut. Yhdistä tili uudelleen kirjautumalla sisään uudelleen.</string>
   <string name="talkback_scan_barcode">Skannaa QR-koodi</string>
-  <string name="temporary_not_available">Toistaiseksi ei käytettävissä</string>
+  <string name="temporary_not_available">Tämä toiminto ei ole vielä käytettävissä.</string>
   <string name="trusted_browsers">Luotetut selaimet</string>
   <string name="trusted_browsers_prompt">Selain ei ole enää luotettu jos poista evästeet.</string>
   <string name="turn_off_find_device_failed_title">Laitteen etsintää ei voi sammuttaa</string>

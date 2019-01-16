@@ -35,7 +35,7 @@
   <string name="catch_full_log_add_photo">Lisää kuva</string>
   <string name="catch_full_log_add_photo_dialog_content">Jos ilmoittamasi ongelma koskee kameran kuvanlaatua, lisää alkuperäinen kuva (rajaamaton) auttaaksesi meitä paikallistamaan ongelman. Lisätäänkö kuva nyt?</string>
   <string name="catch_full_log_dialog_confirm_text">Siirry Aloitusnäytölle</string>
-  <string name="catch_full_log_dialog_content">MIUI generoi lokia. Tämä saattaa vaikuttaa laitteen yleiseen tuottavuuteen. Jos et voi toistaa ongelmaa, siirry takaisin lokeihin ja napauta \"Peruuta\".</string>
+  <string name="catch_full_log_dialog_content">MIUI generoi lokia. Tämä saattaa vaikuttaa laitteen yleiseen suorituskykyyn. Jos et voi toistaa ongelmaa, siirry takaisin lokeihin ja napauta \"Peruuta\".</string>
   <string name="catch_full_log_dump_hprof_failed">Viivelokia ei voitu luoda</string>
   <string name="catch_full_log_item_content_catch_direct">"Vaiheet:
 1. Palaa takaisin toimintoon, jonka haluat ilmoittaa ja toista se.

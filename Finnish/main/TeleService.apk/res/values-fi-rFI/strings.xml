@@ -783,7 +783,7 @@ Siirtonopeus"</string>
   <string name="fdn_list_with_label">Sallittujen numeroiden luettelo (%s)</string>
   <string name="fdn_summary">Rajoita lähteviä puheluita FDN listattuihin numeroihin tai tietyllä etuliitteellä oleviin numeroihin</string>
   <string name="fdn_with_label">Sallitut numerot (%s)</string>
-  <string name="flash_when_ring_summary">Vilkuta ilmoitusvaloa saapuvista puheluista</string>
+  <string name="flash_when_ring_summary">Ilmoita saapuvista puheluista käyttämällä salamaa</string>
   <string name="flash_when_ring_title">Vilkuta soidessa</string>
   <string name="force_allow_on_external">Salli aina ulkoinen tallennus</string>
   <string name="force_allow_on_external_summary">Mahdollistaa sovelluksen tietojen tallentamisen ulkoiseen tallennustilaan luetteloarvoista riippumatta.</string>
@@ -953,7 +953,7 @@ Haluatko kuitenkin vaihtaa operaattoria?"</string>
   <string name="missed_call_notify_once">1 kerta</string>
   <string name="missed_call_notify_ten_times">10 kertaa</string>
   <string name="missed_call_notify_thrice">3 kertaa</string>
-  <string name="missed_call_notify_times_summary">muistutukset erotetaan 5 minuutin välein</string>
+  <string name="missed_call_notify_times_summary">Muistutukset erotetaan 5 minuutin välein</string>
   <string name="missed_call_notify_times_title">Vastaamatta jääneiden puheluiden muistutus</string>
   <string name="missed_call_notify_twice">2 kertaa</string>
   <string name="miui_network_selection_reset_text">Nollaa</string>
@@ -1311,7 +1311,7 @@ SIM-korttisi lukitaan seuraavan epäonnistuneen yrityksen jälkeen."</string>
   <string name="respond_via_sms_canned_response_2">Soitan sinulle kohta takaisin.</string>
   <string name="respond_via_sms_canned_response_3">Soitan sinulle myöhemmin.</string>
   <string name="respond_via_sms_canned_response_4">En voi nyt jutella. Mitä asiaa?</string>
-  <string name="respond_via_sms_cannot_empty">Reject messages can not be empty</string>
+  <string name="respond_via_sms_cannot_empty">Viesti ei voi olla tyhjä</string>
   <string name="respond_via_sms_confirmation_format">Viesti lähetetty henkilölle %s.</string>
   <string name="respond_via_sms_edittext_dialog_title">Pikavastaus</string>
   <string name="respond_via_sms_menu_reset_default_activity">Palauta oletukset</string>

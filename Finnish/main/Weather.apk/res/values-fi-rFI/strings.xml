@@ -24,6 +24,7 @@
   <string name="activity_find_city_dialog_set">Asetukset</string>
   <string name="activity_find_city_dialog_title">Pääsy Sijaintiin</string>
   <string name="activity_main_clickable">&gt;</string>
+  <string name="activity_main_pub_time">Julkaistu klo %1$s</string>
   <string name="activity_main_time_format">E</string>
   <string name="activity_main_update_time">Päivitetty %1$s</string>
   <string name="activity_main_update_time_expire">Tieto on vanhentunut</string>
@@ -165,7 +166,6 @@ Vedä alaspäin päivittääksesi tai tarkasta verkkoasetukset"</string>
   <string name="install">Asenna</string>
   <string name="international_detail_menu_title">Tiedot</string>
   <string name="international_details_pressure_title">PAINE</string>
-  <string name="international_details_real_feel_title">TUNTUU KUIN®</string>
   <string name="international_details_title">Tiedot</string>
   <string name="international_details_uv_index_title">UV INDEKSI</string>
   <string name="international_details_wind_title">TUULI</string>
@@ -224,6 +224,7 @@ Lisää kaupunki manuaalisesti napauttamalla"</string>
   <string name="pull_fresh_updated">Päivitettiin onnistuneesti</string>
   <string name="pull_fresh_updating">Päivitetään…</string>
   <string name="radar_cloud_image_title">Tutkakartta</string>
+  <string name="radar_cloud_update_time">Ennen %1$s</string>
   <string name="rainfall_settings_summary">Sademäärän hälytykset</string>
   <string name="rainfall_settings_title">Sademäärä</string>
   <string name="real_time_sunrise">Auringonnousu %1$s</string>

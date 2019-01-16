@@ -168,6 +168,7 @@
   <string name="pause">Tauko</string>
   <string name="privacy_policy">Tietosuojakäytäntö</string>
   <string name="remind_ringtone">Soittoääni</string>
+  <string name="repeat_count">Toistokerrat</string>
   <string name="reset">Nollaa</string>
   <string name="revert">Palauta</string>
   <string name="search_alarm_clock_keywords">Herätys;herätyskello;Herätys</string>
@@ -186,7 +187,9 @@
   <string name="skip_alarm_once_hint">Pois käytöstä kerran: %s</string>
   <string name="slider_text">Sammuta pyyhkäisemällä ylös</string>
   <string name="snooze_confirm_cancel">Hylkää hälytys</string>
-  <string name="snooze_duration_title">Torkun kesto</string>
+  <string name="snooze_duration">Torkku</string>
+  <string name="snooze_duration_title">Torkku</string>
+  <string name="snooze_duration_value">Intervalli (minuuttia)</string>
   <string name="start">Aloita</string>
   <string name="start_up">Aloita</string>
   <string name="stat_repeat_everyday">每天</string>

@@ -218,6 +218,8 @@
   <string name="extended_storage_file_can_not_open">Tiedostoa ei voi avata. Kopioi tiedosto sisäiselle tallennustilalle.</string>
   <string name="extract">Pura</string>
   <string name="fail_to_create_folder_unknown">Kansiota ei voi luoda</string>
+  <string name="failed_not_access_sd_card">Salli ensin SD-kortin käyttöoikeus</string>
+  <string name="failed_obtain_permissions">Käyttöoikeuksia ei saatu</string>
   <string name="favorite_photo">Kuvat</string>
   <string name="favorite_ringtone">Soittoäänet</string>
   <string name="favorite_screen_cap">Kuvakaappaukset</string>
@@ -400,6 +402,7 @@
   <string name="no_wifi">Verkkoa ei havaittu</string>
   <string name="no_wifi_hint">Ei yhteyttä</string>
   <string name="not_installed_documentsui">DocumentsUI ei ole asennettu</string>
+  <string name="not_support_documentui">DocumentUI ei ole tuettu tällä laitteella</string>
   <string name="notif_server_starting">Käynnistetään FTP-palvelinta…</string>
   <string name="notif_title">FTP-palvelin on käynnissä</string>
   <string name="notification_dialog_confirm">OK</string>
@@ -539,6 +542,8 @@
   <string name="report_politics">Poliittinen korrektius</string>
   <string name="report_porn">Pornografia</string>
   <string name="report_violence">Väkivalta</string>
+  <string name="request_document_permission">Hallitaksesi SD-kortillasi olevia tiedostoja, anna Tiedostohallinnalle vaaditut käyttöoikeudet.</string>
+  <string name="request_document_permission_title">Käyttöoikeuksia vaaditaan</string>
   <string name="request_timeout">Verkkopyynnön aikakatkaisu</string>
   <string name="reset_password">Vaihda salasana</string>
   <string name="restoring">Palautetaan…</string>

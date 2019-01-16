@@ -82,6 +82,14 @@ Huomio: Tiedosto poistetaan myös tältä laitteelta."</item>
         <item quantity="other">%d kohdetta valittu</item>
         <item quantity="one">%d kohde valittu</item>
     </plurals>
+    <plurals name="notif_title_multiple_downloading">
+        <item quantity="other">Ladataan %1$d tiedostoa</item>
+        <item quantity="one">Ladataan %1$d tiedosto</item>
+    </plurals>
+    <plurals name="notification_download_failed_more">
+        <item quantity="other">%1$d kohdetta ei voitu ladata</item>
+        <item quantity="one">%1$d kohdetta ei voitu ladata</item>
+    </plurals>
     <plurals name="reader_count">
         <item quantity="other">%d seuraajaa</item>
         <item quantity="one">%d seuraaja</item>

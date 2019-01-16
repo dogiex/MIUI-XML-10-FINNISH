@@ -596,7 +596,6 @@
   <string name="express_inquiry">Seurataan</string>
   <string name="express_inquiry_all_logistics">Kaikki</string>
   <string name="express_inquiry_and_send">Seurataan ja lähetetään</string>
-  <string name="express_inquiry_button_text">Seuraa</string>
   <string name="express_inquiry_clipboard_number_message">Seurataanko kopioitua numeroa?</string>
   <string name="express_inquiry_data_owner_prefix">"Serantatiedot tarjoaa "</string>
   <string name="express_inquiry_data_owner_suffix"/>
@@ -672,6 +671,8 @@ Tarkista seurantanumerosi."</string>
   <string name="express_provider_cainiao">Cainiao</string>
   <string name="express_provider_jingdong">Jingdong</string>
   <string name="express_provider_shunfeng">Shunfeng</string>
+  <string name="express_query">Seuraa</string>
+  <string name="express_query_more">Seuraa lisää</string>
   <string name="express_region_pick_title">Valitse alue</string>
   <string name="express_schedule_delivery">预约取件</string>
   <string name="express_select_addressee">Vastaanottaja</string>

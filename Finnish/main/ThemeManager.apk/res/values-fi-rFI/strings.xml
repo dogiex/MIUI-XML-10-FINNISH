@@ -492,7 +492,7 @@
   <string name="shortcut_title">Tykkäätkö taustakuvistamme?</string>
   <string name="show_free">Näytä ilmaiset %1$s</string>
   <string name="show_incompatible">Näytä yhteensopimattomat %1$s</string>
-  <string name="swipe_find_more">Pyyhkäise ylös</string>
+  <string name="swipe_find_more">Näytä lisää pyyhkäisemällä ylös</string>
   <string name="system_precust">Esiasennettu</string>
   <string name="tag_ad">Mainos</string>
   <string name="the_picture_is_not_support">Kuvaa ei tueta</string>
@@ -538,7 +538,7 @@
   <string name="theme_description_title_default">Oletus</string>
   <string name="theme_detail_tab_comment">Kommentit</string>
   <string name="theme_detail_tab_recommend">Suositut</string>
-  <string name="theme_detail_tab_theme">Teemat</string>
+  <string name="theme_detail_tab_theme">Tiedot</string>
   <string name="theme_empty_redirect">Takaisin Teemoihin</string>
   <string name="theme_favorite_add_fail">Suosikkeihin lisääminen epäonnistui</string>
   <string name="theme_favorite_add_success">Lisätty suosikkeihin</string>

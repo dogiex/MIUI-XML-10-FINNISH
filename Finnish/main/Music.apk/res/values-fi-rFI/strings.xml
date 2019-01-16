@@ -73,6 +73,7 @@
   <string name="avoid_to_use_traffic_summary">Älä käytä mobiilidata-yhteyttä musiikin suoratoistoon</string>
   <string name="avoid_to_use_traffic_title">Näytä ponnahdusikkuna, kun käytät mobiilidataa kappaleiden soittamiseen</string>
   <string name="back_confirm">Siirrä sovellus taustalle napauttamalla uudelleen</string>
+  <string name="banner_op">Mi Musiikki</string>
   <string name="bluetooth_device">Bluetooth äänilaite</string>
   <string name="browser_error">Toistaiseksi ei käytettävissä, yritä myöhemmin uudelleen</string>
   <string name="buffering">Puskuroidaan…</string>
@@ -152,6 +153,7 @@
   <string name="dialog_media_not_found">Ei voi ladata. Ulkoinen media ei ole käytettävissä.</string>
   <string name="dialog_queued_body">Tämä tiedosto on latausjonossa.</string>
   <string name="dialog_renew_failure">Pahoittelut, toiminto epäonnistui</string>
+  <string name="dialog_renew_free_end">Ilmainen kokeilujaksosi on päättynyt. Tilataanko Hungama PRO?​</string>
   <string name="dialog_renew_positive_text">KYLLÄ, HALUAN ROKKAA KUIN AMMATTILAINEN</string>
   <string name="dialog_renew_success">Kiitos vahvistuksestasi</string>
   <string name="dialog_song_sort_type">Lajittele</string>
@@ -473,11 +475,9 @@
   <string name="not_now">Ei nyt</string>
   <string name="not_selected">Valitse kappale</string>
   <string name="notif_title_file_size">%1$d yhteensä</string>
-  <string name="notif_title_multiple_downloading">Ladataan %1$d tiedostoa</string>
   <string name="notif_title_single_downloading">Ladataan %1$s</string>
   <string name="notification_download_complete">Lataaminen valmis</string>
   <string name="notification_download_failed">Lataaminen epäonnistui</string>
-  <string name="notification_download_failed_more">%1$d kohteen lataaminen epäonnistui</string>
   <string name="notification_download_success_more">%1$d ladattu</string>
   <string name="notification_need_wifi_for_size">Latauksen koko vaatii Wi-Fi-yhteyden.</string>
   <string name="notification_play_summary">Näytä nykyinen ja seuraava kappale, näytä laulun sanat Aloitusnäytöllä</string>
@@ -491,6 +491,13 @@
   <string name="nowplaying_dialog_title_delete_tracks">Poistetaanko tämä kappale jonosta?</string>
   <string name="nowplaying_menu_item_delete">Poista jonosta</string>
   <string name="ok">OK</string>
+  <string name="online_apk_download_error_no_enough_space">Ei voitu ladata liian vähäisen tallennustilan vuoksi.</string>
+  <string name="online_apk_downloading">Ladataan… %d %%</string>
+  <string name="online_apk_install_alert_confirm">Lataa</string>
+  <string name="online_apk_install_alert_message">Sinun täytyy ladata Yandex.Music liitännäinen. Ladataanko nyt?</string>
+  <string name="online_apk_install_alert_note">Tämän palvelun tarjoaa Yandex.Music</string>
+  <string name="online_apk_install_error_no_enough_space">Ei voitu asentaa liian vähäisen tallennustilan vuoksi.</string>
+  <string name="online_apk_install_error_with_reason">Ei voitu asentaa (Virhe %d)</string>
   <string name="online_list_delete_message">Tämän soittolistan kaikki ladatut kappaleet poistetaan sisäiseltä tallennustilalta.</string>
   <string name="online_recommend">Soittolista</string>
   <string name="online_service_open_tip">Online musiikkipalvelut on käytössä</string>
@@ -723,4 +730,14 @@ Ole onnellinen"</string>
 
 Napauta %s aloittaaksesi latauksen seuraavalla kerralla, kun olet yhteydessä Wi-Fi-verkkoon."</string>
   <string name="wifi_required_title">Lataus on liian suuri operaattorin verkolle</string>
+  <string name="xiaomi_update_sdk_bytes_unit">%1$s t</string>
+  <string name="xiaomi_update_sdk_connect_download_manager_fail">Lataustenhallinnan yhdistäminen epäonnistui, tarkista Lataustenhallinnan tila Sovelluksien hallinnasta.</string>
+  <string name="xiaomi_update_sdk_dialog_message">"Esittelyssä versio %1$s
+Koko: %2$s"</string>
+  <string name="xiaomi_update_sdk_dialog_message_diff">"Esittelyssä versio %1$s
+Delta päivityksen koko: %2$s"</string>
+  <string name="xiaomi_update_sdk_dialog_title">%1$s päivitys!</string>
+  <string name="xiaomi_update_sdk_external_storage_unavailable">Tallennustila ei käytettävissä, tarkista SD-kortti.</string>
+  <string name="xiaomi_update_sdk_kilobytes_unit">%1$s Kt</string>
+  <string name="xiaomi_update_sdk_megabytes_unit">%1$s Mt</string>
 </resources>

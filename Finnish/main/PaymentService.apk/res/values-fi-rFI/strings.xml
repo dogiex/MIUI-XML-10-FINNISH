@@ -26,6 +26,7 @@
   <string name="abc_shareactionprovider_share_with">Jakaminen:</string>
   <string name="abc_shareactionprovider_share_with_application">Jakaminen: %s</string>
   <string name="abc_toolbar_collapse_description">Tiivistä</string>
+  <string name="hybrid_provider">Tarjoaja %1$s</string>
   <string name="mibi_all_license_message">Olet käyttämässä Mi Krediittiä, joka on Xiaomi Inc.:n tarjoama palvelu. Ennen tämän palvelun käyttämistä, sinun täytyy hyväksyä Palveluehdot, jotka on määritetty %1$s. Napauta OK jos hyväksyt ehdot, jotka on lueteltu %1$s ja %1$s. Sinun täytyy yhdistää internetiin ja paikantaa laitteesi käyttääksesi Mi Krediittiä.</string>
   <string name="mibi_app_name">Mi Krediitti</string>
   <string name="mibi_applock_config">Sovelluslukkoa ei voi asettaa, kun Jaettu näyttö on käytössä.</string>
@@ -259,6 +260,7 @@ Tarkista paikallinen päivämäärä ja yritä uudelleen."</string>
   <string name="mibi_prepaid_picker_title_default">Valitse Summa</string>
   <string name="mibi_prepaid_picker_title_selected">Summa</string>
   <string name="mibi_privacy_license_name">Tietosuojakäytäntö</string>
+  <string name="mibi_privacy_policy">Tietosuojakäytäntö</string>
   <string name="mibi_process_expired">Minne menit? Toiminto aikakatkaistiin.</string>
   <string name="mibi_progress_creating">Haetaan tilauksen tietoja…</string>
   <string name="mibi_progress_deduct_creating">Aktivoidaan %1$s Automaattista Maksuprotokollaa…</string>
@@ -342,6 +344,7 @@ Asiakaspalvelu: 400-100-3399"</string>
   <string name="mibi_web_login_description">Kirjaudu</string>
   <string name="mibi_web_login_waiting">Odota hetki…</string>
   <string name="mibi_web_sso_login_fail">Sinun täytyy kirjutua sisään uudelleen</string>
+  <string name="no_network">Verkkoyhteyttä ei voi muodostaa</string>
   <string name="passport_access_denied">Pääsy kielletty</string>
   <string name="passport_account_hint_text">Sähköpostiosoite, puhelinnumero tai Mi Tilin ID</string>
   <string name="passport_account_identity_title">Todenna henkilöllisyytesi</string>
@@ -537,4 +540,7 @@ linkkiä, jonka lähetimme sähköpostiisi."</string>
   <string name="passport_wrong_phone_number_format">Syöttämäsi puhelinnumeron muoto on virheellinen</string>
   <string name="passport_wrong_vcode">Syöttämäsi koodi on väärin</string>
   <string name="passport_yes">Kyllä</string>
+  <string name="web_sso_login_fail">Sinun täytyy kirjautua sisään uudelleen</string>
+  <string name="web_sso_login_message">Kirjaudutaan sisään…</string>
+  <string name="webview_reload">Yritä uudelleen</string>
 </resources>

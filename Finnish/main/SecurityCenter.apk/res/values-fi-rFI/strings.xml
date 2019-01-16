@@ -74,7 +74,7 @@ Kaikki laitteellasi olevat tiedot voidaan poistaa ja Lukitusnäytön salasanasi 
   <string name="activity_title_virus_settings">Asetukset</string>
   <string name="activity_title_white_list">Poikkeukset</string>
   <string name="ad_btn_default_text">Lisätietoa</string>
-  <string name="ad_split_screen_title">Vaihda kokonäytön tilaan avataksesi</string>
+  <string name="ad_split_screen_title">Poistu Jaetusta näytöstä avataksesi</string>
   <string name="ad_update_time">Viimeksi päivitetty %s</string>
   <string name="ad_update_time_unKnown">Edellinen päivitys tuntematon</string>
   <string name="adb_install_no_network">Yhdistä verkkoon ja yritä uudelleen</string>
@@ -380,7 +380,7 @@ Et menetä mitään sovellustietoja."</string>
   <string name="auto_task_result_summary_text">Määritä automaattiset tehtävät Virransäästäjälle</string>
   <string name="back_app_name">Siirry takaisin Sovelluslukkoon</string>
   <string name="back_description_securitycenter">Takaisin</string>
-  <string name="back_modifypassword">Siirry takaisin salasanan vaihtoon</string>
+  <string name="back_modifypassword">Siirry takaisin salasanan tyypin vaihtoon</string>
   <string name="back_sound_data">Ota mobiilidata käyttöön ja yritä uudelleen.</string>
   <string name="back_sound_fail">Asettaminen epäonnistui! Puhelinoperaattoriasetukset muuttuneet. Aseta nykyinen SIM-korttisi datakortiksi, yhdistä verkkoon ja yritä uudelleen.</string>
   <string name="back_sound_success">Asetettiin onnistuneesti!</string>
@@ -520,6 +520,7 @@ Et menetä mitään sovellustietoja."</string>
   <string name="card_main_applock_summary">Suojaa valitut sovellukset salasanalla.</string>
   <string name="card_main_applock_title">Sovelluslukko</string>
   <string name="card_main_deepclean_action">Tyhjennä</string>
+  <string name="card_main_deepclean_facebook_title">Facebookin puhdistaja</string>
   <string name="card_main_deepclean_qq_title">QQ puhdistaja</string>
   <string name="card_main_deepclean_summary">Poista tarpeettomat tiedostot</string>
   <string name="card_main_deepclean_title">Syväpuhdista</string>
@@ -1342,8 +1343,8 @@ vastausta"</string>
   <string name="mixed_recording_intro_header">Anna vähintään 4 merkkiä</string>
   <string name="mixed_retry_button_text">Peruuta</string>
   <string name="mixed_settings_help_how_to_record">Kuinka salasana asetetaan</string>
-  <string name="modify_password_mode">Vaihda salasanatyyppi</string>
-  <string name="modifypassword">Vaihda salasana</string>
+  <string name="modify_password_mode">Vaihda salasanan tyyppiä</string>
+  <string name="modifypassword">Vaihda salasanan tyyppiä</string>
   <string name="monitor_app_add">Lisää</string>
   <string name="monitor_app_more">Lisää</string>
   <string name="monitor_requests_from_pc">Hallitse USB:n kautta asennettavia sovelluksia</string>

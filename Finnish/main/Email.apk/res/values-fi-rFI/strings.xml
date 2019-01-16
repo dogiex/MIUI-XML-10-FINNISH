@@ -5,9 +5,10 @@
   <string name="chinese">Kiinalainen</string>
   <string name="mail_search_lab">hakutunniste</string>
   <string name="mailbox_name_display_add_account">Lisää sähköpostitili</string>
-  <string name="notify_channel_new_mail">Ilmoita uusista viesteistä</string>
+  <string name="notify_channel_new_mail">Uuden sähköpostin muistutus</string>
+  <string name="notify_channel_no_disterb">Älä häiritse -tila</string>
   <string name="notify_channel_permission_notice">Ilmoituksen muistutuksen käyttöoikeus</string>
-  <string name="notify_channel_send_fail">Ilmoita epäonnistuneesta toimituksesta</string>
+  <string name="notify_channel_send_fail">Epäonnistuneen lähetyksen muistutus</string>
   <string name="show_more_attachment">Lisää liitetiedostoja</string>
   <string name="update_to_wps_mail">Nauti WPS Mailin avulla useammasta ominaisuudesta</string>
   <!-- // 8.9.17 -->
@@ -79,11 +80,11 @@
   <string name="account_setup_address_label">Sähköposti</string>
   <string name="account_setup_autodiscover_dlg_authfail_message">Vahvista, että käyttäjätunnus, salasana ja tilin asetukset ovat oikein.</string>
   <string name="account_setup_autodiscover_dlg_authfail_title">Ongelma tilin asetuksissa</string>
-  <string name="account_setup_basics_email_label">Syötä sähköpostiosoite</string>
+  <string name="account_setup_basics_email_label">Sähköpostiosoite</string>
   <string name="account_setup_basics_login_gmail_without_proxy">Kirjaudu sisään käyttäen nykyistä verkkoa</string>
   <string name="account_setup_basics_manual_setup_action">Manuaalinen määritys</string>
   <string name="account_setup_basics_mi_mail_login_help">Sinun on ehkä vahvistettava tilisi tekstiviestillä vastaanottaaksesi sähköposteja</string>
-  <string name="account_setup_basics_password_label">Syötä salasana</string>
+  <string name="account_setup_basics_password_label">Salasana</string>
   <string name="account_setup_basics_title">Tilin asetukset</string>
   <string name="account_setup_check_settings_check_incoming_msg">Vahvistetaan palvelimen asetuksia…</string>
   <string name="account_setup_check_settings_check_outgoing_msg">Vahvistetaan SMTP-asetuksia…</string>
@@ -375,7 +376,9 @@
   <string name="device_not_activiey_lint1">Laitehallinta ei ole aktivoitu</string>
   <string name="device_not_activiey_lint2">Sähköpostipalvelu ei toimi Exchange:n kanssa</string>
   <string name="dialog_account_auto_sync_setting_no_open">Valitsit sähköpostien synkronoinnin manuaalisesti. Päivitä synkronoidaksesi.</string>
+  <string name="dialog_agree">Hyväksyn</string>
   <string name="dialog_change_sync_lookback">Sähköpostit, jotka vastaanotettiin %s sitten poistetaan automaattisesti. Vaihda napauttamalla.</string>
+  <string name="dialog_disagree">En hyväksy</string>
   <string name="dialog_insufficient_space_on_external">Liitetiedoston lataaminen epäonnistui. Ulkoisella tallennustilalla ei ole tarpeeksi tilaa.</string>
   <string name="dialog_insufficient_space_on_internal">Sisäisellä tallennustilalla ei ole tarpeeksi tilaa.</string>
   <string name="dialog_system_auto_sync_account_no_open">Ota tilin synkronointi käyttöön vastaanottaaksesi sähköposteja automaattisesti</string>
@@ -554,6 +557,7 @@
   <string name="invalid_recipient">Osoite %s ei kelpaa.</string>
   <string name="invalid_recipient_title">Virheellinen vastaanottaja</string>
   <string name="kilobytes">%s Kt</string>
+  <string name="list_empty_to_fresh">Ei sähköposteja, päivitä vetämällä alaspäin.</string>
   <string name="load_from_remote">Etsi palvelimen postilaatikosta</string>
   <string name="load_more">Lataa lisää</string>
   <string name="loading_conversation">Ladataan…</string>
@@ -714,7 +718,7 @@ Kokeile toista postilaatikkoa."</string>
   <string name="notification_action_reply_all">Vastaa kaikille</string>
   <string name="notification_action_undo_archive">Arkistoitu</string>
   <string name="notification_action_undo_delete">Poistettu</string>
-  <string name="notification_action_undo_remove_label">Tunniste on poistettu</string>
+  <string name="notification_action_undo_remove_label">Tunniste poistettu</string>
   <string name="notification_exchange_calendar_added">Exchange kalenteri lisätty</string>
   <string name="oauth_error_description">Todennus epäonnistui</string>
   <string name="oauth_gmail_login_notify">Syötä Google tilisi käyttäjänimi ja salasana tulevalla kirjautumissivulla.</string>
@@ -843,6 +847,7 @@ vastaanottaaksesi muistutuksia maksuista ja matkoista"</string>
   <string name="preview_attachment">Esikatsele</string>
   <string name="previous_action">Takaisin</string>
   <string name="print">Tulosta</string>
+  <string name="privacy_des">日志信息包含电子邮件应用打印的调试信息及您的设备信息，用于定位您所反馈的问题。选择下方的“%1$s”表示您已阅读并同意小米的《%2$s》</string>
   <string name="privacy_policy">Tietosuojakäytäntö</string>
   <string name="prompt_title">Ilmoitus</string>
   <string name="protocol_eas">eas</string>
@@ -979,7 +984,7 @@ vastaanottaaksesi muistutuksia maksuista ja matkoista"</string>
   <string name="saved">Tallennettu, %s</string>
   <string name="saving">Tallennetaan…</string>
   <string name="sdcard_cannot_use">SD-korttia ei voi käyttää</string>
-  <string name="search_bar_text">Hae viestejä ja yhteystietoja</string>
+  <string name="search_bar_text">Hae lähettäjiä tai yhteystietoja</string>
   <string name="search_hint">Hae sähköposteja</string>
   <string name="search_result">"Hakutulokset "</string>
   <string name="search_tabs_name_all">Kaikki</string>
@@ -1119,7 +1124,7 @@ Poistetaanko tili?"</string>
   <string name="unzip_file_failed">Tiedoston purkaminen epäonnistui</string>
   <string name="update_date_format_templete">HH:mm, d.M.</string>
   <string name="updated_at">Päivitetty viimeksi %1$s</string>
-  <string name="upload_log">Lähetä lokitiedostot</string>
+  <string name="upload_log">Lähetä</string>
   <string name="upload_log_failed">Lokitiedostojen lähettäminen epäonnistui</string>
   <string name="upload_log_no">Peruuta</string>
   <string name="upload_log_success">Lähetettiin onnistuneesti, palaamme pian asiaan kanssasi.</string>

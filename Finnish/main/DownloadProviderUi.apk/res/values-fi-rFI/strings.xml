@@ -9,8 +9,9 @@
   <string name="about">Tietoa</string>
   <string name="action_back">Takaisin</string>
   <string name="action_settings">Asetukset</string>
+  <string name="ad">MAINOS</string>
   <string name="ad_download">Asenna</string>
-  <string name="ad_mark">AD</string>
+  <string name="ad_mark">MAINOS</string>
   <string name="ad_title">Käyttäjät myös lataavat näitä tällä  %1$s </string>
   <string name="ad_title_other">Tämän kuvan lisäksi ihmiset myös lataavat</string>
   <string name="add_flow_fail_haveget_msg">Kokeilujakso on päättynyt.</string>

@@ -193,6 +193,7 @@
   <string name="module_title_business_card">Käyntikortti</string>
   <string name="module_title_code">QR-koodi</string>
   <string name="module_title_document">Asiakirja</string>
+  <string name="module_title_plant">Kasvi</string>
   <string name="module_title_shopping">Ostokset</string>
   <string name="module_title_translation">Käännä</string>
   <string name="name">Nimi:</string>
@@ -210,6 +211,11 @@
   <string name="payment_text">Avaa sovelluksella %s</string>
   <string name="phone">Puhelin:</string>
   <string name="place_barcode_into_rectangle">Aseta koodi kehyksen sisälle</string>
+  <string name="plant_fail">Ei voitu tunnistaa</string>
+  <string name="plant_loading">Tunnistetaan…</string>
+  <string name="plant_reg_fail_2">Tätä kohdetta ei voitu tunnistaa. Lukija voi tunnistaa vain kasveja.</string>
+  <string name="plant_support">" (Tekninen tuki)"</string>
+  <string name="plant_title">Skannaa kasvi, jonka haluat tunnistaa</string>
   <string name="pref_camera_jpeg_quality_fine">hyvä</string>
   <string name="pref_camera_jpeg_quality_normal">normaali</string>
   <string name="pref_camera_jpeg_quality_superfine">tosihyvä</string>

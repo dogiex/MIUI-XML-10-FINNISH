@@ -59,6 +59,9 @@
   <string name="other_settings_ad_enable_summary">Vastaanota henkilökohtaisia mainoksia käyttäytymistietojesi perusteella</string>
   <string name="other_settings_auto_update">Päivitä automaattisesti</string>
   <string name="other_settings_auto_update_summary">MIUI valitsee parhaan hetken päivityksien asentamiselle</string>
+  <string name="other_settings_enhanced_lockscreen">Taustakuvan Karuselli</string>
+  <string name="other_settings_enhanced_lockscreen_summary">Hanki päivitetyt kuvat ja tarinat päivittäin Lukitusnäytöllesi. Käyttöehtoja noudatetaan.</string>
+  <string name="other_settings_enhanced_lockscreen_summary_index">Käyttöehdot</string>
   <string name="other_settings_location">Sijainti</string>
   <string name="other_settings_location_summary">Salli sovelluksien käyttää sijaintiasi</string>
   <string name="other_settings_upload_debug_log_summary">Käyttötilastot, jotka auttavat meitä paikantamaan ja ratkaisemaan ongelmia saattaa sisältää henkilötietojasi</string>

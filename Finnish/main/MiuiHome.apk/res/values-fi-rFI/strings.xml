@@ -280,15 +280,13 @@
   <string name="recents_config_title">Viimeaikaiset</string>
   <string name="recommend_apk_size_and_desc">%1$d Mt | %2$s</string>
   <string name="recommend_apps_default_title">Tyhjä</string>
-  <string name="recommend_apps_no_data">Ei dataa</string>
-  <string name="recommend_apps_no_data_toast">Ei suosituksia juuri nyt.</string>
+  <string name="recommend_apps_no_data">Ei tietoja</string>
   <string name="recommend_apps_notice">Mainostetut sovellukset</string>
   <string name="recommend_apps_notice_nodata">Mainostetut sovellukset (Ei tietoja)</string>
   <string name="recommend_apps_switch_title">Mainostetut sovellukset</string>
   <string name="recommend_apps_tips">Tämä ominaisuus vaatii internetyhteyden toimiakseen normaalisti. Poista tämä ominaisuus käytöstä napauttamalla tämän kansion nimeä.</string>
   <string name="recommend_loading">Ladataan</string>
-  <string name="recommend_refresh">Päivitä</string>
-  <string name="recommend_xout">Älä näytä</string>
+  <string name="refresh">Päivitä</string>
   <string name="reset_description_first_time">Voit palauttaa ulkoasun kohteesta %1$s 2 tunnin sisällä</string>
   <string name="reset_description_others">Voit palauttaa ulkoasun kohteesta %1$s</string>
   <string name="reset_fail">Ei voitu palauttaa</string>
@@ -307,6 +305,7 @@
   <string name="sharedUserId"/>
   <string name="show_all">Näytä kaikki</string>
   <string name="show_mem_info_title">Näytä muistin tila</string>
+  <string name="show_recents_recommend_title">Näytä suosituksia</string>
   <string name="sort_by_abc">Lajittele nimen mukaan</string>
   <string name="sort_by_frequency">Lajittele käytön mukaan</string>
   <string name="sort_by_not_defined">Lajittele automaattisesti</string>

@@ -1269,6 +1269,7 @@ mukauttaaksesi Galleriasi"</string>
   <string name="photo_editor_talkback_crop_mirror">Peili</string>
   <string name="photo_editor_talkback_crop_original">Alkuperäinen</string>
   <string name="photo_editor_talkback_crop_rotate">Kierrä</string>
+  <string name="photo_editor_talkback_crop_screen">Koko näytön kuvasuhde</string>
   <string name="photo_editor_talkback_doodle_arrow">Nuoli</string>
   <string name="photo_editor_talkback_doodle_circular">Ympyrä</string>
   <string name="photo_editor_talkback_doodle_line">Viiva</string>

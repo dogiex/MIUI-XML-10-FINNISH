@@ -70,7 +70,8 @@
      <string name="accessibility_gps_acquiring">GPS haetaan.</string>
      <string name="accessibility_gps_enabled">GPS otettu käyttöön.</string>
      <string name="accessibility_key">Mukautettu navigointipainike</string>
-     <string name="accessibility_left_button">Pikakuvake</string>
+     <string name="accessibility_left_control_center_button">Pikakuvake</string>
+     <string name="accessibility_left_lock_screen_magazine_button">Musiikki</string>
      <string name="accessibility_location_active">Sijaintipyynnöt ovat aktiivisia</string>
      <string name="accessibility_multi_user_switch_inactive">Nykyinen käyttäjä %s</string>
      <string name="accessibility_multi_user_switch_quick_contact">Näytä profiili</string>
@@ -223,6 +224,7 @@
      <string name="clock">Kello</string>
      <string name="clock_12hr_format">hm</string>
      <string name="clock_24hr_format">Hm</string>
+     <string name="clock_city_name_local">Paikallinen</string>
      <string name="clock_seconds">Näytä kellon sekunnit</string>
      <string name="clock_seconds_desc">Näytä kellon sekunnit tilapalkissa. Saattaa vaikuttaa akunkestoon.</string>
      <string name="compat_mode_off">Täytä näyttö venyttämällä</string>
@@ -290,6 +292,7 @@
      <string name="face_data_manage_delete_sure">Et voi avata laitteen lukitusta käyttäen kasvojesi tietoja sen poistamisen jälkeen.</string>
      <string name="face_data_manage_delete_title">Kasvojen tiedot</string>
      <string name="face_data_manage_unlock_msg">Avaa laitteen lukitus käyttäen kasvojesi tietoja</string>
+     <string name="face_data_manage_unlock_slide_msg">Korvaa liukupikakuvakkeet kasvojentunnistuksella</string>
      <string name="face_data_manage_unlock_title">Avaa laitteen lukitus käyttäen kasvojen tietoja</string>
      <string name="face_data_siggesstion_next">Seuraava</string>
      <string name="face_data_siggesstion_next_time">Seuraava (%d s)</string>
@@ -516,6 +519,9 @@ Yritä uudelleen %2$d sekunnin kuluttua."</string>
      <string name="left_nav_bar_button_type">Ylimääräisen vasemman painikkeen tyyppi</string>
      <string name="lock_screen_date">"EEEE d. MMMM'ta'"</string>
      <string name="lock_screen_date_12">"EEEE d. MMMM'ta'"</string>
+     <string name="lock_screen_magazine_default_content">Päivittäinen annos tuoreita kuvia</string>
+     <string name="lock_screen_magazine_default_entry_title">Taustakuvan tiedot</string>
+     <string name="lock_screen_magazine_default_title">Musiikki</string>
      <string name="lock_screen_no_sim_card_emergency_only">Vain hätäpuhelut</string>
      <string name="lock_screen_no_sim_card_no_service">Ei palvelua</string>
      <string name="lock_wallpaper_enter">Siirry</string>
@@ -626,6 +632,7 @@ Olet myös yhteydessä VPN-palvelimeen, joka voi valvoa verkon käyttöäsi."</s
      <string name="notification_tap_again">Avaa napauttamalla uudelleen</string>
      <string name="open_camera_hint_text">Avaa kamera pyyhkäisemällä vasemmalle</string>
      <string name="open_extreme_power_save_mode_title">Ota Äärimmäinen virransäästö käyttöön</string>
+     <string name="open_lock_screen_magazine_hint_text">Pyyhkäise oikealle lisävalintoja varten</string>
      <string name="open_remote_center_hint_text">Avaa Pikakuvakkeet pyyhkäisemällä oikealle</string>
      <string name="other">Muu</string>
      <string name="overview">Yleiskatsaus</string>
@@ -1603,6 +1610,12 @@ Saat lisätietoja järjestelmänvalvojalta."</string>
   <string name="recents_multistack_add_stack_dialog_split_vertical">Pystysuuntainen jako</string>
   <string name="recents_search_bar_label">Haku</string>
   <string name="recents_stack_action_button_label">Tyhjennä kaikki</string>
+  <string name="recents_title_app_manager">Hallitse sovelluksia</string>
+  <string name="recents_title_game">Pelit</string>
+  <string name="recents_title_garbage_cleanup">Puhdistaja</string>
+  <string name="recents_title_garbage_deepclean">Syväpuhdista</string>
+  <string name="recents_title_market">Etsi sovelluksia</string>
+  <string name="recents_title_security_scan">Tietoturvatarkistus</string>
   <string name="reject_call">Hylätään puhelua</string>
   <string name="remaining_length_format">%1$s jäljellä</string>
   <string name="retail_demo_reset_message">Palauta tehdasasetukset antamalla salasana</string>

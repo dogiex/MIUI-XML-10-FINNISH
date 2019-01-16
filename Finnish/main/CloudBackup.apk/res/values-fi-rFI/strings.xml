@@ -176,6 +176,6 @@ Huomio: Asennettujen sovelluksien datatietoja ei varmuuskopioida Mi Pilveen. Kä
   <string name="total_space">Tilaa yhteensä: %s</string>
   <string name="try_again">Napauta yrittääksesi uudelleen</string>
   <string name="try_continue">Napauta jatkaaksesi</string>
-  <string name="unsupported_home">Päivitä MIUI viimeisimpään käyttöjärjestelmään.</string>
+  <string name="unsupported_home">Päivitä MIUI viimeisimpään versioon.</string>
   <string name="wait_icon_download">Ladataan sovelluksien kuvakkeita</string>
 </resources>
