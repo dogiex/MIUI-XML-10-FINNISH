@@ -730,7 +730,6 @@ Ole onnellinen"</string>
 
 Napauta %s aloittaaksesi latauksen seuraavalla kerralla, kun olet yhteydessä Wi-Fi-verkkoon."</string>
   <string name="wifi_required_title">Lataus on liian suuri operaattorin verkolle</string>
-  <string name="xiaomi_update_sdk_bytes_unit">%1$s t</string>
   <string name="xiaomi_update_sdk_connect_download_manager_fail">Lataustenhallinnan yhdistäminen epäonnistui, tarkista Lataustenhallinnan tila Sovelluksien hallinnasta.</string>
   <string name="xiaomi_update_sdk_dialog_message">"Esittelyssä versio %1$s
 Koko: %2$s"</string>
@@ -738,6 +737,4 @@ Koko: %2$s"</string>
 Delta päivityksen koko: %2$s"</string>
   <string name="xiaomi_update_sdk_dialog_title">%1$s päivitys!</string>
   <string name="xiaomi_update_sdk_external_storage_unavailable">Tallennustila ei käytettävissä, tarkista SD-kortti.</string>
-  <string name="xiaomi_update_sdk_kilobytes_unit">%1$s Kt</string>
-  <string name="xiaomi_update_sdk_megabytes_unit">%1$s Mt</string>
 </resources>
