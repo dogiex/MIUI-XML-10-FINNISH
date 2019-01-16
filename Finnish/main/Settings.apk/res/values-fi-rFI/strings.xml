@@ -1513,6 +1513,7 @@ Asetus vaikuttaa tämän puhelimen kaikkiin käyttäjiin."</string>
   <string name="default_spell_checker">Oletusarvoinen oikoluku</string>
   <string name="default_theme">Oletus</string>
   <string name="default_usb_mode">USB-yhteys</string>
+  <string name="default_vol_stream_title">Oletus äänenvoimakkuudensäätö</string>
   <string name="delete">Poista</string>
   <string name="delete_fingerprint_confirm_msg">Poistetaanko sormenjälki?</string>
   <string name="delete_fingerprint_text">Poista sormenjälki</string>

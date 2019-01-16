@@ -208,6 +208,8 @@
   <string name="facebook_clean_exit_confirm_ok">Lopeta</string>
   <string name="facebook_clean_exit_confirm_title">Lopetetaanko tarkistaminen?</string>
   <string name="facebook_cleaner">Facebookin puhdistaja</string>
+  <string name="facebook_function_summery">Tyhjennä Facebookin välimuisti</string>
+  <string name="facebook_function_title">Facebookin puhdistaja</string>
   <string name="facebook_group_cache">Välimuistitiedostot</string>
   <string name="facebook_group_gif">GIF-animaatiot</string>
   <string name="facebook_group_image">Kuvat</string>
@@ -366,7 +368,7 @@
   <string name="label_image_list_none">Ei mikään</string>
   <string name="label_preserve_the_best_image">Tallenna tarkimmat kuvat</string>
   <string name="last_check_canceled">Edellinen skannaus peruutettiin</string>
-  <string name="load_only_under_wlan">Lataa vain Wi-Fi:llä</string>
+  <string name="load_only_under_wlan">Lataa vain Wi-Fi-yhteydellä</string>
   <string name="location_not_found">Tiedostoa ei löytynyt</string>
   <string name="login_immediately">Kirjaudu sisään</string>
   <string name="long_click_dialog_summary">Paina pitkään lisätäksesi poikkeuksiin.</string>
