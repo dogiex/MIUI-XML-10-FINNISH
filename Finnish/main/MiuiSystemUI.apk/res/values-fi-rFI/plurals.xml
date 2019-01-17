@@ -10,12 +10,12 @@
         <item quantity="one">Virheellinen PUK-koodi, %d yritys jäljellä</item>
      </plurals>
      <plurals name="input_password_after_timeout_msg">
-        <item quantity="other">Salasana vaaditaan %d tunnin käyttämättömyyden jälkeen</item>
-        <item quantity="one">Salasana vaaditaan %d tunnin käyttämättömyyden jälkeen</item>
+        <item quantity="other">Et ole käyttänyt salasanaasi vähintään %d tuntiin. Anna salasanasi.</item>
+        <item quantity="one">Et ole käyttänyt salasanaasi vähintään %d tuntiin. Anna salasanasi.</item>
     </plurals>
     <plurals name="input_pattern_after_timeout_msg">
-        <item quantity="other">Kuvion piirtäminen vaaditaan %d tunnin käyttämättömyyden jälkeen</item>
-        <item quantity="one">Kuvion piirtäminen vaaditaan %d tunnin käyttämättömyyden jälkeen</item>
+        <item quantity="other">Et ole käyttänyt lukituksenpoistokuviotasi vähintään %d tuntiin. Piirrä kuviosi.</item>
+        <item quantity="one">Et ole käyttänyt lukituksenpoistokuviotasi vähintään %d tuntiin. Piirrä kuviosi.</item>
     </plurals>
      <plurals name="keyguard_charging_info_could_use_hour_time_text">
         <item quantity="other">Noin %d tuntia jäljellä</item>

@@ -19,6 +19,8 @@ tämä ominaisuus lisätään Toiseen tilaan automaattisesti."</string>
   <string name="app_name">Tietoturvaytimen Komponentti</string>
   <string name="back">Takaisin</string>
   <string name="bind_device">Lisää laitteita</string>
+  <string name="button_text_next_step">Seuraava</string>
+  <string name="button_text_next_step_timer">Seuraava vaihe (%d)</string>
   <string name="can_not_delete_when_calling">Tiloja ei voi poistaa puhelun aikana</string>
   <string name="can_not_switch_when_calling">Tilojen välillä ei voi siirtyä puhelun aikana</string>
   <string name="can_not_switch_when_green_kid_active">Lapsilukko rajoittaa vaihtamisen Toiseen tilaan</string>
@@ -64,6 +66,9 @@ jotta voit katsoa niitä milloin tahansa"</string>
   <string name="create_space_loading">Luodaan Toista tilaa…</string>
   <string name="create_work_space">Luo Työtila</string>
   <string name="creating_app_icon">Luodaan kuvaketta…</string>
+  <string name="cta_declaration_agree_and_continue">Hyväksyn</string>
+  <string name="cta_declaration_message_format" formatted="false">Sinun täytyy lukea ja hyväksyä meidän %s ennen Yritystilan käyttämistä. Laitteesi täytyy yhdistää internetiin Yritystilan aktivointia varten. Hyväksytkö?</string>
+  <string name="cta_declaration_title">Käyttöehdot</string>
   <string name="current_space">Nykyinen tila</string>
   <string name="dataSafe">Käyttämällä Toista tilaa olisi, kuin kaksi laitetta.</string>
   <string name="declare_dialog_title">Tietoja kaksoissovelluksista</string>
@@ -75,7 +80,11 @@ jotta voit katsoa niitä milloin tahansa"</string>
   <string name="delete_phone_fingerprint">Poista Toisen tilan sormenjälki</string>
   <string name="delete_src_file">Poista tiedostot</string>
   <string name="delete_src_photo">Poista kuvat</string>
+  <string name="dialog_message_service_error">Valtuutusta ei voitu peruuttaa eikä tehdasasetuksien palauttamista voitu suorittaa. Yritä uudelleen.</string>
+  <string name="dialog_tip_need_network">Laitteesi täytyy yhdistää internetiin valtuutuksen peruuttamista varten.</string>
   <string name="dialog_title">Huomio</string>
+  <string name="dialog_title_service_error">Palvelinvirhe</string>
+  <string name="dialog_undo_negative">Älä peruuta</string>
   <string name="dir_switch_out_all_photos">Toisen tilan Galleria</string>
   <string name="disable">Poista käytöstä</string>
   <string name="disagree">En hyväksy</string>
@@ -194,8 +203,12 @@ Voit myös ladata ne erikseen."</string>
   <string name="loading_space">Odota hetki…</string>
   <string name="loading_success">Ladattiin onnistuneesti</string>
   <string name="lock_screen_open_second_space">Siirry Toiseen tilaan Lukitusnäytöltä</string>
+  <string name="master_clear_apply_step_1">Valtuutuksen peruuttaminen vaatii laitteesi tehdasasetuksien palauttamisen. Tämä poistaa laitteeltasi kaikki tiedostot ja tiedot, mukaan lukien tilit, yhteystiedot, kuvat ja sovellukset. Varmuuskopioi kaikki tärkeät kohteet tietokoneellesi ennen valtuutuksen peruuttamista.</string>
+  <string name="master_clear_apply_step_2">Varmista, että olet varmuuskopioinut kaikki tärkeät kohteet tietokoneellesi. \"OK\" -painikkeen napauttamisen jälkeen tehdasasetuksien palauttaminen suoritetaan laitteellesi, joka poistaa laitteeltasi kaikki tiedostot ja tiedot, mukaan lukien tilit, yhteystiedot, kuvat ja sovellukset.</string>
+  <string name="master_clear_apply_title">Huomio</string>
   <string name="menu_item_about_privacy_title">Tietosuojakäytäntö</string>
   <string name="messageData">Viestit</string>
+  <string name="more_settings">Lisää</string>
   <string name="msg_switch_file">Poistetaanko nämä tiedostot Ensimmäisestä tilasta siirtämisen jälkeen?</string>
   <string name="msg_switch_file_second">Poistetaanko nämä tiedostot Toisesta tilasta siirtämisen jälkeen?</string>
   <string name="msg_switch_photo">Poistetaanko nämä kuvat Ensimmäisestä tilasta siirtämisen jälkeen?</string>
@@ -404,6 +417,11 @@ siirtyäksesi Toiseen tilaan Lukitusnäytöltä"</string>
   <string name="transferImage">Kuvat Toisesta tilasta siirretään Ensimmäisessä tilassa olevaan albumiin \"Toinen tila\"</string>
   <string name="transferMessage">Viestit Toisesta tilasta siirretään Ensimmäiseen tilaan</string>
   <string name="tryNow">Kokeile nyt</string>
+  <string name="undo_activated_dialog_message">Valtuutuksen peruuttaminen poistaa Yritystilan ja suorittaa laitteellesi tehdasasetuksien palauttamisen. Kaikki Yritystilaan liittyvät toiminnot ei ole tämän jälkeen enää käytettävissä. Tämän lisäksi Xiaomi lopettaa Yritystilaan vaadittujen tietojen (IMEI, Laite ID, järjestelmäversio, alue, jne.) keräämisen. Haluamme muistuttaa sinua siitä, että Xiaomi ei hallinnoi Yritystilassa kerättyjä tietoja. Teemme parhaamme ilmoittamalla kaikille liittyville osapuolille, mutta suosittelemme, että otat yhteyttä yrityksesi esimieheen valtuutuksen peruuttamisessa. Peruutetaanko valtuutus ja suoritetaanko tehdasasetuksien palautus?</string>
+  <string name="undo_activated_dialog_ok">Peruuta valtuutus</string>
+  <string name="undo_grant_dialog_message">Xiaomi lopettaa tämän toiminnon vaadittujen tietojen (IMEI, Laite ID, järjestelmäversio, alue, jne.) keräämisen valtuutuksen peruuttamisen jälkeen. Peruutetaanko valtuutus nyt?</string>
+  <string name="undo_privacy_menu">Peruuta valtuutus</string>
+  <string name="undo_success">Valtuutus peruutettiin onnistuneesti</string>
   <string name="use_xiaoai_open">Herätä käyttäen ääniavustajaa</string>
   <string name="wating">Odota hetki…</string>
   <string name="weibo_send">Lähetä Weiboon</string>

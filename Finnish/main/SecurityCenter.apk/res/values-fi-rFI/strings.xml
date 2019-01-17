@@ -628,6 +628,12 @@ Operaattorisi saattaa veloittaa sinulta lisäkustannuksia jos otat mobiilidatan 
   <string name="deep_clean_disconnect_data_title">Poista mobiilidata käytöstä, kun laite lukitaan</string>
   <string name="deep_clean_memory_clean_title">Tyhjennä välimuisti, kun laite lukitaan</string>
   <string name="deep_clean_never_memory_clean">Ei koskaan</string>
+  <string name="deep_power_save_item_summary_auto_brightness">Säädä näytön kirkkautta automaattisesti säästääksesi virtaa</string>
+  <string name="deep_power_save_item_summary_bluetooth">Poista Bluetooth käytöstä säästääksesi virtaa</string>
+  <string name="deep_power_save_item_summary_lock_screen_time">Laita näyttö lepotilaan 30 sekunnin käyttämättömyyden jälkeen säästääksesi virtaa</string>
+  <string name="deep_power_save_item_title_auto_brightness">Ota automaattinen kirkkaus käyttöön</string>
+  <string name="deep_power_save_item_title_bluetooth">Poista Bluetooth käytöstä</string>
+  <string name="deep_power_save_item_title_lock_screen_time">Laita näyttö lepotilaan</string>
   <string name="deep_save_memory_clean_summary">Tyhjennä välimuisti, kun laite lukitaan estääksesi sovelluksia kuluttamasta akkua</string>
   <string name="deep_save_ontime_boot_shutdown_summary">Ajasta laitteen käynnistys ja sammutus</string>
   <string name="delete">Poista</string>
@@ -1131,7 +1137,6 @@ Operaattori saattaa veloittaa sinua lisämaksuista, jos käytät mobiilidataa uu
   <string name="lockpattern_need_to_unlock_wrong">Salasanat eivät täsmää, yritä uudelleen.</string>
   <string name="lockpattern_pattern_confirmed_header">Uusi lukituksenpoistokuvio</string>
   <string name="lockpattern_pattern_entered_header">Kuvio lisätty</string>
-  <string name="lockpattern_recording_incorrect_too_short">Yhdistä ainakin %d pistettä</string>
   <string name="lockpattern_recording_inprogress">Nosta sormesi, kun olet valmis</string>
   <string name="lockpattern_recording_intro_header">Luo kuvio yhdistämällä vähintään 4 pistettä</string>
   <string name="lockpattern_retry_button_text">Piirrä uudelleen</string>
@@ -1339,7 +1344,6 @@ vastausta"</string>
   <string name="mixed_password_confirmed_header_confirm">Asetettiin onnistuneesti. Vahvista napauttamalla.</string>
   <string name="mixed_password_confirmed_header_continue">Asetettiin onnistuneesti. Napauta \"Seuraava\".</string>
   <string name="mixed_pattern_entered_header">Asetettiin salasana onnistuneesti</string>
-  <string name="mixed_recording_incorrect_too_short">Anna vähintään %d merkkiä.</string>
   <string name="mixed_recording_intro_header">Anna vähintään 4 merkkiä</string>
   <string name="mixed_retry_button_text">Peruuta</string>
   <string name="mixed_settings_help_how_to_record">Kuinka salasana asetetaan</string>
@@ -1449,7 +1453,6 @@ Kokeile käyttää toista ethernet-kaapelia reitittimesi yhdistämiseen. Jos luu
   <string name="numeric_password_confirmed_header_confirm">Asetettiin onnistuneesti. Napauta vahvistaaksesi.</string>
   <string name="numeric_password_confirmed_header_continue">Asetettiin onnistuneesti. Napauta \"Seuraava\".</string>
   <string name="numeric_pattern_entered_header">PIN-koodi asetettiin onnistuneesti</string>
-  <string name="numeric_recording_incorrect_too_short">Anna vähintään %d numeroa.</string>
   <string name="numeric_recording_intro_header">Anna salasana</string>
   <string name="numeric_retry_button_text">Peruuta</string>
   <string name="numeric_settings_help_how_to_record">Kuinka PIN-koodi asetetaan</string>

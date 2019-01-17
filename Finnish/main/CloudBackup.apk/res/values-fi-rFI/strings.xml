@@ -14,6 +14,8 @@
   <string name="backup_finished_notification_content">Varmuuskopioitiin Aloitusnäyttö, sovellukset, järjestelmäasetukset, jne.</string>
   <string name="backup_now">Varmuuskopioi nyt</string>
   <string name="backup_size">Koko: %s</string>
+  <string name="backup_stopped_msg">Jatkamalla varmuuskopiointia olemassa oleva pilven varmuuskopio korvataan, näytä napauttamalla.</string>
+  <string name="backup_stopped_title">Pilven varmuuskopiointi on lopetettu</string>
   <string name="backup_success">Varmuuskopiointi onnistui</string>
   <string name="backup_successfully">Varmuuskopiointi onnistui</string>
   <string name="backup_to_cloud">Varmuuskopioi sovellus</string>
@@ -93,12 +95,15 @@ Huomio: Asennettujen sovelluksien datatietoja ei varmuuskopioida Mi Pilveen. Kä
   <string name="desktop_wait_wifi">Odotetaan</string>
   <string name="desktop_waiting">Odotetaan</string>
   <string name="device_delete_prompt">Poistetaanko %s varmuuskopio?</string>
+  <string name="dialog_btn_cancel_backup">Peruuta</string>
   <string name="dialog_btn_next">Seuraava</string>
+  <string name="dialog_btn_overwrite_backup">Korvaa</string>
   <string name="dialog_btn_restore_skip">Palauta myöhemmin</string>
   <string name="dialog_cancel_backup_cancel">Peruuta</string>
   <string name="dialog_cancel_backup_confirm">OK</string>
   <string name="dialog_cancel_backup_msg">Painamalla valintakytkintä lopettaa käynnissä olevat varmuuskopioinnit.</string>
   <string name="dialog_cancel_backup_title">Peruutetaanko käynnissä oleva varmuuskopiointi?</string>
+  <string name="dialog_msg_overwrite_backup">Paikallisen ja pilven varmuuskopion ero on suuri, varmuuskopion jatkaminen korvaa olemassa olevan varmuuskopion.</string>
   <string name="dialog_msg_restore_require_wlan">Varmuuskopioitujen tiedostojen palauttaminen vaatii yhdistämisen Wi-Fi-verkkoon.</string>
   <string name="dialog_title_require_wlan">Yhdistä Wi-Fi-verkkoon</string>
   <string name="dir_date_format">HHmmss_ddMMyyyy</string>

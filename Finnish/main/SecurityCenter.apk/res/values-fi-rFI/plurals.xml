@@ -268,6 +268,18 @@ Jos otat mobiilidatan uudelleen käyttöön, operaattorisi saattaa veloittaa sin
         <item quantity="other">"Odota %d sekuntia ja yritä uudelleen. "</item>
         <item quantity="one">"Odota %d sekunti ja yritä uudelleen. "</item>
     </plurals>
+    <plurals name="lockpattern_recording_incorrect_too_short">
+        <item quantity="other">Yhdistä vähintään %d pistettä</item>
+        <item quantity="one">Yhdistä vähintään %d piste</item>
+    </plurals>
+    <plurals name="numeric_recording_incorrect_too_short">
+        <item quantity="other">Anna vähintään %d numeroa</item>
+        <item quantity="one">Anna vähintään %d numero</item>
+    </plurals>
+    <plurals name="mixed_recording_incorrect_too_short">
+        <item quantity="other">Anna vähintään %d kirjainta</item>
+        <item quantity="one">Anna vähintään %d kirjain</item>
+    </plurals>
     <plurals name="number_masked">
         <item quantity="other">%d sovellusta</item>
         <item quantity="one">%d sovellus</item>

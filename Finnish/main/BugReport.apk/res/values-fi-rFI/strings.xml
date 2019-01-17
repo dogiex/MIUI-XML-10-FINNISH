@@ -136,6 +136,7 @@
   <string name="feedback_status_answered">Vastattu</string>
   <string name="feedback_status_change_notification_title">Raporttisi edistyminen päivitettiin</string>
   <string name="feedback_status_commit_failed_title">Raporttia ei voitu lähettää</string>
+  <string name="feedback_status_commit_in_queue_title">Odottaa…</string>
   <string name="feedback_status_commit_succ_title">Lähetetty</string>
   <string name="feedback_status_commit_uploading_title">Lähetetään…</string>
   <string name="feedback_status_forum_reply">Vastaa</string>
@@ -345,7 +346,6 @@
   <string name="toast_feedback_pending_wlan">Raportit lähetetään, kun olet yhteydessä Wi-Fi verkkoon</string>
   <string name="toast_feedback_submitted">Raportti lähetetty</string>
   <string name="toast_feedback_submitting">Lähetetään…</string>
-  <string name="toast_feedbackservice_in_submit">Käsitellään edellistä palautetta…</string>
   <string name="toast_fill_brackets">Raportistasi puuttuu joitain tietoja</string>
   <string name="toast_loading_app_id">Noudetaan tietoja…</string>
   <string name="toast_log_not_exists">Vaadittu lokitiedosto on poistettu tai sitä ei ole olemassa</string>
