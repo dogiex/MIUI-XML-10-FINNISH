@@ -22,12 +22,17 @@
   <string name="abc_toolbar_collapse_description">Tiivistä</string>
   <string name="accessibility_display_daltonizer_preference_subtitle">Tämä ominaisuus on kokeellinen ja voi vaikuttaa suorituskykyyn.</string>
   <string name="accessibility_display_daltonizer_preference_title">Värikorjaus</string>
+  <string name="accessibility_manual_zen_less_time">Vähemmän aikaa.</string>
+  <string name="accessibility_manual_zen_more_time">Enemmän aikaa.</string>
   <string name="accessibility_no_wifi">Ei Wi-Fi-yhteyttä</string>
   <string name="accessibility_wifi_off">Wi-Fi pois käytöstä</string>
   <string name="accessibility_wifi_one_bar">Wi-Fi-signaali – yksi palkki</string>
+  <string name="accessibility_wifi_security_type_none">Avoin verkko</string>
+  <string name="accessibility_wifi_security_type_secured">Suojattu verkko</string>
   <string name="accessibility_wifi_signal_full">Vahva Wi-Fi-signaali</string>
   <string name="accessibility_wifi_three_bars">Wi-Fi-signaali – kolme palkkia</string>
   <string name="accessibility_wifi_two_bars">Wi-Fi-signaali – kaksi palkkia</string>
+  <string name="action_bar_expand_collapse_button">Laajenna/tiivistä painike</string>
   <string name="active_input_method_subtypes">Aktiiviset syöttötavat</string>
   <string name="adb_keys_warning_message">Haluatko peruuttaa USB-vianetsinnän käyttöoikeuden kaikilta tietokoneilta, joille olet antanut luvan aiemmin?</string>
   <string name="adb_warning_message">USB-vianetsintä on tarkoitettu vain kehittäjien käyttöön. Sen avulla voidaan kopioida tietoja tietokoneesi ja laitteesi välillä, asentaa laitteeseesi sovelluksia ilmoittamatta siitä sinulle ja lukea lokitietoja.</string>
