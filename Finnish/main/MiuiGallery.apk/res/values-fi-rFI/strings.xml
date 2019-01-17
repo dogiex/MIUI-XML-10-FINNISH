@@ -10,7 +10,6 @@
   <string name="card_description_annual_foods">Ruokapäiväkirja</string>
   <string name="card_description_annual_pets">Hännät, tassut ja kuonokarvat</string>
   <string name="card_description_annual_travel">Matkalla huomatut asiat</string>
-  <string name="card_description_from_to">%1$s - %2$s</string>
   <string name="card_title_activities">Tapahtumat</string>
   <string name="card_title_annual_events">Juhlani kohteessa %1$s</string>
   <string name="card_title_annual_foods">Herkullinen %1$s</string>
