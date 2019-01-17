@@ -22,9 +22,9 @@
   <string name="calibrate_title">Kalibroi kompassi</string>
   <string name="cancel">Peruuta</string>
   <string name="cannot_get_location">--</string>
-  <string name="dialog_body_no_network">Verkkoyhteyttä ei voi muodostaa</string>
+  <string name="dialog_body_no_network">Yhdistä Wi-Fi-verkkoon tai ota mobiilidata käyttöön</string>
   <string name="dialog_calibrat_altitude">Kalibroidaan…</string>
-  <string name="dialog_title_no_network">Ota Verkko käyttöön</string>
+  <string name="dialog_title_no_network">Verkkoyhteyttä ei voitu muodostaa</string>
   <string name="direction_east">E</string>
   <string name="direction_north">N</string>
   <string name="direction_north_east">NE</string>
@@ -38,7 +38,7 @@
   <string name="error_camera_unavailable_title">Kamera ei saatavilla</string>
   <string name="first_using_dialog_message">Kompassi tarvitsee käyttää laitteesi verkkoyhteyttä, kameraa ja sijaintipalvelua toimiakseen normaalisti.</string>
   <string name="first_using_dialog_title">Pääsy käyttöoikeuksiin</string>
-  <string name="guide_toast">Kalibroi puhelimesi liikuttamalla sitä alla olevan liikkeen mukaisesti.</string>
+  <string name="guide_toast">Kalibroidaksesi, liikuta laitettasi alla olevan liikkeen mukaisesti.</string>
   <string name="keywords_search_compass">Kompassi;Kalibroi kompassi;Paine;Korkeus;Leveys;Pituus;Tarkista pituus;Tarkista leveys;MIUI Kompassi;Kompassi sovellus;MIUI Kompassi sovellus;Missä on Kompassi;Lataa Kompassi;Ilmanpaine;Tarkista korkeus;Kuinka korkealla olen</string>
   <string name="latitude">LAT</string>
   <string name="location_east">EL</string>

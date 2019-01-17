@@ -151,7 +151,7 @@ Varmista, että yrityksesi nimi on oikein. Lue ja hyväksy tietosuojakäytäntö
   <string name="function_not_support">Ei tueta tällä laitteella</string>
   <string name="gms_message">Kaksoissovelluksien luominen vaatii toimiakseen Google palvelut. Luodaanko Google palveluista kaksoissovellus?</string>
   <string name="gms_open_button">Ota käyttöön</string>
-  <string name="gms_title">Ota Google palvelut käyttöön</string>
+  <string name="gms_title">Google palveluiden kaksoissovellus</string>
   <string name="goToSecondSpacce">Siirry Toiseen tilaan</string>
   <string name="go_on_import">Jatka tuomista</string>
   <string name="gpg_message">Kaksoispelisovelluksien luominen vaatii toimiakseen Google Play Pelit. Luodaanko Google Play Pelistä kaksoissovellus?</string>

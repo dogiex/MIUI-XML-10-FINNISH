@@ -3102,6 +3102,7 @@ Valitse käyttöjärjestelmäsi:"</string>
   <string name="network_dashboard_title">Verkko &amp; Internet</string>
   <string name="network_detail">%s Verkon tiedot</string>
   <string name="network_error">Verkkovirhe</string>
+  <string name="network_name_input_error">SSID:tä ei voitu tallentaa. Yritä uudelleen.</string>
   <string name="network_operators_settings">Verkko-operaattorit</string>
   <string name="network_reset_not_available">Tämä käyttäjä ei voi palauttaa verkon asetuksia.</string>
   <string name="network_restrictions">Verkkorajoitukset</string>

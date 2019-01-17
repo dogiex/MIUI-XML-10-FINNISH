@@ -124,12 +124,12 @@
   <string name="label_pref_summary">Nimeä tämä hälytys</string>
   <string name="lap">Kierros</string>
   <string name="lap_num">Kierros</string>
-  <string name="legal_off_day">Laillinen vapaapäivä</string>
-  <string name="legal_off_day_message">" (hälytys on pois käytöstä työpäivinä)"</string>
-  <string name="legal_workday">Laillinen työpäivä</string>
-  <string name="legal_workday_invalidate">Tieto vanhentunut (hälytys soi Maanantaista Perjantaihin)</string>
-  <string name="legal_workday_invalidate_message">(Tieto vanhentunut. Päivitä Asetuksissa)</string>
-  <string name="legal_workday_message">" (hälytys on pois käytöstä pyhäpäivinä)"</string>
+  <string name="legal_off_day">Julkinen juhlapyhä</string>
+  <string name="legal_off_day_message">" (Hälytys ei soi työpäivinä)"</string>
+  <string name="legal_workday">Extra työpäivä</string>
+  <string name="legal_workday_invalidate">Tieto vanhentunut (Hälytys soi Maanantaista Perjantaihin)</string>
+  <string name="legal_workday_invalidate_message">(Tieto vanhentunut. Päivitä asetuksissa)</string>
+  <string name="legal_workday_message">" (Hälytys ei soi juhlapyhinä)"</string>
   <string name="life_post_setting">Aamuraportti</string>
   <string name="life_post_setting_FBE_remind">Järjestelmärajoituksen vuoksi aamuraportin säätiedot eivät ehkä näy oikein uudelleenkäynnistyksen jälkeen</string>
   <string name="life_post_setting_close_title">Sulje aamuraportit</string>
@@ -148,7 +148,8 @@
   <string name="life_post_weather_description">%1$s, %2$s, %3$s</string>
   <string name="life_post_weather_description_secondary">%1$s,%2$s,%3$s</string>
   <string name="life_post_weather_description_third">%1$s，%2$s</string>
-  <string name="life_post_weather_invalid">Säätietojen haku epäonnistui, yritä uudelleen napauttamalla</string>
+  <string name="life_post_weather_invalid">Hae säätiedot napauttamalla</string>
+  <string name="life_post_weather_no_network">Yhdistä verkkoon päivittääksesi säätiedot</string>
   <string name="life_post_weather_temperature_centigrade">°</string>
   <string name="loading_ringtone">Ladataan soittoääntä…</string>
   <string name="menu_add_worldclock">Lisää kello</string>
@@ -180,7 +181,7 @@
   <string name="setting_alarm_arriving_title">Ilmoitus ennen hälytystä</string>
   <string name="settings">Asetukset</string>
   <string name="shut_down_keep_screen">Näyttöä ei pidetä päällä</string>
-  <string name="shutdown_alarm_disable_summary">Hälytys ei soi laite sammutettuna</string>
+  <string name="shutdown_alarm_disable_summary">Hälytys ei soi, kun laite sammutetaan</string>
   <string name="shutdown_alarm_enable_summary">Hälytys soi, jos se on asetettu vähintään 5 minuuttia laitteesi sammuttamisen jälkeen</string>
   <string name="shutdown_alarm_title">Sammutetun laitteen hälytys</string>
   <string name="silent_alarm_summary">Äänetön</string>
@@ -203,7 +204,7 @@
   <string name="stopwatch_title">Sekuntikello</string>
   <string name="system_time_setting">Asetukset</string>
   <string name="system_time_settings_category_title">Aika-asetukset</string>
-  <string name="temperature_unit">%1$s°</string>
+  <string name="temperature_unit">℃</string>
   <string name="time">Aika</string>
   <string name="timer_alarm_alert_pad">%s</string>
   <string name="timer_alarm_cancel_pad">Lopeta ääni napauttamalla näyttöä</string>

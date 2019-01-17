@@ -697,7 +697,6 @@ Olet myös yhteydessä VPN-palvelimeen, joka voi valvoa verkon käyttöäsi."</s
      <string name="quick_settings">Pika-asetukset</string>
      <string name="quick_settings_autobrightness_label">Automaattinen kirkkaus</string>
      <string name="quick_settings_batterysaver_label">Virransäästö</string>
-     <string name="quick_settings_bluetooth_multiple_devices_label">Bluetooth (%d Laitetta)</string>
      <string name="quick_settings_bluetooth_off_label">Bluetooth pois käytöstä</string>
      <string name="quick_settings_brightness_dialog_auto_brightness_label">AUTO</string>
      <string name="quick_settings_brightness_dialog_title">Kirkkaus</string>
