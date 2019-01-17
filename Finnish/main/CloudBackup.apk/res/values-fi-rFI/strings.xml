@@ -14,8 +14,8 @@
   <string name="backup_finished_notification_content">Varmuuskopioitiin Aloitusnäyttö, sovellukset, järjestelmäasetukset, jne.</string>
   <string name="backup_now">Varmuuskopioi nyt</string>
   <string name="backup_size">Koko: %s</string>
-  <string name="backup_stopped_msg">Jatkamalla varmuuskopiointia olemassa oleva pilven varmuuskopio korvataan, näytä napauttamalla.</string>
-  <string name="backup_stopped_title">Pilven varmuuskopiointi on lopetettu</string>
+  <string name="backup_stopped_msg">Nykyinen varmuuskopio korvaa edellisen. Katso napauttamalla.</string>
+  <string name="backup_stopped_title">Varmuuskopiointi pysäytettiin</string>
   <string name="backup_success">Varmuuskopiointi onnistui</string>
   <string name="backup_successfully">Varmuuskopiointi onnistui</string>
   <string name="backup_to_cloud">Varmuuskopioi sovellus</string>
@@ -103,7 +103,7 @@ Huomio: Asennettujen sovelluksien datatietoja ei varmuuskopioida Mi Pilveen. Kä
   <string name="dialog_cancel_backup_confirm">OK</string>
   <string name="dialog_cancel_backup_msg">Painamalla valintakytkintä lopettaa käynnissä olevat varmuuskopioinnit.</string>
   <string name="dialog_cancel_backup_title">Peruutetaanko käynnissä oleva varmuuskopiointi?</string>
-  <string name="dialog_msg_overwrite_backup">Paikallisen ja pilven varmuuskopion ero on suuri, varmuuskopion jatkaminen korvaa olemassa olevan varmuuskopion.</string>
+  <string name="dialog_msg_overwrite_backup">Paikallinen varmuuskopio eroaa Mi Pilven varmuuskopiosta. Jos jatkat, nykyinen varmuuskopiosi korvaa edellisen varmuuskopion.</string>
   <string name="dialog_msg_restore_require_wlan">Varmuuskopioitujen tiedostojen palauttaminen vaatii yhdistämisen Wi-Fi-verkkoon.</string>
   <string name="dialog_title_require_wlan">Yhdistä Wi-Fi-verkkoon</string>
   <string name="dir_date_format">HHmmss_ddMMyyyy</string>
@@ -125,7 +125,6 @@ Huomio: Asennettujen sovelluksien datatietoja ei varmuuskopioida Mi Pilveen. Kä
   <string name="latest_backup_time_loading">Ladataan…</string>
   <string name="load_backup_failed">Varmuuskopioita ei voitu ladata</string>
   <string name="loading_user_backup">Ladataan käyttäjän varmuuskopioita…</string>
-  <string name="main_space">Ensimmäinen tila</string>
   <string name="managespace_delete_backup">Poista</string>
   <string name="menu_item_managespace">Hallitse tilaa</string>
   <string name="menu_item_sort">Järjestä</string>
@@ -143,6 +142,8 @@ Huomio: Asennettujen sovelluksien datatietoja ei varmuuskopioida Mi Pilveen. Kä
   <string name="open_wifi">Ota Wi-Fi käyttöön</string>
   <string name="open_wifi_description">Yhdistä Wi-Fi-verkkoon palauttaaksesi sovelluksen</string>
   <string name="open_wifi_setting">Wi-Fi asetukset</string>
+  <string name="other_device_main_space">Ensimmäinen tila</string>
+  <string name="other_device_second_space">Toinen tila</string>
   <string name="process_whole_recovery">Palautetaan \"%s\"</string>
   <string name="provision_error_connect_msg">Testaa verkko ja yritä uudelleen. Varmuuskopiot ei ole käytettävissä, kun laitteesi on offline-tilassa.</string>
   <string name="provision_error_connect_title">Ei voi yhdistää</string>
@@ -169,8 +170,8 @@ Huomio: Asennettujen sovelluksien datatietoja ei varmuuskopioida Mi Pilveen. Kä
   <string name="restore_task_in_process">Palautetaan…</string>
   <string name="restore_unfinished">Palautetaan, yritä myöhemmin uudelleen</string>
   <string name="retry">Yritä uudelleen</string>
-  <string name="second_space">Toinen tila</string>
-  <string name="self_device">"Tämän puhelimen "</string>
+  <string name="self_device_main_space">Tämän puhelimen Ensimmäinen tila</string>
+  <string name="self_device_second_space">Tämän puhelimen Toinen tila</string>
   <string name="settings_backup">Järjestelmäasetukset</string>
   <string name="size_unknown">Tuntematon koko</string>
   <string name="start_backup_to_micloud">Varmuuskopioi sovellukset Mi Pilveen</string>

@@ -7,5 +7,6 @@
   <string name="error_not_acceptable">Synkronointi on poistettu käytöstä.</string>
   <string name="error_title">Synkronointi epäonnistui</string>
   <string name="error_unauthorized">Synkronointi on poistettu käytöstä liian monen sisäänkirjautumisyrityksen takia.</string>
+  <string name="micloud_downloading_clipboard_message_from_web">Lähetetään teksti leikepöydälle</string>
   <string name="micloud_send_message_desc">Lähetetään Mi Viestiä</string>
 </resources>

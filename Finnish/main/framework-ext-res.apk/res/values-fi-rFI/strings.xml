@@ -140,6 +140,7 @@
   <string name="standard">Äänetön</string>
   <string name="standard_description">Mykistää saapuvien puheluiden ja ilmoituksien soittoäänet</string>
   <string name="standard_title">Äänetön</string>
+  <string name="start_dump_log">Aloita hakemaan ongelmaan liittyvät lokit</string>
   <string name="start_security_permission_verify_text">Varmenna käyttöoikeudet Mi Tiliä käyttäen</string>
   <string name="status_bar_toggle_auto_brightness">Kirkkaus</string>
   <string name="status_bar_toggle_battery_saver">Virransäästö</string>

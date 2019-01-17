@@ -216,6 +216,7 @@
   <string name="empty_event">Tyhjiä tapahtumia ei voi luoda</string>
   <string name="english_premium_league">Englannin premier liiga</string>
   <string name="event_account">Tili</string>
+  <string name="event_action_arrive_station">Saavu asemalle</string>
   <string name="event_action_delete">Poista</string>
   <string name="event_action_edit">Muokkaa</string>
   <string name="event_all_day_label">Koko päivä</string>
@@ -231,6 +232,9 @@
   <string name="event_info_reminders_label_1">Muistutus</string>
   <string name="event_info_repeat">Toisto</string>
   <string name="event_info_title">Näytä tapahtuma</string>
+  <string name="event_info_title_anniversary">Vuosipäivä</string>
+  <string name="event_info_title_birthday">Syntymäpäivä</string>
+  <string name="event_info_title_countdown">Lähtölaskenta</string>
   <string name="event_info_title_invite">Kokouskutsu</string>
   <string name="event_info_when">Milloin</string>
   <string name="event_info_where">Missä</string>
@@ -601,9 +605,9 @@ Tarkista verkkoyhteys ja yritä uudelleen."</string>
   <string name="subscribe_channel_hint">"Tilaa tykkäämäsi palvelut ja vastaanota päivityksiä päivittäin kotisivullesi
 Voit myös lisätä muistutuksia, jotta et menetä mitään tärkeää."</string>
   <string name="subscribe_channel_subscribe">Tilaa</string>
-  <string name="subscribe_channel_subscribing">Tilataan</string>
+  <string name="subscribe_channel_subscribing">Tilattu</string>
   <string name="subscribe_channel_title">Kanava</string>
-  <string name="subscribing_card">Tilataan</string>
+  <string name="subscribing_card">Tilattu</string>
   <string name="swipe_up_guide_hint_text">上滑发现更多</string>
   <string name="taishen">胎神</string>
   <string name="talk_back_month">月</string>
@@ -627,7 +631,25 @@ Voit myös lisätä muistutuksia, jotta et menetä mitään tärkeää."</string
   <string name="too_long_location">Tapahtuman sijainti on liian pitkä</string>
   <string name="too_long_name">Nimi on liian pitkä</string>
   <string name="train_detail_title">火车行程</string>
+  <string name="train_event_add_arrive_station">Lisää määränpää napauttamalla</string>
+  <string name="train_event_arrive">%1$s saavu</string>
+  <string name="train_event_arrive_station_saved">Saapuva asema tallennettu</string>
+  <string name="train_event_choose_arrive_station">Valitse saapuva asema</string>
   <string name="train_event_delete_successfully">火车行程删除成功</string>
+  <string name="train_event_depart">%1$s lähde</string>
+  <string name="train_event_disclaimer">Vastuuvapauslauseke: tiedot ja palvelun tarjoaa GaoTieGuanJia. Jos havaitset ongelmia, konsultoi yhtiön asiakaspalvelua. Junainformaatio on viitteellistä, tutustu virallisiin tietoihin.</string>
+  <string name="train_event_error_toast">Lataaminen epäonnistui!</string>
+  <string name="train_event_error_train_info">Junalipussa on virhe.</string>
+  <string name="train_event_more_info">Aikataulu, Wi-Fi, jne.</string>
+  <string name="train_event_reminder">%1$s</string>
+  <string name="train_event_service">Junapalvelu</string>
+  <string name="train_event_station_date_format">d.M.</string>
+  <string name="train_event_station_header_arrive_time">Saapuu</string>
+  <string name="train_event_station_header_depart_time">Lähtee</string>
+  <string name="train_event_station_header_name">Aseman nimi</string>
+  <string name="train_event_station_header_stay_time">Odottaa</string>
+  <string name="train_event_station_stay_time">%1$s minuuttia</string>
+  <string name="train_event_station_time_format">HH:mm</string>
   <string name="travel_airport">Lentokenttä</string>
   <string name="travel_carriage_number_text">Auto</string>
   <string name="travel_eta_advice">%2$s minuutin ajomatka kohteeseen %1$s.</string>
@@ -659,7 +681,7 @@ Voit myös lisätä muistutuksia, jotta et menetä mitään tärkeää."</string
   <string name="trip_card_travel_secondary">%1$s 出发</string>
   <string name="unsubscribe_card">Poista tilaus</string>
   <string name="unsubscribe_card_success">“%1$s” tilaus poistettiin onnistuneesti</string>
-  <string name="unsubscribing_card">Poistetaan tilausta</string>
+  <string name="unsubscribing_card">Tilaus poistettu</string>
   <string name="user_notice_button_exit">Poistu</string>
   <string name="user_notice_button_ok">OK</string>
   <string name="user_notice_declaration_ignore">Älä näytä uudestaan</string>

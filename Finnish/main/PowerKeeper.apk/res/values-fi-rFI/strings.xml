@@ -52,7 +52,7 @@ Virransäästö kohtelee tärkeitä sovelluksia valikoivasti."</string>
   <string name="nonui_mode_config_description">Älä valaise näyttöä ilmoituksista, poista LED-valo, sormenjälkitunnistin ja kosketukset käytöstä, kun MIUI havaitsee että et käytä laitettasi.</string>
   <string name="nonui_mode_config_title">Ei-interaktiivinen tila</string>
   <string name="performance_category">Suorituskyky</string>
-  <string name="power_center">Virta</string>
+  <string name="power_center">Akun käyttö</string>
   <string name="power_checker_background_cpu_multi_apps_title">%1$s käy epätavallisesti</string>
   <string name="power_checker_background_cpu_title">%1$s käy epätavallisesti</string>
   <string name="power_checker_background_gps_multi_apps_title">%1$s hakee sijaintitietoa usein</string>

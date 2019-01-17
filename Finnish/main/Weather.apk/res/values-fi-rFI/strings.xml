@@ -11,6 +11,7 @@
   <string name="act_find_city_hint">Syötä sijainti</string>
   <string name="act_find_city_hot_attractions_title">Suositut sivustot</string>
   <string name="act_find_city_hot_city_title">Suositut kaupungit</string>
+  <string name="act_location_error_to_find_city">Sijaintitietoja ei voitu hakea. Voit lisätä kaupungin manuaalisesti.</string>
   <string name="act_set_city_find_side">Paikannetaan…</string>
   <string name="act_set_city_find_side_error">Laitetta ei voitu paikantaa</string>
   <string name="act_weather_find_city_added">Lisätty</string>
@@ -20,7 +21,7 @@
   <string name="act_weather_find_city_searching">Etsitään…</string>
   <string name="activity_find_city_dialog_cancel">Peruuta</string>
   <string name="activity_find_city_dialog_message">Salli Sään käyttää sijaintiasi saadakseen tarkempia sijaintitietoja</string>
-  <string name="activity_find_city_dialog_message_global">Salli Sään käyttää sijaintiasi ja vaihtaa sijaintitilan suureksi tarkkuudeksi saadakseen tarkempia sijaintitietoja.</string>
+  <string name="activity_find_city_dialog_message_global">Ota sijaintipalvelut käyttöön ja salli laitteesi määrittää sijaintisi käyttäen langattomia verkkoja.</string>
   <string name="activity_find_city_dialog_set">Asetukset</string>
   <string name="activity_find_city_dialog_title">Pääsy Sijaintiin</string>
   <string name="activity_main_clickable">&gt;</string>
@@ -119,6 +120,9 @@ Vedä alaspäin päivittääksesi tai tarkasta verkkoasetukset"</string>
   <string name="data_provided_by">Tiedot tarjoaa osittain</string>
   <string name="edit_alert_city_title">Hallitse hälytyksiä</string>
   <string name="edit_city">Muokkaa kaupunkia</string>
+  <string name="empty_view_net_loading">Päivitetään…</string>
+  <string name="empty_view_net_unavailable">Verkkoyhteyttä ei voitu muodostaa</string>
+  <string name="empty_view_refresh">Yritä uudelleen</string>
   <string name="eu_region_version_first_start_network_msg">Käyttämällä tätä tuotetta hyväksyt, että tämä tuote yhdistää verkkoon, kerää, käsittelee ja käyttää henkilötietojasi mukaan lukien hakemiesi kaupunkien koordinaatteja ja muita tietoja lueteltu Tietosuojakäytännössämme. Tutustu Tietosuojakäytäntöömme lukeaksesi, kuinka keräämme ja käsittelemme tietoja. Napauttamalla \"Hyväksyn\", hyväksyt Xiaomin %1$s ja %2$s.</string>
   <string name="feedback_cloudy">Pilvinen</string>
   <string name="feedback_foggy">Sumuinen</string>
@@ -140,10 +144,12 @@ Vedä alaspäin päivittääksesi tai tarkasta verkkoasetukset"</string>
   <string name="hourly_forecast_date">d.M.</string>
   <string name="hourly_forecast_title_24_hours_desc">24-tuntinen ennustus</string>
   <string name="hourly_forecast_title_hourly_desc">Tuntikohtainen ennustus</string>
+  <string name="index_item_downloading">Ladataan</string>
   <string name="hourly_forecast_title">Tuntikohtainen ennustus</string>
   <string name="index_item_experience_now">Asenna nyt</string>
   <string name="index_item_install_now">Asenna nyt</string>
   <string name="index_item_installing">Asennetaan</string>
+  <string name="index_item_installing2">Asennetaan</string>
   <string name="indices_desc_Precip1hr">%1$smm</string>
   <string name="indices_desc_feel">Tuntuu kuin %1$s°C</string>
   <string name="indices_desc_feel_without_pic">%1$s°C</string>
@@ -172,6 +178,7 @@ Vedä alaspäin päivittääksesi tai tarkasta verkkoasetukset"</string>
   <string name="it_is_going_to_rain">Alkaa sataa</string>
   <string name="locate_fail_detail_err">"Laitetta ei voitu paikantaa
 Lisää kaupunki manuaalisesti napauttamalla"</string>
+  <string name="location_provider_btn_text">Ota sijaintipalvelut käyttöön</string>
   <string name="location_tag">Paikanna</string>
   <string name="menu_add_city">Lisää tai poista kaupunki</string>
   <string name="menu_location">Sijainnit</string>
@@ -198,7 +205,7 @@ Lisää kaupunki manuaalisesti napauttamalla"</string>
   <string name="no_data">Ei tietoja</string>
   <string name="no_network_btn">Yritä uudelleen</string>
   <string name="no_vote_ratio">Vastaan %1$s%%</string>
-  <string name="open">Avaa</string>
+  <string name="open">Avaa nyt</string>
   <string name="open_browser">Avaa selaimessa</string>
   <string name="open_now">Avaa</string>
   <string name="other">Muu</string>

@@ -520,7 +520,6 @@ Yritä uudelleen %2$d sekunnin kuluttua."</string>
      <string name="lock_screen_date">"EEEE d. MMMM'ta'"</string>
      <string name="lock_screen_date_12">"EEEE d. MMMM'ta'"</string>
      <string name="lock_screen_magazine_default_content">Päivittäinen annos tuoreita kuvia</string>
-     <string name="lock_screen_magazine_default_entry_title">Taustakuvan tiedot</string>
      <string name="lock_screen_magazine_default_title">Musiikki</string>
      <string name="lock_screen_no_sim_card_emergency_only">Vain hätäpuhelut</string>
      <string name="lock_screen_no_sim_card_no_service">Ei palvelua</string>
@@ -551,7 +550,7 @@ Yritä uudelleen %2$d sekunnin kuluttua."</string>
      <string name="miui_guide_dialog_button_positive_text">Selvä</string>
      <string name="miui_guide_dialog_message">Median äänet (musiikki, videot jne.) toistetaan Äänettömässä tilassa. Voit muuttaa tätä Asetuksissa.</string>
      <string name="miui_keyguard_ble_unlock_succeed_msg">Lukitus avattiin Bluetooth-laitteella</string>
-     <string name="miui_ringer_count_down">Lähtölaskenta</string>
+     <string name="miui_ringer_count_down">Ajastin</string>
      <string name="miui_ringer_standard">Äänetön</string>
      <string name="miui_ringer_standard_description">Mykistä saapuvien puheluiden ja ilmoituksien soittoääni</string>
      <string name="miui_ringer_total">Älä häiritse</string>
@@ -723,7 +722,7 @@ Olet myös yhteydessä VPN-palvelimeen, joka voi valvoa verkon käyttöäsi."</s
      <string name="quick_settings_dnd_priority_label">Vain prioriteetti</string>
      <string name="quick_settings_drivemode_label">Autotila</string>
      <string name="quick_settings_dual_location_label">Kaksois-GPS</string>
-     <string name="quick_settings_edit_label">Lisää</string>
+     <string name="quick_settings_edit_label">Muokkaa</string>
      <string name="quick_settings_extreme_batterysaver_label">Äärimmäinen virransäästö</string>
      <string name="quick_settings_flashlight_label">Taskulamppu</string>
      <string name="quick_settings_gps_label">GPS</string>

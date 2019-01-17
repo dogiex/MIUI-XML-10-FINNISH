@@ -47,7 +47,7 @@ Pitää kohteen terävänä ja sumentaa taustan."</string>
   <string name="accessibility_hdr_off">HDR pois käytöstä</string>
   <string name="accessibility_hdr_on">HDR käytössä</string>
   <string name="accessibility_intent_done_apply">Valmis</string>
-  <string name="accessibility_intent_done_retry">Ota uudelleen</string>
+  <string name="accessibility_intent_done_retry">Yritä uudelleen</string>
   <string name="accessibility_mode_dismiss_button">Sulje Tilan Valintapainike</string>
   <string name="accessibility_more">Lisää</string>
   <string name="accessibility_open">Otettiin käyttöön</string>
