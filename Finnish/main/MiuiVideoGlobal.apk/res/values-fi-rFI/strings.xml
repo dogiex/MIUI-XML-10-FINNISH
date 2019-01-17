@@ -20,6 +20,14 @@
     <string name="abc_shareactionprovider_share_with_application">Jakaminen: %s</string>
     <string name="abc_toolbar_collapse_description">Tiivistä</string>
     <string name="agree">Hyväksyn</string>
+    <string name="ai_animation_music_text">AI-ääniraita</string>
+    <string name="ai_music_save_cancel">Peruuta</string>
+    <string name="ai_music_save_dialog_title">Tallenna</string>
+    <string name="ai_music_save_fail">Ei voitu tallentaa</string>
+    <string name="ai_music_save_info">Lisättiin AI-ääniraita onnistuneesti. Tallennetaanko video?</string>
+    <string name="ai_music_save_ok">Tallenna</string>
+    <string name="ai_music_save_success">Tallennettiin onnistuneesti</string>
+    <string name="ai_music_saved">Tallennettiin</string>
     <string name="alert_dialog_download">Olet jo ladannut tämän sovelluksen.</string>
     <string name="alert_dialog_download_btn_hide">Piilota</string>
     <string name="alert_dialog_download_confirm">Aikeissa ladata sovellus</string>
@@ -75,11 +83,6 @@
     <string name="character_counter_pattern">%1$d / %2$d</string>
     <string name="click_to_reload_more">Lataa lisää napauttamalla</string>
     <string name="click_to_retry">Yritä uudelleen</string>
-    <string name="com_mixpanel_android_close">Sulje</string>
-    <string name="com_mixpanel_android_done">Valmis</string>
-    <string name="com_mixpanel_android_exit">Poistu</string>
-    <string name="com_mixpanel_android_logo">By Mixpanel</string>
-    <string name="com_mixpanel_android_notification_image">Kuvaa ei näytetä</string>
     <string name="com_permission_desc">Mi Video ei voi käyttää laitteesi videoita. Salli käyttö Asetuksissa.</string>
     <string name="com_permission_title">Käyttöoikeuksia vaaditaan</string>
     <string name="common_google_play_services_enable_button">Ota käyttöön</string>
@@ -413,6 +416,7 @@ Katso muita videoita!"</string>
     <string name="pw_video_history">Toistohistoria</string>
     <string name="pw_video_mine">Videoni</string>
     <string name="pw_video_offline">Paikalliset videot</string>
+    <string name="read_and_agree">Hyväksyn</string>
     <string name="recommend_online_switch">Online suositukset</string>
     <string name="recommend_online_tips">Ota käyttöön vastaanottaaksesi suositeltuja online-videoita</string>
     <string name="recommend_page_replay">UUSINTA</string>
@@ -426,6 +430,7 @@ Katso muita videoita!"</string>
     <string name="s6">Sallitaanko mainoksen luoda kalenteritapahtuma?</string>
     <string name="s7">Testimainos</string>
     <string name="save">Tallenna</string>
+    <string name="save_cancel_toast">Napauta uudelleen peruuttaaksesi tallentamisen</string>
     <string name="screenrecord_cancel">Yhteensopivuusongelmia</string>
     <string name="screenrecord_nosupport_record">Näytön nauhoittaja ei ole tällä hetkellä tuettu tällä laitteella.</string>
     <string name="search">Haku</string>
@@ -437,6 +442,8 @@ Katso muita videoita!"</string>
     <string name="share_ugc_content">Katso %1$s! #%2$s (%3$s)</string>
     <string name="share_ugc_join">Liity mukaan</string>
     <string name="share_ugc_waitting">Luodaan linkkiä…</string>
+    <string name="slid_fail_message">Ei voitu tallentaa</string>
+    <string name="slide_save_message">Luodaan videota…</string>
     <string name="storage_permission_denied">Tallennustilan käyttöoikeus estettiin</string>
     <string name="switch_ratio_pause">Toistonopeus on epävakaa. Vaihdetaan takaisin oletusnopeudelle…</string>
     <string name="t_downloading">Ladataan:</string>
@@ -460,7 +467,10 @@ Katso muita videoita!"</string>
     <string name="ui_log_tip">Napauta tätä aluetta piilottaaksesi, paina ja pidä pohjassa tyhjentääksesi vanhat lokitiedot. Raahaa lokitiedot manuaalisesti.</string>
     <string name="update">Päivitä</string>
     <string name="v_app_name">Mi Video</string>
+    <string name="v_cancel">Peruuta</string>
+    <string name="v_ok">OK</string>
     <string name="v_pw_need_update_app">Päivitä Mi Video käyttääksesi sen kaikkia ominaisuuksia</string>
+    <string name="v_save">Tallenna</string>
     <string name="xiaomi_update_sdk_bytes_unit">%1$s t</string>
     <string name="xiaomi_update_sdk_connect_download_manager_fail">Yhdistäminen Latauksien hallintaan epäonnistui, tarkista Latauksien hallinnan tila Sovellusten hallinnasta.</string>
     <string name="xiaomi_update_sdk_dialog_message">"Esittelyssä versio %1$s
