@@ -202,9 +202,6 @@ Voit vaihtaa toimintoa valitsemalla Asetukset &gt; Esteettömyys."</string>
   <string name="back_button_label">Takaisin</string>
   <string name="badPin">Antamasi vanha PIN-koodi on virheellinen.</string>
   <string name="badPuk">Antamasi PUK-koodi on virheellinen.</string>
-  <string name="battery_saver_description">"Jos haluat parantaa akun kestoa, virransäästö vähentää laitteesi suorituskykyä ja rajoittaa värinää, sijaintipalveluita ja useimpia taustatietoja. Sähköposti, viestit ja muut synkronointiin perustuvat sovellukset eivät välttämättä päivity, ellet avaa niitä.
-
-Virransäästö poistuu käytöstä automaattisesti, kun laitteesi latautuu."</string>
   <string name="battery_saver_description">Virransäästö poistaa joitakin laitteen ominaisuuksia käytöstä ja rajoittaa sovelluksia parantaakseen akunkestoa.</string>
   <string name="battery_saver_description_with_learn_more">Virransäästö poistaa joitakin laitteen ominaisuuksia käytöstä ja rajoittaa sovelluksia parantaakseen akunkestoa. <annotation id="url">Lisätietoja</annotation></string>
   <string name="beforeOneMonthDurationPast">Yli kuukausi sitten</string>
@@ -238,8 +235,6 @@ Virransäästö poistuu käytöstä automaattisesti, kun laitteesi latautuu."</s
   <string name="car_loading_profile">Ladataan</string>
   <string name="car_mode_disable_notification_message">Poistu ajosovelluksesta napauttamalla.</string>
   <string name="car_mode_disable_notification_title">Ajosovellus on käynnissä</string>
-  <string name="car_mode_disable_notification_message">Poistu autotilasta napauttamalla.</string>
-  <string name="car_mode_disable_notification_title">Autotila käytössä</string>
   <string name="carrier_app_dialog_button">LATAA SOVELLUS</string>
   <string name="carrier_app_dialog_message">Jotta saat uuden SIM-kortin toimimaan oikein, sinun on asennettava ja avattava operaattorisi sovellus.</string>
   <string name="carrier_app_dialog_not_now">EI NYT</string>
@@ -1493,7 +1488,6 @@ Pitkäkestoinen kova äänenvoimakkuus saattaa heikentää kuuloa."</string>
   <string name="stk_cc_ss_to_dial">SS-pyyntö vaihdettu tavalliseksi puheluksi</string>
   <string name="status_communication_speaker_summary">Hands-free puhelu on käynnissä. Ääni toistetaan silti kaiuttimen kautta, vaikka kuulokkeet yhdistetään.</string>
   <string name="status_communication_summary">Puhelu on käynnissä. Voit säätää vain puhelun äänenvoimakkuutta tällä hetkellä.</string>
-  <string name="stk_cc_ss_to_dial">SS-pyyntö muutettiin DIAL-pyynnöksi.</string>
   <string name="stk_cc_ss_to_dial_video">SS-pyyntö vaihdettu videopuheluksi</string>
   <string name="stk_cc_ss_to_ss">Vaihdettu uudeksi SS-pyynnöksi</string>
   <string name="stk_cc_ss_to_ussd">SS-pyyntö vaihdettu USSD-pyynnöksi</string>
