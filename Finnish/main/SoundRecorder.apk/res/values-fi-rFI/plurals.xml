@@ -1,27 +1,28 @@
-<?xml version="1.0" encoding="UTF-8"?>
+
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="btn_clear_records">
-        <item>Poista %d nauhoitusta</item>
-        <item>Poista %d nauhoitus</item>
+        <item quantity="other">Delete %d recordings</item>
+        <item quantity="one">Delete %d recording</item>
     </plurals>
     <plurals name="choose_call_records_count">
-        <item>%d kohdetta</item>
-        <item>%d kohde</item>
+        <item quantity="other">%d items</item>
+        <item quantity="one">%d item</item>
     </plurals>
     <plurals name="local_records_count">
-        <item>%d kohdetta</item>
-        <item>%d kohde</item>
+        <item quantity="other">%d items</item>
+        <item quantity="one">%d item</item>
     </plurals>
     <plurals name="notification_warning">
-        <item>Tallennustila vähissä (alle %d minuuttia)</item>
-        <item>Tallennustila vähissä (alle %d minuutti)</item>
+        <item quantity="other">Storage low (less than %d minutes)</item>
+        <item quantity="one">Storage low (less than %d minute)</item>
     </plurals>
     <plurals name="record_downloading_complete_count">
-        <item>%d nauhoitusta ladattu</item>
-        <item>%d nauhoitus ladattu</item>
+        <item quantity="other">%d recordings downloaded</item>
+        <item quantity="one">%d recording downloaded</item>
     </plurals>
     <plurals name="unsynced_records_count">
-        <item>%d synkronoimatonta</item>
-        <item>%d synkronoimaton</item>
+        <item quantity="other">%d not synced</item>
+        <item quantity="one">%d not synced</item>
     </plurals>
 </resources>
