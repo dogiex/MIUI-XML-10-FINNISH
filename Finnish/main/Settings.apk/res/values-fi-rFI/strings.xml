@@ -5485,6 +5485,7 @@ Napauta plussaa lisätäksesi sanoja."</string>
   <string name="virus_scanner_title">Virustarkistus</string>
   <string name="virus_scanner_update_lib">Päivitä virustunnisteet</string>
   <string name="vision_settings_description">Voit muokata laitteen ominaisuuksia tarpeidesi mukaan. Käytettävyysvalintoja voi muuttaa myöhemmin asetuksissa.</string>
+  <string name="vision_settings_suggestion_title">Vaihda fontin kokoa</string>
   <string name="vision_settings_title">Näköasetukset</string>
   <string name="voice_assist">Mi AI</string>
   <string name="voice_category">Puhe</string>
