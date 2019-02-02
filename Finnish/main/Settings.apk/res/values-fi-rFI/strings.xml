@@ -1354,6 +1354,11 @@ Voit jatkaa puhelimesi käyttöä, kun palautat tehdasasetukset. Kun olet määr
   <string name="dangerous_option_hint">%1$s on käytössä. Napauta vaihtaaksesi asetuksia.</string>
   <string name="dangerous_option_hint_title">Korkean riskin ominaisuus on käytössä</string>
   <string name="dangerous_option_switch_title">Ilmoita korkean riskin ominaisuuksista</string>
+  <string name="dark_color_mode">Tummatila</string>
+  <string name="dark_color_summary">Käytä järjestelmän taustoilla ja yhteensopivilla sovelluksilla tummempaa väripalettia</string>
+  <string name="dark_ui_mode">Yötila</string>
+  <string name="dark_ui_mode_title">Aseta yötila</string>
+  <string name="dashboard_suggestion_condition_footer_content_description">Tiivistä</string>
   <string name="dashboard_title">Asetukset</string>
   <string name="data_limit">Datankäyttöraja</string>
   <string name="data_saver_off">Pois käytöstä</string>
@@ -2363,6 +2368,7 @@ Voit muuttaa tätä asetusta myöhemmin kohdassa Asetukset > Sovellukset ja ilmo
   <string name="keyboard_shortcuts_helper">Pikanäppäinapuri</string>
   <string name="keyboard_shortcuts_helper_summary">Näytä käytettävissä olevat pikanäppäimet</string>
   <string name="keyguard_advance_setting_title">Lisäasetukset</string>
+  <string name="keyguard_double_tap_to_sleep_title">Tuplanapauta lepotilaan</string>
   <string name="keyguard_notification_status_title">Ilmoitukset</string>
   <string name="keyguard_security_setting_others">Muut</string>
   <string name="keyguard_security_setting_privacy_policy">Tietosuojakäytäntö</string>
@@ -4677,6 +4683,7 @@ Laitteeseesi asennettu luotettu varmenne tekee tämän mahdolliseksi."</string>
   <string name="status_bar_settings_notification_use_app_icon">Käytä sovelluskuvakkeita ilmoituksissa</string>
   <string name="status_bar_settings_notification_vibrate">Värinä</string>
   <string name="status_bar_settings_peek_notification_icon">Näytä kuvakkeet saapuville ilmoituksille</string>
+  <string name="status_bar_settings_qs_layout">Pika-asetuksien ulkoasu</string>
   <string name="status_bar_settings_show_carrier">Näytä operaattorin nimi</string>
   <string name="status_bar_settings_show_carrier_summary">Operaattorin nimi silti näytetään Lukitusnäytöllä ja ilmoitusalueella vaikka tämä ominaisuus ei ole käytössä</string>
   <string name="status_bar_settings_show_carrier_under_keyguard">Näytä operaattori laitteen ollessa lukittuna</string>
