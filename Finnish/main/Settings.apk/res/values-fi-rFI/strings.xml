@@ -1752,7 +1752,7 @@ Asetus vaikuttaa tämän puhelimen kaikkiin käyttäjiin."</string>
   <string name="download_current_rom">Hanki uusin MIUI versio</string>
   <string name="downloading_description">Ladataan…</string>
   <string name="doze_always_on_summary">Näytä aika, ilmoituskuvakkeet ja muita tietoja. Nostaa akun käyttöä.</string>
-  a<string name="doze_always_on_title">Aina päällä</string>
+  <string name="doze_always_on_title">Aina päällä</string>
   <string name="doze_summary">Aktivoi näyttö, kun saat ilmoituksia.</string>
   <string name="doze_title">Ambient-näyttö</string>
   <string name="draw_overlay">Sovellusten päällä näkyminen</string>
