@@ -3,6 +3,8 @@
   <string name="about_extreme_mode">Äärimmäinen tila</string>
   <string name="about_hide_mode">Tietoja Virransäästöstä</string>
   <string name="active_classify">Lajittele aktiivisuustilan mukaan</string>
+  <string name="adaptive_battery_summary">Rajoita akkua sovelluksille, joita käytät harvemmin</string>
+  <string name="adaptive_battery_title">Käytä Adaptiivista Akkua</string>
   <string name="app_list_title">Valitse sovellukset</string>
   <string name="app_name">Akku ja suorituskyky</string>
   <string name="app_preload_policies_summary">Käytä koneoppimista ennustaaksesi todennäköisimmin käyttämäsi sovellukset, ja lataamalla ne ennakkoon.</string>
