@@ -2550,7 +2550,7 @@ Voit muuttaa tätä asetusta myöhemmin kohdassa Asetukset > Sovellukset ja ilmo
   <string name="location_on_summary">KÄYTÖSSÄ / %1$s</string>
   <string name="location_scanning_bluetooth_always_scanning_description">Paranna sijainnin tarkkuutta sallimalla järjestelmäsovellusten ja -palveluiden havaita Bluetooth-laitteita milloin tahansa.</string>
   <string name="location_scanning_bluetooth_always_scanning_title">Bluetooth-haku</string>
-  <string name="location_scanning_screen_title">Analysoidaan</string>
+  <string name="location_scanning_screen_title">Hakeminen</string>
   <string name="location_scanning_wifi_always_scanning_description">Paranna sijaintipalveluita antamalla järjestelmäsovellusten ja -palveluiden havaita Wi-Fi-verkkoja milloin tahansa.</string>
   <string name="location_scanning_wifi_always_scanning_title">Wi-Fi-haku</string>
   <string name="location_settings_title">Sijainti</string>
