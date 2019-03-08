@@ -207,6 +207,8 @@ Kaikki laitteellasi olevat tiedot voidaan poistaa ja Lukitusnäytön salasanasi 
   <string name="app_manager_factory_reset_dlg_title">Poistetaanko päivitykset?</string>
   <string name="app_manager_force_stop_dlg_text">Jos pakkolopetat sovelluksen, se saattaa käyttäytyä omituisesti.</string>
   <string name="app_manager_force_stop_dlg_title">Pakkolopetetaanko?</string>
+  <string name="app_manager_full_screen_summary">Salli valittujen sovelluksien toimia kokonäyttötilassa</string>
+  <string name="app_manager_full_screen_title">Kokonäyttötila</string>
   <string name="app_manager_globel_other_perm_title">Muut käyttöoikeudet</string>
   <string name="app_manager_globel_perm_summary">Hallitse sijaintiin, tallennustilaan, puhelimeen, viesteihin ja yhteystietoihin liittyviä käyttöoikeuksia.</string>
   <string name="app_manager_globel_perm_title">Sovelluksen käyttöoikeudet</string>
