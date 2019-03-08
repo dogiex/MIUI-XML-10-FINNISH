@@ -223,6 +223,11 @@ Muotokuvatilassa"</string>
   <string name="live_edit_exit_confirm">Poistu</string>
   <string name="live_edit_exit_message">Hylätäänkö kaappaus?</string>
   <string name="live_edit_share_title">Jaa</string>
+  <string name="live_error_confirm">Säädä</string>
+  <string name="live_error_message">Toimintovirhe</string>
+  <string name="live_error_title">Toimintovirhe</string>
+  <string name="live_reverse_confirm">Poista</string>
+  <string name="live_reverse_message">Poistetaanko viimeinen osa?</string>
   <string name="live_speed_extreme_fast">Nopein</string>
   <string name="live_speed_extreme_slow">Hitain</string>
   <string name="live_speed_fast">Nopea</string>
@@ -230,6 +235,7 @@ Muotokuvatilassa"</string>
   <string name="live_speed_normal">Normaali</string>
   <string name="live_speed_slow">Hidas</string>
   <string name="live_sticker_fragment_tab_name">Taika</string>
+  <string name="live_sticker_network_error_hint">Verkkovirhe</string>
   <string name="live_sticker_updating">Päivitetään...</string>
   <string name="makeup_reset_toast">Poista meikkitehosteet</string>
   <string name="message_snap_double_confirm">Äänenvoimakkuuspainikkeen pitkä painallus käynnistää tällä hetkellä NFC:n. Korvataanko tämä ominaisuus?</string>
@@ -255,8 +261,10 @@ Muotokuvatilassa"</string>
   <string name="popup_tip_3d_beauty_intro_text">3D-Kauneus</string>
   <string name="portait_effect_entry_blackwhite">M&amp;V</string>
   <string name="portait_effect_entry_cool">Minttu</string>
+  <string name="portait_effect_entry_dusk">Hämärä</string>
   <string name="portait_effect_entry_fairytale">Lapsuus</string>
   <string name="portait_effect_entry_japanese">Taivaansininen</string>
+  <string name="portait_effect_entry_lilt">Nuotti</string>
   <string name="portait_effect_entry_maze">Sokkelo</string>
   <string name="portait_effect_entry_mood">Tunteet</string>
   <string name="portait_effect_entry_movie">Elokuva</string>
@@ -264,7 +272,9 @@ Muotokuvatilassa"</string>
   <string name="portait_effect_entry_pink">Punastua</string>
   <string name="portait_effect_entry_riddle">Arvoitus</string>
   <string name="portait_effect_entry_romance">Romanttinen</string>
+  <string name="portait_effect_entry_sepia">Seepia</string>
   <string name="portait_effect_entry_story">Tarina</string>
+  <string name="portait_effect_entry_tea">Tee</string>
   <string name="portrait_bokeh_first_tips">"Käytä Muotokuvatilaa sumentaaksesi
 kuvasi taustan"</string>
   <string name="portrait_bokeh_text">Muotokuvatila</string>

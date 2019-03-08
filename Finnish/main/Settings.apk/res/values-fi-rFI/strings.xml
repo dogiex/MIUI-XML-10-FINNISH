@@ -2200,6 +2200,7 @@ Varmuuskopioita ei vähennetä Drive-tallennustilan kiintiöstäsi. Suuria ja ke
   <string name="gxzw_anim_metal">Metalli</string>
   <string name="gxzw_anim_pulse">Syke</string>
   <string name="gxzw_anim_rhythm">Rytmi</string>
+  <string name="gxzw_anim_star">Tähtien valo</string>
   <string name="gxzw_anim_title">Sormenjäljen animaatio</string>
   <string name="gxzw_dialog_message">Käyttääksesi näytön sisäistä sormenjälkitunnistinta normaalisti, älä käytä näytön suojia. Jos olet sitä mieltä, että näytön suoja on kuitenkin tarpeellinen, valitse yhteensopiva malli valtuutettujen mallien joukosta.</string>
   <string name="gxzw_dialog_not_show_again">Älä näytä uudelleen</string>

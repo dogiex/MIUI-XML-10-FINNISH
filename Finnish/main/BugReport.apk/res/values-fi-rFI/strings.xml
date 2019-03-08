@@ -37,13 +37,12 @@
   <string name="catch_full_log_dialog_confirm_text">Siirry Aloitusnäytölle</string>
   <string name="catch_full_log_dialog_content">MIUI generoi lokia. Tämä saattaa vaikuttaa laitteen yleiseen suorituskykyyn. Jos et voi toistaa ongelmaa, siirry takaisin lokeihin ja napauta \"Peruuta\".</string>
   <string name="catch_full_log_dump_hprof_failed">Viivelokia ei voitu luoda</string>
-  <string name="catch_full_log_item_content_catch_direct">"Vaiheet:
-1. Palaa takaisin toimintoon, jonka haluat ilmoittaa ja toista se.
+  <string name="catch_full_log_item_content_catch_direct">"1. Palaa takaisin toimintoon, jonka haluat ilmoittaa ja toista se.
 2. Tule takaisin tälle sivulle ja napauta \"Valmis ja lähetä\"."</string>
-  <string name="catch_full_log_item_content_need_open">"Vaiheet:
-1. Napauta \"Luo loki\".
+  <string name="catch_full_log_item_content_need_open">"1. Napauta \"Luo loki\".
 2. Palaa takaisin toimintoon, jonka haluat ilmoittaa ja toista se.
 3. Tule takaisin tälle sivulle ja napauta \"Valmis ja lähetä\"."</string>
+<string name="catch_full_log_item_content_title">Vaiheet:</string>
   <string name="catch_full_log_item_title_audio">Ääni, äänen nauhoittaminen ja puhelun ääni</string>
   <string name="catch_full_log_item_title_bt">Bluetooth</string>
   <string name="catch_full_log_item_title_dump_heap">Viive</string>
@@ -94,6 +93,7 @@
   <string name="err_type_xiaomi_service">Asiakaspalvelu</string>
   <string name="error_no_connection">Verkkoyhteyttä ei voi muodostaa</string>
   <string name="feedback_bug_status_change_notification_desc">%1$s ongelma \"%2$s\"</string>
+  <string name="feedback_choose_app_tag">Valitse ongelma</string>
   <string name="feedback_choose_module">Valitse kohde</string>
   <string name="feedback_choose_module_hint">Vaadittu</string>
   <string name="feedback_choose_reproductivity">Toistuvuus</string>
@@ -337,6 +337,8 @@
   <string name="title_nonsystem_app">Muut sovellukset</string>
   <string name="title_same_question_feedback_main">MIUI keskustelupalstalla samankaltaisia ongelmia</string>
   <string name="title_system_app">MIUI sovellukset</string>
+  <string name="title_user_guide">Käyttöopas</string>
+  <string name="toast_app_tag_required">Valitse ongelma</string>
   <string name="toast_catch_full_log_catching">Voit luoda vain yhden lokin kerrallaan.</string>
   <string name="toast_catch_full_log_open_failed">Lokin nauhoittamista ei voitu aloittaa.</string>
   <string name="toast_description_required">Sinun täytyy kirjoittaa selitys</string>

@@ -1422,8 +1422,6 @@ Kokeile käyttää toista ethernet-kaapelia reitittimesi yhdistämiseen. Jos luu
   <string name="news_change">Vaihda</string>
   <string name="nickname">Lempinimi</string>
   <string name="no_game">Pelejä ei löytynyt</string>
-  <string name="no_lucky_money">尚未收到红包</string>
-  <string name="not_available">暂无</string>
   <string name="not_limited_brand">Rajoittamaton</string>
   <string name="note">Muistio</string>
   <string name="note_call_none">Ei puheluita</string>
@@ -1437,7 +1435,9 @@ Kokeile käyttää toista ethernet-kaapelia reitittimesi yhdistämiseen. Jos luu
   <string name="notification_masked_item">Piilota ilmoitukset</string>
   <string name="notification_masked_subtitle">Piilota ilmoitukset Sovelluslukolla suojatuilta sovelluksilta</string>
   <string name="notification_summary_cmcc_app_check">Näytä yksityiskohdat koskettamalla.</string>
+  <string name="notify_channel_mipush">Tietoturvan push-viestit</string>
   <string name="notify_channel_name_security">Järjestelmän tietoturva</string>
+  <string name="notify_channel_optimize">Tietoturvan ilmoitukset</string>
   <string name="notify_daily_data_usage_body">Rajoittaaksesi datan käyttöä automaattisesti, aseta kuukausittainen datapaketti.</string>
   <string name="notify_daily_limit_body">Aseta tiedonsiirtoraja napauttamalla.</string>
   <string name="notify_daily_limit_title">Käytetty %s tänään</string>
@@ -1448,7 +1448,6 @@ Kokeile käyttää toista ethernet-kaapelia reitittimesi yhdistämiseen. Jos luu
   <string name="notify_weekly_traffic_body">Rajoittaaksesi datan käyttöä automaattisesti, aseta kuukausittainen datapaketti.</string>
   <string name="notify_weekly_traffic_title">Käytetty %s tällä viikolla</string>
   <string name="notify_weekly_traffic_title_for_slotnum">%1$s käytetty %2$s tällä viikolla</string>
-  <string name="number_of_lucky_money">已为您提醒红包总数</string>
   <string name="numeric_need_to_confirm">Syötä uudelleen vahvistaaksesi</string>
   <string name="numeric_password_confirmed_header_confirm">Asetettiin onnistuneesti. Napauta vahvistaaksesi.</string>
   <string name="numeric_password_confirmed_header_continue">Asetettiin onnistuneesti. Napauta \"Seuraava\".</string>

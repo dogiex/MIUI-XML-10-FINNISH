@@ -521,10 +521,10 @@ Yritä uudelleen %2$d sekunnin kuluttua."</string>
      <string name="lock_screen_date_12">"EEEE d. MMMM'ta'"</string>
      <string name="lock_screen_magazine_default_content">Päivittäinen annos tuoreita kuvia</string>
      <string name="lock_screen_magazine_default_title">Musiikki</string>
+     <string name="lock_screen_magazine_global_button_text">Lisää</string>
      <string name="lock_screen_no_sim_card_emergency_only">Vain hätäpuhelut</string>
      <string name="lock_screen_no_sim_card_no_service">Ei palvelua</string>
      <string name="lock_wallpaper_enter">Siirry</string>
-     <string name="lock_wallpaper_learn_more">Lisää</string>
      <string name="lockscreen_access_pattern_area">Kuvion alue.</string>
      <string name="lockscreen_access_pattern_cell_added">Solu lisätty</string>
      <string name="lockscreen_access_pattern_cell_added_verbose">Solu %1$s lisätty</string>

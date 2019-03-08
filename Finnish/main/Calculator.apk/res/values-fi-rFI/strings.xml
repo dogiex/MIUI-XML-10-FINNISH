@@ -4,6 +4,7 @@
   <string name="tax_thershold_native_new">%s (uusi)</string>
   <string name="tax_thershold_native_new_description">Verot lasketaan uuden verolain mukaan 1. lokakuuta 2018 alkaen</string>
   <!-- // 8.9.17 // -->
+  <string name="allow">Hyväksyn</string>
   <string name="angle">deg</string>
   <string name="app_name">Laskin</string>
   <string name="app_name_danfa">Mi Laskin</string>
@@ -65,6 +66,12 @@
   <string name="description_content">Perus ominaisuuksien lisäksi, Laskin toimii myös monimuuntimena, lainojen laskemiseen ja verolaskurina. Varmista, että voi elää ilman näitä ominaisuuksia, ennen kuin poistat sovelluksen.</string>
   <string name="description_title">Tietoja Laskimesta</string>
   <string name="devided_by_zero_reminder_message">Nollalla ei voi jakaa</string>
+  <string name="dialog_privacy_content">Laskimen perusominaisuuksien lisäksi sovelluksemme sisältää tieteellisen laskimen ja monikäyttöisen muuntimen. Joidenkin ominaisuuksien on yhdistettävä internetiin toimiakseen normaalisti. Sinun täytyy lukea ja hyväksyä meidän %1$s ja %2$s, ennen Laskimen käyttämistä.</string>
+  <string name="dialog_privacy_title">Käyttöehdot</string>
+  <string name="dialog_rating_desc_ask">Mitä mieltä olet Laskimesta?</string>
+  <string name="dialog_rating_desc_less">Voisitko antaa meille myös palautetta?</string>
+  <string name="dialog_rating_desc_perfect">Hienoa! Arvosteletko Laskimen myös Sovelluskaupassa?</string>
+  <string name="dialog_rating_title">Arvostele sovelluksemme</string>
   <string name="digit0">0</string>
   <string name="digit1">1</string>
   <string name="digit2">2</string>
@@ -81,25 +88,19 @@
   <string name="dotDesc">piste</string>
   <string name="e">e</string>
   <string name="eDesc">"Euler's number"</string>
-  <string name="elder_brother">哥哥</string>
-  <string name="elder_sister">姐姐</string>
   <string name="enter">↓</string>
   <string name="equal">=</string>
   <string name="equalDesc">yhtäkuin</string>
   <string name="error">Virhe</string>
   <string name="error_fomrat">Formaatti virhe</string>
+  <string name="exit">Poistu</string>
   <string name="factorial">!</string>
   <string name="factorialDesc">kertoma</string>
-  <string name="far_relationship_result">关系有点远，年长就叫老祖宗，同龄人就叫美女帅哥吧~</string>
-  <string name="father">爸爸</string>
   <string name="from_num">100</string>
   <string name="from_unit">km/h</string>
   <string name="from_unit_en">kilometriä tunnissa</string>
   <string name="from_unit_short">km/h</string>
-  <string name="fund"/>
   <string name="fund_loan">Rahastolaina</string>
-  <string name="gay_other_search_result">暂时不支持同性婚姻称呼查询，怎么称呼你决定~</string>
-  <string name="gay_search_result">是男是女不重要，是你就好</string>
   <string name="global_network_confirm_content">Valuuttamuuntimen on yhdistettävä internetiin toimiakseen normaalisti.</string>
   <string name="global_search_key_area_convertion">Alue;Aluemuunnin;Aluemuuntaja;Alueen muunnos</string>
   <string name="global_search_key_calculation">Laske;Laskin;Yksikkömuunnos;Muuntaja;Yksikön muuntaja</string>
@@ -117,7 +118,6 @@
   <string name="golbal_search_calculator_setting">Laskin;Laskimen asetukset;Asetukset</string>
   <string name="golbal_search_path_calculator_setting">Järjestelmäsovellukset/Laskin/Asetukset</string>
   <string name="home_title_calculator">Laskin</string>
-  <string name="husband">丈夫</string>
   <string name="install">Asenna</string>
   <string name="install_scanner_to_continued_use">Lukijaa ei ole asennettu. Asennetaanko uudelleen?</string>
   <string name="interest_rate_hint">Anna korko</string>
@@ -143,6 +143,11 @@
   <string name="lgDesc">logarithm</string>
   <string name="ln">ln</string>
   <string name="lnDesc">natural logarithm</string>
+  <string name="loading_fail_message_no_network">Verkkoyhteyttä ei voitu muodostaa. Yritä uudelleen napauttamalla tähän.</string>
+  <string name="loading_fail_refresh">Päivitä</string>
+  <string name="loading_message">Ladataan sovellusta…</string>
+  <string name="loading_slogan">Käytä sovelluksia asentamatta niitä</string>
+  <string name="loading_tips">Asetukset ladattiin onnistuneesti. Ota ne käyttöön käynnistämällä Laskin uudelleen.</string>
   <string name="loan_edittext_hint_commercial">Anna summa</string>
   <string name="loan_edittext_hint_commercial_combined">Kaupallinen (x10K)</string>
   <string name="loan_edittext_hint_fund">Anna summa</string>
@@ -201,6 +206,8 @@
   <string name="network_confirm_content">Valuuttamuuntimen, veron- ja lainalaskurin on yhdistettävä internetiin ja käytettävä laitteen sijaintitietoja toimiakseen normaalisti.</string>
   <string name="network_confirm_title">Käyttöoikeuksia vaaditaan</string>
   <string name="not_supported_due_to_language">Tämä ominaisuus on käytettävissä vain Kiinan kielellä</string>
+  <string name="note">Muistio</string>
+  <string name="ok">OK</string>
   <string name="percentDesc">prosentti</string>
   <string name="percentage">%</string>
   <string name="pi">π</string>
@@ -227,10 +234,13 @@
   <string name="preference_follow_weibo_summary">\@MIUI</string>
   <string name="preference_follow_weibo_title">Sina Weibo</string>
   <string name="preference_settings">Asetukset</string>
+  <string name="preference_help">Apua &amp; palaute</string>
   <string name="preference_other">Muu</string>
   <string name="preference_privacy_title">Tietosuojakäytäntö</string>
+  <string name="preference_rating_title">Arvostele sovelluksemme</string>
   <string name="preference_use_degress_summary">Korvaa radiaanit kulmilla trigonometrisissä funktioissa</string>
   <string name="preference_use_degress_title">Käytä kulmia</string>
+  <string name="privacy_policy">Tietosuojakäytäntö</string>
   <string name="radDesc">Radiaani</string>
   <string name="radian">rad</string>
   <string name="rate_data_provider">Korkotason tarjoaa hexun.com</string>
@@ -293,6 +303,7 @@
   <string name="tax_location">Sijainti</string>
   <string name="tax_medical">Lääketieteellinen</string>
   <string name="tax_param_error">Kirjoita oikeat vakuutusmaksut</string>
+  <string name="tax_rate_provider">Tiedot tarjoaa hexun.com ja East Money</string>
   <string name="tax_result_real_get">Verojen jälkeen</string>
   <string name="tax_social_insurance">Sosiaalivakuutus</string>
   <string name="tax_thershold_foreign">%s (Ulkomaan kansalaiset)</string>
@@ -583,37 +594,19 @@
   <string name="unit_year">Y</string>
   <string name="unit_year_format">Vuosi %s</string>
   <string name="unit_yuan">CNY</string>
+  <string name="updating">Päivitetään laskinta…</string>
+  <string name="user_agreement">Käyttöehdot</string>
   <string name="voiceDesc">Ääniohjaimet</string>
   <string name="wf_word_figure">Taloudelliset merkit</string>
-  <string name="wife">妻子</string>
-  <string name="word_figure_big_unit_fen">分</string>
-  <string name="word_figure_big_unit_jiao">角</string>
-  <string name="word_figure_big_unit_wan">"万 "</string>
-  <string name="word_figure_big_unit_yi">"亿 "</string>
-  <string name="word_figure_big_unit_zhao">"兆 "</string>
   <string name="word_figure_guide_text">Voit vaihtaa tapausten välillä pitämällä tekstiä painettuna.</string>
-  <string name="word_figure_number_0">零</string>
-  <string name="word_figure_number_1">壹</string>
-  <string name="word_figure_number_2">贰</string>
-  <string name="word_figure_number_3">叁</string>
-  <string name="word_figure_number_4">肆</string>
-  <string name="word_figure_number_5">伍</string>
-  <string name="word_figure_number_6">陆</string>
-  <string name="word_figure_number_7">柒</string>
-  <string name="word_figure_number_8">捌</string>
-  <string name="word_figure_number_9">玖</string>
-  <string name="word_figure_unit_bai">佰</string>
-  <string name="word_figure_unit_qian">仟</string>
-  <string name="word_figure_unit_shi">拾</string>
-  <string name="word_figure_yuan">元</string>
-  <string name="word_figure_zheng">整</string>
-  <string name="xiaomi_connect_download_manager_fail">Yhdistäminen Lataustenhallintaan epäonnistui, tarkasta Lataustenhallinnan tila Asetuksista Asennetut sovellukset.</string>
-  <string name="xiaomi_external_storage_unavailable">Tallennustila ei saatavilla, tarkasta SD-kortti.</string>
+  <string name="xiaomi_bytes_unit">%1$s t</string>
+  <string name="xiaomi_connect_download_manager_fail">Latauksiin ei saatu yhteyttä. Tarkista, että tällä sovelluksella on kaikki vaaditut käyttöoikeudet asetuksista Asetukset &gt; Asennetut sovellukset.</string>
+  <string name="xiaomi_external_storage_unavailable">Tallennustila ei ole käytettävissä. Tarkista SD-korttisi.</string>
+  <string name="xiaomi_kilobytes_unit">%1$s Kt</string>
+  <string name="xiaomi_megabytes_unit">%1$s Mt</string>
   <string name="xiaomi_update_dialog_message">"Saatavilla versio %1$s
 Koko: %2$s"</string>
   <string name="xiaomi_update_dialog_message_diff">"Saatavilla versio %1$s
 Delta-päivityksen koko: %2$s"</string>
   <string name="xiaomi_update_dialog_title">%1$s päivitys!</string>
-  <string name="younger_brother">弟弟</string>
-  <string name="younger_sister">妹妹</string>
 </resources>
