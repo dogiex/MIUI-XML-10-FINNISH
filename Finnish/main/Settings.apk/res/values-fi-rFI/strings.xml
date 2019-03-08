@@ -5149,8 +5149,9 @@ Se on Googlen tapa synkronoida tietoja, ja sen avulla voit käyttää yhteystiet
   <string name="turn_off_keyguard_password_alert_title">Poista käytöstä</string>
   <string name="turn_off_keyguard_password_confirm_msg">Poistetaanko Lukitusnäytön salasana käytöstä?</string>
   <string name="turn_off_keyguard_password_wait_dialog">Poistetaan salasana käytöstä…</string>
+  <string name="turn_off_keyguard_password_with_face_confirm_msg">Kun poistat Lukitusnäytön salasanan käytöstä, tallennetut kasvojen tiedot poistetaan myös. Et voi sen jälkeen avata laitteesi lukitusta kasvoillasi.</string>
   <string name="turn_off_keyguard_password_with_fingerprint_confirm_msg">Et voi enää avata laitettasi sormenjäljelläsi, kun poistat Lukitusnäytön salasanan käytöstä</string>
-  <string name="turn_off_keyguard_password_with_fingerprint_face_confirm_msg">Jos poistat Lukitusnäytön salasanan käytöstä, tallennetut sormenjäljet poistetaan. Et voi sen jälkeen avata laitteen lukitusta sormenjäljelläsi.</string>
+  <string name="turn_off_keyguard_password_with_fingerprint_face_confirm_msg">Jos poistat Lukitusnäytön salasanan käytöstä, tallennetut sormenjäljet ja kasvojen tiedot poistetaan. Et voi sen jälkeen avata laitteen lukitusta sormenjäljelläsi tai kasvoillasi.</string>
   <string name="turn_off_security_lock">Poista lukitus käytöstä</string>
   <string name="turn_on_keyguard_password">Ota Lukitusnäytön salasana käyttöön</string>
   <string name="turn_on_keyguard_password_alert">Muista salasanasi. Jos unohdat sen, et voi palauttaa sitä.</string>

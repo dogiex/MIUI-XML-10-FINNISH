@@ -105,6 +105,12 @@
         <item>Viime syksy</item>
         <item>Viime talvi</item>
     </string-array>
+    <string-array name="weekend_title">
+        <item>Viime viikonloput</item>
+        <item>Muistettavia päiviä</item>
+        <item>Päivittäiset tapahtumat</item>
+        <item>Tavallinen &amp; Epätavallinen</item>
+    </string-array>
     <string-array name="relation_with_me">
         <item>Minä</item>
         <item>Lapsi</item>

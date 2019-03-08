@@ -161,6 +161,7 @@
   <string name="gadget_clock_24_label">Kello 4x2</string>
   <string name="gadget_clock_34_label">Kello 4x3</string>
   <string name="gadget_clock_label">Kello</string>
+  <string name="gadget_dual_clock_label">Kaksoiskello</string>
   <string name="gadget_error_text">Widgettiä ei voi ladata</string>
   <string name="gadget_google_search_label">Google Haku</string>
   <string name="gadget_load_error">Ladataan…</string>
@@ -281,13 +282,15 @@
   <string name="recents_config_title">Viimeaikaiset</string>
   <string name="recommend_apk_size_and_desc">%1$d Mt | %2$s</string>
   <string name="recommend_apps_default_title">Tyhjä</string>
-  <string name="recommend_apps_no_data">Ei tietoja</string>
+  <string name="recommend_apps_no_data">Ei tietoa</string>
+  <string name="recommend_apps_no_data_toast">Ei suosituksia juuri nyt.</string>
   <string name="recommend_apps_notice">Mainostetut sovellukset</string>
   <string name="recommend_apps_notice_nodata">Mainostetut sovellukset (Ei tietoja)</string>
   <string name="recommend_apps_switch_title">Mainostetut sovellukset</string>
   <string name="recommend_apps_tips">Tämä ominaisuus vaatii internetyhteyden toimiakseen normaalisti. Poista tämä ominaisuus käytöstä napauttamalla tämän kansion nimeä.</string>
   <string name="recommend_loading">Ladataan</string>
-  <string name="refresh">Päivitä</string>
+  <string name="recommend_refresh">Päivitä</string>
+  <string name="recommend_xout">Älä näytä</string>
   <string name="reset_description_first_time">Voit palauttaa ulkoasun kohteesta %1$s 2 tunnin sisällä</string>
   <string name="reset_description_others">Voit palauttaa ulkoasun kohteesta %1$s</string>
   <string name="reset_fail">Ei voitu palauttaa</string>

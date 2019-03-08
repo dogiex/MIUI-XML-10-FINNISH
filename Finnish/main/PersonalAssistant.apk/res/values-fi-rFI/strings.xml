@@ -19,15 +19,33 @@
   <string name="book_save_sucess">Varaus lisättiin onnistuneesti</string>
   <string name="didi_app_name">DiDi</string>
   <string name="express_setting_other">Muu</string>
+  <string name="miot_device_add_device">Lisää laite</string>
+  <string name="miot_device_all_device">Kaikki laitteet</string>
+  <string name="miot_device_cancel">Peruuta</string>
   <string name="miot_device_card_title">Mi Home</string>
-  <string name="miot_device_click_show_detail">点击了解智能家居</string>
-  <string name="miot_device_click_show_img">点击查看画面</string>
-  <string name="miot_device_cta_and">ja</string>
+  <string name="miot_device_click_show_detail">Napauta lisätietoja älykkäistä kodinkoneista</string>
+  <string name="miot_device_click_show_img">Näytä kuva napauttamalla</string>
+  <string name="miot_device_cta_and"> ja </string>
   <string name="miot_device_cta_end">. (</string>
-  <string name="miot_device_cta_message">Lisää älylaitteitasi hallitaksesi niitä. Hyväksy napauttamalla Valtuuta</string>
+  <string name="miot_device_cta_message">Lisää älylaitteitasi hallitaksesi niitä. Hyväksy napauttamalla Valtuuta </string>
   <string name="miot_device_cta_priv">Tietosuojakäytäntö</string>
   <string name="miot_device_cta_use_info">Mi Home Käyttöehdot</string>
+  <string name="miot_device_edit">Muokkaa</string>
+  <string name="miot_device_empty_device_hint">Lisää älylaitteita, kuten ilmanpuhdistajia, kameroita ja robotti-imureita nopeaa ohjausta varten</string>
   <string name="miot_device_empty_text">Lisää ilmanpuhdistaja, kamera, robotti-imuri tai muista älylaitteita hallitaksesi niitä.</string>
+  <string name="miot_device_hide_frame_toast">Piilota kuva</string>
+  <string name="miot_device_install_mijia">Lataa</string>
+  <string name="miot_device_introduction">Ohjaa nopeasti älylaitteita</string>
+  <string name="miot_device_loading">Ladataan…</string>
+  <string name="miot_device_login">Kirjaudu sisään</string>
+  <string name="miot_device_mijia_logout_message">Sinun täytyy kirjautua sisään Mi Tililläsi, ennen kuin voit lisätä tai käyttää laitteita. Haluatko kirjautua sisään nyt?</string>
+  <string name="miot_device_mijia_logout_title">Ei kirjautuneena</string>
+  <string name="miot_device_mijia_uninstall_message">Mi Home sovellusta ei ole asennettu. Haluatko ladata sen sovelluskaupasta?</string>
+  <string name="miot_device_mijia_uninstall_title">Ei asennettu</string>
+  <string name="miot_device_network_error">Ei yhteyttä</string>
+  <string name="miot_device_no_recent_frame">Näytä napauttamalla</string>
+  <string name="miot_device_show_frame_toast">Näytä kuva</string>
+  <string name="miot_device_shrink_list">Tiivistä</string>
 
   <string name="net_unavailable">Verkkoyhteyttä ei voitu muodostaa.</string>
   <!-- MIUI 10 valmis -->

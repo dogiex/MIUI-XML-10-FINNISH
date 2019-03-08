@@ -78,8 +78,8 @@
         <item quantity="other">%d minuuttia sitten</item>
         <item quantity="one">%d minuutti sitten</item>
     </plurals>
-    <plurals name="book_start_interval">
-        <item quantity="other">距出发还有%d天</item>
-        <item quantity="one">距出发还有%d天</item>
+    <plurals name="miot_device_camera_size">
+        <item quantity="other">%d älykameraa</item>
+        <item quantity="one">%d älykamera</item>
     </plurals>
 </resources>

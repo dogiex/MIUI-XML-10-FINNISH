@@ -56,6 +56,10 @@
         <item quantity="other">Jatka varmuuskopiointia %d tunnin kuluttua</item>
         <item quantity="one">Jatka varmuuskopiointia %d tunnin kuluttua</item>
     </plurals>
+    <plurals name="backup_file_over_size_title">
+        <item quantity="other">%d kohdetta on liian suuria varmuuskopioitavaksi</item>
+        <item quantity="one">%d kohde on liian suuri varmuuskopioitavaksi</item>
+    </plurals>
     <plurals name="backup_pause_desc">
         <item quantity="other">%d kuvaa ja videota | Pysäytetty</item>
         <item quantity="one">%d kuva tai video | Pysäytetty</item>
@@ -247,6 +251,10 @@
     <plurals name="sync_error_title">
         <item quantity="other">%d kuvaa ja videota ei ole varmuuskopioitu</item>
         <item quantity="one">%d kuvaa tai videota ei ole varmuuskopioitu</item>
+    </plurals>
+    <plurals name="sync_oversized_count">
+        <item quantity="other">%d kohdetta on liian suuria varmuuskopioitavaksi</item>
+        <item quantity="one">%d kohde on liian suuri varmuuskopioitavaksi</item>
     </plurals>
     <plurals name="sync_total_count">
         <item quantity="other">%d kohdetta</item>
