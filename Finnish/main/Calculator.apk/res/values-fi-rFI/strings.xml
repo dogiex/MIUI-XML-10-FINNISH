@@ -19,6 +19,7 @@
   <string name="cal_result_format">= %s</string>
   <string name="cal_text_copied">Teksti kopioitu</string>
   <string name="cancel">Peruuta</string>
+  <string name="children_education">Lasten koulutus</string>
   <string name="chinese_character_cross_check">互查</string>
   <string name="chinese_character_daughter">女</string>
   <string name="chinese_character_elder_brother">兄</string>
@@ -94,6 +95,9 @@
   <string name="error">Virhe</string>
   <string name="error_fomrat">Formaatti virhe</string>
   <string name="exit">Poistu</string>
+  <string name="extra_deduction_instruction">Vähennystiedot</string>
+  <string name="extra_deduction_tips">Napauta näytön yläkulmassa olevaa painiketta nähdäksesi vähennystiedot.</string>
+  <string name="extra_deduction_title">Muita vähennyksiä</string>
   <string name="factorial">!</string>
   <string name="factorialDesc">kertoma</string>
   <string name="from_num">100</string>
@@ -101,6 +105,7 @@
   <string name="from_unit_en">kilometriä tunnissa</string>
   <string name="from_unit_short">km/h</string>
   <string name="fund_loan">Rahastolaina</string>
+  <string name="further_education">Jatkokoulutus</string>
   <string name="global_network_confirm_content">Valuuttamuuntimen on yhdistettävä internetiin toimiakseen normaalisti.</string>
   <string name="global_search_key_area_convertion">Alue;Aluemuunnin;Aluemuuntaja;Alueen muunnos</string>
   <string name="global_search_key_calculation">Laske;Laskin;Yksikkömuunnos;Muuntaja;Yksikön muuntaja</string>
@@ -117,7 +122,10 @@
   <string name="global_search_key_word_figure">Talouden merkit</string>
   <string name="golbal_search_calculator_setting">Laskin;Laskimen asetukset;Asetukset</string>
   <string name="golbal_search_path_calculator_setting">Järjestelmäsovellukset/Laskin/Asetukset</string>
+  <string name="help_content_desc">Apua</string>
+  <string name="home_loan">Asuntolainan korko</string>
   <string name="home_title_calculator">Laskin</string>
+  <string name="house_rent">Vuokra</string>
   <string name="install">Asenna</string>
   <string name="install_scanner_to_continued_use">Lukijaa ei ole asennettu. Asennetaanko uudelleen?</string>
   <string name="interest_rate_hint">Anna korko</string>
@@ -141,8 +149,10 @@
   <string name="leftParenDesc">vasen sulku</string>
   <string name="lg">log</string>
   <string name="lgDesc">logarithm</string>
+  <string name="license_host_unreachable">Verkkoyhteyttä ei voitu muodostaa. Tarkista verkkoasetuksesi ja yritä uudelleen.</string>
   <string name="ln">ln</string>
   <string name="lnDesc">natural logarithm</string>
+  <string name="loading">Odota hetki…</string>
   <string name="loading_fail_message_no_network">Verkkoyhteyttä ei voitu muodostaa. Yritä uudelleen napauttamalla tähän.</string>
   <string name="loading_fail_refresh">Päivitä</string>
   <string name="loading_message">Ladataan sovellusta…</string>
@@ -162,6 +172,7 @@
   <string name="loan_repayment_detail_loading">Ladataan yksityiskohtaista takaisinmaksua…</string>
   <string name="loan_repayment_detail_unit">Yksityiskohtainen takaisinmaksu (CNY)</string>
   <string name="loan_unit">(x10K)</string>
+  <string name="medical_treatment">Sairaanhoito</string>
   <string name="menuDesc">valikko</string>
   <string name="minus">−</string>
   <string name="minusDesc">miinus</string>
@@ -199,12 +210,13 @@
   <string name="mortgage_tab_combining_loan">Yhdistetty</string>
   <string name="mortgage_tab_commercial_loan">Kaupallinen</string>
   <string name="mortgage_years_amount">Lainan aika</string>
-  <string name="mother">妈妈</string>
+  <string name="mt_max">Antamasi summa on liian suuri</string>
   <string name="mul">×</string>
   <string name="mulDesc">kertaa</string>
   <string name="negDesc">Vaihda lämpötiloja nollan ala- ja yläpuolella</string>
   <string name="network_confirm_content">Valuuttamuuntimen, veron- ja lainalaskurin on yhdistettävä internetiin ja käytettävä laitteen sijaintitietoja toimiakseen normaalisti.</string>
   <string name="network_confirm_title">Käyttöoikeuksia vaaditaan</string>
+  <string name="none">Ei mitään</string>
   <string name="not_supported_due_to_language">Tämä ominaisuus on käytettävissä vain Kiinan kielellä</string>
   <string name="note">Muistio</string>
   <string name="ok">OK</string>
@@ -262,6 +274,7 @@
   <string name="son">儿子</string>
   <string name="sqrt">√</string>
   <string name="sqrtDesc">neliöjuuri</string>
+  <string name="support_elder">Vanhusten tuki</string>
   <string name="switchDesc">Vaihda</string>
   <string name="tab_title_calculator">Laskin</string>
   <string name="tab_title_convert">Muunnin</string>
@@ -303,7 +316,7 @@
   <string name="tax_location">Sijainti</string>
   <string name="tax_medical">Lääketieteellinen</string>
   <string name="tax_param_error">Kirjoita oikeat vakuutusmaksut</string>
-  <string name="tax_rate_provider">Tiedot tarjoaa hexun.com ja East Money</string>
+  <string name="tax_rate_provider">Laskettu uusien verosäännösten mukaisesti. Tiedot tarjoaa hexun.com ja East Money.</string>
   <string name="tax_result_real_get">Verojen jälkeen</string>
   <string name="tax_social_insurance">Sosiaalivakuutus</string>
   <string name="tax_thershold_foreign">%s (Ulkomaan kansalaiset)</string>

@@ -310,6 +310,7 @@ Aseta vain laitteet vierekkäin (yleensä takakannet vastakkain) ja kosketa näy
   <string name="animator_duration_scale_title">Animaattori</string>
   <string name="another_migration_already_in_progress">Toinen siirto on jo käynnissä.</string>
   <string name="anti_spam">Estolista</string>
+  <string name="aod_clock_style_title">Kellon tyyli</string>
   <string name="aod_close_color_inversion">Tätä ominaisuutta ei voi yhdistää käänteisen värin kanssa. Poista käänteinen väri ensin käytöstä.</string>
   <string name="aod_got_it">Selvä</string>
   <string name="aod_mode_summary">Näytä aina aika, päivämäärä ja viestit, kun näyttö on sammutettu.</string>
