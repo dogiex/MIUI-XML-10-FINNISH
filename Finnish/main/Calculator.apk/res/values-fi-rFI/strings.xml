@@ -599,11 +599,8 @@
   <string name="voiceDesc">Ääniohjaimet</string>
   <string name="wf_word_figure">Taloudelliset merkit</string>
   <string name="word_figure_guide_text">Voit vaihtaa tapausten välillä pitämällä tekstiä painettuna.</string>
-  <string name="xiaomi_bytes_unit">%1$s t</string>
   <string name="xiaomi_connect_download_manager_fail">Latauksiin ei saatu yhteyttä. Tarkista, että tällä sovelluksella on kaikki vaaditut käyttöoikeudet asetuksista Asetukset &gt; Asennetut sovellukset.</string>
   <string name="xiaomi_external_storage_unavailable">Tallennustila ei ole käytettävissä. Tarkista SD-korttisi.</string>
-  <string name="xiaomi_kilobytes_unit">%1$s Kt</string>
-  <string name="xiaomi_megabytes_unit">%1$s Mt</string>
   <string name="xiaomi_update_dialog_message">"Saatavilla versio %1$s
 Koko: %2$s"</string>
   <string name="xiaomi_update_dialog_message_diff">"Saatavilla versio %1$s
