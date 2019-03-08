@@ -119,7 +119,7 @@
 Vedä alaspäin päivittääksesi tai tarkasta verkkoasetukset"</string>
   <string name="data_provided_by">Tiedot tarjoaa osittain</string>
   <string name="edit_alert_city_title">Hallitse hälytyksiä</string>
-  <string name="edit_city">Muokkaa kaupunkia</string>
+  <string name="edit_city">Muokkaa kaupunkeja</string>
   <string name="empty_view_net_loading">Päivitetään…</string>
   <string name="empty_view_net_unavailable">Verkkoyhteyttä ei voitu muodostaa</string>
   <string name="empty_view_refresh">Yritä uudelleen</string>
@@ -246,9 +246,9 @@ Lisää kaupunki manuaalisesti napauttamalla"</string>
   <string name="retry">Yritä uudelleen</string>
   <string name="search_weather">Sää</string>
   <string name="search_weather_keywords">Lämpötila;Sää ennustus;Sää;Ilmanlaatu;Saaste;Kosteus</string>
-  <string name="set">Asetukset</string>
   <string name="set_degree_centigrade">°C</string>
   <string name="set_fahrenheit">°F</string>
+  <string name="settings">Asetukset</string>
   <string name="set_kilometre">km/h</string>
   <string name="set_land_mile">mph</string>
   <string name="share">Jaa</string>
