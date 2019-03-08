@@ -195,10 +195,17 @@ Pidä puhelinta kuin vastaisit puheluun, puhu mikrofoniin. Sinun pitäisi kuulla
 1. Napauta alapuolella olevaa kalibrointipainiketta käynnistääksesi OIS (optisen kuvanvakaimen) kalibroinnin.
 2. Kalibrointi onnistui otsikko osoittaa, että OIS on kalibroitu"</string>
   <string name="cit_camera_sdcard_error">Kuvaa ei voi ottaa. SD-kortti on täynnä.</string>
+  <string name="cit_charger_check_title">Laturitesti</string>
+  <string name="cit_charger_in">Laturi yhdistetty</string>
+  <string name="cit_charger_in_check_title">Laturin yhdistämistesti</string>
   <string name="cit_charger_plugin_check_summary">Kun USB-laturi on yhdistetty, teksti \"Ladataan käyttäen USB/AC\" pitäisi näkyä alapuolella.</string>
   <string name="cit_charger_plugin_check_title">Laturi (yhdistä)</string>
   <string name="cit_charger_plugout_check_summary">Kun USB-laturi on irroitettu, teksti \"USB/AC-laturi irroitettu\" should be displayed below.</string>
   <string name="cit_charger_plugout_check_title">Laturi (irrota)</string>
+  <string name="cit_charger_test_summary">"During the Charger test, please forward plug in the charger
+and reverse plug in the charger"</string>
+  <string name="cit_charger_test_tips_electric">Nykyisen projektin on testattava latausvirran arvo suurempi kuin 1A</string>
+  <string name="cit_charger_test_tips_hvdcp">Nykyisen projektin täytyy testata USB_HVDCP</string>
   <string name="cit_charger_waiting_in">Yhdistä laturi</string>
   <string name="cit_charger_waiting_out">Irrota laturi nyt</string>
   <string name="cit_dial_emergencycall">Soita 112</string>
@@ -821,6 +828,34 @@ Kun olet laittanut tiedoston \"music.mp3\" SD-kortin hakemistoon, napauta näytt
   <string name="sample_data">sample data</string>
   <string name="sample_hint">extract %1$s samples for one finger</string>
   <string name="sample_progress_hint">wait for extracting sample datas</string>
+  <string name="sar_sensor_calibrate">Aloita kalibrointi</string>
+  <string name="sar_sensor_calibrate_fail">Sar-anturin kalibrointi epäonnistui</string>
+  <string name="sar_sensor_calibrate_success">Sar-anturin kalibrointi onnistui</string>
+  <string name="sar_sensor_collect_data">Aloita tietojen kerääminen</string>
+  <string name="sar_sensor_collect_data_test_summary">"Rotate the phone to ensure that the real-time angle is between 130 and 140 degrees
+Keep the other hand away from the cell phone. Click on the start data acquisition button
+After calibrate success,Observe that the absolute value of CS0i and CS1 is less than 200 and the value of CS1 is more than 300. After five consecutive times, the other hand is close to the bottom of the cell phone,The value of CS0 is highlighted by the button after 3 consecutive times between 3000 and 30000,the pass button is highlight"</string>
+  <string name="sar_sensor_data_check_description">Sar Sensor Data Collect</string>
+  <string name="sar_sensor_data_check_summary">"Hold the top of the phone with one hand
+Make sure the real time Angle is about 45 degrees
+Keep the other hand away from the phone
+Look at the value of CS0
+After the value of CS0 is less than 500 and the value of CS2 greater than 10000 
+Hold the other hand close to the bottom of the phone
+Look at the value of CS0
+The value of CS0 ranges from 3000 to 30000 , the pass button is highlight"</string>
+  <string name="sar_sensor_data_check_summary_1">"Hold the top of the phone with one hand
+Make sure the real time Angle is about 45 degrees
+Keep the other hand away from the phone
+Look at the value of CS0
+After the value of CS0 is less than 500 and the value of CS2 greater than 5000 
+Hold the other hand close to the bottom of the phone
+Look at the value of CS0
+The value of CS0 ranges from 3000 to 30000 , the pass button is highlight"</string>
+  <string name="sar_sensor_test_description">Sar Sensor Calibrate and Data Collect</string>
+  <string name="sar_sensor_test_summary">"Rotate the phone, put it to the fixture
+Click the Start Calibrate button
+After calibrate success, control the fixture close and away from the phone"</string>
   <string name="screen_off_fail_retry">灭屏解锁失败重试次数：</string>
   <string name="screen_on_fail_retry">亮屏解锁失败重试次数：</string>
   <string name="search_menu_title">Search</string>

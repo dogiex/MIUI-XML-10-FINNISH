@@ -4416,6 +4416,8 @@ Huom. Tämän laitteen lukitusta ei voi avata sormenjäljellä. Saat lisätietoj
   <string name="services_subtitle">Palvelut</string>
   <string name="set_data_limit">Aseta tiedonsiirtoraja</string>
   <string name="set_data_warning">Aseta datankäyttövaroitus</string>
+  <string name="set_jeejen_prompt_message">Jeejen asetetaan oletuskäynnistimeksi. Voit vaihtaa oletuskäynnistimen asetuksista Asetukset &gt; Järjestelmäasetukset &gt; Aloitusnäyttö &amp; Viimeaikaiset &gt; Oletuskäynnistin.</string>
+  <string name="set_jeejen_prompt_title">Vahvista muutokset</string>
   <string name="setting_privacy_password">Aseta Yksityisyydensuojan salasana</string>
   <string name="settings_ad_loading">Ladataan…</string>
   <string name="settings_ad_loading_unavailable">Tietoja ei voitu ladata.</string>
@@ -6071,6 +6073,9 @@ Muodosta yhteys toiseen Wi-Fi-verkkoon valitsemalla "&lt;b&gt;Takaisin&lt;/b&gt;
   <string name="work_profile_usage_access_warning">Sovelluksen käyttötietojen poistaminen käytöstä ei estä järjestelmänvalvojaa seuraamasta työprofiilisi sovellusten datankäyttöä.</string>
   <string name="work_ringtone_title">Puhelimen työsoittoääni</string>
   <string name="work_sim_title">SIM-kortti (työ)</string>
+  <string name="work_sound_permission_dialog_button_text_known">Selvä</string>
+  <string name="work_sound_permission_dialog_message">Et voi käyttää Teemoja Yritystilassa. Ota yhteyttä esimieheesi käyttääksesi Teemoja.</string>
+  <string name="work_sound_permission_dialog_title">Yritystilan rajoituksia</string>
   <string name="work_sound_same_as_personal">Sama kuin henkilökohtaisessa profiilissa</string>
   <string name="work_space_delete">Poista työtila</string>
   <string name="work_space_delete_confirm">Vahvista poistaminen</string>

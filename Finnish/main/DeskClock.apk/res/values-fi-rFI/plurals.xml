@@ -4,6 +4,10 @@
         <item quantity="other">Torkutetaan %d minuuttia.</item>
         <item quantity="one">Torkutetaan %d minuutti.</item>
     </plurals>
+    <plurals name="day">
+        <item quantity="other">%d päivää</item>
+        <item quantity="one">%d päivä</item>
+    </plurals>
     <plurals name="delete_alarm_confirm">
         <item quantity="other">Poistetaanko valitut hälytykset?</item>
         <item quantity="one">Poistetaanko tämä hälytys?</item>
@@ -11,6 +15,18 @@
     <plurals name="delete_timezone_confirm">
         <item quantity="other">Poistetaanko valitut aikavyöhykkeet?</item>
         <item quantity="one">Poistetaanko tämä aikavyöhyke?</item>
+    </plurals>
+    <plurals name="hour">
+        <item quantity="other">%d tuntia</item>
+        <item quantity="one">%d tunti</item>
+    </plurals>
+    <plurals name="life_post_wake_up_item_acumu_day">
+        <item quantity="other">%1$d päivää</item>
+        <item quantity="one">%1$d päivä</item>
+    </plurals>
+    <plurals name="minute">
+        <item quantity="other">%d minuuttia</item>
+        <item quantity="one">%d minuutti</item>
     </plurals>
     <plurals name="second">
         <item quantity="other">%d sekuntia</item>

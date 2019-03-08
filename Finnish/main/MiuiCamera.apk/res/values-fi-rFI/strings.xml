@@ -234,6 +234,12 @@ Muotokuvatilassa"</string>
   <string name="live_error_confirm">Säädä</string>
   <string name="live_error_message">Toimintovirhe</string>
   <string name="live_error_title">Toimintovirhe</string>
+  <string name="live_music_change_bgm">Korvaa Musiikki</string>
+  <string name="live_music_downloading_tips">Ladataan...</string>
+  <string name="live_music_hot_title">Kuumaa Musiikkia</string>
+  <string name="live_music_local_title">Paikallinen Musiikki</string>
+  <string name="live_music_network_exception">Verkon poikkeama</string>
+  <string name="live_music_network_exception_tips">Verkon poikkeamia, yritä uudelleen napauttamalla</string>
   <string name="live_reverse_confirm">Poista</string>
   <string name="live_reverse_message">Poistetaanko viimeinen osa?</string>
   <string name="live_speed_extreme_fast">Nopein</string>

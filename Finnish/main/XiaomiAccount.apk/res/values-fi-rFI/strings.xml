@@ -383,7 +383,7 @@ Aktivoi tilisi seuraamalla
   <string name="passport_skip_setup_account_title">Etkö käytä Mi Pilveä?</string>
   <string name="passport_sms_send_success">Lähetetty</string>
   <string name="passport_sms_verification_code_login">Kirjaudu sisään käyttäen tekstiviestiä</string>
-  <string name="passport_sms_verification_code_login_or_register">Kirjaudu tai luo tili käyttäen tekstiviestiä</string>
+  <string name="passport_sms_verification_code_login_or_register">Kirjaudu sisään tai luo tili käyttäen tekstiviestiä</string>
   <string name="passport_sync_account_data">Synkronoidaan tilitietoja…</string>
   <string name="passport_sync_account_data_failed_warning">Tilitietojasi synkronoidaan nyt, voit kirjautua sisään käyttämällä Mi Tilisi ID:tä. Jos haluat kirjautua sisään käyttämällä puhelinnumeroasi tai sähköpostiosoitettasi, odota kunnes tiedot on kokonaan synkronoitu.</string>
   <string name="passport_title_reg">Luo tili</string>

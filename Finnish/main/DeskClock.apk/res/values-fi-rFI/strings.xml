@@ -5,13 +5,14 @@
   <string name="channel_name_alarm">Hälytys</string>
   <string name="channel_name_timer">Ajastin</string>
   <string name="check_theme_app_install">Varmista, että Teemat -sovellus on asennettuna laitteellesi.</string>
+  <string name="check_voice_assist_app_version">Päivitä Mi AI viimeisimpään versioon.</string>
   <string name="edit_alarm">Muokkaa hälytystä</string>
   <string name="module_download_cancel">Ei kiitos</string>
-  <string name="module_download_data_msg">Kellon täytyy yhdistää internetiin ladatakseen äänitiedostoja (20 Mt) ympäristöääniä ja älyhälytyksiä varten. Käytät tällä hetkellä mobiilidataa. Hyväksytkö?</string>
-  <string name="module_download_data_msg_golbal">Kellon täytyy ladata äänitiedostoja (20 Mt) ympäristöääniä ja älyhälytyksiä varten. Käytät tällä hetkellä mobiilidataa. Hyväksytkö?</string>
+  <string name="module_download_data_msg">Kellon täytyy yhdistää internetiin ladatakseen äänitiedostoja MIUI 10:n säähälytyksiä ja ympäristöääniä ajastimia varten. Mobiilidataasi käytetään 20 Mt verran. Hyväksytkö?</string>
+  <string name="module_download_data_msg_golbal">Kellon täytyy ladata äänitiedostoja MIUI 10:n säähälytyksiä ja ympäristöääniä ajastimia varten. Mobiilidataasi käytetään 20 Mt verran. Hyväksytkö?</string>
   <string name="module_download_fail">Ylimääräistä äänitiedostoa ei voitu ladata</string>
-  <string name="module_download_msg">Kellon täytyy yhdistää internetiin ladatakseen äänitiedostoja ympäristöääniä ja älyhälytyksiä varten. Hyväksytkö?</string>
-  <string name="module_download_msg_golbal">Kellon täytyy ladata äänitiedostoja ympäristöääniä ja älyhälytyksiä varten. Hyväksytkö?</string>
+  <string name="module_download_msg">Kellon täytyy yhdistää internetiin ladatakseen äänitiedostoja MIUI 10:n säähälytyksiä ja ympäristöääniä ajastimia varten. Hyväksytkö?</string>
+  <string name="module_download_msg_golbal">Kellon täytyy ladata äänitiedostoja MIUI 10:n säähälytyksiä ja ympäristöääniä ajastimia varten. Hyväksytkö?</string>
   <string name="module_download_no_network">Verkkoyhteyttä ei voitu muodostaa. Tarkista verkkoasetuksesi ja yritä uudelleen.</string>
   <string name="module_download_ok">Hyväksyn</string>
   <string name="module_download_success">Ylimääräinen äänitiedosto ladattiin onnistuneesti</string>
@@ -45,14 +46,13 @@
   <string name="worldclock_world_time">Aikavyöhykkeet</string>
   <string name="worldcolock_timezone_current">Nykyinen: %1$s</string>
   <string name="worldcolock_timezone_date">d.M.</string>
-  <string name="worldcolock_timezone_gap">Tunti</string>
+  <string name="worldcolock_timezone_gap">%s T</string>
   <string name="worldcolock_timezone_local">Sama kuin paikallinen aika</string>
   <!-- miui 10 valmis -->
   <string name="add_alarm">Lisää hälytys</string>
   <string name="add_clock">Lisää kello</string>
   <string name="add_timezone_title">Lisää aikavyöhyke</string>
-  <string name="alarm_alert_alert_silenced">Herätys hiljennetään %d minuutin jälkeen.</string>
-  <string name="alarm_alert_snooze_set">Torkutetaan %d minuuttia.</string>
+  <string name="alarm_alert_alert_silenced">Herätys hiljennetään %1$s jälkeen.</string>
   <string name="alarm_ascending_mode_summary">Herätyksen äänenvoimakkuus nousee asteittain</string>
   <string name="alarm_ascending_mode_title">Nouseva äänenvoimakkuus</string>
   <string name="alarm_disabled">Pois päältä</string>
@@ -85,15 +85,12 @@
   <string name="content_desc_keep_screen">\"Pidä näyttö päällä\" painike</string>
   <string name="control_set_alarm">Aseta hälytys</string>
   <string name="control_set_alarm_with_existing">Herätys asetettu: %s</string>
-  <string name="day">yksi päivä</string>
   <string name="day_concat">", "</string>
-  <string name="days">%d päivää</string>
   <string name="default_alarm_alert">Oletus hälytysääni</string>
   <string name="default_alarm_title">Oletus soittoääni</string>
   <string name="default_label">Herätys</string>
   <string name="delete">Poista</string>
   <string name="delete_alarm">Poista hälytys</string>
-  <string name="delete_alarm_confirm">Poistetaanko tämä hälytys?</string>
   <string name="delete_selected_timer_item">Poistetaanko valittu ajastin?</string>
   <string name="delete_timer_item_title">Poista ajastin</string>
   <string name="delete_timezone_title">Poista aikavyöhyke</string>
@@ -113,9 +110,7 @@
   <string name="force_touch_enter_timer">Ajastin</string>
   <string name="full_wday_month_day_no_year">"EEEE d. MMMM'ta'"</string>
   <string name="go_back">Takaisin</string>
-  <string name="hour">1 tunti</string>
   <string name="hour_unit">t +</string>
-  <string name="hours">%d tuntia</string>
   <string name="install_weather_app_error">Sovelluksen lataaminen epäonnistui.</string>
   <string name="install_weather_app_loading">Odota hetki…</string>
   <string name="invalid_time">Virheellinen aika: %3$s %1$d: %2$d</string>
@@ -138,7 +133,6 @@
   <string name="life_post_setting_open_title">Vastaanota aamuraportteja</string>
   <string name="life_post_setting_wake_up_list_title">Heräämisen historia</string>
   <string name="life_post_wake_up_acumu_day_title">Päivien laskenta</string>
-  <string name="life_post_wake_up_item_acumu_day">%1$s päivää</string>
   <string name="life_post_wake_up_item_acumu_day_title">Päivien määrä</string>
   <string name="life_post_wake_up_item_percentage_title">Mi Fania sinua jäljessä</string>
   <string name="life_post_wake_up_item_time_title">Heräämisen aika</string>
@@ -159,8 +153,6 @@
   <string name="menu_item_dock_settings">Telakointiasetukset</string>
   <string name="menu_item_sort_by_gmt_offset">Lajittele ajan mukaan</string>
   <string name="menu_item_sort_by_name">Lajittele nimen mukaan</string>
-  <string name="minute">yksi minuutti</string>
-  <string name="minutes">%d minuuttia</string>
   <string name="more_setting">Lisäasetukset</string>
   <string name="more_settings">Asetukset</string>
   <string name="never">Kerran</string>
@@ -210,7 +202,7 @@
   <string name="timer_alarm_alert_pad">%s</string>
   <string name="timer_alarm_cancel_pad">Lopeta ääni napauttamalla näyttöä</string>
   <string name="timer_alarm_dot_matrix_label">AJASTIN</string>
-  <string name="timer_alert_alert_silenced">Ajastin hiljennetty %d minuutin jälkeen.</string>
+  <string name="timer_alert_alert_silenced">Ajastin hiljennettiin %1$s jälkeen.</string>
   <string name="timer_alert_mute_off">Hälytys soi kun ajastin loppuu</string>
   <string name="timer_alert_mute_on">Hälytys ei soi kun ajastin loppuu</string>
   <string name="timer_alert_mute_remind">Mykistä hälytys napauttamalla</string>
