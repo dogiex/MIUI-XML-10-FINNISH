@@ -135,6 +135,14 @@ ja optimoi valokuvasi näiden tietojen perusteella"</string>
   <string name="confirm_recording_fail_title">Ei voi nauhoittaa</string>
   <string name="confirm_restore_message">Palautetaanko kameran oletusasetukset?</string>
   <string name="confirm_restore_title">Palauta oletusasetukset</string>
+  <string name="custom_watermark_contains_senstive_words">Muokkaa arkaluonteista tekstiä %1$s</string>
+  <string name="custom_watermark_tips">Yllä oleva teksti tulee olemaan kuvan vesileiman toisella rivillä. Rajoita se 15 merkkiin.</string>
+  <string name="custom_watermark_too_many_words">Menit merkkirajan yli</string>
+  <string name="custom_watermark_words">Käyttäjän määrittämät vesileiman sanat</string>
+  <string name="custom_watermark_words_input_hint">Anna sanat</string>
+  <string name="custom_watermark_words_save_success">Tallennettii onnistuneesti</string>
+  <string name="device_48m_watermark_default_text">48M KAKSOISKAMERA</string>
+  <string name="device_watermark_default_text">AI KAKSOISKAMERA</string>
   <string name="dialog_ok">OK</string>
   <string name="do_not_remind_me">Älä näytä uudelleen</string>
   <string name="dual_camera_lens_covered_toast">Linssi on peitetty.</string>
@@ -531,10 +539,12 @@ ja tuo henkilöt esiin."</string>
   <string name="pref_video_quality_entry_4kuhd">UHD 4K, 30fps</string>
   <string name="pref_video_quality_entry_4kuhd_60fps">UHD 4K, 60fps</string>
   <string name="pref_video_quality_entry_720p">HD 720p, 30fps</string>
+  <string name="pref_video_quality_entry_720p_60fps">HD 720p, 60fps</string>
   <string name="pref_video_quality_entry_fwvga">FWVGA</string>
   <string name="pref_video_quality_entry_vga">VGA</string>
   <string name="pref_video_quality_entry_wqvga">WQVGA</string>
   <string name="pref_video_quality_entry_wvga">WVGA</string>
+  <string name="pref_video_quality_summary">4K videota ei tueta 120fps-tilassa</string>
   <string name="pref_video_quality_title">Videon kuvanlaatu</string>
   <string name="pref_video_speed_entry_fast">Nopea</string>
   <string name="pref_video_speed_entry_normal">Normaali</string>

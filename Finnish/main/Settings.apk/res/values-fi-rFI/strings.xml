@@ -2372,7 +2372,7 @@ Voit muuttaa tätä asetusta myöhemmin kohdassa Asetukset > Sovellukset ja ilmo
   <string name="keyboard_shortcuts_helper_summary">Näytä käytettävissä olevat pikanäppäimet</string>
   <string name="keyguard_advance_setting_title">Lisäasetukset</string>
   <string name="keyguard_double_tap_to_sleep_title">Tuplanapauta lepotilaan</string>
-  <string name="keyguard_notification_status_title">Ilmoitukset</string>
+  <string name="keyguard_notification_status_title">Ilmoituksien saapuessa näytön ollessa sammuksissa</string>
   <string name="keyguard_security_setting_others">Muut</string>
   <string name="keyguard_security_setting_privacy_policy">Tietosuojakäytäntö</string>
   <string name="keyguard_vertical_clock_title">Pystysuora Kello</string>

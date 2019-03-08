@@ -74,8 +74,8 @@
   <string name="keywords_search_call_record">Nauhoita puhelut;Nauhoita puhelu;Puhelun nauhoitus;Puhelun nauhoitukset</string>
   <string name="keywords_search_record">Uusi nauhoitus;Lisää nauhoitus;Nauhoitus;Nauhoitukset;Jäljennös;Sovita;Nauhuri;Puhe nauhuri;Ääni nauhuri;Nauhoita sovellus;Nauhoittaja sovellus;Kuinka nauhoitan;Kuinka nauhoitan ääntä;Missä on nauhoitin;MIUI Ääninauhuri</string>
   <string name="keywords_search_record_list">Nauhuri;Jäljennös;Jäljennökset;Nauhoita;Jaa nauhoitus;Jaa nauhoituksia;Nauhoitus;Nauhoitukset</string>
-  <string name="loading_order_list">Ladataan tilauksia</string>
-  <string name="loading_order_list_empty">Tyhjä</string>
+  <string name="loading_order_list">Odota hetki…</string>
+  <string name="loading_order_list_empty">Täällä ei ole tilauksia</string>
   <string name="low_battery_error">Alle 5% akkua jäljellä. Lopeta ja tallenna nauhoituksesi varmistaaksesi, ettei sitä menetetä.</string>
   <string name="low_battery_error_confirm">OK</string>
   <string name="low_battery_error_title">Akku vähissä</string>
@@ -83,14 +83,14 @@
   <string name="mark_point_list_title">Merkkauslista</string>
   <string name="menu">Valikko</string>
   <string name="message_file_size_error">Nauhoitus on saavuttanut %s tuetun maksimipituuden</string>
-  <string name="mi_account_msg">Kirjaudu sisään Mi Tilillesi käyttääksesi tarkkaa verkkotunnistusta, uusille käyttäjille luvassa 30 minuuttia veloituksetta</string>
-  <string name="mi_account_ok">Kirjaudu</string>
-  <string name="mi_account_title">Kirjaudu Mi Tiliin</string>
+  <string name="mi_account_msg">Kirjaudu sisään Mi Tilillesi kirjoittaaksesi tiedostoja ja saadaksesi ensimmäiset 60 minuuttia veloituksetta.</string>
+  <string name="mi_account_ok">Kirjaudu sisään</string>
+  <string name="mi_account_title">Kirjaudu Mi Tilillä</string>
   <string name="network_tip_dialog_cancel">Älä hyväksy</string>
   <string name="network_tip_dialog_content">Ääninauhuri tarvitsee internetyhteyden toimiakseen normaalisti. Hyväksytäänkö?</string>
   <string name="network_tip_dialog_ok">Hyväksyn</string>
   <string name="network_tip_dialog_title">Internetyhteys vaaditaan</string>
-  <string name="network_unavailable_tip">Yhdistä verkkoon.</string>
+  <string name="network_unavailable_tip">Yhdistä verkkoon ja yritä uudelleen.</string>
   <string name="new_record_name">Uusi nauhoitus</string>
   <string name="no_file">Tyhjä</string>
   <string name="notification_message_all_paused">Odotetaan Wi-Fi-yhteyttä.</string>
@@ -99,7 +99,7 @@
   <string name="notification_recording_ticker">Puhelin mykistetty</string>
   <string name="notification_stopped">Nauhoitus pysäytetty</string>
   <string name="notification_title_all_paused">Lataus pysäytetty</string>
-  <string name="offline_recognize_progress">Kirjoittaminen offline-tilassa %s…</string>
+  <string name="offline_recognize_progress">Kirjoitetaan offline-tilassa %s…</string>
   <string name="offline_recognize_transfer_format">Kirjoitetaan…</string>
   <string name="online_recognize_btn">Kirjoita</string>
   <string name="online_recognize_desp">Nauhoituksesi lähetetään palvelimelle hinta-arviota ja kirjoitusta varten.</string>
@@ -140,7 +140,7 @@
   <string name="preference_led_indicator_prompt">Näytä ilmoituspalkissa ja vilkuta ilmoitusvaloa lukitusnäytöllä nauhoituksen aikana</string>
   <string name="preference_online_orders">Verkkotilaukset</string>
   <string name="preference_recog_faqs">Verkkotunnistuksen UKK</string>
-  <string name="preference_recog_terms">Verkkotunnistuksen ehdot</string>
+  <string name="preference_recog_terms">Palveluehdot</string>
   <string name="preference_record_scenes_dialog_title">Valitse nauhoituksen tyyppi</string>
   <string name="preference_scenes">Nauhoituksen tyyppi</string>
   <string name="preference_silent_mode">Mykistä soittoääni nauhoituksen aikana</string>
@@ -149,25 +149,25 @@
   <string name="recognition_error_cancel">Peruutettu</string>
   <string name="recognition_error_code">Virhekoodi: %d</string>
   <string name="recognition_error_download_cancel">Myöhemmin</string>
-  <string name="recognition_error_download_data_msg">Lataa tunnistusmoottori käyttääksesi tätä palvelua. Lataus kuluttaa noin 20 Mt nykyistä mobiilidatayhteyttä.</string>
+  <string name="recognition_error_download_data_msg">Lataa kirjoitusmoottori käyttääksesi tätä palvelua. Lataus kuluttaa noin 20 Mt nykyistä mobiilidatayhteyttä.</string>
   <string name="recognition_error_download_fail">Lataaminen epäonnistui. Tarkista verkkoasetukset ja yritä uudelleen.</string>
-  <string name="recognition_error_download_msg">Lataa tunnistusmoottori, jotta tämä palvelu tulisi käytettäväksi.</string>
+  <string name="recognition_error_download_msg">Lataa kirjoitusmoottori, jotta tämä palvelu tulisi käytettäväksi.</string>
   <string name="recognition_error_download_ok">Lataa</string>
-  <string name="recognition_error_download_title">Ei tunnistusmoottoria</string>
+  <string name="recognition_error_download_title">Ei kirjoitusmoottori</string>
   <string name="recognition_error_downloading">Ladataan</string>
-  <string name="recognition_error_engine">Tunnistusmoottorin virhe</string>
-  <string name="recognition_error_engine_singleton">Tunnistusmoottori on varattu</string>
+  <string name="recognition_error_engine">Kirjoitusmoottorivirhe</string>
+  <string name="recognition_error_engine_singleton">Kirjoitusmoottori on varattu</string>
   <string name="recognition_error_format">Virheellinen äänimuoto</string>
   <string name="recognition_error_internal">Sisäinen virhe</string>
-  <string name="recognition_error_stopped">Tunnistus pysäytettiin</string>
-  <string name="recognition_error_unknown">Tuntematon virhe</string>
-  <string name="recognition_process_dialog_body">当前已有其他音频(%s)在转写中，是否终止正在进行的音频转写开始当前音频的转写？</string>
+  <string name="recognition_error_stopped">Kirjoitus pysäytettiin</string>
+  <string name="recognition_error_unknown">Tapahtui tuntematon virhe. Ilmoita se meille ja yritä uudelleen.</string>
+  <string name="recognition_process_dialog_body">Muita nauhoituksia (%s) kirjoitetaan juuri nyt. Pysäytetäänkö käynnissä olevat tehtävät ja aloitetaan uusi?</string>
   <string name="recognition_process_dialog_cancel">Jono</string>
   <string name="recognition_process_dialog_confirm">Pakota aloitus</string>
-  <string name="recognition_process_dialog_title">Tunnistusvinkki</string>
-  <string name="recognition_status_downloaded">Tunnistusmoottori ladattiin</string>
-  <string name="recognition_status_downloading">Ladataan</string>
-  <string name="recognition_status_init">Valmistellaan</string>
+  <string name="recognition_process_dialog_title">Käynnissä olevat tehtävät</string>
+  <string name="recognition_status_downloaded">Kirjoitusmoottori ladattiin onnistuneesti</string>
+  <string name="recognition_status_downloading">"Ladataan "</string>
+  <string name="recognition_status_init">"Valmistellaan "</string>
   <string name="recognition_terms">"尊敬的用户，您好！
 
  欢迎在小米录音机使用语音转文字服务，该服务由安徽听见科技有限公司提供，能够快速将录音整理成文字，解决日常会议、教育培训、媒体传播等各种场景下的语音转文字问题，提升工作效率。
@@ -185,16 +185,16 @@
  （2）法律法规要求、行政司法机关要求、或其他有权机关要求披露的
  3.上述条款在听见科技完成语音转文字服务后三年内有效。
  4.用户保证其使用听见科技提供的语音转文字服务转写的录音内容，不违反当地相关法律、法规、政策的规定；不涉及有损中华人民共和国国家安全和利益的信息；也不涉及任何反动、色情、迷信、赌博、诽谤他人等违法信息；且不会侵犯任何人的合法权益，包括但不限于知识产权、名誉权、肖像权、商业秘密等。用户因违反上述条款所引起的纠纷、赔偿责任等一律由用户自行承担，若由此给听见科技造成损失的，用户应当承担赔偿责任。"</string>
-  <string name="recognize_choose_dialog_offline">Offline-tunnistus</string>
-  <string name="recognize_choose_dialog_offline_desp">Paikallinen tunnistus, offline</string>
-  <string name="recognize_choose_dialog_online">Verkkotunnistus</string>
-  <string name="recognize_choose_dialog_online_desp">Nopea ja halpa</string>
-  <string name="recognize_choose_dialog_online_free_duration">Ensimmäiset 60 minuuttia ilmaista</string>
+  <string name="recognize_choose_dialog_offline">Kirjoita veloituksetta</string>
+  <string name="recognize_choose_dialog_offline_desp">Kirjoita nauhoituksia ilman internetyhteyttä</string>
+  <string name="recognize_choose_dialog_online">Kirjoita pilveen</string>
+  <string name="recognize_choose_dialog_online_desp">Saa tarkkoja kirjoituksia nopeasti</string>
+  <string name="recognize_choose_dialog_online_free_duration">Ensimmäiset 60 minuuttia veloituksetta</string>
   <string name="recognize_choose_dialog_online_price">￥%s per tunti</string>
-  <string name="recognize_choose_dialog_service_desp">Supported by ifly</string>
-  <string name="recognize_choose_dialog_service_intruction">Palvelukuvaus</string>
-  <string name="recognize_choose_dialog_title">Valitse tunnistuksen tyyli</string>
-  <string name="recognize_extra_price_desp">(Just Fo Mi)</string>
+  <string name="recognize_choose_dialog_service_desp">Kirjoituspalvelut tarjoaa iflyrec.com</string>
+  <string name="recognize_choose_dialog_service_intruction">Palveluehdot</string>
+  <string name="recognize_choose_dialog_title">Valitse kirjoitukset tyyli</string>
+  <string name="recognize_extra_price_desp">(Ainutlaatuinen tarjous Mi-käyttäjille)</string>
   <string name="record">Nauhoita</string>
   <string name="record_back_pressed_hint">Lopettaaksesi tunnistuksen, kosketa Takaisin-painiketta uudelleen</string>
   <string name="record_download">Lataa Mi Pilvestä</string>
@@ -212,7 +212,7 @@
   <string name="record_list_cloud_call">Synkronoidut nauhoitetut puhelut</string>
   <string name="record_list_cloud_fm">Synkronoidut FM-nauhoitukset</string>
   <string name="record_list_fm">FM-nauhoitukset</string>
-  <string name="record_list_item_recognize_text">字</string>
+  <string name="record_list_item_recognize_text">Teksti</string>
   <string name="record_mark_point">Merkitse %s</string>
   <string name="record_name_hour">.</string>
   <string name="record_quliaty_preference_title">Nauhoituksen laatu</string>
@@ -248,12 +248,12 @@
   <string name="search_scenes">Nauhoituksen tyyppi</string>
   <string name="search_silent_mode">Mykistä soittoääni nauhoituksen aikana</string>
   <string name="search_tip_rename">Nimeä nauhoitukset käsin</string>
-  <string name="service_instructions">Ifly palvelun ehdot</string>
+  <string name="service_instructions">Tietoja iflyrec.com</string>
   <string name="share">Jaa</string>
   <string name="share_dialog_title">Jaa sovelluksessa</string>
   <string name="sound_recorder_settings">Asetukset</string>
-  <string name="speech_recognition_complete">valmis</string>
-  <string name="speech_recognition_running_tip">käynnissä</string>
+  <string name="speech_recognition_complete">Kirjoitettu</string>
+  <string name="speech_recognition_running_tip">"Valmistellaan "</string>
   <string name="start">Jatka</string>
   <string name="status_bar_back">Palaa takaisin Ääninauhuriin napauttamalla</string>
   <string name="status_bar_recording">Nauhoitetaan…</string>
@@ -263,8 +263,8 @@
   <string name="text_btn_mark">Merkitse</string>
   <string name="text_btn_pause">Pysäytä</string>
   <string name="text_btn_play">Toista</string>
-  <string name="text_btn_recognize">Tunnistus</string>
-  <string name="text_btn_recognize_pending">Odottaa</string>
+  <string name="text_btn_recognize">Kirjoita</string>
+  <string name="text_btn_recognize_pending">"Odottaa "</string>
   <string name="text_btn_recording">Nauhoita</string>
   <string name="text_btn_wave">Aalto</string>
   <string name="text_finish">Vahvista</string>

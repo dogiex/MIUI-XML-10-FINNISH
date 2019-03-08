@@ -26,6 +26,7 @@
      <string name="abc_toolbar_collapse_description">Tiivistä</string>
      <string name="accessibility_accessibility_button">Esteettömyys</string>
      <string name="accessibility_ambient_display_charging">Ladataan</string>
+     <string name="accessibility_aspect_button">Kokonäyttötila</string>
      <string name="accessibility_assistant">Pikavalikko</string>
      <string name="accessibility_battery_details">Avaa akun tiedot</string>
      <string name="accessibility_battery_full">Akku täynnä.</string>
@@ -1098,6 +1099,10 @@ Kaikki käyttäjät voivat päivittää kaikkien käyttäjien sovelluksia."</str
   <string name="app_process_limit_title">Taustaprosessi</string>
   <string name="as_important">Tärkeä</string>
   <string name="as_unimportant">Ei tärkeä</string>
+  <string name="aspect_cancel">Peruuta</string>
+  <string name="aspect_message">Tämä sovellus käynnistetään uudelleen kokonäyttötilassa. Jos törmäät ongelmiin, voit poistaa kokonäyttötilan käytöstä tälle sovellukselle asetuksista Asetukset &gt; Koko näytön ruutu &gt; Kokonäyttötila.</string>
+  <string name="aspect_ok">OK</string>
+  <string name="aspect_title">Kokonäyttötila</string>
   <string name="audio_effect_custom">Määritä</string>
   <string name="audio_effect_info">Optimoi ääni</string>
   <string name="audio_effect_settings">Valitse kuulokkeiden tyyppi</string>

@@ -28,6 +28,8 @@
   <string name="adding_recipients">Lisätään vastaanottajia…</string>
   <string name="alert_dlg_cancel_button">Peruuta</string>
   <string name="alert_dlg_ok_button">OK</string>
+  <string name="allow_network_hint">Ota käyttöön \"Päivitä tiedot automaattisesti\" tai tarkista verkkoyhteytesi</string>
+  <string name="already_updated">Ajan tasalla</string>
   <string name="app_label">Viestit</string>
   <string name="app_name">Laitteet</string>
   <string name="attach_image">Kuvat</string>
@@ -57,6 +59,7 @@
   <string name="bookmark_confirm_delete_message">Poistetaanko valitut viestit suosikeista?</string>
   <string name="bookmark_empty">Ei viestejä suosikeissa</string>
   <string name="bookmark_list_title">Suosikit</string>
+  <string name="button_close">Sulje</string>
   <string name="button_emoji_creature">Eläinemojit</string>
   <string name="button_emoji_lifestyle">Elämäntyyliemojit</string>
   <string name="button_emoji_smiley">Kasvoemojit</string>
@@ -80,16 +83,22 @@
   <string name="change_duration_activity">Vaihda kestoa</string>
   <string name="check_all">Valitse kaikki</string>
   <string name="class_0_message_activity">Luokan 0 viesti</string>
+  <string name="click_to_update">Tarkista päivitykset napauttamalla</string>
   <string name="close">Sulje</string>
   <string name="cloud_state_disabled">Ota Mi Pilven synkronointi käyttöön synkronoidaksesi viestit</string>
   <string name="cloud_state_sync_finished">Synkronoitu Mi Pilveen</string>
   <string name="cloud_state_syncing">Synkronoidaan Mi Pilveen…</string>
+  <string name="cm_privacy_dialog_allow">Hyväksyn</string>
+  <string name="cm_privacy_dialog_cancel">Peruuta</string>
+  <string name="cm_privacy_dialog_spannable_tips">Tietosuojakäytäntö</string>
+  <string name="cm_privacy_dialog_tips">Älyviestintäpalvelut tarjoaa operaattorisi. Viestinnän on yhdistettävä internetiin ja saatava sijaintitietosi tarjotakseen näitä palveluita. Sinun täytyy hyväksyä operaattorisi %1s ennen näiden palveluiden käyttämistä. Hyväksytkö?</string>
+  <string name="cm_privacy_dialog_title">Huomio</string>
   <string name="cmcc_privacy">China Mobile Operaattorin Tietosuojasopimus</string>
   <string name="complain_input_number">Anna puhelinnumerosi</string>
   <string name="complain_jump">Ohita</string>
-  <string name="complain_message_title">Valita</string>
+  <string name="complain_message_title">Ilmoita</string>
   <string name="complain_ok">OK</string>
-  <string name="complain_phone_number">puhelinnumero</string>
+  <string name="complain_phone_number">Puhelinnumero (valinnainen)</string>
   <string name="complain_reason">Miksi ilmoitat tämän viestin?</string>
   <string name="complain_success">Kiitos palautteestasi. Se auttaa meitä luomaan Viestit -sovelluksesta paremman!</string>
   <string name="complain_tips">"Ilmoittamasi viimeaikaisimman viestin sisältö lähetetään palvelimillemme antamasi puhelinnumeron kera. Palveluntarjoajamme tarkistavat ilmoitetun viestin.
@@ -140,10 +149,11 @@
   <string name="converting_to_text_message">Muunnetaan tekstiviestiksi…</string>
   <string name="converting_vcard_failed">Yhteystietoa ei voitu muuntaa</string>
   <string name="copy_message_text">Kopioi</string>
-  <string name="copy_message_text_success">Kopioitu</string>
+  <string name="copy_message_text_success">Kopioitiin onnistuneesti</string>
   <string name="copy_to_sdcard">Tallenna liitetiedosto</string>
   <string name="copy_to_sdcard_fail">Liitetiedostoa ei voitu tallentaa</string>
   <string name="copy_to_sdcard_success">Liitetiedosto tallennettu nimellä %s</string>
+  <string name="current_data_version">Mi Viestin versio</string>
   <string name="delete">Poista</string>
   <string name="delete_bookmark">Poista suosikeista</string>
   <string name="delete_message">Poista</string>
@@ -257,6 +267,7 @@
   <string name="hybrid_service_unavailiable">Palvelu ei ole käytettävissä</string>
   <string name="hybrid_try_again">Yritä uudelleen</string>
   <string name="i_know">Selvä</string>
+  <string name="imageview_ad">Mainos</string>
   <string name="importing_progress_private_message">Tuodaan…</string>
   <string name="in_sms">Viesti</string>
   <string name="insufficient_drm_rights">Havaittiin riittämättömät DRM oikeudet.</string>
@@ -313,8 +324,10 @@
   <string name="message_too_big_for_video">Viesti on liian iso lisätäkseen videon.</string>
   <string name="message_type_label">"Tyyppi: "</string>
   <string name="messagelist_sender_self">Minä</string>
+  <string name="messaging">Viestintä</string>
   <string name="millionbyte">Mt</string>
   <string name="mms">MMS</string>
+  <string name="more">Lisää</string>
   <string name="move_down">Siirrä alas</string>
   <string name="move_up">Siirrä ylös</string>
   <string name="msg_no_member_selected">Valitse vähintään yksi yhteystieto</string>
@@ -372,6 +385,7 @@
   <string name="mx_filter_message_from_stranger_dialog_desc">Tulet silti saamaan normaaleja tekstiviestejä tuntemattomilta numeroilta. Voit ottaa tämän ominaisuuden käyttöön tai poistaa käytöstä milloin tahansa asetuksista Viestit &amp; Asetukset.</string>
   <string name="mx_filter_message_from_stranger_dialog_title">Estä Mi Viestit tuntemattomilta numeroilta</string>
   <string name="mx_filter_message_from_stranger_summary">Tulet silti saamaan normaaleja tekstiviestejä tuntemattomilta numeroilta</string>
+  <string name="mx_message">Mi Viesti</string>
   <string name="mx_msg">Mi Viesti</string>
   <string name="mx_msg_pageview_setting_title">Mi Viestin asetukset</string>
   <string name="mx_offline">Offline</string>
@@ -383,6 +397,8 @@
   <string name="mx_stranger_recommend_msg">Estä Mi Viestit tuntemattomilta numeroilta napauttamalla</string>
   <string name="mx_type_guide">Lähetä viestejä toisille MIUI-laitteille ilman lisäkustannuksia</string>
   <string name="need_download">Synkronoidaan…</string>
+  <string name="net_sms_subscribed">Tilattiin onnistuneesti</string>
+  <string name="net_sms_unsubscribe">Tilaus lopetettiin onnistuneesti</string>
   <string name="network_error_description">Tapahtui verkkovirhe. Odota minuutti tai kaksi ja yritä uudelleen.</string>
   <string name="networking_allow_continue">Salli</string>
   <string name="networking_allow_desc">Mi Viestin täytyy yhdistää internetiin toimiakseen normaalisti. Tarjotakseen ilmaisia viesti- ja äänipalveluita, tunnistaakseen tuntemattomia numeroita, suodattaakseen roskaposteja ja ottaakseen muita ominaisuuksia käyttöön, Mi Viestin täytyy käyttää Hakemistoa. Sallitaanko Hakemiston yhdistää internetiin, hakea sijaintitietosi ja lukea yhteystietosi?</string>
@@ -421,6 +437,7 @@
   <string name="open_url_with_web">Avataanko tämä URL-osoite Selaimessa?</string>
   <string name="over_max_mms_size">Multimediaviesti on liian iso.</string>
   <string name="overwrite_edited_content">Muokkaamasi sisältö korvataan.</string>
+  <string name="packages_select_sim_cards_title">Valitse SIM-kortti</string>
   <string name="phrase_confirm_delete_message">Tämä vastaus poistetaan.</string>
   <string name="phrase_empty">Ei vastauksia</string>
   <string name="phrase_from">Lähettäjä %1s</string>
@@ -571,6 +588,9 @@
   <string name="remove_slide">Poista dia</string>
   <string name="remove_text">Poista teksti</string>
   <string name="remove_video">Poista video</string>
+  <string name="repayment_network_error">Verkossasi meni jotain pieleen</string>
+  <string name="repayment_title">Takaisinmaksu</string>
+  <string name="repayment_way">Takaisinmaksun tapa</string>
   <string name="replace">Korvaa</string>
   <string name="replace_image">Korvaa kuva</string>
   <string name="reply_button_msg">Vastaa</string>
@@ -626,8 +646,10 @@
   <string name="security_alert_dialog_title">Raportoi</string>
   <string name="select_audio">Valitse ääni</string>
   <string name="select_bottom_text">Teksti alhaalla</string>
-  <string name="select_copy_text">Valitse ja kopioi viestin teksti</string>
-  <string name="select_different_media">Valitse toisenlainen %1$s.</string>
+  <string name="select_different_attachment">Valitse toinen liite.</string>
+  <string name="select_different_audio">Valitse toinen ääni.</string>
+  <string name="select_different_picture">Valitse toinen kuva.</string>
+  <string name="select_different_video">Valitse toinen video.</string>
   <string name="select_link_title">Valitse toiminto</string>
   <string name="select_local_audio">Valitse ääni</string>
   <string name="select_local_video">Valitse video</string>
@@ -659,6 +681,8 @@
   <string name="show_all_messages">Näytä kaikki viestit</string>
   <string name="show_delivery_status">Näytä toimituksen tila</string>
   <string name="show_sender">Näytä lähettäjän tiedot</string>
+  <string name="sim1">Sim 1</string>
+  <string name="sim2">Sim 2</string>
   <string name="sim_card1">SIM-kortti 1</string>
   <string name="sim_card2">SIM-kortti 2</string>
   <string name="sim_card_cloud">%s (Mi Viesti)</string>
@@ -673,6 +697,8 @@
   <string name="slide_show_part">Osa %1$d/%2$d</string>
   <string name="slide_up_to_cancel">Peruuta pyyhkäisemällä ylös</string>
   <string name="slideshow_activity">Diaesitys</string>
+  <string name="smart_messages_network_allow_message">Mi Viestin täytyy yhdistää internetiin, jotta sen palvelut toimisi normaalisti. Sallitaanko nyt?</string>
+  <string name="smart_messages_network_allow_title">Internetyhteys vaaditaan</string>
   <string name="sms_card_partner_label">"SMS-kortin kumppani: "</string>
   <string name="sms_card_teddy_mobile">Teddy Mobile</string>
   <string name="sms_content">Sisältö:</string>
@@ -718,6 +744,8 @@
   <string name="storage_unavailable">Tallennustilaa ei ole tarpeeksi</string>
   <string name="subject_hint">Aihe</string>
   <string name="subject_label">"Aihe: "</string>
+  <string name="subscribe">Tilaa</string>
+  <string name="summary_pref_cm_smart_sms">Kortin mallit, tekstiviestipalveluiden numerot ja paljon muuta.</string>
   <string name="switch_to_editor">Muokkaus-tila</string>
   <string name="switch_to_menu">Valikko-tila</string>
   <string name="text_in_popup_saved_to_clipboard">Kopioitiin leikepöydälle</string>
@@ -727,6 +755,7 @@
   <string name="title_allow_network_access">Päivitä tieto automaattisesti</string>
   <string name="title_collapse_sp_messages">Ryhmitä ilmoitukset</string>
   <string name="title_hide_verification_code">Piilota kertakäyttösalasanaviestit Lukitusnäytöltä automaattisesti</string>
+  <string name="title_pref_cm_smart_sms">China Mobile Smart SMS</string>
   <string name="title_show_blocked_messages">Näytä estetyt tekstiviestit</string>
   <string name="title_show_list_avatar">Näytä profiilikuvat</string>
   <string name="title_show_photo_word">Aseta yhteystiedoille kuvat</string>
@@ -760,6 +789,7 @@ Yritys tehty: %s."</string>
   <string name="unsticked_conversation">Keskustelun kiinnitys on jo poistettu</string>
   <string name="unsubscribe">Poista tilaus</string>
   <string name="unsupported_media_format">%1$s ei ole tuettu muoto.</string>
+  <string name="updating">Päivitetään…</string>
   <string name="url_fraud_dangerous_alert">"Verkkosivu johon yrität siirtyä voi olla vaarallinen. Se saattaa vahingoittaa laitettasi ja sen tietoja. Siirrytäänkö siitä huolimatta?
 %s"</string>
   <string name="url_fraud_risky_alert">"Verkkosivu johon yrität siirtyä voi olla vaarallinen. Siirrytäänkö siitä huolimatta?
