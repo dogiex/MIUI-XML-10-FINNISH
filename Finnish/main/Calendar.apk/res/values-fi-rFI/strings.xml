@@ -419,7 +419,6 @@
   <string name="month_view">Kuukausi</string>
   <string name="monthly">Kuukausittain</string>
   <string name="monthly_on_day">Kuukausittain (samana päivänä joka kuukausi)</string>
-  <string name="monthly_on_day_count">Kuukausittain (%1$s %2$s joka kuukausi)</string>
   <string name="more_match">更多赛事</string>
   <string name="more_string">+%1$s</string>
   <string name="movie_event_delete_successfully">电影票事件删除成功</string>
