@@ -180,6 +180,10 @@
         <item quantity="other">%1$d videota odottaa varmuuskopiointia</item>
         <item quantity="one">1 video odottaa varmuuskopiointia</item>
     </plurals>
+    <plurals name="photo_count_format">
+        <item quantity="other">Yhteensä %1$d kohdetta</item>
+        <item quantity="one">Yhteensä %1$d kohde</item>
+    </plurals>
     <plurals name="picker_all_image_need_download">
         <item quantity="other">Valitut kuvat ei ole laitteella. Ladataanko ne käyttämällä mobiilidataa?</item>
         <item quantity="one">Valittu kuva ei ole laitteella. Ladataanko se käyttämällä mobiilidataa?</item>
