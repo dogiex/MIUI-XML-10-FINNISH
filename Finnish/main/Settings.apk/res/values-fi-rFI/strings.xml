@@ -2904,6 +2904,7 @@ Tällä laitteella on muita paikalla olevia käyttäjiä.
   <string name="miui_lab_settings">MIUI lab</string>
   <string name="miui_lab_slogan">Opi. Tutki. Löydä.</string>
   <string name="miui_master_clear_summary">Poistaa kaikki tiedot puhelimesta</string>
+  <string name="miui_more_special_feature">Tutustu uusiin ominaisuuksiin</string>
   <string name="miui_optimization_disabled">Poista MIUI-optimointi käytöstä</string>
   <string name="miui_sos_audio_summary">Toista SOS-viesti, kun hätäyhteystieto vastaa</string>
   <string name="miui_sos_audio_title">SOS-ääniviesti</string>
