@@ -291,6 +291,9 @@
   <string name="change_to_face_mode">Näytä vain kasvot</string>
   <string name="change_to_photo_mode">Näytä esikatselut kokonaisina</string>
   <string name="change_to_visible">Palautetaanko tämä henkilö?</string>
+  <string name="channel_default_name">Uusia ominaisuuksia</string>
+  <string name="channel_low_name">Uusia viestejä</string>
+  <string name="channel_min_name">Sovellusilmoitukset</string>
   <string name="checked">Valittuna</string>
   <string name="checked_something">Valittuna %s</string>
   <string name="choose_baby_sexy">Sukupuoli</string>
@@ -963,17 +966,18 @@ Ota ystävistäsi lisää kuvia!"</string>
   <string name="feature_guidance_photo_effects">"Uusia kuvatehosteita
 on käytettävissä"</string>
   <string name="feature_guidance_video_editor_smart_effects">Uusia tehosteita on käytettävissä</string>
+  <string name="filter_bi_bw">M&amp;V</string>
+  <string name="filter_bi_dusk">Hämärä</string>
+  <string name="filter_bi_lilt">Lilt</string>
   <string name="filter_bi_memory">Muisto</string>
-  <string name="filter_bi_mono">Mono</string>
   <string name="filter_bi_pink">Pinkki</string>
-  <string name="filter_bi_portrait">Muotokuva</string>
   <string name="filter_bi_retro">Retro</string>
   <string name="filter_bi_romantic">Romanttinen</string>
+  <string name="filter_bi_sepia">Seepia</string>
   <string name="filter_bi_strong">Vahva</string>
   <string name="filter_bi_sunny">Aurinkoinen</string>
-  <string name="filter_bi_sweet">Makea</string>
+  <string name="filter_bi_tea">Tee</string>
   <string name="filter_bi_warm">Lämmin</string>
-  <string name="filter_bi_young">Nuori</string>
   <string name="filter_category_film">Elokuva</string>
   <string name="filter_category_food">Ruoka</string>
   <string name="filter_category_master">Mestari</string>
@@ -1144,6 +1148,7 @@ mukauttaaksesi Galleriasi"</string>
   <string name="more_album_hint">, jne.</string>
   <string name="more_face">Lisää henkilöitä jotka näyttävät samalta</string>
   <string name="more_face_album_name">Lisää henkilöitä</string>
+  <string name="motion_photo_play">Toista</string>
   <string name="move_to_other_albums_tip">Mi Pilven synkronointi poistetaan käytöstä jos siirrät tämän albumin muihin albumeihin. Siirretäänkö nyt?</string>
   <string name="movie_add_disable">Voit valita enintään 20 kuvaa</string>
   <string name="movie_audio_custom">Paikallinen</string>
@@ -1156,6 +1161,10 @@ mukauttaaksesi Galleriasi"</string>
   <string name="movie_audio_sport">Tekno</string>
   <string name="movie_cancel_download">Peruuta</string>
   <string name="movie_change_to_long_video">Valitsit yli 5 kuvaa. Vaihdettiin pidempään videoon.</string>
+  <string name="movie_content_describe_add">Lisää kuvia</string>
+  <string name="movie_content_describe_delete">Poista kuvia</string>
+  <string name="movie_content_describe_pause">Pysäytä</string>
+  <string name="movie_content_describe_play">Toista</string>
   <string name="movie_delete_disable">Tarvitset vähintään 3 kuvaa luodaksesi klipin.</string>
   <string name="movie_download">Lataa</string>
   <string name="movie_download_failed">Ei voitu ladata</string>

@@ -172,6 +172,9 @@
         <item quantity="other">%s minuuttia</item>
         <item quantity="one">1 minuutti</item>
     </plurals>
+    <plurals name="miui_sos_emergency_contacts_quantity">
+        <item quantity="other">%d lisätty</item>
+    </plurals>
     <plurals name="network_restrictions_summary">
         <item quantity="other">%1$d rajoitusta</item>
         <item quantity="one">1 rajoitus</item>

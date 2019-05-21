@@ -400,6 +400,7 @@ ja tuo henkilöt esiin."</string>
   <string name="pref_camera_jpegquality_entry_low">Matala</string>
   <string name="pref_camera_jpegquality_entry_normal">Normaali</string>
   <string name="pref_camera_jpegquality_title">Kuvanlaatu</string>
+  <string name="pref_camera_live_sticker_internal_title">Sisäiset taikatyökalut</string>
   <string name="pref_camera_long_press_shutter_feature_title">Sulkija-painikkeen pitkä painallus</string>
   <string name="pref_camera_long_pressing_burst_shooting_entry_burst">Sarjakuvaus</string>
   <string name="pref_camera_long_pressing_burst_shooting_entry_focus">Tarkenna</string>

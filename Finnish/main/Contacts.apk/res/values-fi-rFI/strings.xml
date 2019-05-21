@@ -269,6 +269,7 @@ Yhteystietokortit on poistettu käytöstä"</string>
   <string name="contactsGroupsLabel">Ryhmät</string>
   <string name="contactsJoinedMessage">Yhteystiedot on linkitetty</string>
   <string name="contactsList">Yhteystiedot</string>
+  <string name="contacts_default_notification_channel">Ilmoitukset</string>
   <string name="contacts_hybrid_activity_label">Palauta yhteystietoja</string>
   <string name="contacts_setting_title">Yhteystietojen asetukset</string>
   <string name="contacts_unavailable_add_account">Lisää tili</string>
@@ -949,7 +950,6 @@ Kosketa tähteä yhteystiedon nimen vieressä
   <string name="quickcontact_missing_app">Tähän toimintoon ei löydy soveltuvaa ohjelmaa</string>
   <string name="quit_dialog_confirm_message">Et ole yhdistänyt yhtään yhteystietoa</string>
   <string name="quit_dialog_confirm_title">Peruuta yhteystietojen yhdistäminen</string>
-  <string name="rcs_app_name">Mini-sovellus</string>
   <string name="readOnlyContactDeleteConfirmation">Poistettava yhteystieto sisältää tietoja useilta tileiltä. Vain luku -tilassa olevien tilien tiedot piilotetaan, eikä niitä poisteta.</string>
   <string name="readOnlyContactWarning">Vain luku -tilassa olevien tiliesi yhteystietoja ei voida poistaa, mutta ne voidaan piilottaa.</string>
   <string name="readingSimContacts">Luetaan SIM-korttia…</string>

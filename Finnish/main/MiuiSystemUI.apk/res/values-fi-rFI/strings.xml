@@ -851,6 +851,7 @@ d. MMMM'ta'"</string>
      <string name="stream_system">Järjestelmä</string>
      <string name="stream_system_enforced">Järjestelmän pakottama</string>
      <string name="stream_tts">Lähetetään kaiuttimen kautta</string>
+     <string name="stream_voice_assist">Ääniavustaja</string>
      <string name="stream_voice_call">Puhelu</string>
      <string name="structure_face_data_delete_fail">Kasvojen 3D-tietoja ei voitu poistaa. Yritä uudelleen.</string>
      <string name="structure_face_data_input_down">Laske päätäsi</string>
@@ -1271,6 +1272,7 @@ Jos otat datan uudelleen käyttöön, operaattorisi saattaa laskuttaa siitä."</
   <string name="description_direction_up">"Liu'uta ylös ja %s."</string>
   <string name="description_image_button_answer">Vastaa</string>
   <string name="description_image_button_reject">Hylkää</string>
+  <string name="description_image_icon_sim_card">SIM-kortti %1$d</string>
   <string name="description_target_search">Haku</string>
   <string name="dev_logpersist_clear_warning_message">Kun lopetamme valvonnan laitteella pysyvästi olevalla lokityökalulla, meidän täytyy poistaa kaikki laitteellesi tallennetut lokityökalun tiedot.</string>
   <string name="dev_logpersist_clear_warning_title">Tyhjennetäänkö lokityökalun pysyvä tallennustila?</string>

@@ -277,11 +277,13 @@ Lisää kaupunki manuaalisesti napauttamalla"</string>
   <string name="traffic_control_today_numbers">Tänään: %1$s</string>
   <string name="traffic_control_tomorrow_numbers">Huomenna: %1$s</string>
   <string name="traffic_controls">Tienkäytön säännöstely</string>
+  <string name="translate_notification_info">Käännetään taustalla…</string>
   <string name="unit">Yksiköt</string>
   <string name="unit_temperature">Lämpötilan yksiköt</string>
   <string name="unit_wind">Tuulen nopeuden yksiköt</string>
   <string name="update_night_setting_summary_text">Päivitä säätiedot klo 23.00 ja 07.00 välisenä aikana</string>
   <string name="update_night_setting_title_text">Päivitä yöllä automaattisesti</string>
+  <string name="update_notification_info">Päivitetään tietoja taustalla…</string>
   <string name="update_setting_title_text">Päivitä säätiedot</string>
   <string name="updated_a_moment_ago">Päivitetty hetki sitten</string>
   <string name="updating">Päivitetään…</string>
@@ -289,6 +291,8 @@ Lisää kaupunki manuaalisesti napauttamalla"</string>
   <string name="view_forecast_item_yesterday">Eilen</string>
   <string name="view_indexes_item_today">Tänään</string>
   <string name="view_indexes_item_tommorrow">Huomenna</string>
+  <string name="weather_alert_channel_name">Hälytykset</string>
+  <string name="weather_service_channel_name">Taustapalvelut</string>
   <string name="weather_alert">Säävaroitukset</string>
   <string name="wind_direction_no_data">Tuuli</string>
   <string name="wind_miles_unit">%1$s mph</string>

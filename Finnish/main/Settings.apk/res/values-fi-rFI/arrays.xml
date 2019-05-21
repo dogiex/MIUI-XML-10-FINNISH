@@ -239,24 +239,24 @@
         <item>100 %</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_bits_per_sample_summaries">
-        <item>Käytä järjestelmän asetusta (oletus)</item>
+        <item>Käytä Järjestelmän Valintaa (Oletus)</item>
         <item>16 bittiä/näyte</item>
         <item>24 bittiä/näyte</item>
         <item>32 bittiä/näyte</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_bits_per_sample_titles">
-        <item>Käytä järjestelmän asetusta (oletus)</item>
+        <item>Käytä Järjestelmän Valintaa (Oletus)</item>
         <item>16 bittiä/näyte</item>
         <item>24 bittiä/näyte</item>
         <item>32 bittiä/näyte</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_channel_mode_summaries">
-        <item>Käytä järjestelmän asetusta (oletus)</item>
+        <item>Käytä Järjestelmän Valintaa (Oletus)</item>
         <item>Mono</item>
         <item>Stereo</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_channel_mode_titles">
-        <item>Käytä järjestelmän asetusta (oletus)</item>
+        <item>Käytä Järjestelmän Valintaa (Oletus)</item>
         <item>Mono</item>
         <item>Stereo</item>
     </string-array>
@@ -273,36 +273,38 @@
         <item>Paras mahdollinen (mukautuva siirtonopeus)</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_sample_rate_summaries">
-        <item>Käytä järjestelmän asetusta (oletus)</item>
+        <item>Käytä Järjestelmän Valintaa (Oletus)</item>
         <item>44,1 kHz</item>
         <item>48,0 kHz</item>
         <item>88,2 kHz</item>
         <item>96,0 kHz</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_sample_rate_titles">
-        <item>Käytä järjestelmän asetusta (oletus)</item>
+        <item>Käytä Järjestelmän Valintaa (Oletus)</item>
         <item>44,1 kHz</item>
         <item>48,0 kHz</item>
         <item>88,2 kHz</item>
         <item>96,0 kHz</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_summaries">
-        <item>Käytä järjestelmän asetusta (oletus)</item>
+        <item>Käytä Järjestelmän Valintaa (Oletus)</item>
         <item>SBC</item>
         <item>AAC</item>
         <item>aptX</item>
         <item>aptX HD</item>
         <item>LDAC</item>
+        <item>Qualcomm® aptX™ Adaptiivinen ääni</item>
         <item>Ota valinnaiset koodekit käyttöön</item>
         <item>Poista valinnaiset koodekit käytöstä</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_titles">
-        <item>Käytä järjestelmän asetusta (oletus)</item>
+        <item>Käytä Järjestelmän Valintaa (Oletus)</item>
         <item>SBC</item>
         <item>AAC</item>
         <item>aptX</item>
         <item>aptX HD</item>
         <item>LDAC</item>
+        <item>Qualcomm® aptX™ Adaptiivinen ääni</item>
         <item>Ota valinnaiset koodekit käyttöön</item>
         <item>Poista valinnaiset koodekit käytöstä</item>
     </string-array>

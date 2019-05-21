@@ -434,6 +434,7 @@ Tarkista verkkoyhteys ja yritä uudelleen."</string>
   <string name="no_visiable_calendar_message">Sinun täytyy lisätä kalenteritili. Napauta Lisää tili jatkaaksesi.</string>
   <string name="no_visiable_calendar_select_account">Lisää tili</string>
   <string name="no_visiable_calendar_title">Lisää tili</string>
+  <string name="notification_channel_name">Kalenterimuistutukset</string>
   <string name="olympic_rank">排名</string>
   <string name="olympic_total">总数</string>
   <string name="olympic_vs">VS</string>
@@ -531,9 +532,8 @@ Tarkista verkkoyhteys ja yritä uudelleen."</string>
   <string name="saving_event_with_guest">Lähetetään päivityksiä…</string>
   <string name="search_calendar">Päiväys;Kuun termit;Kuu;Almanakka;Ennustus;Agenda;Kokous;Muistutus;Loma;Juhlapyhä;Syntymäpäivä;2016;2017;Kevätjuhla;Uudenvuoden päivä;Kansainvälinen Työläisten päivä;Keskisyksyn juhla</string>
   <string name="search_calendar_edit_event">Kokous;Muistutus;Agenda</string>
-  <string name="search_calendar_huangli"/>
   <string name="search_calendar_settings">Kalenteri;Agenda;Muistutus</string>
-  <string name="search_calendar_subscribe_group"/>
+  <string name="search_menu_title">Haku</string>
   <string name="select_date">Siirry päivämäärään</string>
   <string name="set_as_wallpaper">设为壁纸</string>
   <string name="setting_about_calendar_version">Kalenterin versio:</string>

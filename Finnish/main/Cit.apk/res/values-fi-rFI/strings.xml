@@ -322,6 +322,8 @@ Käynnistä GPS koskettamalla näyttöä…"</string>
   <string name="cit_name">Laitteistotestit</string>
   <string name="cit_nfc_check_summary">Laita kortti puhelimen takapuolen yläosaan</string>
   <string name="cit_nfc_check_title">NFC testi</string>
+  <string name="cit_no_sim_check_summary">Vahvista, että puhelimessa ei ole SIM-korttia!</string>
+  <string name="cit_no_sim_check_title">Ei SIM-korttia</string>
   <string name="cit_not_available">Tämä testi ei ole käytettävissä tässä MIUI versiossa</string>
   <string name="cit_notificationlight">Ilmoitusvalo</string>
   <string name="cit_notificationlight_off">Ilmoitusvalo pois</string>
@@ -660,8 +662,33 @@ Kun olet laittanut tiedoston \"music.mp3\" SD-kortin hakemistoon, napauta näytt
   <string name="far_total_count">FATC(False Accept Total Count):</string>
   <string name="feature_category">功能开关</string>
   <string name="finger_left_sensor">请将测试头离开模组</string>
+  <string name="fingerprint">Sormenjälki:</string>
   <string name="fingerprint_enrolling">注册中</string>
+  <string name="fingerprint_input_title">sormenjäljen syöttötesti</string>
   <string name="fingerprint_name">指纹1</string>
+  <string name="firstplug_mic_check_record_tip">Lopeta nauhoitus. Kuulokkeiden yhdistämisen jälkeen vahvista tulos</string>
+  <string name="fod_check_start_error">"Anturin testityökalua ei voi käynnistää
+Testi epäonnistui!"</string>
+  <string name="fod_check_summary">"Testin ohjeet:
+Automaattinen testi anturin tyypin mukaan
+Käytä testituloksena läpäisyn painallusta tai epäonnistuneen painiketta"</string>
+  <string name="fod_check_title">Sormenjälkianturin tarkistus</string>
+  <string name="fod_check_unknown_sensor_type">"Tuntematon Fod-anturin tyyppi
+Testi epäonnistui!"</string>
+  <string name="fod_fingerprint_input_description">Fod sormenjälkisyötön testi</string>
+  <string name="fod_fingerprint_input_title">Fod sormenjälkisyötön testi</string>
+  <string name="fod_pressure_sensor_pressure_data_collection">Kerätään painetietoja....</string>
+  <string name="fod_pressure_sensor_test_exception">Read node file exception</string>
+  <string name="fod_pressure_sensor_test_fail">Testi epäonnistui, paina Epäonnistui-painiketta</string>
+  <string name="fod_pressure_sensor_test_pressure_too_big">"Anturin keskimääräinen paine on liian korkea: %1$d 
+testi epäonnistui, paina Epäonnistui-painiketta"</string>
+  <string name="fod_pressure_sensor_test_pressure_too_small">"Anturin keskimääräinen paine on liian alhainen: %1$d 
+testi epäonnistui, paina Epäonnistui-painiketta"</string>
+  <string name="fod_pressure_sensor_test_success">"Anturin keskimääräinen paine: %1$d 
+testi onnistui, paina Läpäisi-painiketta"</string>
+  <string name="fod_pressure_sensor_test_summary">"Laita painoa määritettyyn sijaintiin"</string>
+  <string name="fod_pressure_sensor_test_title">Fod paineanturin testi</string>
+  <string name="fp_fod_calibration">fod sormenjäljen kalibrointi</string>
   <string name="fpc_app_name">Anturin testityökalu</string>
   <string name="fpc_ok">Ok</string>
   <string name="fpc_pn_calibration">Taltioi ja varastoi PN-kuva</string>
