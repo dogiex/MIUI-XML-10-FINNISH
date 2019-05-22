@@ -322,6 +322,7 @@ Käynnistä GPS koskettamalla näyttöä…"</string>
   <string name="cit_name">Laitteistotestit</string>
   <string name="cit_nfc_check_summary">Laita kortti puhelimen takapuolen yläosaan</string>
   <string name="cit_nfc_check_title">NFC testi</string>
+  <string name="cit_nfc_sim_check_summary">Vahvista, että NFC SIM-kortin oikea tila ja tiedot näytetään alapuolella. Vain kaksi NFC SIM-korttia voi yhtäaikaisesti olla olemassa ja jos niillä on oikea tila voi ne läpäistä testin.</string>
   <string name="cit_no_sim_check_summary">Vahvista, että puhelimessa ei ole SIM-korttia!</string>
   <string name="cit_no_sim_check_title">Ei SIM-korttia</string>
   <string name="cit_not_available">Tämä testi ei ole käytettävissä tässä MIUI versiossa</string>
