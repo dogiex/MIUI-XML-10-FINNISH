@@ -2466,12 +2466,16 @@ Lisää saldoa napauttamalla."</string>
   <string name="traffic_setting_fragment_sms_content">Viestin sisältö</string>
   <string name="traffic_setting_fragment_sms_content_tips">Kirjoita viestisi tähän</string>
   <string name="traffic_setting_fragment_title">Datan käytön kysely</string>
+  <string name="traffic_setting_fragment_title_guide">Operaattorit ja datasuunnitelmat</string>
+  <string name="traffic_usage_warning_body">Olet käyttänyt jo %s edestä mobiilidataa tässä kuussa.</string>
+  <string name="traffic_usage_warning_limit">Tiedonsiirtovaroituksen raja</string>
+  <string name="traffic_usage_warning_title">Tiedonsiirtovaroitus</string>
   <string name="traffic_warning_purchase_title">Mobiilidatan käytön varoitus</string>
   <string name="try_game">Kokeile</string>
   <string name="try_recommended_function">Suojaa laitteesi käyttämällä uusia Tietoturvatoimintoja</string>
   <string name="two_address_choose_hint">%1$s ja %2$s</string>
   <string name="txv_dnd_start_time">0:00</string>
-  <string name="unable_connect_internet">Ei internet-yhteyttä</string>
+  <string name="unable_connect_internet">Ei internetyhteyttä</string>
   <string name="uninstall_app_dialog_msg">Poistaminen poistaa myös sovellustiedot.</string>
   <string name="uninstall_app_dialog_title">Poistetaanko nyt?</string>
   <string name="uninstall_app_done">Poistettiin onnistuneesti</string>

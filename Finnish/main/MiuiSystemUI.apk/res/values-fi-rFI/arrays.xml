@@ -102,6 +102,12 @@
         <item>Ota valinnaiset koodekit käyttöön</item>
         <item>Poista valinnaiset koodekit käytöstä</item>
     </string-array>
+    <string-array name="bluetooth_audio_active_device_summaries">
+        <item></item>
+        <item>" | Aktiivinen"</item>
+        <item>" | Aktiivinen (media)"</item>
+        <item>" | Aktiivinen (puhelin)"</item>
+    </string-array>
     <string-array name="bluetooth_a2dp_codec_summaries">
         <item>Käytä Järjestelmän Valintaa (Oletus)</item>
         <item>SBC</item>

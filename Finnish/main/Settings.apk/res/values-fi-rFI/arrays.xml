@@ -308,6 +308,12 @@
         <item>Ota valinnaiset koodekit käyttöön</item>
         <item>Poista valinnaiset koodekit käytöstä</item>
     </string-array>
+    <string-array name="bluetooth_audio_active_device_summaries">
+        <item></item>
+        <item>" | Aktiivinen"</item>
+        <item>" | Aktiivinen (media)"</item>
+        <item>" | Aktiivinen (puhelin)"</item>
+    </string-array>
     <string-array name="bluetooth_avrcp_versions">
         <item>AVRCP 1.4 (oletus)</item>
         <item>AVRCP 1.5</item>

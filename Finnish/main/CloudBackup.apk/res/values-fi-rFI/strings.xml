@@ -61,9 +61,9 @@ Huomio: Asennettujen sovelluksien datatietoja ei varmuuskopioida Mi Pilveen. Kä
   <string name="cloud_back_up_no_network_warn">Wi-Fi-Verkkoyhteyttä ei voi muodostaa</string>
   <string name="cloud_back_up_ok_btn">OK</string>
   <string name="cloud_back_up_opening">Odota hetki…</string>
-  <string name="cloud_back_up_share_activity_confirm">Päivitä</string>
-  <string name="cloud_back_up_share_activity_discription">Hanki lisää tallennustilaa, päivittäiset varmuuskopioinnit ja paljon muuta.</string> 
-  <string name="cloud_back_up_share_activity_title">Päivitä Mi Tili</string>
+  <string name="cloud_back_up_subscribe_vip_confirm">Päivitä</string>
+  <string name="cloud_back_up_subscribe_vip_discription">Hanki lisää tallennustilaa, päivittäiset varmuuskopioinnit ja paljon muuta.</string> 
+  <string name="cloud_back_up_subscribe_vip_title">Päivitä Mi Tili</string>
   <string name="cloud_back_up_task">Varmuuskopioidaan…</string>
   <string name="cloud_backup">Mi Pilven varmuuskopiot</string>
   <string name="cloud_backup_derail_size_summary">Koko: %s</string>

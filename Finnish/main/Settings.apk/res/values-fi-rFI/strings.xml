@@ -738,12 +738,16 @@ Käytetty viimeksi %2$s"</string>
 Varmista, että laite esittää tämän koodin:
 %2$s"</string>
   <string name="bluetooth_connect_specific_profiles_title">Yhdistä profiiliin...</string>
-  <string name="bluetooth_connected">Yhdistetty</string>
+  <string name="bluetooth_connected">Yhdistetty %1$s</string>
+  <string name="bluetooth_connected_battery_level">Yhdistetty | Akku %1$s%2$s</string>
   <string name="bluetooth_connected_multiple_devices_summary">Yhdistetty useisiin laitteisiin</string>
-  <string name="bluetooth_connected_no_a2dp">Yhdistetty (ei median ääntä)</string>
-  <string name="bluetooth_connected_no_headset">Yhdistetty (ei puhelimen ääntä)</string>
-  <string name="bluetooth_connected_no_headset_no_a2dp">Yhdistetty (ei puhelimen/median ääntä)</string>
-  <string name="bluetooth_connected_no_map">Yhdistetty (ei MAP)</string>
+  <string name="bluetooth_connected_no_a2dp">Yhdistetty (ei median ääntä) %1$s</string>
+  <string name="bluetooth_connected_no_a2dp_battery_level">Yhdistetty (ei median ääntä) | Akku %1$s%2$s</string>
+  <string name="bluetooth_connected_no_headset">Yhdistetty (ei puhelimen ääntä) %1$s</string>
+  <string name="bluetooth_connected_no_headset_battery_level">Yhdistetty (ei puhelimen ääntä) | Akku %1$s%2$s</string>
+  <string name="bluetooth_connected_no_headset_no_a2dp">Yhdistetty (ei puhelimen/median ääntä) %1$s</string>
+  <string name="bluetooth_connected_no_headset_no_a2dp_battery_level">Yhdistetty (ei puhelimen/median ääntä) | Akku %1$s%2$s</string>
+  <string name="bluetooth_connected_no_map">Yhdistetty (ei MAP) %1$s</string>
   <string name="bluetooth_connected_summary">Yhdistetty laitteeseen %1$s</string>
   <string name="bluetooth_connecting">Yhdistetään…</string>
   <string name="bluetooth_connecting_error_message">Yhteyden muodostaminen laitteeseen %1$s epäonnistui.</string>
@@ -1912,6 +1916,7 @@ Saat lisätietoja organisaatiosi järjestelmänvalvojalta."</string>
   <string name="eq_preset_hint">Tehosteen nimi</string>
   <string name="eq_preset_rename">Nimeä uudelleen</string>
   <string name="eq_preset_select">Valitse esiasetus</string>
+  <string name="eq_return">Takaisin</string>
   <string name="eq_rock">Rock</string>
   <string name="equalizer">Taajuuskorjain</string>
   <string name="erase_application">Poista sovellukset</string>
@@ -3400,7 +3405,11 @@ Valitse käyttöjärjestelmäsi:"</string>
   <string name="page_layout_8">Mi Elämä</string>
   <string name="page_layout_9">Teemat</string>
   <string name="page_layout_confirm_message">Jotta asetukset tulevat voimaan, laitteesi täytyy käynnistää uudelleen. Tämä kestää noin yhden minuutin.</string>
+  <string name="page_layout_confirm_message_enlarge">Teksti, kuvat ja kuvakkeet suurennetaan. Jotkut kuvakkeet saattavat vaihtaa niiden paikkaa.</string>
+  <string name="page_layout_confirm_message_narrow">Teksti, kuvat ja kuvakkeet pienennetään. Jotkut kuvakkeet saattavat vaihtaa niiden paikkaa.</string>
   <string name="page_layout_confirm_title">Vaihda näytön asetuksia</string>
+  <string name="page_layout_confirm_title_enlarge">Suuremmat kohteet</string>
+  <string name="page_layout_confirm_title_narrow">Pienemmät kohteet</string>
   <string name="page_layout_godzilla_title">XXL</string>
   <string name="page_layout_huge_title">XL</string>
   <string name="page_layout_large_title">L</string>
@@ -3992,6 +4001,7 @@ Tämä asetus vaikuttaa kaikkiin tämän puhelimen käyttäjiin."</string>
   <string name="screen_on_proximity_sensor_summary">Lukitse kosketukset puhelimen ollessa taskussa</string>
   <string name="screen_on_proximity_sensor_title">Tasku-tila</string>
   <string name="screen_optimize">Kontrasti</string>
+  <string name="screen_optimize_disabled">Kontrastia ei voi säätää, kun Lukutila on käytössä</string>
   <string name="screen_paper_mode_adjust_level">Säädä</string>
   <string name="screen_paper_mode_apps_loading">Odota hetki…</string>
   <string name="screen_paper_mode_apps_title">Käytä Lukutilaa</string>
