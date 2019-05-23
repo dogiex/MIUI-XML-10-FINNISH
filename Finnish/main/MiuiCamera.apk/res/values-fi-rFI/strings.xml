@@ -61,6 +61,7 @@ Pitää kohteen terävänä ja sumentaa taustan."</string>
   <string name="accessibility_peak">Tarkennuksen huippupainike</string>
   <string name="accessibility_portrait_button">Muotokuvatila</string>
   <string name="accessibility_protrait">Muotokuva</string>
+  <string name="accessibility_pull_down_to_open_camera">Avaa kamera pyyhkäisemällä alas</string>
   <string name="accessibility_review_thumbnail">Viimeaikaisin kuva</string>
   <string name="accessibility_seek_bar_line">SeekBarLine</string>
   <string name="accessibility_selected">Valitut kohteet</string>
@@ -277,7 +278,7 @@ Muotokuvatilassa"</string>
   <string name="live_speed_extreme_fast">Todella nopea</string>
   <string name="live_speed_extreme_slow">Todella hidas</string>
   <string name="live_speed_fast">Nopea</string>
-  <string name="live_speed_fragment_tab_name">Nopeus</string>
+  <string name="live_speed_fragment_tab_name">Nauhoitusnopeus</string>
   <string name="live_speed_normal">Tavallinen</string>
   <string name="live_speed_slow">Hidas</string>
   <string name="live_sticker_fragment_tab_name">Tarrat</string>

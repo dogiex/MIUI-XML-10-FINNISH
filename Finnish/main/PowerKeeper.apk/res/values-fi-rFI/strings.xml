@@ -34,6 +34,8 @@ Virransäästö kohtelee tärkeitä sovelluksia valikoivasti."</string>
   <string name="config_suggest_suffix_title">Virransäästö (suositus)</string>
   <string name="confirm">OK</string>
   <string name="current_cloud_addr_is">Pilven hallinnointipalvelimen osoite on:</string>
+  <string name="dark_mode">Tummatila</string>
+  <string name="dark_mode_summary">Säästä virtaa vaihtamalla tummaan väripalettiin</string>
   <string name="empty_title_apps_container_list">Ei sovelluksia</string>
   <string name="enable_sleep_mode">Ota Lepotila käyttöön optimoidaksesi akun käyttöä yöllä</string>
   <string name="error_filename_too_long">Syöttämäsi tiedostonimi on liian pitkä.</string>
@@ -53,8 +55,13 @@ Virransäästö kohtelee tärkeitä sovelluksia valikoivasti."</string>
   <string name="message_i_know">Selvä</string>
   <string name="nonui_mode_config_description">Älä valaise näyttöä ilmoituksista, poista LED-valo, sormenjälkitunnistin ja kosketukset käytöstä, kun MIUI havaitsee että et käytä laitettasi.</string>
   <string name="nonui_mode_config_title">Ei-interaktiivinen tila</string>
+  <string name="notification_exit_extreme_mode_text">Akkua on ladattu yli %s</string>
+  <string name="notification_exit_extreme_mode_title">Äärimmäinen virransäästö poistettiin käytöstä</string>
+  <string name="notification_open_extreme_mode_text">Äärimmäinen virransäästö otettiin käyttöön</string>
+  <string name="open_dark_mode">Vaihda Tummaantilaan</string>
+  <string name="open_dark_mode_tip">Kuvanlaatu joissakin toiminnoissa saattaa laskea Tummassatilassa. Se palautuu ennalleen, kun poistut Tummastatilasta. Vaihdetaanko Tummaantilaan nyt?</string>
   <string name="performance_category">Suorituskyky</string>
-  <string name="power_center">Akun käyttö</string>
+  <string name="power_center">Virransäästö</string>
   <string name="power_checker_background_cpu_multi_apps_title">%1$s käy epätavallisesti</string>
   <string name="power_checker_background_cpu_title">%1$s käy epätavallisesti</string>
   <string name="power_checker_background_gps_multi_apps_title">%1$s hakee sijaintitietoa usein</string>
