@@ -685,4 +685,5 @@ Laajakulmatila tulee apuun, kun et voi liikkua kauemmaksi kohteestasi."</string>
   <string name="video_reach_size_limit">Kokorajoitus saavutettu.</string>
   <string name="view_privacy_policy">Näytä Tietosuojakäytäntö</string>
   <string name="wait">Odota hetki…</string>
+  <string name="zoom_no_support_tip_48M">Zoomaus ei toimi 48MP-tilassa</string>
 </resources>

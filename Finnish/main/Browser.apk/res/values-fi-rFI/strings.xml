@@ -419,6 +419,7 @@ katsoaksesi avoimia välilehtiä muilta laitteilta."</string>
     <string name="hint">Vihje</string>
     <string name="history">Historia</string>
     <string name="home_description">Koti</string>
+    <string name="home_hybrid_application_tips">Miniohjelmia sisältyy täällä</string>
     <string name="homepage_delete_card_menu">Poista</string>
     <string name="homepage_get_location">Hae sijainti</string>
     <string name="homepage_get_location_failed">Tietoja ei saatu, valitse kaupunki</string>
@@ -427,6 +428,8 @@ katsoaksesi avoimia välilehtiä muilta laitteilta."</string>
     <string name="homepage_search_hint">Etsi</string>
     <string name="homepage_top_card_menu">Ylös</string>
     <string name="hot_words_item_ads_mark">Mainokset</string>
+    <string name="hybrid_application_no_data_text">Ei Miniohjelmia</string>
+    <string name="hybrid_popup_window_delete_button">Poista</string>
     <string name="ignore_add_pwa_dialog_today">Älä näytä tänään</string>
     <string name="in_secureaccess">Selain siirtyi Vikatilaan</string>
     <string name="info_flow_description">Info-kanava</string>
@@ -1401,4 +1404,5 @@ Selaimen täytyy yhdistää internetiin toimiakseen normaalisti. Sinun täytyy h
     <string name="voice_title_speech_again">Puhetta ei ymmärretty</string>
     <string name="weather_location_confirm_message">Poistamalla tämän ominaisuuden käytöstä voi vaikuttaa käyttökokemukseen.</string>
     <string name="webpage_title">Kirjanmerkit &amp; Historia</string>
+    <string name="window_manager_hybrid_application_list_title_text">Viimeksi käytetty</string>
 </resources>
