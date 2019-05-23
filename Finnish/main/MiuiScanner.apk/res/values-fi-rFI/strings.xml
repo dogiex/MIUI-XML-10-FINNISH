@@ -1,7 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="about_title">Tietoja</string>
   <string name="access_sd_fail">SD-korttia ei voitu käyttää</string>
   <string name="accessibility_shutter_button">Sulkija</string>
+  <string name="action_search">Haku</string>
   <string name="address">Osoite:</string>
   <string name="agree_btn">Hyväksy</string>
   <string name="alisdk_message_10008_action">请稍后重试当前操作，若仍然出错，请反馈至论坛，技术支持或 Android SDK 开发咨询群</string>
@@ -90,6 +92,7 @@
   <string name="birthday">Syntymäpäivä:</string>
   <string name="blog">Weibo</string>
   <string name="business_card">Käyntikortti</string>
+  <string name="business_card_result_title">Käyntikortti</string>
   <string name="business_card_title">Aseta käyntikortti kehyksen sisälle</string>
   <string name="business_copy">Kopioi</string>
   <string name="business_new_contacts">Luo yhteystieto</string>
@@ -98,6 +101,7 @@
   <string name="call_anyone">Soita</string>
   <string name="camera_error_title">Kamera virhe</string>
   <string name="cancel">Peruuta</string>
+  <string name="choose_pay_title">Valitse maksutapa</string>
   <string name="choose_picture">Valitse QR-koodin kuva</string>
   <string name="com_alibc_auth_actiivty_auth_ok">确认授权</string>
   <string name="com_alibc_auth_actiivty_cancel">取消</string>
@@ -115,6 +119,7 @@
   <string name="com_taobao_tae_sdk_ssl_error_title">SSL证书错误</string>
   <string name="com_taobao_tae_sdk_system_exception">系统异常</string>
   <string name="common_retake_picture">Ota uudelleen</string>
+  <string name="common_retry">Yritä uudelleen</string>
   <string name="common_save">Tallenna</string>
   <string name="company">Yritys:</string>
   <string name="confirm">OK</string>
@@ -126,6 +131,7 @@
   <string name="copy_text_success">Teksti kopioitu</string>
   <string name="crop_cancel_description">Peruuta</string>
   <string name="crop_done_description">Valmis</string>
+  <string name="crop_title_study">Rajaa kuva</string>
   <string name="crop_title_translation">Valitse käännettävä teksti</string>
   <string name="document_color_picture">Väri</string>
   <string name="document_color_picture_tip">Muunnetaan värilliseksi…</string>
@@ -150,9 +156,11 @@
   <string name="email">Sähköposti:</string>
   <string name="error_camera_disabled">Pääsy kameraan on estetty tietoturvan vuoksi</string>
   <string name="error_cannot_connect_camera">Kameraan ei saada yhteyttä</string>
+  <string name="error_empty_result">Tuloksia ei löytynyt</string>
   <string name="error_get_image">Kuvaa ei voitu hakea</string>
   <string name="error_media_storage_failure">Kuvaa ei voitu tallentaa</string>
   <string name="error_permissions">Lukijalla ei ole tarvittavia käyttöoikeuksia toimiakseen normaalisti. Siirry Asetuksiin ja tarkasta käyttöoikeudet jatkaaksesi.</string>
+  <string name="error_server_error">Palvelinvirhe</string>
   <string name="fax">Faksi</string>
   <string name="feed_search_fail">Ei tuloksia, yritä uudelleen</string>
   <string name="feedback_description_camera_access">Lukija ei saa yhteyttä Kameraan</string>
@@ -169,10 +177,11 @@
   <string name="jszc">手机淘宝拍立淘提供技术支持</string>
   <string name="jzz">加载中</string>
   <string name="keywords_search_code">Lukija;Lue;QR koodi;QR;Tunnistus;Viivakoodi;Viivakoodit;Tuote;Tuotteet;Alipay;WeChat;Kuinka luen QR koodin;Kuinka luen viivakoodin;Kuinka skannaan;MIUI Lukija</string>
-  <string name="keywords_search_document">Lukija;Lue asiakirja;Lue asiakirjoja;OCR;Lue tekstiä;Lue</string>
-  <string name="keywords_search_settings">Lukija;Lukijan verkkoasetukset</string>
-  <string name="keywords_search_shopping">Ostelu;Lukija;Lue tuotteita;Lue tuote;Tarkista hinta;Tuotteet;Taobao;Tmall;Hinnat;Online ostelua</string>
-  <string name="keywords_search_translation">Lukija;Käännä;Sanakirja;Englanti;Ulkomaan kieli;Kieli;Kielet;Englannista Kiinaksi;Italialainen;Saksalainen;Japanilainen;Korealainen;Espanjalainen;Ranskalainen;Baidu Kääntäjä;Youdao Sanakirja;Baidu Sanakirja;Google Kääntäjä</string>
+  <string name="keywords_search_document">Lukija;Skanneri;Lue asiakirja;Lue asiakirjoja;OCR;Lue tekstiä;Lue</string>
+  <string name="keywords_search_namecard">Lukija;Skanneri;Käyntikortti;Käyntikortit;Skannaa;Skannaa kortteja;Kortti;Kortit;Yhteystiedot;Yhteystieto</string>
+  <string name="keywords_search_shopping">Ostelu;Lukija;Skanneri;Lue tuotteita;Lue tuote;Tarkista hinta;Tuotteet;Taobao;Tmall;Hinnat;Online ostelua</string>
+  <string name="keywords_search_study">Lukija;Skanneri;Ongelmat;Ratkaise ongelmia;Kotityö;Koulu;Fysiikka;Kemia;Matematiikka;Englanti;Historia;Kiinalainen</string>
+  <string name="keywords_search_translation">Lukija;Skanneri;Käännä;Sanakirja;Englanti;Ulkomaan kieli;Kieli;Kielet;Englannista Kiinaksi;Italialainen;Saksalainen;Japanilainen;Korealainen;Espanjalainen;Ranskalainen;Baidu Kääntäjä;Youdao Sanakirja;Baidu Sanakirja;Google Kääntäjä</string>
   <string name="label_choose_picture">Valitse kuva</string>
   <string name="label_flash_light">Taskulamppu</string>
   <string name="language_entry_chinese_cn">Yksinkertaistettu kiina</string>
@@ -195,6 +204,7 @@
   <string name="module_title_document">Asiakirja</string>
   <string name="module_title_plant">Kasvi</string>
   <string name="module_title_shopping">Ostokset</string>
+  <string name="module_title_study">Opiskelu</string>
   <string name="module_title_translation">Käännä</string>
   <string name="name">Nimi:</string>
   <string name="new_schedule">Luo tapahtuma</string>
@@ -202,12 +212,12 @@
   <string name="nljzz">努力加载中</string>
   <string name="no_network">Verkkoyhteyttä ei voi muodostaa</string>
   <string name="no_storage">Asenna SD-kortti ennen Kameran käyttöä</string>
+  <string name="no_support_to_translate_type">Tämä kieli ei ole tuettu</string>
   <string name="not_insert_contact">Yhteystietoa ei voi lisätä</string>
   <string name="not_recommend_access_web_url">Mene silti</string>
   <string name="note">Huomautus:</string>
   <string name="open_url">Avaa URL-osoite</string>
   <string name="pailitao">淘宝拍立淘</string>
-  <string name="path_scanner_setting">Järjestelmäsovellukset/Lukija</string>
   <string name="payment_text">Avaa sovelluksella %s</string>
   <string name="phone">Puhelin:</string>
   <string name="place_barcode_into_rectangle">Aseta koodi kehyksen sisälle</string>
@@ -226,18 +236,32 @@
   <string name="recognize_fail">Koodia ei voitu lukea</string>
   <string name="refresh">刷新</string>
   <string name="scan_result">Tulos</string>
+  <string name="scan_support_type">WeChat, Alipay, QR-koodit, viivakoodit</string>
   <string name="sdk_not_ready">Valmistellaan SDK:ta. Yritä myöhemmin uudelleen.</string>
   <string name="secure_access_web_url">Mene verkkosivulle</string>
   <string name="see_app_details">Näytä sovelluksen tiedot</string>
   <string name="select_dialog_confirm">OK</string>
   <string name="send_mail">Lähetä sähköposti</string>
+  <string name="setting_alipay">Alipay</string>
+  <string name="setting_choose_every_time">Kysy aina</string>
+  <string name="setting_default_function">Oletustoiminto</string>
+  <string name="setting_preference_pay">Suositeltu maksutapa</string>
+  <string name="setting_title">Asetukset</string>
+  <string name="setting_use_last_choose">Muista edellinen valinta</string>
+  <string name="setting_wechat">WeChat</string>
   <string name="shopping_searching">Etsitään tuotteita…</string>
   <string name="shopping_title">Ota tuotteesta kuva</string>
   <string name="shopping_vendor_info">Teknisen tuen tarjoaa Taobao</string>
   <string name="spaceIsLow_content">SD-kortilla ei ole tarpeeksi tallennustilaa. Vapauta tilaa.</string>
+  <string name="study_rotate_picture">Käsitellään kuvaa</string>
+  <string name="study_scan_result">Tulos</string>
+  <string name="study_searching">Haetaan tulosta</string>
+  <string name="study_title">Ota valokuva ongelmasta</string>
+  <string name="study_vendor_info">Powered by 作业帮</string>
   <string name="switch_open">Ota käyttöön</string>
   <string name="tel">Puhelin</string>
   <string name="title">Otsikko:</string>
+  <string name="to_pay">Suorita maksu</string>
   <string name="translate_auto_lock">Lukitse käännös</string>
   <string name="translate_auto_unlock">Avaa käännös</string>
   <string name="translate_copy_success">Kopioitiin onnistuneesti</string>

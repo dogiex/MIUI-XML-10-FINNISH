@@ -164,7 +164,7 @@ ja optimoi valokuvasi näiden tietojen perusteella"</string>
   <string name="custom_watermark_words">Mukautettu vesileima</string>
   <string name="custom_watermark_words_input_hint">Anna teksti</string>
   <string name="custom_watermark_words_save_success">Tallennettiin onnistuneesti</string>
-  <string name="device_48m_watermark_default_text">48M KAKSOISKAMERA</string>
+  <string name="device_48m_watermark_default_text">48MP KAKSOISKAMERA</string>
   <string name="device_watermark_default_text">AI KAKSOISKAMERA</string>
   <string name="dialog_ok">OK</string>
   <string name="do_not_remind_me">Älä näytä uudelleen</string>

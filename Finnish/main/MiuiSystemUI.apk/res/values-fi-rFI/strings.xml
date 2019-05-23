@@ -1644,8 +1644,8 @@ Saat lisätietoja järjestelmänvalvojalta."</string>
   <string name="saved_network">Tallentaja: %1$s</string>
   <string name="screen_button_notification_text">Ota ne käyttöön painamalla Koti ja Virta-painiketta samaan aikaan.</string>
   <string name="screen_button_notification_title">Navigointi-painikkeet on poistettu käytöstä</string>
-  <string name="screen_pinning_description">Tämä pitää sen näkyvillä, kunnes poistat kiinnityksen. Poista kiinnitys koskettamalla pohjaan Koti- ja Virtapainiketta yhtäaikaan.</string>
-  <string name="screen_pinning_description_accessible">Tämä pitää sen näkyvillä, kunnes poistat kiinnityksen. Poista kiinnitys koskettamalla pohjaan Koti- ja Virtapainiketta yhtäaikaan.</string>
+  <string name="screen_pinning_description">Tämä pitää sen näkyvillä, kunnes poistat kiinnityksen. Poista kiinnitys painamalla ja pitämällä Koti- ja Virtapainiketta pohjassa yhtäaikaan.</string>
+  <string name="screen_pinning_description_accessible">Tämä pitää sen näkyvillä, kunnes poistat kiinnityksen. Poista kiinnitys painamalla ja pitämällä Koti- ja Virtapainiketta pohjassa yhtäaikaan.</string>
   <string name="screen_pinning_negative">Ei kiitos</string>
   <string name="screen_pinning_positive">Selvä</string>
   <string name="screen_pinning_title">Näyttö on kiinnitetty</string>
