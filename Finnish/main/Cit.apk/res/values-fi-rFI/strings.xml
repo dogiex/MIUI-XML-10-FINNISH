@@ -388,6 +388,8 @@ Kun olet laittanut tiedoston \"music.mp3\" SD-kortin hakemistoon, napauta näytt
   <string name="cit_stop_calibration">Lopeta kalibroiminen</string>
   <string name="cit_tfcard_support_summary">Tarkista tämän laitteen TF-muistikortin yhteensopuvuus</string>
   <string name="cit_tfcard_support_title">TF-muistikortin yhteensopivuus</string>
+  <string name="cit_tof_sensor_check_summary">TOF-arvot pitäisi näkyä alla</string>
+  <string name="cit_tof_sensor_check_title">Tof Anturi</string>
   <string name="cit_thermal_history_summary">Odota hetki... Luetaan laitteen lämpötilatietoja.</string>
   <string name="cit_thermal_history_title">Lämpöhistoria</string>
   <string name="cit_tool">Lisätyökalut</string>
