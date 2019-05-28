@@ -345,6 +345,7 @@
   <string name="menu_item_sort_name">Nimi</string>
   <string name="menu_item_sort_type">Tyyppi</string>
   <string name="menu_item_usb">USB</string>
+  <string name="menu_set_wallpaper">Aseta taustakuvaksi</string>
   <string name="message_comment_prefix">"Kommentti: "</string>
   <string name="message_my_received_notification">Uusi viesti</string>
   <string name="message_my_received_praise">Tykkäykseni</string>

@@ -1652,6 +1652,16 @@ Ota yhteyttä operaattoriin, jos ongelma jatkuu."</string>
   <string name="volte_switch_title">VoLTE otettu käyttöön</string>
   <string name="volte_switch_title_ct">VoLTE otettu käyttöön</string>
   <string name="volte_tips_when_turn_on">China Telecom VoLTE-palvelut on käytössä vain alueilla, jossa on LTE-verkon kuuluvuus.</string>
+  <string name="vowifi_emergency_notification_channel">Wi-Fi-puhelun hätävaroitus</string>
+  <string name="vowifi_emergency_notification_content">Hätäpuhelut ovat käytettävissä vain matkapuhelinverkon kantavuusalueella.</string>
+  <string name="vowifi_emergency_notification_title">Vodafone Wifi-puhelu</string>
+  <string name="vowifi_emergency_warning_check">Älä näytä uudelleen</string>
+  <string name="vowifi_emergency_warning_message">"Hätäpuheluita ei voi soittaa Wi-Fi-puhelulla.
+
+Laite vaihtaa automaattisesti matkapuhelinverkkoon (2G/3G) soittaakseen hätäpuhelun.
+
+Hätäpuhelut ovat käytettävissä vain matkapuhelinverkon kantavuusalueella."</string>
+  <string name="vowifi_emergency_warning_title">ECC puheluita käyttäen Wi-Fi-puhelua</string>
   <string name="vpn_settings_not_available">Tämä käyttäjä ei voi käyttää VPN-asetuksia</string>
   <string name="vvm_unsupported_message_format">Viestin tyyppiä ei tueta. Kuuntele soittamalla numeroon %s.</string>
   <string name="wait_for_debugger">Odota vianetsintää</string>
@@ -1685,6 +1695,8 @@ Ota yhteyttä operaattoriin, jos ongelma jatkuu."</string>
   <string name="wifi_auth_password_wrong">Salasana saattaa olla väärin</string>
   <string name="wifi_auto_sel_wapi_cert">Valitse automaattisesti</string>
   <string name="wifi_call_setting">Wi-Fi-puhelut</string>
+  <string name="wifi_call_setting_vodafone_de">Wi-Fi-puhelu</string>
+  <string name="wifi_call_setting_vodafone_uk">Wi-Fi-puhelu</string>
   <string name="wifi_calling">Wi-Fi-puhelut</string>
   <string name="wifi_connected_no_internet">Yhdistetty, ei internetyhteyttä.</string>
   <string name="wifi_disabled_by_recommendation_provider">Ei yhteyttä – verkko huonolaatuinen</string>

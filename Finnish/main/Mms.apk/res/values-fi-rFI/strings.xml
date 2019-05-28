@@ -48,6 +48,10 @@
   <string name="audio_message_mx_offline">Äänen lataaminen epäonnistui. Mi Viesti on offline-tilassa tai ei ole käytettävissä.</string>
   <string name="audio_playing_seconds">%d\"</string>
   <string name="audio_sim_card_mismatching">Verkkoyhteyttä ei ole tai väärä SIM-kortti on asennettu. Aseta SIM-kortti takaisin, josta viestit lähetettiin ja yhdistä verkkoon.</string>
+  <string name="auto_identify_btn_text_only_smart_messaging">Ota Älykäs Viestintä käyttöön</string>
+  <string name="auto_identify_btn_text_when_all_disabled">Tunnista Lähettäjän ID automaattisesti</string>
+  <string name="auto_identify_btn_title">Tämä viesti on lähetetty tuntemattomasta numerosta.</string>
+  <string name="auto_identify_confirmation">Tämän toiminnon aktivointi saattaa kestää useita minuutteja.</string>
   <string name="back_to_message_list">Takaisin viestilistalle</string>
   <string name="batch_adding_progress_message">Lisätään…</string>
   <string name="batch_deleting_message_progress_message">Poistetaan…</string>

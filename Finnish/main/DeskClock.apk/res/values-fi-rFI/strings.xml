@@ -184,6 +184,7 @@
   <string name="snooze_duration">Torkku</string>
   <string name="snooze_duration_title">Torkku</string>
   <string name="snooze_duration_value">Intervalli (minuuttia)</string>
+  <string name="star_wy_alarm_speech">Tapaa Roy Wang</string>
   <string name="start">Aloita</string>
   <string name="start_up">Aloita</string>
   <string name="stat_repeat_everyday">每天</string>

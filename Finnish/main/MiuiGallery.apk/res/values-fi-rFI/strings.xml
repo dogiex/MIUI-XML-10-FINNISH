@@ -36,9 +36,7 @@
   <string name="story_cancel_download">Peruuta</string>
   <string name="story_download">Lataa</string>
   <string name="story_download_failed_for_notwork">Ei voitu ladata. Yhdistä verkkoon ja yritä uudelleen.</string>
-  <string name="story_download_without_wifi_msg">Käyttämällä mobiilidatayhteyttä tiedostojen lataamiseen nostaa datan käyttöäsi. Jos menet datapakettisi rajan yli, operaattorisi saattaa veloittaa sinulta lisämaksuja.</string>
-  <string name="story_download_without_wifi_title">Tiedonsiirtovaroitus</string>
-  <string name="story_option_menu_delete">Poista tarina</string>
+    <string name="story_option_menu_delete">Poista tarina</string>
   <string name="story_option_menu_rename">Nimeä uudelleen</string>
   <string name="story_photo_downloading">Ladataan…</string>
   <string name="story_remove_confirm_message">Poistetut kuvat ei näy tässä tarinassa uudelleen. Löydät ne silti Galleriasta.</string>
@@ -173,8 +171,8 @@
   <string name="alert_secret_album_message">Pyyhkäise alaspäin Albumit-välilehdellä nähdäksesi piilotetun albumin.</string>
   <string name="alert_secret_album_message_lower_case">  pyyhkäise alaspäin Albumeissa nähdäksesi</string>
   <string name="alert_secret_album_title">Kuinka näät piilotetun albumin</string>
-  <string name="alert_selection_description">AI merkitsee tähdellä parhaan kuvan samankaltaisista kuvista.</string>
-  <string name="alert_selection_title">AI:n valitsema</string>
+  <string name="alert_selection_description">MIUI analysoi samankaltaiset kuvat ja merkitsee parhaimmat kuvat sinua varten.</string>
+  <string name="alert_selection_title">Valitse paras kuva</string>
   <string name="all_faces">Kuvat, joissa on tämä henkilö</string>
   <string name="all_items_synced">Kaikki albumit on varmuuskopioitu Mi Pilveen</string>
   <string name="all_video_album_display_name">Kaikki videot</string>
@@ -835,8 +833,8 @@
   <string name="download_type_thumbnail">Korkea laatu</string>
   <string name="download_type_thumbnail_desc">Korkea laatu</string>
   <string name="download_type_title">Latauksen laatu</string>
-  <string name="download_without_wifi_msg">Käyttämällä mobiilidatayhteyttä kuvien lataamiseen nostaa datan käyttöä. Jos menet datapakettisi yli, operaattorisi saattaa veloittaa siitä ylimääräisiä maksuja.</string>
-  <string name="download_without_wifi_title">Tiedonsiirtovaroitus</string>
+  <string name="download_with_metered_network_msg">Alkuperäisien tiedostojen lataaminen saattaa lisätä operaattorimaksuja. Ladataanko siitä huolimatta?</string>
+  <string name="download_with_metered_network_title">Olet yhteydessä maksulliseen verkkoon</string>
   <string name="downloading_desc">%1$d/%2$d</string>
   <string name="downloading_dialog_message">Voit valita ladattujen kuvien laadun tai poistaa automaattiset lataukset käytöstä Asetuksissa.</string>
   <string name="downloading_title">Ladataan kuvia Mi Pilvestä</string>
@@ -1145,6 +1143,9 @@ mukauttaaksesi Galleriasi"</string>
   <string name="merge_album_title">Yhdistä henkilön kanssa</string>
   <string name="messagelist_sender_self">Minä</string>
   <string name="micloud_introduce">Varmuuskopioi kuvat ja videot automaattisesti (Mi Tili vaaditaan)</string>
+  <string name="month_view_tip_button_text">Selvä</string>
+  <string name="month_view_tip_sub_title">Nipistä näyttöä vaihtaaksesi kuukausinäkymään</string>
+  <string name="month_view_tip_title">Kuukausinäkymä</string>
   <string name="more_album_hint">, jne.</string>
   <string name="more_face">Lisää henkilöitä jotka näyttävät samalta</string>
   <string name="more_face_album_name">Lisää henkilöitä</string>
@@ -1171,8 +1172,8 @@ mukauttaaksesi Galleriasi"</string>
   <string name="movie_download_failed_for_notwork">Ei voitu ladata. Yhdistä verkkoon ja yritä uudelleen.</string>
   <string name="movie_download_sdk_without_wifi_msg">Näyttää siltä, että laitteesi ei ole yhdistettynä Wi-Fi-verkkoon. Ladataanko vaadittu liitännäinen (3 Mt) käyttäen mobiilidataa?</string>
   <string name="movie_download_sdk_without_wifi_title">Lataa käyttäen mobiilidataa</string>
-  <string name="movie_download_without_wifi_msg">Mobiilidatayhteyden käyttäminen tiedostojen lataamiseen lisää datan käyttöäsi. Jos menet datapakettisi rajan yli, operaattorisi saattaa veloittaa sinulta lisämaksuja.</string>
-  <string name="movie_download_without_wifi_title">Tiedonsiirtovaroitus</string>
+  <string name="movie_download_with_metered_network_msg">Alkuperäisien tiedostojen lataaminen saattaa lisätä operaattorimaksuja. Ladataanko siitä huolimatta?</string>
+  <string name="movie_download_with_metered_network_title">Olet yhteydessä maksulliseen verkkoon</string>
   <string name="movie_edit">Muokkaa</string>
   <string name="movie_item_name">Videoleike</string>
   <string name="movie_preview_btn">Esikatsele</string>
@@ -1297,6 +1298,7 @@ mukauttaaksesi Galleriasi"</string>
   <string name="photo_editor_crop_rotation_format">%d°</string>
   <string name="photo_editor_doodle">Piirrä</string>
   <string name="photo_editor_filter">Suodata</string>
+  <string name="photo_editor_font_default">&gt;Mi Lanting (Tavallinen)</string>
   <string name="photo_editor_frame">Kehys</string>
   <string name="photo_editor_label">Muokkaa</string>
   <string name="photo_editor_long_crop">Rajaa</string>
@@ -1353,6 +1355,11 @@ mukauttaaksesi Galleriasi"</string>
   <string name="photo_editor_talkback_redo">Tee uudelleen</string>
   <string name="photo_editor_talkback_undo">Kumoa</string>
   <string name="photo_editor_text">Teksti</string>
+  <string name="photo_font_cancel_download">Peruuta</string>
+  <string name="photo_font_download">Lataa</string>
+  <string name="photo_font_download_failed_for_notwork">Lataaminen epäonnistui. Yhdistä verkkoon ja yritä uudelleen.</string>
+  <string name="photo_font_download_without_wifi_msg">Lataamalla tiedostoja käyttäen mobiilidatayhteyttä nostaa datankäyttöäsi. Jos menet yli datasuunnitelmasi rajan, operaattorisi saattaa veloittaa sinulta lisämaksuja.</string>
+  <string name="photo_font_download_without_wifi_title">Tiedonsiirtovaroitus</string>
   <string name="photo_movie_module_finish">Ladattiin Videoleikkeet onnistuneesti</string>
   <string name="photo_movie_module_loading">Ladataan Videoleikkeitä…</string>
   <string name="photo_movie_select_image_range">Videoleikkeet voivat sisältää 3-20 kuvaa</string>
@@ -1646,7 +1653,9 @@ mukauttaaksesi Galleriasi"</string>
   <string name="text_edit_dialog_style_color">"Väri  "</string>
   <string name="text_edit_dialog_style_shadow">Varjo</string>
   <string name="text_edit_dialog_style_transparent">Läpinäkyvyys</string>
-  <string name="text_edit_sub_menu_text">Kuppla</string>
+  <string name="text_edit_sub_menu_text">Kupla</string>
+  <string name="text_tab_bubble">Kuplat</string>
+  <string name="text_tab_watermark">Vesileimat</string>
   <string name="things_album_empty_title">Kuvia voi lajitella niissä esiintyvien esineiden mukaan</string>
   <string name="thumbnail_name">Esikatselukuva</string>
   <string name="tip_capture_location">Sijainti:</string>
@@ -1708,8 +1717,8 @@ mukauttaaksesi Galleriasi"</string>
   <string name="video_editor_down_load_now">Lataa</string>
   <string name="video_editor_download">Lataa</string>
   <string name="video_editor_download_failed_for_notwork">Lataaminen epäonnistui. Yhdistä verkkoon ja yritä uudelleen.</string>
-  <string name="video_editor_download_without_wifi_msg">Mobiilidatayhteyden käyttäminen tiedostojen lataamiseen nostaa datan käyttöäsi. Jos menet datapakettisi rajan yli, operaattorisi voi veloittaa sinulta ylimääräisiä maksuja.</string>
-  <string name="video_editor_download_without_wifi_title">Tiedonsiirtovaroitus</string>
+  <string name="video_editor_download_with_metered_network_msg">Alkuperäisien tiedostojen lataaminen saattaa lisätä operaattorimaksuja. Ladataanko siitä huolimatta?</string>
+  <string name="video_editor_download_with_metered_network_title">Olet yhteydessä maksulliseen verkkoon</string>
   <string name="video_editor_encode_video">Muunnetaan videota…</string>
   <string name="video_editor_encode_video_error">Videon muunnos epäonnistui</string>
   <string name="video_editor_fatal_error">Tuntematon virhe</string>

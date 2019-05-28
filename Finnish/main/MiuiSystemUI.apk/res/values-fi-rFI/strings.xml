@@ -308,6 +308,7 @@
      <string name="face_unlock_down">Nosta päätäsi</string>
      <string name="face_unlock_identify_error">Tapahtui tunnistusvirhe</string>
      <string name="face_unlock_not_found">Sinua ei voitu tunnistaa</string>
+     <string name="face_unlock_not_roi">Pidä kasvosi kehyksen sisällä</string>
      <string name="face_unlock_offset_bottom">Laskepuhelintasi hieman</string>
      <string name="face_unlock_offset_left">Liiku oikealle</string>
      <string name="face_unlock_offset_right">Liiku vasemmalle</string>
@@ -907,7 +908,7 @@ d. MMMM'ta'"</string>
      <string name="structure_face_unlock_tof_covered">Kasvojen tietoja ei voitu lisätä. Siirry kauemmaksi näytöstä.</string>
      <string name="switch_bar_off">Pois käytöstä</string>
      <string name="switch_bar_on">Käytössä</string>
-     <string name="switch_system_user">Avaa Ensimmäinen tila</string>
+     <string name="switch_system_user">Takaisin Ensimmäiseen tilaan</string>
      <string name="system_ui_tuner">Järjestelmän UI-viritin</string>
      <string name="theme">Teema</string>
      <string name="thermal_shutdown_dialog_message">"Puhelimesi oli liian kuuma, jonka takia se sammutti itsensä viilentyäkseen. Puhelimesi toimii nyt normaalisti.

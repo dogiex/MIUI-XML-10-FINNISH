@@ -114,6 +114,9 @@
         <item quantity="other">Avattiin Viimeaikaiset, käytettävissä olevat sovellukset: %d. Pyyhkäise ylös poistaaksesi, pyyhkäise alas lukitaksesi.</item>
         <item quantity="one">Avattiin Viimeaikaiset, käytettävissä oleva sovellus: %d. Pyyhkäise ylös poistaaksesi, pyyhkäise alas lukitaksesi.</item>
     </plurals>
+    <plurals name="aod_dual_togother_city">
+        <item quantity="other">" %1$s Tunti %2$s"</item>
+    </plurals>
     <plurals name="settings_toggle_position_divider_page">
         <item quantity="other">%1$d nappulaa näytetään Ilmoitusalueella</item>
         <item quantity="one">%1$d nappula näytetään Ilmoitusalueella</item>
