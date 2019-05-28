@@ -368,7 +368,7 @@ Kun olet laittanut tiedoston \"music.mp3\" SD-kortin hakemistoon, napauta näytt
   <string name="cit_sd_unmount">Poista SD-kortti</string>
   <string name="cit_sd_unmount_sucess">SD-kortti poistettu</string>
   <string name="cit_signature_check_label">allekirjoituksen tarkistus:</string>
-  <string name="cit_sim_check_summary">Vahvista, että alla näkyvä SIM-kortin tila ja tiedot on oikein</string>
+  <string name="cit_sim_check_summary">Vahvista, että alla näkyvä SIM-kortin tila ja tiedot on oikein, jos laitteessa on kaksi SIM-korttipaikkaa, vain kaksi SIM-korttia voi olla olemassa ja jos niillä on oikeat tilatiedot voi läpäistä testin</string>
   <string name="cit_sim_check_title">SIM-kortti</string>
   <string name="cit_sim_error_unknown">Tuntematon</string>
   <string name="cit_sim_network_operator">Verkon palveluntarjoaja:</string>
