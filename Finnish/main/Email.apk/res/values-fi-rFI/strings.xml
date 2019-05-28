@@ -9,6 +9,7 @@
   <string name="notify_channel_no_disterb">Älä häiritse -tila</string>
   <string name="notify_channel_permission_notice">Ilmoituksen muistutuksen käyttöoikeus</string>
   <string name="notify_channel_send_fail">Epäonnistuneen lähetyksen muistutus</string>
+  <string name="notify_channel_service">Taustasynkronoinnin muistutus</string>
   <string name="show_more_attachment">Lisää liitetiedostoja</string>
   <string name="update_to_wps_mail">Nauti WPS Mailin avulla useammasta ominaisuudesta</string>
   <!-- // 8.9.17 -->
@@ -184,6 +185,10 @@
   <string name="always_bcc_myself">Lähetä piilokopio itselleni</string>
   <string name="always_show_images">Näytä kuvat aina tältä lähettäjältä</string>
   <string name="app_name">Sähköposti</string>
+  <string name="appraise_des">Teemme paljon töitä tuotteiden kehittämiseen miellyttääksemme sinua. Tue meitä antamalla kommenttisi.</string>
+  <string name="appraise_good">Ylistä ja rohkaise</string>
+  <string name="appraise_ignore">Väliaikainen arviointi</string>
+  <string name="appraise_negative">Negatiivinen kommentti</string>
   <string name="archive">Arkistoi</string>
   <string name="archived">Arkistoitu</string>
   <string name="att_download_failed_content">Viestin liitetiedoston lataaminen epäonnistui.</string>
@@ -533,10 +538,12 @@
   <string name="gmail_server_authorization_deleted">Tilin varmentaminen epäonnistui. Yritä lisätä tämä tili uudelleen.p</string>
   <string name="gmail_web_login_go">OK</string>
   <string name="gmail_web_login_required_message">Kirjaudu Gmail-tiliin</string>
+  <string name="have_auth_code">Kirjaudu sisään koodilla</string>
   <string name="header_category_account">Tilit</string>
   <string name="header_category_other">Palaute</string>
   <string name="header_label_general_preferences">Yleistä</string>
   <string name="help_and_info">Ohje</string>
+  <string name="help_me_get_qq_auth">Auta minua saamaan QQ-vahvistuskoodi</string>
   <string name="hide_elided">▼ Piilota lainattu teksti</string>
   <string name="hide_password">Piilota salasana</string>
   <string name="hierarchical_folder_parent_top">%1$s∕%2$s∕</string>
@@ -730,6 +737,7 @@ Kokeile toista postilaatikkoa."</string>
   <string name="one_day">1 päivä</string>
   <string name="one_month">1 kuukausi</string>
   <string name="one_week">1 viikko</string>
+  <string name="open_androidp_warning">Avoin 9.0 Epävirallinen SDK Varoitus</string>
   <string name="open_calendar_and_contacts_permission">Salli Sähköpostin käyttää yhteystietoja ja kalenteritietoja Asetuksissa</string>
   <string name="open_external_storage_and_calendar_permission">Salli Sähköpostin käyttää tallennustilaa ja kalenteritietoja Asetuksissa</string>
   <string name="open_external_storage_and_contacts_and_calendar_permission">Salli Sähköpostin käyttää tallennustilaa, yhteystietoja ja kalenteritietoja Asetuksissa</string>
@@ -847,7 +855,7 @@ vastaanottaaksesi muistutuksia maksuista ja matkoista"</string>
   <string name="preview_attachment">Esikatsele</string>
   <string name="previous_action">Takaisin</string>
   <string name="print">Tulosta</string>
-  <string name="privacy_des">日志信息包含电子邮件应用打印的调试信息及您的设备信息，用于定位您所反馈的问题。选择下方的“%1$s”表示您已阅读并同意小米的《%2$s》</string>
+  <string name="privacy_des">Lokitiedot sisältää debuggaustiedot, jotka sähköpostisovellus on tulostanut ja tiedot laitteestasi paikantaaksemme palautteesi kysymykset. Valitsemalla \"%1$s\" olet lukenut ja hyväksynyt meidän 《%2$s》</string>
   <string name="privacy_policy">Tietosuojakäytäntö</string>
   <string name="prompt_title">Ilmoitus</string>
   <string name="protocol_eas">eas</string>
@@ -876,11 +884,13 @@ vastaanottaaksesi muistutuksia maksuista ja matkoista"</string>
   <string name="qq_bar_send_message">Lähetä tekstiviesti</string>
   <string name="qq_login_basecode">Kirjaudutaan QQ Sähköpostiin selaimessa. Syötä salasanasi.</string>
   <string name="qq_login_get_auth">Ota salasanan suojaaminen käyttöön jos et saa tekstiviestiä</string>
+  <string name="qq_login_notice">Vihje: Jos olet määrittänyt riippumattoman salasanan, sinun täytyy antaa riippumaton salasana päästääksesi sähköpostiin.</string>
   <string name="qq_login_open_imap">Napauta \"Apua\" ottaaksesi IMAP/SMTP käyttöön</string>
   <string name="qq_login_origin_setting">Kirjaudu syöttämällä käyttäjänimi ja salasana &gt;</string>
   <string name="qq_login_send_message">Napautama \"Lähetä tekstiviesti\" saadaksesi vahvistuskoodin</string>
   <string name="qq_login_webview">Kirjautuessasi QQ sovellukseen verkossa, napauta kirjaudu sisään käyttäen salasanaa.</string>
   <string name="qq_next_generation_auth_toast">Ota salasanan suojaaminen käyttöön selaimessasi</string>
+  <string name="qq_pwd_or_qq_auth_code">QQ-vahvistuskoodi tai sähköpostin salasana</string>
   <string name="qq_uthentication_failed">Todennus epäonnistui, kirjaudu sisään uudelleen</string>
   <string name="qq_verify_code">(QQ-vahvistuskoodi vaaditaan)</string>
   <string name="qq_webview_loading">Odota hetki…</string>

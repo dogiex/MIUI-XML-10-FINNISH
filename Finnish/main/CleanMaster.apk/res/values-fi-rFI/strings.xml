@@ -414,6 +414,8 @@
   <string name="notification_title_of_garbage_cleanup">%s edestä roskatiedostoja</string>
   <string name="notify_when">Saa ilmoitus, kun roskien koko yltää 100Mt</string>
   <string name="ok">OK</string>
+  <string name="one_tap_clean_GB">%s Gt</string>
+  <string name="one_tap_clean_M">%d Mt</string>
   <string name="onekeyclean_boost_available">%s käytettävissä</string>
   <string name="onekeyclean_boost_cleaned">Tyhjennettiin %s</string>
   <string name="onekeyclean_boosted_title">Tyhjennettiin onnistuneesti</string>

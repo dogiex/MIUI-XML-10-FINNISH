@@ -238,6 +238,14 @@
         <item>50 %</item>
         <item>100 %</item>
     </string-array>
+    <string-array name="bluetooth_a2dp_codec_aptxadaptive_mode_summaries">
+        <item>Korkealaatuinen tila (Oletus)</item>
+        <item>Matalan viiveen tila</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_aptxadaptive_mode_titles">
+        <item>Korkealaatuinen tila (Oletus)</item>
+        <item>Matalan viiveen tila</item>
+    </string-array>
     <string-array name="bluetooth_a2dp_codec_bits_per_sample_summaries">
         <item>Käytä Järjestelmän Valintaa (Oletus)</item>
         <item>16 bittiä/näyte</item>

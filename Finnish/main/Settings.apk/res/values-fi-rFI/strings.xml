@@ -904,6 +904,9 @@ Muodostetaanko pari tämän laitteen kanssa?"</string>
   <string name="bluetooth_scan_for_devices">Etsi laitteita</string>
   <string name="bluetooth_search_for_devices">Päivitä</string>
   <string name="bluetooth_searching_for_devices">Haetaan…</string>
+  <string name="bluetooth_select_a2dp_codec_aptxadaptive_mode">Bluetooth Audio aptX mukautuva tila</string>
+  <string name="bluetooth_select_a2dp_codec_aptxadaptive_mode_dialog_title">"Käynnistä Bluetooth Audio
+aptX-Mukautuva: Koodekkitila"</string>
   <string name="bluetooth_select_a2dp_codec_bits_per_sample">Bluetooth-äänen bittiä/näyte-arvo</string>
   <string name="bluetooth_select_a2dp_codec_bits_per_sample_dialog_title">"Valitse Bluetooth-äänen koodekki:
 Bittiä/näyte"</string>
