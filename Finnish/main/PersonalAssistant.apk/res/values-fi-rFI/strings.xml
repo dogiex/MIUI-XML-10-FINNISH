@@ -23,7 +23,7 @@
   <string name="miot_device_all_device">Kaikki laitteet</string>
   <string name="miot_device_cancel">Peruuta</string>
   <string name="miot_device_card_title">Mi Home</string>
-  <string name="miot_device_click_show_detail">Napauta lisätietoja älykkäistä kodinkoneista</string>
+  <string name="miot_device_click_show_detail">.(Napauta lisätietoja älykkäistä kodinkoneista)</string>
   <string name="miot_device_click_show_img">Näytä kuva napauttamalla</string>
   <string name="miot_device_cta_and"> ja </string>
   <string name="miot_device_cta_end">. (</string>
@@ -44,6 +44,9 @@
   <string name="miot_device_mijia_uninstall_title">Ei asennettu</string>
   <string name="miot_device_network_error">Ei yhteyttä</string>
   <string name="miot_device_no_recent_frame">Näytä napauttamalla</string>
+  <string name="miot_device_personal_assistant_eula">Käyttöehdot</string>
+  <string name="miot_device_personal_assistant_eula_priv">" ja Sovellusholvin "</string>
+  <string name="miot_device_personal_assistant_priv">Tietosuojakäytäntö</string>
   <string name="miot_device_show_frame_toast">Näytä kuva</string>
   <string name="miot_device_shrink_list">Tiivistä</string>
 
@@ -52,7 +55,6 @@
   <string name="access_change_text" formatted="false">当前选中的是第%d项, 与第%d项交换位置.</string>
   <string name="access_select">Valittiin %s</string>
   <string name="access_unselect">Poistettiin valinta %s</string>
-  <string name="accessibility_title">Sovellusholvi</string>
   <string name="accordingto_position">Tunnista usein käytetyt paikat käyttämällä GPS:ää</string>
   <string name="account_address">Osoite</string>
   <string name="add_stock">Lisää</string>
@@ -157,12 +159,15 @@
   <string name="book_add_dialog_continue">Älä poistu</string>
   <string name="book_add_dialog_exit">Poistu</string>
   <string name="book_add_dialog_save">Hylätäänkö muutokset ja poistutaanko nyt?</string>
+  <string name="book_arr_city">Määränpää</string>
+  <string name="book_arr_station">Lisää määränpää</string>
   <string name="book_assistant">Varaa matka</string>
   <string name="book_assistant_empty">Ei varauksia vielä.</string>
   <string name="book_assistant_go">Lähtö |  </string>
   <string name="book_assistant_todaybook">Matkat tänään</string>
   <string name="book_assistant_train_start">Lähtöaika</string>
   <string name="book_assistant_train_started">Lähtee asemalta</string>
+  <string name="book_dep_city">Alkuperä</string>
   <string name="book_store">Näytä varaukset</string>
   <string name="book_update">Päivitys on saatavilla</string>
   <string name="btn_back">Takaisin</string>
@@ -176,6 +181,8 @@
   <string name="call">Soita</string>
   <string name="card_agenda_settings">Asetukset</string>
   <string name="card_already_fly">Lähti jo</string>
+  <string name="card_banner_close_never">Älä muistuta uudelleen</string>
+  <string name="card_banner_close_tomorrow">Muistuta huomenna</string>
   <string name="card_book_all">Kaikki varaukset</string>
   <string name="card_book_nodata">Ei varauksia</string>
   <string name="card_bookall_flight">Lentoliput</string>
@@ -563,7 +570,10 @@ Useita tilauksia, jotka lähetetään SF Expressin kautta Taobaon, Tmallin ja Xi
   <string name="favorite_important">Tärkeä</string>
   <string name="favorite_label">Suosikit</string>
   <string name="favorite_main">Historia</string>
-  <string name="favorite_mark_important">Merkattu tärkeäksi</string>
+  <string name="favorite_title_limit">Anna enintään 40 merkkiä</string>
+  <string name="favorite_title_modify">Muokkaa</string>
+  <string name="favorite_title_modify_failed">Otsikkoa ei voitu muuttaa</string>
+  <string name="favorite_title_modify_success">Muutettiin onnistuneesti</string>
   <string name="flight">Lento</string>
   <string name="flight_num">Lentonumero</string>
   <string name="flight_num_example">Esim. CA1102</string>
@@ -783,13 +793,15 @@ Useita tilauksia, jotka lähetetään SF Expressin kautta Taobaon, Tmallin ja Xi
   <string name="not_installed">Ei asennettu</string>
   <string name="note_name">Luo</string>
   <string name="note_parent">Muistiot</string>
-  <string name="notification_channel_card">Kortit</string>
   <string name="notification_channel_default">Oletus</string>
+  <string name="notification_channel_default_description">Muut ilmoitukset</string>
+  <string name="notification_channel_favorite_description">Eri sovelluksien suosikkeihin lisättyjen kohteiden ilmoitukset</string>
+  <string name="notification_channel_payment_description">Maksujen ilmoitukset</string>
+  <string name="notification_channel_shopping_description">Suosikkeihin lisättyjen tuotteiden tai ostoskorisi ilmoitukset</string>
   <string name="notification_content_fail_not_support">Maksutietoja ei voitu hakea, lisää tietue manuaalisesti.</string>
   <string name="notification_content_fail_stay_longer">Pysy maksusivulla vähintään yhden sekunnin ajan</string>
   <string name="notification_content_success">%2$s CNY maksu %1$s kuluttua</string>
   <string name="notification_express_app_open">Ota käyttöön</string>
-  <string name="notification_express_content">Seuraa tilauksia käyttäen Sovellusholvia</string>
   <string name="notification_express_title">Ota kortit käyttöön ostosovelluksissa</string>
   <string name="notification_title">Lisättiin suosikkeihin</string>
   <string name="notification_title_fail">Maksua ei voitu lisätä</string>
@@ -836,7 +848,6 @@ Useita tilauksia, jotka lähetetään SF Expressin kautta Taobaon, Tmallin ja Xi
   <string name="payment_pref_source_wechat_summary">Hanki maksutiedot WeChat -sovelluksesta</string>
   <string name="payment_pref_source_wechat_title">WeChat</string>
   <string name="payment_privacy_dialog_cancel">Poistu</string>
-  <string name="payment_privacy_dialog_message">\"Maksuni\" sallii sinun kerätä laskut suurimmista maksusovelluksista yhteen paikkaan. Kaikki maksutietosi salataan ja säilytetään laitteellasi. Niitä ei synkronoida Mi Pilveen tai lähetetä toisille palvelimille. Voit poistaa \"Maksuni\" käytöstä Asetuksissa tai myös helposti poistamalla tämän kortin Sovellusholvista pysäyttääksesi tämän palvelun. Hyväksytkö?</string>
   <string name="payment_privacy_dialog_ok">Hyväksyn</string>
   <string name="payment_privacy_dialog_title">\"Maksuni\" Tietosuojakäytäntö</string>
   <string name="payment_record_add">Lisää maksu</string>
@@ -1049,11 +1060,12 @@ Useita tilauksia, jotka lähetetään SF Expressin kautta Taobaon, Tmallin ja Xi
   <string name="stock_web_lable">Osakkeet</string>
   <string name="study_parent">Opiskelu</string>
   <string name="system_favorite_dialog_link">Tietoturva &amp; yksityisyys</string>
-  <string name="system_favorite_dialog_message">Lisää suosikkejasi tänne toisista sovelluksista.</string>
-  <string name="system_favorite_dialog_negative">Peruuta</string>
-  <string name="system_favorite_dialog_positive">Salli</string>
+  <string name="system_favorite_dialog_message">Suosikit useista sovelluksista ja palveluista lisätään Sovellusholviin. Hyväksytäänkö?</string>
+  <string name="system_favorite_dialog_negative">Poistu</string>
+  <string name="system_favorite_dialog_positive">Hyväksyn</string>
   <string name="system_favorite_dialog_title_confirm">Suosikit</string>
   <string name="take_off">Lähde matkaan</string>
+  <string name="taked_off">Lähti</string>
   <string name="taxi">Taksi</string>
   <string name="taxi_book">Soita taksi</string>
   <string name="taxi_card_departure">Nykyinen sijainti</string>

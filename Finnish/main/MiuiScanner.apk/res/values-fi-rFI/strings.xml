@@ -160,7 +160,7 @@
   <string name="error_get_image">Kuvaa ei voitu hakea</string>
   <string name="error_media_storage_failure">Kuvaa ei voitu tallentaa</string>
   <string name="error_permissions">Lukijalla ei ole tarvittavia käyttöoikeuksia toimiakseen normaalisti. Siirry Asetuksiin ja tarkasta käyttöoikeudet jatkaaksesi.</string>
-  <string name="error_server_error">Palvelinvirhe</string>
+  <string name="error_server_error">Tapahtui palvelinvirhe.</string>
   <string name="fax">Faksi</string>
   <string name="feed_search_fail">Ei tuloksia, yritä uudelleen</string>
   <string name="feedback_description_camera_access">Lukija ei saa yhteyttä Kameraan</string>
@@ -169,7 +169,7 @@
   <string name="gps">Navigoi</string>
   <string name="image_file_name_format">"'lukija'_yyyyMMdd_HHmmss"</string>
   <string name="import_contact">Tuo yhteystieto</string>
-  <string name="impunity_declaration_content">Lukija tarvitsee luvan käyttää kameraasi ja ottaa kuvia. Lukijan täytyy myös yhdistää internetiin toimiakseen normaalisti. Oletetaan, että olet lukenut ja hyväksynyt %1$sTietosuojakäytäntömme%2$s, kun napautat \"Hyväksyn\"-painiketta alapuolella.</string>
+  <string name="impunity_declaration_content">Lukijan täytyy käyttää kameraasi ja käsitellä sovelluksella ottamiasi kuvia. Älä ota kuvia Lukijalla, jotka sisältävät henkilökohtaisia tietojasi. Napauttamalla \"Hyväksyn\", hyväksyt meidän Tietosuojakäytännön ja sallit Lukijan yhdistää internetiin.</string>
   <string name="impunity_declaration_negative_text">Poistu</string>
   <string name="impunity_declaration_positive_text">Salli</string>
   <string name="impunity_declaration_title">Tietosuojakäytäntö</string>
@@ -204,7 +204,7 @@
   <string name="module_title_document">Asiakirja</string>
   <string name="module_title_plant">Kasvi</string>
   <string name="module_title_shopping">Ostokset</string>
-  <string name="module_title_study">Opiskelu</string>
+  <string name="module_title_study">Kotiläksy</string>
   <string name="module_title_translation">Käännä</string>
   <string name="name">Nimi:</string>
   <string name="new_schedule">Luo tapahtuma</string>
@@ -218,6 +218,8 @@
   <string name="note">Huomautus:</string>
   <string name="open_url">Avaa URL-osoite</string>
   <string name="pailitao">淘宝拍立淘</string>
+  <string name="pay_no_tip">Älä näytä uudelleen</string>
+  <string name="pay_save_this_choose">Muista valintani</string>
   <string name="payment_text">Avaa sovelluksella %s</string>
   <string name="phone">Puhelin:</string>
   <string name="place_barcode_into_rectangle">Aseta koodi kehyksen sisälle</string>
@@ -253,11 +255,11 @@
   <string name="shopping_title">Ota tuotteesta kuva</string>
   <string name="shopping_vendor_info">Teknisen tuen tarjoaa Taobao</string>
   <string name="spaceIsLow_content">SD-kortilla ei ole tarpeeksi tallennustilaa. Vapauta tilaa.</string>
-  <string name="study_rotate_picture">Käsitellään kuvaa</string>
+  <string name="study_rotate_picture">Käsitellään kuvaa…</string>
   <string name="study_scan_result">Tulos</string>
-  <string name="study_searching">Haetaan tulosta</string>
-  <string name="study_title">Ota valokuva ongelmasta</string>
-  <string name="study_vendor_info">Powered by 作业帮</string>
+  <string name="study_searching">Haetaan tuloksia…</string>
+  <string name="study_title">Skannaa ongelma, jonka haluat ratkaista</string>
+  <string name="study_vendor_info">Powered by Zuoyebang</string>
   <string name="switch_open">Ota käyttöön</string>
   <string name="tel">Puhelin</string>
   <string name="title">Otsikko:</string>
@@ -268,6 +270,7 @@
   <string name="translate_dest_lang">Kohdekieli</string>
   <string name="translate_fail">Kääntäminen epäonnistui</string>
   <string name="translate_loading">Käännetään…</string>
+  <string name="translate_parallel_2_lines">Varmista, että teksti on samansuuntainen näytön viivojen kanssa</string>
   <string name="translate_save_fail">Muistiota ei voitu tallentaa</string>
   <string name="translate_src_lang">Lähdekieli</string>
   <string name="translate_text_compare">Vertailu</string>

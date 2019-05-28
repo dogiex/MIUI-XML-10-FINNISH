@@ -38,10 +38,6 @@
         <item>Normaali</item>
         <item>Suuri</item>
     </string-array>
-    <string-array name="stock_color_schema">
-        <item>Punainen - ylös, vihreä - alas</item>
-        <item>Vihreä - ylös, punainen - alas</item>
-    </string-array>
     <string-array name="keyword_recommend_unit">
         <item>要</item>
         <item>只要</item>
@@ -61,5 +57,9 @@
     </string-array>
     <string-array name="sms_exclude_category">
         <item>还款</item>
+    </string-array>
+    <string-array name="stock_color_schema">
+        <item>Punainen - ylös, vihreä - alas</item>
+        <item>Vihreä - ylös, punainen - alas</item>
     </string-array>
 </resources>

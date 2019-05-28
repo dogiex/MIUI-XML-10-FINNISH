@@ -310,6 +310,7 @@
   <string name="favorite_succeed">Lisättiin suosikkeihin</string>
   <string name="favorite_tracks">Suosikit</string>
   <string name="favorites">Suosikit</string>
+  <string name="fcm_fallback_notification_channel_label">Sekalainen</string>
   <string name="feed_back">Palaute</string>
   <string name="file_not_found">Tiedostoa ei ole olemassa</string>
   <string name="filter_by_duration">Pituuden mukaan</string>
@@ -331,6 +332,7 @@
   <string name="format_not_support">Tämä tiedostomuoto ei ole tuettu.</string>
   <string name="format_unsupported_or_corrupted">Tämä tiedostomuoto ei ole tuettu tai tiedosto on korruptoitunut</string>
   <string name="fragment_title_artist_album">Albumit</string>
+  <string name="gcm_fallback_notification_channel_label">Sekalainen</string>
   <string name="handle_later">Ei nyt</string>
   <string name="hd_quality_audio">HD-äänenlaatu</string>
   <string name="headset_and_audio_effect_category">Kuulokkeet &amp; äänitehosteet</string>
@@ -559,6 +561,7 @@
   <string name="pulluprefreshrecyclerview_loading_finished">Lataaminen valmis</string>
   <string name="pulluprefreshrecyclerview_loading_running">Ladataan…</string>
   <string name="queue_is_empty">Toistojono on tyhjä.</string>
+  <string name="ready_to_play">Seuraavaksi</string>
   <string name="recently_played">Viimeksi soitetut</string>
   <string name="recently_played_songs">Viimeksi</string>
   <string name="recommended_file_size_download_in_mobile">Käytetäänkö %s mobiilidataa tämän tiedoston lataamiseen?</string>

@@ -4,6 +4,10 @@
         <item quantity="other">%d päivän kuluttua</item>
         <item quantity="one">%d päivän kuluttua</item>
     </plurals>
+    <plurals name="book_start_interval">
+        <item quantity="other">Lähtee %d päivän kuluttua</item>
+        <item quantity="one">Lähtee %d päivän kuluttua</item>
+    </plurals>
     <plurals name="days_ago">
         <item quantity="other">%1$d pv sitten</item>
     </plurals>
@@ -50,16 +54,16 @@
         <item quantity="one">Poistetaanko %s valittu kohde?</item>
     </plurals>
     <plurals name="sms_day_suffix">
-        <item quantity="other">%d päivän kuluttua</item>
-        <item quantity="one">%d päivän kuluttua</item>
+        <item quantity="other">Lähtee %d päivän kuluttua</item>
+        <item quantity="one">Lähtee %d päivän kuluttua</item>
     </plurals>
     <plurals name="sms_hour_suffix">
-        <item quantity="other">%d tunnin kuluttua</item>
-        <item quantity="one">%d tunnin kuluttua</item>
+        <item quantity="other">Lähtee %d tunnin kuluttua</item>
+        <item quantity="one">Lähtee %d tunnin kuluttua</item>
     </plurals>
     <plurals name="sms_minute_suffix">
-        <item quantity="other">%d minuutin kuluttua</item>
-        <item quantity="one">%d minuutin kuluttua</item>
+        <item quantity="other">Lähtee %d minuutin kuluttua</item>
+        <item quantity="one">Lähtee %d minuutin kuluttua</item>
     </plurals>
     <plurals name="sms_title_hours">
         <item quantity="other">%d tuntia</item>

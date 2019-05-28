@@ -70,9 +70,11 @@ Pitää kohteen terävänä ja sumentaa taustan."</string>
   <string name="accessibility_shutter_button">Sulkijan painike</string>
   <string name="accessibility_skin_beautify_button">Ihon Kaunistajan painike</string>
   <string name="accessibility_stereo_button">Tarkennuksen säätö</string>
-  <string name="accessibility_video_capture_button">VideoCaptureButton</string>
-  <string name="accessibility_video_module_picker">VideoModulePicker</string>
-  <string name="accessibility_video_pause_button">VideoPauseButton</string>
+  <string name="accessibility_ultra_wide_off">Poistettiin Ultralaajakulmatila käytöstä</string>
+  <string name="accessibility_ultra_wide_on">Otettiin Ultralaajakulmtatila käyttöön</string>
+  <string name="accessibility_video_capture_button">Kuvapainike videon nauhoittamiseen</string>
+  <string name="accessibility_video_pause_button">pysäytä nauhoitus</string>
+  <string name="accessibility_video_resume_button">jatka nauhoitusta</string>
   <string name="accessibility_zoom_button">Zoom-tila</string>
   <string name="ai_scene_mode_use_hint_text">"AI-kamera tunnistaa näkymän automaattisesti
 ja optimoi valokuvasi näiden tietojen perusteella"</string>
@@ -222,7 +224,9 @@ ja optimoi valokuvasi näiden tietojen perusteella"</string>
   <string name="face_score_info">Pisteet: %.1f</string>
   <string name="front_camera_hint_text_place">"Selfien ottaminen on helpompaa
 jos käännät puhelimesi"</string>
-  <string name="front_camera_hint_text_rotate">Käännä puhelimesi</string>
+  <string name="front_camera_hint_text_rotate">Käännä puhelintasi</string>
+  <string name="hand_gesture_open_tip">Näytä kämmentä kameralle käynnistääksesi ajastimen</string>
+  <string name="hand_gesture_tip">Kämmensulkija</string>
   <string name="hibernate_hint">Herätä Kamera napauttamalla näyttöä</string>
   <string name="hine_hht">"Vähäisellä valoisuudella kamera ottaa usean kuvan
 ja luo otoksen, jossa kuvassa on vähiten kohinaa."</string>
@@ -518,8 +522,8 @@ ja tuo henkilöt esiin."</string>
   <string name="pref_camera_touchafaec_entry_on">Päällä</string>
   <string name="pref_camera_ubifocus_title">Uudelleentarkennus</string>
   <string name="pref_camera_ultra_wide_ldc_description">Korjaa vääristyneet kohteet automaattisesti</string>
-  <string name="pref_camera_ultra_wide_ldc_title">Korjaa vääristymät laajakulmaotoksissa</string>
-  <string name="pref_camera_ultra_wide_mode_title">Laajakulmatila</string>
+  <string name="pref_camera_ultra_wide_ldc_title">Korjaa vääristymät ultralaajakulmaotoksissa</string>
+  <string name="pref_camera_ultra_wide_mode_title">Ultralaajakulmatila</string>
   <string name="pref_camera_video_bokeh_off">Videon bokeh pois käytöstä</string>
   <string name="pref_camera_video_bokeh_on">Videon bokeh käytössä</string>
   <string name="pref_camera_video_duration_entry_10">10 minuuttia</string>
@@ -543,7 +547,7 @@ ja tuo henkilöt esiin."</string>
   <string name="pref_camera_zoom_mode_entry_high_pixel">HEIKKO VALAISTUS</string>
   <string name="pref_camera_zoom_mode_entry_standard">TAVALLINEN</string>
   <string name="pref_camera_zoom_mode_entry_tele">TELE</string>
-  <string name="pref_camera_zoom_mode_entry_ultra">Laajakulma</string>
+  <string name="pref_camera_zoom_mode_entry_ultra">ULTRA LAAJA</string>
   <string name="pref_camera_zoom_mode_entry_wide">LAAJA</string>
   <string name="pref_camera_zoom_mode_title">LINSSI</string>
   <string name="pref_camera_zsl_entry_off">Pois päältä</string>
@@ -663,12 +667,12 @@ ja tuo henkilöt esiin."</string>
   <string name="ultra_pixel_photography_48mp_open_tip">48MP</string>
   <string name="ultra_wide_bokeh_close_tip">Kokovartalontila pois käytöstä</string>
   <string name="ultra_wide_bokeh_open_tip">Kokovartalontila</string>
-  <string name="ultra_wide_close_tip">Laajakulmatila pois käytöstä</string>
-  <string name="ultra_wide_mode">Laajakulma</string>
+  <string name="ultra_wide_close_tip">Ultralaajakulmatila pois käytöstä</string>
+  <string name="ultra_wide_mode">Ultralaajakulma</string>
   <string name="ultra_wide_mode_use_hint_text">"Käytä tätä tilaa sisällyttääksesi kuvaasi isomman näkymän.
 Laajakulmatila tulee apuun, kun et voi liikkua kauemmaksi kohteestasi."</string>
-  <string name="ultra_wide_open_tip">Laajakulmatila</string>
-  <string name="ultra_wide_recommend_tip_hint">Kokeile laajakulmatilaa</string>
+  <string name="ultra_wide_open_tip">Ultralaajakulmatila</string>
+  <string name="ultra_wide_recommend_tip_hint">Kokeile Ultralaajakulmatilaa</string>
   <string name="user_agree">Hyväksy</string>
   <string name="user_agreement2">Palveluehdot</string>
   <string name="user_agreement4">Tietosuojakäytäntö</string>
