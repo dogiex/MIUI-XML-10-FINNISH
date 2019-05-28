@@ -227,6 +227,7 @@
   <string name="toolbar_undo_description">Kumoa</string>
   <string name="trash_folder_name">Roskakori</string>
   <string name="trash_folder_reminder">Muistiot jotka poistat, poistetaan pysyvästi 30 päivän kuluttua.</string>
+  <string name="unclassfied_folder_name">Luokittelematon</string>
   <string name="undo">Kumoa</string>
   <string name="unknown_source">Tuntematon lähde</string>
   <string name="widget_content_loading">Odota hetki…</string>
