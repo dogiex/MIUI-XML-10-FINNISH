@@ -535,7 +535,7 @@ Tarkista verkkoyhteys ja yritä uudelleen."</string>
   <string name="search_calendar_settings">Kalenteri;Agenda;Muistutus</string>
   <string name="search_menu_title">Haku</string>
   <string name="select_date">Siirry päivämäärään</string>
-  <string name="set_as_wallpaper">设为壁纸</string>
+  <string name="select_today_tip">Tänään</string>
   <string name="setting_about_calendar_version">Kalenterin versio:</string>
   <string name="setting_about_imei">IMEI:</string>
   <string name="setting_about_miui_version">MIUI versio:</string>
@@ -621,6 +621,7 @@ Voit myös lisätä muistutuksia, jotta et menetä mitään tärkeää."</string
   <string name="timezone_label">Aikavyöhyke</string>
   <string name="today">Tänään</string>
   <string name="today_at_time_fmt">Tänään klo %s</string>
+  <string name="today_icon_voice_contentdescription">Takaisin tähän päivään</string>
   <string name="today_no_events">Ei tapahtumia</string>
   <string name="tomorrow">Huomenna</string>
   <string name="tomorrow_at_time_fmt">Huomenna klo %s</string>

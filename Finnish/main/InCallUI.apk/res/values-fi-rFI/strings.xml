@@ -33,6 +33,7 @@
   <string name="call_button_tools_text">Toiminnot</string>
   <string name="call_contacts_deny_permission_msg">Olet kieltänyt yhteystietojen lukuoikeuden, yhteystietojen tietoja ei voi näyttää.</string>
   <string name="call_description_recording">Nauhoittaa…</string>
+  <string name="call_not_support_high_frequency_click">Älä napauta tätä painiketta niin usein</string>
   <string name="call_extension_conference_mode">Konferenssipuhelu-tila</string>
   <string name="call_record_wait_label">Odottaa</string>
   <string name="call_recording_deny_permission_msg">Olet kieltänyt nauhoituksen käyttöoikeuden, ei voi nauhoittaa.</string>

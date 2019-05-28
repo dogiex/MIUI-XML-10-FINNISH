@@ -395,7 +395,7 @@ Et menetä mitään sovellustietoja."</string>
   <string name="background_traffic">Tausta %s</string>
   <string name="backsound_set_hint">Asetetaanko poissaoloviestisi: %s?</string>
   <string name="battery_capacity_title">Akun kapasiteetti</string>
-  <string name="battery_charge_estimating">Lasketaan…</string>
+  <string name="battery_charge_estimating">Lasketaan</string>
   <string name="battery_charge_full">Ladattu</string>
   <string name="battery_charging_prompt">Ladataan</string>
   <string name="battery_desc_apps">Sovelluksen kuluttama virta</string>
@@ -851,7 +851,7 @@ Se lisätään poikkeuksiin, mutta jo ennestään estetyt kohteet ei ilmesty puh
   <string name="firewall_temp_rule_reason">%2$s rajoitti internetyhteyden kohteelle %1$s​</string>
   <string name="firewall_wifi">Wi-Fi</string>
   <string name="firewall_wifi_dialog_message">Asennettu sovellus ei voi yhdistää internetiin käyttämällä Wi-Fi:ä, kun tämä kytkin on pois päältä.</string>
-  <string name="first_aid_activity_title">Ensiapu</string>
+  <string name="first_aid_activity_title">Ratkaise ongelmia</string>
   <string name="first_aid_card_airplane_button">Poista käytöstä</string>
   <string name="first_aid_card_airplane_summary">Poista Lentokonetila käytöstä soittaaksesi puheluita ja yhdistääksesi verkkoon</string>
   <string name="first_aid_card_airplane_title">Puheluja ei voi soittaa tai verkkoon ei voi yhdistää</string>
@@ -886,7 +886,7 @@ Se lisätään poikkeuksiin, mutta jo ennestään estetyt kohteet ei ilmesty puh
   <string name="first_aid_item4_content">Akku</string>
   <string name="first_aid_item5_content">Muut ongelmat</string>
   <string name="first_aid_result_feedback_button">Lähetä</string>
-  <string name="first_aid_result_feedback_summary">Ensiaputarkistus ei löytänyt yhtään ongelmaa. Minä kuitenkin huomasin joitakin.</string>
+  <string name="first_aid_result_feedback_summary">Ongelmia ei löytynyt. Minä kuitenkin huomasin joitakin.</string>
   <string name="first_aid_result_feedback_title">Palaute</string>
   <string name="first_aid_result_summary_normal">Kaikki näyttää hyvältä!</string>
   <string name="first_aid_scanning_item1">Tarkistetaan suorityskykyongelmia…</string>
@@ -2158,7 +2158,7 @@ jonka määritit manuaalisesti (%2$s). Vaihdetaanko SIM-kortin sijainniksi %3$s?
   <string name="summary_do_not_disturb">Käytät Älä häiritse -tilaa.</string>
   <string name="summary_eye_shield">Poista Lukutila käytöstä palataksesi takaisin oletusasetuksiin.</string>
   <string name="summary_find_device">Paikanna ja lukitse laitteesi mistä tahansa</string>
-  <string name="summary_first_aid_kit">Korjaa ongelmat ensiapupakkauksemme avulla</string>
+  <string name="summary_first_aid_kit">Ratkaise laitteesi ongelmat nyt</string>
   <string name="summary_flow_notification">Näytä kuukausittainen datan käyttötilastot ilmoitusalueella</string>
   <string name="summary_flow_purchase">Näyttää, että dataa ei ole paljoa jäljellä. Osta dataa, jotta pysyt yhteydessä.</string>
   <string name="summary_flow_verify_failed">Säädä automaattisesti datan käyttöä välttääksesi lisämaksuilta</string>
@@ -2339,7 +2339,7 @@ Tässä ohjeet:
   <string name="title_do_not_disturb">Etkö kuule soittoääntäsi?</string>
   <string name="title_eye_shield">Näytön väri ei näytä oikealta?</string>
   <string name="title_find_device">Etsi laite</string>
-  <string name="title_first_aid_kit">Ensiapu</string>
+  <string name="title_first_aid_kit">Ratkaise ongelmat</string>
   <string name="title_flow_notification">Mobiilidatan ilmoitus</string>
   <string name="title_flow_purchase">Osta mobiilidataa</string>
   <string name="title_flow_rank">Mobiilidatan käyttö</string>
