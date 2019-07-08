@@ -2192,7 +2192,6 @@ Varmuuskopioita ei vähennetä Drive-tallennustilan kiintiöstäsi. Suuria ja ke
   <string name="gesture_preference_title">Liikkeet</string>
   <string name="gesture_setting_off">Ei käytössä</string>
   <string name="gesture_setting_on">Käytössä</string>
-  <string name="gesture_wakeup_title">Herätä näyttö tuplanapauttamalla</string>
   <string name="getConfiguredNetworks">getConfiguredNetworks</string>
   <string name="getConnectionInfo">getConnectionInfo</string>
   <string name="giga_hertz">GHz</string>
