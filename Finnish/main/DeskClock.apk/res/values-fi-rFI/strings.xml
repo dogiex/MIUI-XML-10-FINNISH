@@ -10,9 +10,11 @@
   <string name="module_download_cancel">Ei kiitos</string>
   <string name="module_download_data_msg">Kellon täytyy yhdistää internetiin ladatakseen äänitiedostoja MIUI 10:n säähälytyksiä ja ympäristöääniä ajastimia varten. Mobiilidataasi käytetään 20 Mt verran. Hyväksytkö?</string>
   <string name="module_download_data_msg_golbal">Kellon täytyy ladata äänitiedostoja MIUI 10:n säähälytyksiä ja ympäristöääniä ajastimia varten. Mobiilidataasi käytetään 20 Mt verran. Hyväksytkö?</string>
+  <string name="module_download_data_msg_replace">Päivitetty ääni älykkäille hälytyksille (≈20 Mt) on saatavilla. Yhdistetäänkö verkkoon ja ladataanko käyttäen mobiilidataa?</string>
   <string name="module_download_fail">Ylimääräistä äänitiedostoa ei voitu ladata</string>
   <string name="module_download_msg">Kellon täytyy yhdistää internetiin ladatakseen äänitiedostoja MIUI 10:n säähälytyksiä ja ympäristöääniä ajastimia varten. Hyväksytkö?</string>
   <string name="module_download_msg_golbal">Kellon täytyy ladata äänitiedostoja MIUI 10:n säähälytyksiä ja ympäristöääniä ajastimia varten. Hyväksytkö?</string>
+  <string name="module_download_msg_replace">Päivitetty ääni älykkäille hälytyksille on saatavilla. Yhdistetäänkö verkkoon ja ladataanko nyt?</string>
   <string name="module_download_no_network">Verkkoyhteyttä ei voitu muodostaa. Tarkista verkkoasetuksesi ja yritä uudelleen.</string>
   <string name="module_download_ok">Hyväksyn</string>
   <string name="module_download_success">Ylimääräinen äänitiedosto ladattiin onnistuneesti</string>
@@ -49,6 +51,23 @@
   <string name="worldcolock_timezone_gap">%s T</string>
   <string name="worldcolock_timezone_local">Sama kuin paikallinen aika</string>
   <!-- miui 10 valmis -->
+  <string name="abc_action_bar_home_description">Siirry etusivulle</string>
+  <string name="abc_action_bar_up_description">Siirry ylös</string>
+  <string name="abc_action_menu_overflow_description">Lisää</string>
+  <string name="abc_action_mode_done">Valmis</string>
+  <string name="abc_activity_chooser_view_see_all">Näytä kaikki</string>
+  <string name="abc_activitychooserview_choose_application">Valitse sovellus</string>
+  <string name="abc_capital_off">POIS KÄYTÖSTÄ</string>
+  <string name="abc_capital_on">KÄYTÖSSÄ</string>
+  <string name="abc_search_hint">Haku…</string>
+  <string name="abc_searchview_description_clear">Tyhjennä kysely</string>
+  <string name="abc_searchview_description_query">Hakulauseke</string>
+  <string name="abc_searchview_description_search">Haku</string>
+  <string name="abc_searchview_description_submit">Lähetä kysely</string>
+  <string name="abc_searchview_description_voice">Puhehaku</string>
+  <string name="abc_shareactionprovider_share_with">Jakaminen:</string>
+  <string name="abc_shareactionprovider_share_with_application">Jaa sovelluksessa %s</string>
+  <string name="abc_toolbar_collapse_description">Kutista</string>
   <string name="add_alarm">Lisää hälytys</string>
   <string name="add_clock">Lisää kello</string>
   <string name="add_timezone_title">Lisää aikavyöhyke</string>
@@ -116,6 +135,12 @@
   <string name="invalid_time">Virheellinen aika: %3$s %1$d: %2$d</string>
   <string name="invalid_timer_length">Ajastimen pituus on virheellinen</string>
   <string name="keep_screen_on">Pidä näyttö päällä</string>
+  <string name="korea_permission_calendar">Kalenteri</string>
+  <string name="korea_permission_calendar_desc">Pääsy tapahtumatietoihin ja muistutuksien lähettämiseen</string>
+  <string name="korea_permission_phone">Puhelin</string>
+  <string name="korea_permission_phone_desc">Pääsy laitteen tilaan ja muistutuksien mykistämiseen puheluiden aikana</string>
+  <string name="korea_permission_storage">Tallennustila</string>
+  <string name="korea_permission_storage_desc">Hälytyksien tallentamiseen</string>
   <string name="label">Aseta nimike</string>
   <string name="label_pref_summary">Nimeä tämä hälytys</string>
   <string name="lap">Kierros</string>
@@ -166,6 +191,7 @@
   <string name="reset">Nollaa</string>
   <string name="revert">Palauta</string>
   <string name="search_alarm_clock_keywords">Herätys;herätyskello;Herätys</string>
+  <string name="search_menu_title">Haku</string>
   <string name="search_stopwatch_keywords">Sekuntikello</string>
   <string name="search_timer_keywords">Ajastin</string>
   <string name="search_worldclock_keywords">Aika;Maailmankello;Kello</string>

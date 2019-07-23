@@ -56,12 +56,16 @@
         <item quantity="other">%d piilotettua kuvaa on synkronoimatta. Kirjaudu ulos, kun kaikki kohteet on synkronoitu pitääksesi ne; muussa tapauksessa kohteet poistetaan.</item>
         <item quantity="one">%d piilotettu kuva on synkronoimatta. Kirjaudu ulos, kun kaikki kohteet on synkronoitu pitääksesi ne; muussa tapauksessa kohteet poistetaan.</item>
     </plurals>
-    <plurals name="micloud_main_resume_sync_hour">
-        <item quantity="other">Jatka synkronointia %d tunnin kuluttua</item>
-        <item quantity="one">Jatka synkronointia %d tunnin kuluttua</item>
+    <plurals name="micloud_manual_pause_and_resume">
+        <item quantity="other">Synkronointi pysäytetty. Jatka synkronointia %d minuutin jälkeen</item>
+        <item quantity="one">Synkronointi pysäytetty. Jatka synkronointia %d minuutin jälkeen</item>
     </plurals>
-    <plurals name="micloud_main_resume_sync_min">
-        <item quantity="other">Jatka synkronointia %d minuutin kuluttua</item>
-        <item quantity="one">Jatka synkronointia %d minuutin kuluttua</item>
+    <plurals name="last_sync_time_mins_ago">
+        <item quantity="other">" minuuttia sitten"</item>
+        <item quantity="one">" minuutti sitten"</item>
+    </plurals>
+    <plurals name="last_sync_time_hours_ago">
+        <item quantity="other">" tuntia sitten"</item>
+        <item quantity="one">" tunti sitten"</item>
     </plurals>
 </resources>
