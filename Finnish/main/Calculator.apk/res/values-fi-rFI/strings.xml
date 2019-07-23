@@ -298,6 +298,11 @@
   <string name="tax_credit_mortgage">Laina</string>
   <string name="tax_credit_personal_income_tax">Henkilökohtaisen tulosi vero</string>
   <string name="tax_credit_pretax_income">Tulosi ennen veroja (CNY)</string>
+  <string name="tax_detail">Verotiedot</string>
+  <string name="tax_detail_amount">Veron summa</string>
+  <string name="tax_detail_rate">Veroaset</string>
+  <string name="tax_detail_take_off">Verovähennys</string>
+  <string name="tax_detail_tax_payed">Maksettu summa</string>
   <string name="tax_endowment">Lahjoitusvarat</string>
   <string name="tax_fixed_salary_hint">Anna tulosi ennen veroja</string>
   <string name="tax_income_annual_bonus_list">Vuotuiset bonukset</string>
@@ -311,11 +316,13 @@
   <string name="tax_individual_income_tax_result">Yksilöllinen tuloveron tulos</string>
   <string name="tax_injury">Vamma</string>
   <string name="tax_insurance_and_fund">Vakuutukset ja rahasto</string>
+  <string name="tax_insurance_and_fund_detail">Vakuutuksen tiedot</string>
   <string name="tax_last_salary_hint">Anna tulosi</string>
   <string name="tax_last_salary_number">Tulot</string>
   <string name="tax_location">Sijainti</string>
   <string name="tax_medical">Lääketieteellinen</string>
   <string name="tax_param_error">Kirjoita oikeat vakuutusmaksut</string>
+  <string name="tax_payment_period">Maksujen määrä</string>
   <string name="tax_rate_provider">Laskettu uusien verosäännösten mukaisesti. Tiedot tarjoaa hexun.com ja East Money.</string>
   <string name="tax_result_real_get">Verojen jälkeen</string>
   <string name="tax_social_insurance">Sosiaalivakuutus</string>

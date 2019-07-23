@@ -22,6 +22,7 @@
   <string name="activity_find_city_dialog_cancel">Peruuta</string>
   <string name="activity_find_city_dialog_message">Salli Sään käyttää sijaintiasi saadakseen tarkempia sijaintitietoja</string>
   <string name="activity_find_city_dialog_message_global">Ota sijaintipalvelut käyttöön ja salli laitteesi määrittää sijaintisi käyttäen langattomia verkkoja.</string>
+  <string name="activity_find_city_dialog_message_location_service">Saadaksesi säätietoja, salli Säälle pääsy sijaintiisi.</string>
   <string name="activity_find_city_dialog_set">Asetukset</string>
   <string name="activity_find_city_dialog_title">Pääsy Sijaintiin</string>
   <string name="activity_main_clickable">&gt;</string>

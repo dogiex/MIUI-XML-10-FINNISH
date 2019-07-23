@@ -144,6 +144,7 @@
   <string name="favor_list_no_data">Täällä ei ole kohteita.</string>
   <string name="favor_list_title">Suosikit</string>
   <string name="favor_success">Lisättiin suosikkeihin onnistuneesti</string>
+  <string name="feed_article_entrance_about">Tietoja \"%s\"</string>
   <string name="find_psw">Unohdin salasanan</string>
   <string name="from_migallerylockscreen">Mi Taustakuvan Karusellista</string>
   <string name="get_account_no_permission">Salli Taustakuvan Karusellin käyttää tämän laitteen tilejä, ennen kuin kirjaudut sisään.</string>
@@ -185,6 +186,7 @@
   <string name="mode_des">Taustakuvan Karuselli näyttää nyt suosituksia. Vaihda diaesitykseen katsoaksesi mukautettuja kohteitasi.</string>
   <string name="mode_ok">Vaihda diaesitykseen</string>
   <string name="mode_title">Näytetään suosituksia</string>
+  <string name="more_article">Lisää artikkeleita</string>
   <string name="need_open_gallery">Ota Taustakuvan Karuselli käyttöön</string>
   <string name="nick_name">Nimi</string>
   <string name="no_long_show">Älä näytä uudelleen</string>
@@ -260,6 +262,8 @@
   <string name="rv_with_footer_pull_load_more">Näytä lisää vetämällä alas</string>
   <string name="save_hdpicture_in_favor">Näytä HD-kuvia \"Suosikeissa\"</string>
   <string name="save_picture_success">Tallennettiin onnistuneesti</string>
+  <string name="save_to_album">Tallennettiin Galleriaan onnistuneesti</string>
+  <string name="save_to_album_fail">Ei voitu tallentaa</string>
   <string name="scribe_btn_ok">Tilaa</string>
   <string name="scribe_title1">Tilaa Taustakuvan Karuselli</string>
   <string name="search">Haku</string>
@@ -292,11 +296,14 @@
   <string name="sst_custom_wallpaper_desc">Valitse kuvia Galleriasta ja suosituksista</string>
   <string name="sst_custom_wallpaper_title">Mukautettu diaesitys</string>
   <string name="sst_custom_wallpaper_title2">Diaesitys</string>
+  <string name="sst_effect_next_wallpaper">Aseta uusi taustakuva käyttääksesi muutoksia</string>
   <string name="sst_favor_desc">Näytä suosikkitaustakuvani</string>
   <string name="sst_favor_title">Suosikit</string>
   <string name="sst_feedback_title">Palaute</string>
   <string name="sst_grid_view_select_all">Valitse kaikki</string>
   <string name="sst_grid_view_unselect_all">Poista valinnat</string>
+  <string name="sst_lockscreen_show_headline_desc">Näytä taustakuvan otsikko Lukitusnäytön kellon alla</string>
+  <string name="sst_lockscreen_show_headline_title">Näytä otsikko Lukitusnäytöllä</string>
   <string name="sst_logo_desc">Tuoreita taustakuvia päivittäin</string>
   <string name="sst_mode_selection">Tapa</string>
   <string name="sst_more_subscription">Lisää tilauksia</string>
@@ -344,6 +351,7 @@
   <string name="ticket_hint">Vahvistuskoodi</string>
   <string name="ticket_invalid">Antamasi koodi on virheellinen</string>
   <string name="ticket_sign_in">Kirjaudu sisään tekstiviestillä</string>
+  <string name="time_current">Juuri nyt</string>
   <string name="toast_ad_down_tip">Ladataan sovellusta…</string>
   <string name="toast_ad_down_tip2">Ladataan %s…</string>
   <string name="toast_load_hd_fail">Alkuperäistä kuvaa ei voitu ladata</string>
