@@ -916,7 +916,6 @@ Muista, että lataamasi tiedostot ja lisäämäsi kirjanmerkin silti tallennetaa
     <string name="navigate_feedback_dislike_tips">Vähennetään tämänkaltaisia videosuosituksia</string>
     <string name="navigate_feedback_input_report_label">Muut syyt</string>
     <string name="navigate_feedback_report">Ilmoita</string>
-    <string name="navigate_feedback_report_input_length">%1$d/100</string>
     <string name="navigate_feedback_report_input_tips">Jätä kysymyksesi, hoidamme sen niin pian kuin mahdollista</string>
     <string name="navigate_feedback_report_success">Ilmoitus onnistui</string>
     <string name="navigate_feedback_report_title">Ilmoituksen syyt</string>
