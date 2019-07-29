@@ -395,6 +395,7 @@ Kun olet laittanut tiedoston \"music.mp3\" SD-kortin hakemistoon, napauta näytt
   <string name="cit_thermal_history_summary">Odota hetki... Luetaan laitteen lämpötilatietoja.</string>
   <string name="cit_thermal_history_title">Lämpöhistoria</string>
   <string name="cit_tool">Lisätyökalut</string>
+  <string name="cit_tool_active_mbn">Aktiivinen</string>
   <string name="cit_tool_bluetooth">Bluetooth testityökalu</string>
   <string name="cit_tool_bluetooth_dut">Siirry Bluetooth testitilaan</string>
   <string name="cit_tool_bluetooth_enhanced">Siirry Bluetoothin paranneltuun testiin</string>
@@ -512,6 +513,8 @@ Kun olet laittanut tiedoston \"music.mp3\" SD-kortin hakemistoon, napauta näytt
   <string name="cit_tool_enable_3A_log">Ota 3A loki Switch käyttöön</string>
   <string name="cit_tool_enable_display_3A_log">Ota 3A lokin näyttäminen käyttöön</string>
   <string name="cit_tool_exit_modem_mbn">Palauta auto MBN</string>
+  <string name="cit_tool_getting_expired">Umpeutuu!</string>
+  <string name="cit_tool_getting_wait">Noudetaan! Odota hetki.</string>
   <string name="cit_tool_log">Hae lokit</string>
   <string name="cit_tool_log_bugreport">Vikailmoitus</string>
   <string name="cit_tool_log_dmesg">DMESG</string>
@@ -524,10 +527,17 @@ Kun olet laittanut tiedoston \"music.mp3\" SD-kortin hakemistoon, napauta näytt
   <string name="cit_tool_log_ril">RIL loki</string>
   <string name="cit_tool_log_toast">Loki tallennettiin kohteeseen %s</string>
   <string name="cit_tool_log_toast_generate_bugreport">Luodaan vikailmoitusta… (tämä kestää noin 1 minuutin)</string>
+  <string name="cit_tool_mbn_default_notfiy">Oletus MBN</string>
+  <string name="cit_tool_mbn_no_default_notfiy">Ei oletus MBN</string>
+  <string name="cit_tool_mbn_path_select_hit">Valitse MBN:n koko polku:</string>
+  <string name="cit_tool_mbn_path_select_notice">Etkö löytänyt yläpuolelta? Etsitkö täältä? Esim. mcfg, ct, eps ... jne</string>
+  <string name="cit_tool_mbn_recovery_default">Palauta oletus MBN</string>
   <string name="cit_tool_modem">Modeemin testityökalut</string>
   <string name="cit_tool_modem_bugreport">Pakota modeemin coredump</string>
+  <string name="cit_tool_modem_clear_empty">Tyhjennä</string>
   <string name="cit_tool_modem_exit_ftm">Poistu FTM tilasta</string>
   <string name="cit_tool_modem_mbn">Muuta modeemin määrityksiä</string>
+  <string name="cit_tool_modem_mbn_config_load_and_active">MBN määrityksen lataamis- ja aktivointityökalu</string>
   <string name="cit_tool_modem_offline_log">Avaa/Sulje offline-loki</string>
   <string name="cit_tool_modem_rf_ant_test">Modeemin rf ant testin asetukset</string>
   <string name="cit_tool_modem_test_clr">Sulje gpio testi</string>
@@ -546,6 +556,7 @@ Kun olet laittanut tiedoston \"music.mp3\" SD-kortin hakemistoon, napauta näytt
   <string name="cit_tool_nfc_st_stop">Lopeta</string>
   <string name="cit_tool_no_repeat">Ei toistoja!</string>
   <string name="cit_tool_not_support">Ei tuettu</string>
+  <string name="cit_tool_opt_fail_info_notify">Opt epäonnistui, käynnistä puhelin uudelleen ja yritä uudelleen.</string>
   <string name="cit_tool_prx_drx">PRx+DRx</string>
   <string name="cit_tool_prx_drx_select_mode">Valitse Tila:</string>
   <string name="cit_tool_prx_drx_select_rat">Valitse RAT:</string>
@@ -557,7 +568,7 @@ Kun olet laittanut tiedoston \"music.mp3\" SD-kortin hakemistoon, napauta näytt
   <string name="cit_tool_select_none">Älä valitse mitään</string>
   <string name="cit_tool_select_opposite">Valitse päinvastoin</string>
   <string name="cit_tool_setting_expired">Asetus vanhentui, yritä uudelleen!</string>
-  <string name="cit_tool_setting_wait">Asetetaan! Odota hetki (5 s)</string>
+  <string name="cit_tool_setting_wait">Asetetaan! Odota hetki</string>
   <string name="cit_tool_switch_autosms">Ota käyttöön/Poista käytöstä AutoSMSReg</string>
   <string name="cit_tool_to_fetching">Noudetaa</string>
   <string name="cit_tool_tpdump">Kosketa virheenkorjaustilaan</string>
