@@ -75,6 +75,12 @@
     <string name="action_text_readmode_more">Lisää</string>
     <string name="action_text_readmode_theme_head">Aseta tausta</string>
     <string name="action_text_theme_and_textsize_change">Tekstin koko ja teeman säätäminen</string>
+    <string name="ad_app_download_notification_content">Asennuksen valmistuttua, avaa demo nyt~</string>
+    <string name="ad_app_download_site_new">UUSI</string>
+    <string name="ad_exit_dialog_exit_btn_name">Poistu</string>
+    <string name="ad_exit_dialog_message">Asennus on valmis! Haluatko avata sen nyt?</string>
+    <string name="ad_exit_dialog_open_btn_name">Avaa</string>
+    <string name="ad_exit_dialog_title_name">Uuden sovelluksen avaamisen vahvistus</string>
     <string name="adblock_force_updating_rules_toast">Päivitetään mainoksien torjujaa</string>
     <string name="adblock_notification">%d mainosta torjuttu</string>
     <string name="adblock_rules_not_updated_toast">Epäonnistui</string>
