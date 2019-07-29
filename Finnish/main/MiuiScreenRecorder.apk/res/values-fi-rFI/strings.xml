@@ -53,6 +53,8 @@
   <string name="no_sound">Mykistä</string>
   <string name="operation_delete">Poista</string>
   <string name="operation_send">Lähetä</string>
+  <string name="permission_intro_microphone">Nauhoittaakseen ääntä, kun äänilähde on asetettu mikrofoniksi</string>
+  <string name="permission_intro_storage">Tallentaakseen näytön nauhoituksia</string>
   <string name="quit_recording">Poistu Näytön Nauhoittajasta</string>
   <string name="recording_failure">Nauhoittaminen epäonnistui, aloita alusta</string>
   <string name="recording_max_size">Nauhoittaminen lopetettiin ja tallennettiin, koska videotiedosto saavutti sen kokorajoituksen. Aloita nauhoittaminen siitä, mihin jäit, jos et ole vielä valmis.</string>

@@ -74,6 +74,12 @@
   <string name="keywords_search_call_record">Nauhoita puhelut;Nauhoita puhelu;Puhelun nauhoitus;Puhelun nauhoitukset</string>
   <string name="keywords_search_record">Uusi nauhoitus;Lisää nauhoitus;Nauhoitus;Nauhoitukset;Jäljennös;Sovita;Nauhuri;Puhe nauhuri;Ääni nauhuri;Nauhoita sovellus;Nauhoittaja sovellus;Kuinka nauhoitan;Kuinka nauhoitan ääntä;Missä on nauhoitin;MIUI Ääninauhuri</string>
   <string name="keywords_search_record_list">Nauhuri;Jäljennös;Jäljennökset;Nauhoita;Jaa nauhoitus;Jaa nauhoituksia;Nauhoitus;Nauhoitukset</string>
+  <string name="korea_permission_phone">Puhelin</string>
+  <string name="korea_permission_phone_resc">Käyttääkseen laitteen tilaa ja nauhoittaakseen puheluiden aikana</string>
+  <string name="korea_permission_record">Mikrofoni</string>
+  <string name="korea_permission_record_resc">Nauhoittaakseen ääntä</string>
+  <string name="korea_permission_storage">Tallennustila</string>
+  <string name="korea_permission_storage_desc">Tallentaakseen nauhoituksia</string>
   <string name="loading_order_list">Odota hetki…</string>
   <string name="loading_order_list_empty">Täällä ei ole tilauksia</string>
   <string name="low_battery_error">Alle 5% akkua jäljellä. Lopeta ja tallenna nauhoituksesi varmistaaksesi, ettei sitä menetetä.</string>

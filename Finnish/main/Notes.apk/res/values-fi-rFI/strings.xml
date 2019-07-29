@@ -222,6 +222,14 @@
   <string name="toast_reach_text_limit_truncate">Tämä muistio on liian pitkä. Joitakin tekstejä poistettiin lopusta.</string>
   <string name="toast_refuse_to_record_when_in_call">Tätä toimintoa ei voi käyttää puheluiden aikana</string>
   <string name="toast_refuse_to_record_when_in_multi_window">Tätä toimintoa ei voi käyttää Jaetussa näytössä</string>
+  <string name="toast_refuse_to_use_contact">"Yhteystietojen käyttöoikeus on rajoitettu.
+Salli Muistion lukea yhteystietojasi ja löytää laitteellasi olevia tilejä."</string>
+  <string name="toast_refuse_to_use_external_storage">"Tallennustilan käyttöoikeus on rajoitettu.
+Salli Muistion lukea SD-korttisi sisältöä."</string>
+  <string name="toast_refuse_to_use_phone_state">"Puhelimen käyttöoikeus on rajoitettu.
+Salli Muistion lukea puhelimen tila ja henkilöllisyys."</string>
+  <string name="toast_refuse_to_use_record_audio">"Mikrofonin käyttöoikeus on rajoitettu.
+Salli Muistion nauhoittaa ääntä."</string>
   <string name="toolbar_check_description">Lisää valintaruutu</string>
   <string name="toolbar_delete_description">Poista tämä muistio</string>
   <string name="toolbar_gallery_description">Lisää kuva</string>
