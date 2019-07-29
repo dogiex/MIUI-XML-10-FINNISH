@@ -146,6 +146,10 @@
   <string name="notealert_ok">Poistu</string>
   <string name="notify_alarm_title">Muistion muistutus</string>
   <string name="permdesc_accessNote">Haitalliset sovellukset saattavat käyttää tätä päästäkseen käsiksi henkilökohtaisiin tietoihin.</string>
+  <string name="permission_intro_contact">Puheluiden aikana otettujen muistioiden merkitsemiseen</string>
+  <string name="permission_intro_microphone">Äänimuistioiden nauhoittamiseen</string>
+  <string name="permission_intro_phone">Puheluiden aikana otettujen muistioiden merkitsemiseen</string>
+  <string name="permission_intro_storage">Muistioiden ja liitteiden tallentamiseen</string>
   <string name="permlab_accessNote">Pääsy muistioihin</string>
   <string name="pref_desc_skip_confirm_for_quick_delete">Älä kysy vahvistusta, kun muistio poistetaan käyttäen eleitä</string>
   <string name="pref_title_cloud_trash_bin">Poista muistiot Mi Pilvestä</string>

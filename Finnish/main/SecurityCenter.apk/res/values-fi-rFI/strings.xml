@@ -225,9 +225,6 @@ Kaikki laitteellasi olevat tiedot voidaan poistaa ja Lukitusnäytön salasanasi 
   <string name="app_manager_net_mobile">Mobiilidata</string>
   <string name="app_manager_net_wifi">Wi-Fi</string>
   <string name="app_manager_not_allow">Ei</string>
-  <string name="app_manager_notify_bar">Merkit</string>
-  <string name="app_manager_notify_floating">Kelluvat ilmoitukset</string>
-  <string name="app_manager_notify_keyguard">Lukitusnäyttö</string>
   <string name="app_manager_open_show_all_apps_immediate">Näytä kaikki tulokset</string>
   <string name="app_manager_perm">Käyttöoikeudet</string>
   <string name="app_manager_permission_manager_title">Käyttöoikeudet</string>
@@ -860,8 +857,6 @@ Se lisätään poikkeuksiin, mutta jo ennestään estetyt kohteet ei ilmesty puh
   <string name="first_aid_card_consume_power_summary1">Enemmän kuin 5 sovellusta voi käynnistyä automaattisesti. Rajoita niitä säästääksesi virtaa.</string>
   <string name="first_aid_card_consume_power_summary2">Poista kannettava hotspot käytöstä säästääksesi virtaa</string>
   <string name="first_aid_card_consume_power_title">Virrankäyttö</string>
-  <string name="first_aid_card_float_window_button">Rajoita</string>
-  <string name="first_aid_card_float_window_title">Sallit kelluvia ilmoituksia</string>
   <string name="first_aid_card_kadun_button1">Vapauta tilaa</string>
   <string name="first_aid_card_kadun_button2">Rajoita</string>
   <string name="first_aid_card_kadun_button3">Poista käytöstä</string>

@@ -230,7 +230,7 @@ Siirtonopeus"</string>
   <string name="inactive_app_inactive_summary">Ei käytössä. Ota käyttöön koskettamalla.</string>
   <string name="inactive_apps_title">Epäaktiiviset sovellukset</string>
   <string name="incall_error_call_failed">Puhelua ei voi yhdistää.</string>
-  <string name="incall_error_power_off">Poista lentokonetila käytöstä soittaaksesi puheluita.</string>
+  <string name="incall_error_power_off">Poista Lentokonetila käytöstä soittaaksesi puheluita.</string>
   <string name="incall_error_supp_service_unknown">Tämä palvelu ei ole tuettu.</string>
   <string name="install_other_apps">Tuntemattomien sovellusten asentaminen</string>
   <string name="keep_screen_on">Pysy käynnissä</string>

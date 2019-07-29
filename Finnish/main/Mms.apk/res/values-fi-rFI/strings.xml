@@ -196,7 +196,7 @@
   <string name="duration_zero">Keston täytyy olla suurempi, kuin 0 sekuntia</string>
   <string name="earlier">Aiemmin</string>
   <string name="edit">Muokkaa</string>
-  <string name="edit_phrase">Muokkaa nopeita vastauksia</string>
+  <string name="edit_phrase">Muokkaa pikavastauksia</string>
   <string name="edit_slide_activity">Muokkaa diaa</string>
   <string name="edit_slideshow_activity">Muokkaa diaesitystä</string>
   <string name="enabled">Päällä</string>

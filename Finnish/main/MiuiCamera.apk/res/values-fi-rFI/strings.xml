@@ -80,6 +80,9 @@ Pitää kohteen terävänä ja sumentaa taustan."</string>
 ja optimoi valokuvasi näiden tietojen perusteella"</string>
   <string name="ai_scene_top_moon_off">Hämärätila</string>
   <string name="ai_scene_top_tip">Kuutila</string>
+  <string name="autozoom_click_hint">Napauta kohdetta aloittaaksesi seuraamisen. Pysy vähintään 3 metriä kohteesta parhaan tehosteen vuoksi.</string>
+  <string name="autozoom_disabled_hint">Liikkuvan kohteen seuraaminen lopetettiin</string>
+  <string name="autozoom_hint">Seuraa liikkuvaa kohdetta</string>
   <string name="audio_focus_exit_button_text">Poista Äänitarkennus käytöstä</string>
   <string name="back_bokeh_use_hint">Pidä kohde 1,5 metrin sisällä parhaan tehosteen saamiseksi</string>
   <string name="beauty_body">Vartalo</string>
@@ -250,6 +253,7 @@ Puhdista kamerasi linssi parempia kuvia varten."</string>
   <string name="lighting_hint_usage">"Voit käyttää studiovalaistustehosteita
 Muotokuvatilassa"</string>
   <string name="lighting_pattern_dot">Pisteet</string>
+  <string name="lighting_pattern_holi">Holi</string>
   <string name="lighting_pattern_leaf">Lehdet</string>
   <string name="lighting_pattern_movie">Elokuva</string>
   <string name="lighting_pattern_nature">Luonnollinen</string>
@@ -474,8 +478,10 @@ ja tuo henkilöt esiin."</string>
   <string name="pref_camera_portrait_with_facebeauty_title">Kaunista Muotokuvatilassa</string>
   <string name="pref_camera_proximity_lock_summary">Lukitse kosketuseleet, kun laitetaan taskuun</string>
   <string name="pref_camera_proximity_lock_title">Tasku-tila</string>
-  <string name="pref_camera_recordlocation_entry_off">Pois päältä</string>
-  <string name="pref_camera_recordlocation_entry_on">Päällä</string>
+  <string name="pref_camera_quick_shot_anim_enable_title">Ota nopean kuvan animaatio käyttöön</string>
+  <string name="pref_camera_quick_shot_enable_title">Ota nopea kuva käyttöön</string>
+  <string name="pref_camera_recordlocation_entry_off">Pois käytöstä</string>
+  <string name="pref_camera_recordlocation_entry_on">Käytössä</string>
   <string name="pref_camera_recordlocation_title">Tallenna sijaintitiedot</string>
   <string name="pref_camera_referenceline_title">Näytä apuviivat</string>
   <string name="pref_camera_saturation_title">Saturaatio</string>

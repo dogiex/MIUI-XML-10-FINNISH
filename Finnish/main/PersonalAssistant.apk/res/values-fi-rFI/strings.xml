@@ -193,6 +193,7 @@
   <string name="card_bookall_train_started">Lähtee asemalta</string>
   <string name="card_detail">Opas</string>
   <string name="card_example">Kortti</string>
+  <string name="card_expand_note_add_checkbox">Lisää valintalaatikko</string>
   <string name="card_expand_note_clear">Tyhjennä</string>
   <string name="card_expand_note_clear_all">Tyhjennä</string>
   <string name="card_expand_note_dialog_button">Selvä</string>
@@ -350,6 +351,9 @@
   <string name="express_banner_header">%1$s / Seurantanumero</string>
   <string name="express_booking_txt">Tilaa pikatoimitus</string>
   <string name="express_cancel_order">Peruuta</string>
+  <string name="express_card_item_desc_no_info">Ei tietoa</string>
+  <string name="express_card_item_number_prefix">Tilausnumero: %s</string>
+  <string name="express_card_item_source_prefix">Lähettäjä %s</string>
   <string name="express_code_txt">Koodi:</string>
   <string name="express_company_list_empty">Ei yrityksiä</string>
   <string name="express_company_phone_prefix">"Ota yhteyttä: "</string>
@@ -412,13 +416,11 @@ Tarkista seurantanumerosi."</string>
   <string name="express_mi_shop">Mi Kauppa</string>
   <string name="express_more_service">Lisää palveluita</string>
   <string name="express_no_address">Tyhjä</string>
-  <string name="express_no_info">Ei tietoja</string>
   <string name="express_no_order">Ei tilauksia</string>
   <string name="express_no_order_info">Ei tilaustietoja</string>
   <string name="express_not_authorized">Rajoitettu</string>
   <string name="express_num_setting_des">Vastaanota tilausnumeroita toimitussovelluksista, jotka on asennettu puhelimeesi.</string>
   <string name="express_num_setting_title">Pääsy tilaustietoihin</string>
-  <string name="express_number_txt">Tilausnumero:</string>
   <string name="express_open">Näytä toimituksen seurantakortit</string>
   <string name="express_open_txt">Avaa</string>
   <string name="express_order_confirmation">Tilausvahvistus</string>
@@ -440,7 +442,6 @@ Tarkista seurantanumerosi."</string>
   <string name="express_order_state_unknown">Tuntematon</string>
   <string name="express_order_state_wait_picking">Odotetaan poimintaa</string>
   <string name="express_order_succeeded">Valmis</string>
-  <string name="express_origin_prev">Lähettäjä</string>
   <string name="express_other_app">Salli MIUI:n käyttää toisten sovelluksien tilaustietoja.</string>
   <string name="express_phone">Puhelin</string>
   <string name="express_phone_tip">Toimitetaan, pysy kuulolla</string>

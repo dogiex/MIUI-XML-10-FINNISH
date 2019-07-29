@@ -1074,12 +1074,6 @@ Tämän ominaisuuden voi poistaa käytöstä [Asetuksista]"</string>
   <string name="call_manager_enable_summary">Anna palvelun hallinnoida puheluita.</string>
   <string name="call_manager_enable_title">Ota Call Manager käyttöön</string>
   <string name="call_manager_title">Call Manager</string>
-  <string name="call_records_name_1">Debbie Smith</string>
-  <string name="call_records_name_2">Jason Lee</string>
-  <string name="call_records_name_3">Tom Fowles</string>
-  <string name="call_records_summary_1">9:35 | 26 sekuntia | China Unicom</string>
-  <string name="call_records_summary_2">16. Elokuuta | 1 m 16 s | China Mobile</string>
-  <string name="call_records_summary_3">16. Elokuuta | 2 m 24 s | China Unicom</string>
   <string name="call_settings_primary_user_only">Muuta puheluasetuksia Ensimmäisessä tilassa</string>
   <string name="call_settings_summary">Ota käyttöön puhelinvastaaja, soitonsiirrot, koputuspalvelu, soittajan tunnus</string>
   <string name="call_settings_title">Puheluasetukset</string>
@@ -1373,7 +1367,7 @@ Voit jatkaa puhelimesi käyttöä, kun palautat tehdasasetukset. Kun olet määr
   <string name="daltonizer_type">Korjaustila</string>
   <string name="daltonizer_type_overridden">Tämän ohittaa %1$s</string>
   <string name="dangerous_option">Korkean riskin kehittäjäasetukset</string>
-  <string name="dangerous_option_hint">%1$s on käytössä. Napauta vaihtaaksesi asetuksia.</string>
+  <string name="dangerous_option_hint">\"%1$s\" on käytössä. Napauta vaihtaaksesi asetuksia.</string>
   <string name="dangerous_option_hint_title">Korkean riskin ominaisuus on käytössä</string>
   <string name="dangerous_option_switch_title">Ilmoita korkean riskin ominaisuuksista</string>
   <string name="dark_color_mode">Tummatila</string>
@@ -2302,6 +2296,7 @@ Voit muuttaa tätä asetusta myöhemmin kohdassa Asetukset > Sovellukset ja ilmo
   <string name="inactive_app_active_summary">Käytössä. Poista käytöstä koskettamalla.</string>
   <string name="inactive_app_inactive_summary">Ei käytössä. Ota käyttöön koskettamalla.</string>
   <string name="inactive_apps_title">Epäaktiiviset sovellukset</string>
+  <string name="incall_show">Profiilivideo lähteville puheluille</string>
   <string name="include_app_data_title">Sisällytä sovellustiedot</string>
   <string name="incoming_call_breathing_light_color_title">Puheluiden ilmoitusvalon väri</string>
   <string name="incoming_call_breathing_light_freq_title">Puheluiden ilmoitusvalon vilkkumistiheys</string>
@@ -2478,7 +2473,6 @@ Voit muuttaa tätä asetusta myöhemmin kohdassa Asetukset > Sovellukset ja ilmo
   <string name="launch_google_search">Käynnistä Google-avustaja</string>
   <string name="launch_recents">Käynnistä Viimeaikaiset</string>
   <string name="launch_voice_assistant">Käynnistä Ääniavustaja</string>
-  <string name="launcher_icon">Kuvakkeet</string>
   <string name="launcher_title">Aloitusnäyttö &amp; Viimeaikaiset</string>
   <string name="launching_cit">Käynnistetään CIT</string>
   <string name="launching_pho">Käynnistetään puhelimen tietoja…</string>
@@ -2995,6 +2989,7 @@ Tällä laitteella on muita paikalla olevia käyttäjiä.
   <string name="model_number">Mallinumero</string>
   <string name="modify_instruction_password_settings">Aseta salasana</string>
   <string name="modify_privacy_password">Vaihda salasana</string>
+  <string name="more_dangerous_option_hint">Korkean riskin toimintoja, mm. \"%1$s\" on käytössä. Napauta vaihtaaksesi asetuksia.</string>
   <string name="move_app">Siirrä</string>
   <string name="move_app_failed_dlg_text">Sovelluksen siirto epäonnistui.%1$s</string>
   <string name="move_app_to_internal">Siirrä puhelimeen</string>
@@ -3096,6 +3091,7 @@ Valitse käyttöjärjestelmäsi:"</string>
   <string name="music_unsupport_effect_summary">USB-kuulokkeet ei ole tuettu</string>
   <string name="musicfx_title">Musiikkitehosteet</string>
   <string name="mute_music_stream">Mykistä musiikkistriimi</string>
+  <string name="mute_voiceassist_stream">Mykistä Ääniavustaja</string>
   <string name="mvno_match_data">MVNO-arvo</string>
   <string name="mvno_type">MVNO-tyyppi</string>
   <string name="my_device">Laitteeni</string>
@@ -3406,8 +3402,6 @@ Valitse käyttöjärjestelmäsi:"</string>
   <string name="page_layout_31">Jack Tang</string>
   <string name="page_layout_32">Play Kauppa</string>
   <string name="page_layout_33">Google</string>
-  <string name="page_layout_34">Puhelin</string>
-  <string name="page_layout_35">Muistiot</string>
   <string name="page_layout_4">Musiikki</string>
   <string name="page_layout_5">Video</string>
   <string name="page_layout_6">Sovellukset</string>
@@ -3415,11 +3409,7 @@ Valitse käyttöjärjestelmäsi:"</string>
   <string name="page_layout_8">Mi Elämä</string>
   <string name="page_layout_9">Teemat</string>
   <string name="page_layout_confirm_message">Jotta asetukset tulevat voimaan, laitteesi täytyy käynnistää uudelleen. Tämä kestää noin yhden minuutin.</string>
-  <string name="page_layout_confirm_message_enlarge">Teksti, kuvat ja kuvakkeet suurennetaan. Jotkut kuvakkeet saattavat vaihtaa niiden paikkaa.</string>
-  <string name="page_layout_confirm_message_narrow">Teksti, kuvat ja kuvakkeet pienennetään. Jotkut kuvakkeet saattavat vaihtaa niiden paikkaa.</string>
   <string name="page_layout_confirm_title">Vaihda näytön asetuksia</string>
-  <string name="page_layout_confirm_title_enlarge">Suuremmat kohteet</string>
-  <string name="page_layout_confirm_title_narrow">Pienemmät kohteet</string>
   <string name="page_layout_godzilla_title">XXL</string>
   <string name="page_layout_huge_title">XL</string>
   <string name="page_layout_large_title">L</string>
@@ -4951,7 +4941,6 @@ Nopeampi ^1 voi toimia tehokkaammin."</string>
   <string name="suggestions_title">Ehdotukset</string>
   <string name="sum_carrier_select">Valitse verkko-operaattori</string>
   <string name="summary_divider_text">", "</string>
-  <string name="summary_font_size_v2">Säädä kokoa tekstille, kuville ja kuvakkeille</string>
   <string name="summary_range_verbal_combination">%1$s–%2$s</string>
   <string name="supl_not_set">Ei asetettu</string>
   <string name="supplicant_state_label">Anojan tila:</string>
@@ -5095,12 +5084,10 @@ Se on Googlen tapa synkronoida tietoja, ja sen avulla voit käyttää yhteystiet
   <string name="title_font_current">Järjestelmäfontti</string>
   <string name="title_font_current2">Järjestelmäfontti</string>
   <string name="title_font_size">Kirjasimen koko</string>
-  <string name="title_font_v2">Teksti &amp; UI-elementit</string>
   <string name="title_hdmi_color_calibration">Värikorjaus preset</string>
   <string name="title_jeejen">Jeejen Aloitusnäyttö</string>
   <string name="title_layout_current">Tekstin koko</string>
   <string name="title_layout_current2">Tekstin koko</string>
-  <string name="title_layout_v2">Tekstin koko &amp; skaalaus</string>
   <string name="to_close">Poista käytöstä</string>
   <string name="toast_lockscreen_glogin_empty_password">Syötä salasana</string>
   <string name="toast_need_login">Kirjaudu sisään Mi Tilillesi</string>
@@ -6094,7 +6081,6 @@ Muodosta yhteys toiseen Wi-Fi-verkkoon valitsemalla "&lt;b&gt;Takaisin&lt;/b&gt;
   <string name="wizard_back">Edellinen</string>
   <string name="wizard_finish">Valmis</string>
   <string name="wizard_next">Seuraava</string>
-  <string name="words_title">Teksti</string>
   <string name="work_alarm_ringtone_title">Työherätyksen oletusääni</string>
   <string name="work_mode_label">Työtila</string>
   <string name="work_mode_summary">Sallii työprofiiliin toiminnan, esimerkiksi sovellukset ja taustasynkronoinnin.</string>

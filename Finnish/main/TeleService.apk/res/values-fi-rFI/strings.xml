@@ -1387,7 +1387,7 @@ SIM-korttisi lukitaan seuraavan epäonnistuneen yrityksen jälkeen."</string>
   <string name="show_screen_updates_summary">Väläytä koko ikkunoiden pinnat päivitettäessä</string>
   <string name="show_touches">Näytä kosketus</string>
   <string name="show_touches_summary">Anna visuaalista palautetta kosketuksesta.</string>
-  <string name="simContacts_airplaneMode">Poista lentokonetila käytöstä, jos haluat tuoda yhteystietoja SIM-kortilta.</string>
+  <string name="simContacts_airplaneMode">Poista Lentokonetila käytöstä, jos haluat tuoda yhteystietoja SIM-kortilta.</string>
   <string name="simContacts_empty">SIM-kortilla ei ole yhteystietoja.</string>
   <string name="simContacts_emptyLoading">Luetaan SIM-korttia…</string>
   <string name="simContacts_title">Valitse yhteystiedot</string>
@@ -1653,14 +1653,14 @@ Ota yhteyttä operaattoriin, jos ongelma jatkuu."</string>
   <string name="volte_switch_title_ct">VoLTE otettu käyttöön</string>
   <string name="volte_tips_when_turn_on">China Telecom VoLTE-palvelut on käytössä vain alueilla, jossa on LTE-verkon kuuluvuus.</string>
   <string name="vowifi_emergency_notification_channel">Wi-Fi-puhelun hätävaroitus</string>
-  <string name="vowifi_emergency_notification_content">Hätäpuhelut ovat käytettävissä vain matkapuhelinverkon kantavuusalueella.</string>
-  <string name="vowifi_emergency_notification_title">Vodafone Wifi-puhelu</string>
+  <string name="vowifi_emergency_notification_content">Hätäpuhelut ovat mahdollisia matkapuhelinverkon kantavuusalueilla.</string>
+  <string name="vowifi_emergency_notification_title">Vodafone Wi-Fi-puhelu</string>
   <string name="vowifi_emergency_warning_check">Älä näytä uudelleen</string>
-  <string name="vowifi_emergency_warning_message">"Hätäpuheluita ei voi soittaa Wi-Fi-puhelulla.
+  <string name="vowifi_emergency_warning_message">"Wi-Fi-puhelua ei voi käyttää hätäpuheluihin.
 
-Laite vaihtaa automaattisesti matkapuhelinverkkoon (2G/3G) soittaakseen hätäpuhelun.
+Laitteesi vaihtaa automaattisesti matkapuhelinverkkoon (2G/3G) soittaakseen hätäpuhelun.
 
-Hätäpuhelut ovat käytettävissä vain matkapuhelinverkon kantavuusalueella."</string>
+Hätäpuhelut ovat mahdollisia vain matkapuhelinverkon kantavuusalueilla."</string>
   <string name="vowifi_emergency_warning_title">ECC puheluita käyttäen Wi-Fi-puhelua</string>
   <string name="vpn_settings_not_available">Tämä käyttäjä ei voi käyttää VPN-asetuksia</string>
   <string name="vvm_unsupported_message_format">Viestin tyyppiä ei tueta. Kuuntele soittamalla numeroon %s.</string>

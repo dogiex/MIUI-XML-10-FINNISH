@@ -69,6 +69,10 @@
   <string name="show_hard_key_summary">Näytä ilmoitukset, kun painat Koti-, Valikko- tai Takaisin-painikkeita</string>
   <string name="show_screen_touch">Näytä kosketuksen eleet</string>
   <string name="show_screen_touch_summary">Visualisoi eleet käyttäen valkoista pistettä</string>
+  <string name="size_byte">t</string>
+  <string name="size_gigabyte">Gt</string>
+  <string name="size_kilobyte">Kt</string>
+  <string name="size_megabyte">Mt</string>
   <string name="sound_source">Äänilähde</string>
   <string name="sound_source_summary">Järjestelmän äänet tai mikrofoni</string>
   <string name="sound_source_summary_without_system_sounds">Käytä mikrofonia tai mykistä ääni</string>
