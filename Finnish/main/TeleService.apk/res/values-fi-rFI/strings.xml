@@ -1730,7 +1730,7 @@ Tarkista varmenteiden aitous"</string>
 Käyttöoikeustietojen tallennustila saattaa olla pois käytöstä"</string>
   <string name="wifi_wapi_psk_type">Salasanan tyyppi</string>
   <string name="wifi_wapi_user_certificate">Käyttäjän varmenne</string>
-  <string name="wificall_switch_summary">Laitteesi vaihtaa Wi-Fi:n ja VoLTE:n välillä, kun yhteys on heikko</string>
+  <string name="wificall_switch_summary">Käytä Wi-Fiä soittaaksesi ja vastaanottaaksesi puheluita aina, kun se on mahdollista</string>
   <string name="wificall_switch_title">Soita puheluita käyttäen Wi-Fiä</string>
   <string name="wild_prompt_str">Muuta jokerimerkiksi</string>
   <string name="window_animation_scale_title">Ikkuna</string>

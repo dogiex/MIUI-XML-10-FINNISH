@@ -788,9 +788,9 @@
         <item>Saattaa hidastaa laitteen suorituskykyä</item>
     </string-array>
     <string-array name="handy_mode_size_text_entries">
-        <item>4,5 tuumaa</item>
-        <item>4,0 tuumaa</item>
-        <item>3,5 tuumaa</item>
+        <item>4,5\u2033</item>
+        <item>4,0\u2033</item>
+        <item>3,5\u2033</item>
     </string-array>
     <string-array name="haptic_feedback_level_texts">
         <item>Pois päältä</item>
@@ -820,7 +820,7 @@
         <item>Vihreä</item>
         <item>Syaani</item>
         <item>Valkoinen</item>
-        <item>Violetti</item>
+        <item>Purppura</item>
     </string-array>
     <string-array name="led_freq_entries">
         <item>2 sekuntia</item>
@@ -872,8 +872,8 @@
         <item>Punainen</item>
         <item>Vihreä</item>
         <item>Vaaleanpunainen</item>
-        <item>Violetti</item>
         <item>Purppura</item>
+        <item>Violetti</item>
     </string-array>
     <string-array name="miui_entries_font_size">
         <item>S</item>

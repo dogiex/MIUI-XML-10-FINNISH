@@ -89,8 +89,14 @@
   <string name="agenda_settings_credit">Näytä luottokortin laskut</string>
   <string name="agenda_settings_elecbill">Näytä sähkö- ja kaasulaskut</string>
   <string name="agenda_settings_loan">Näytä lainan takaisinmaksutiedot</string>
+  <string name="alipay_cancel">Peruuta</string>
+  <string name="alipay_cancel_sel">Peruuta</string>
+  <string name="alipay_confirm_cancel">Peruuta</string>
   <string name="alipay_init">Alustetaan Alipay:tä…</string>
   <string name="alipay_init_success">Alipay:n alustaminen onnistui</string>
+  <string name="alipay_login_cancel">Peruuta</string>
+  <string name="alipay_pre_router_cancel">Peruuta</string>
+  <string name="alipay_risk_process_cancel">Peruuta</string>
   <string name="alipay_scan">Lukija</string>
   <string name="alipay_sdk_minute_refresh">Päivitä minuutin välein</string>
   <string name="alipay_sdk_payed_desc">Alkuperäinen hinta: %1$s CNY | Säästät %2$s CNY</string>
@@ -100,6 +106,7 @@
   <string name="alipay_sdk_payed_show_paycode">Näytä koodi</string>
   <string name="alipay_sdk_payed_success">Maksettiin onnistuneesti</string>
   <string name="alipay_sdk_tiemout">Istunto vanhentui. Kirjaudu sisään uudelleen.</string>
+  <string name="alipay_template_month_dialog_cancel">Peruuta</string>
   <string name="app_label">Sovellusholvi</string>
   <string name="apps">Suositellut sovellukset</string>
   <string name="apps_label">Sovellukset</string>
@@ -575,6 +582,7 @@ Useita tilauksia, jotka lähetetään SF Expressin kautta Taobaon, Tmallin ja Xi
   <string name="favorite_title_modify">Muokkaa</string>
   <string name="favorite_title_modify_failed">Otsikkoa ei voitu muuttaa</string>
   <string name="favorite_title_modify_success">Muutettiin onnistuneesti</string>
+  <string name="feedback_cancel">Peruuta</string>
   <string name="flight">Lento</string>
   <string name="flight_num">Lentonumero</string>
   <string name="flight_num_example">Esim. CA1102</string>
@@ -739,6 +747,7 @@ Useita tilauksia, jotka lähetetään SF Expressin kautta Taobaon, Tmallin ja Xi
   <string name="mi_sport">Askelmittari</string>
   <string name="mi_sport_go_install">Lataa</string>
   <string name="mi_wallet">Mi Wallet</string>
+  <string name="mini_cancel">Peruuta</string>
   <string name="miuishare_account_activate_confirmation">Aktivointi vaaditaan</string>
   <string name="miuishare_account_activate_ok">Aktivoi</string>
   <string name="miuishare_account_login_cancel">Peruuta</string>
@@ -766,6 +775,7 @@ Useita tilauksia, jotka lähetetään SF Expressin kautta Taobaon, Tmallin ja Xi
   <string name="month_statement_category_detail_title">Laskelma</string>
   <string name="monthly_report_entry_text">Näytä kuukausittainen raportti</string>
   <string name="monthly_report_lable">Kuukausittainen raportti</string>
+  <string name="more_express_numbers">Lisää kuriirinumeroita</string>
   <string name="music">Musiikki &amp; radio</string>
   <string name="music_card_error_str">Tapahtui virhe, avaa Musiikkisovellus toistaaksesi</string>
   <string name="music_open">Näytä musiikin &amp; radion kortti</string>

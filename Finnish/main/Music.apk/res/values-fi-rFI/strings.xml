@@ -42,6 +42,7 @@
   <string name="add_to_last_of_playlist">Lisää soittolistan loppuun.</string>
   <string name="add_to_playlist_successful">Lisättiin onnistuneesti</string>
   <string name="added_next_play">Lisättiin seuraavaksi toistettavaksi</string>
+  <string name="agreement_desc">Käyttöehdot (pakollinen)</string>
   <string name="alaka_required">Sinun täytyy maksaa tämä kappale, jotta voit kuunnella sen.</string>
   <string name="album_label">Albumin kansikuvat</string>
   <string name="album_name">Albumi</string>
@@ -53,6 +54,16 @@
   <string name="already_favorited">On jo suosikeissa</string>
   <string name="always_use_metered">Käytä aina mobiilidataa</string>
   <string name="app_label">Lataukset</string>
+  <string name="app_permission_confirm">Selvä</string>
+  <string name="app_permission_optional">Valinnaiset käyttöoikeudet</string>
+  <string name="app_permission_require">Pakolliset käyttöoikeudet</string>
+  <string name="app_permission_use_desc">Käyttöoikeudet</string>
+  <string name="app_permission_use_group_account">Tilit</string>
+  <string name="app_permission_use_group_account_desc">Hakeakseen Mi Tilin tietoja</string>
+  <string name="app_permission_use_group_phone">Puhelin</string>
+  <string name="app_permission_use_group_phone_desc">Google Push-palveluita varten</string>
+  <string name="app_permission_use_group_storage">Tallennustila</string>
+  <string name="app_permission_use_group_storage_desc">Löytääkseen ja soittaakseen laitteelle tallennettuja kappaleita</string>
   <string name="artist">Artisti</string>
   <string name="artist_area_all">Kaikki</string>
   <string name="artist_area_china">Kiina</string>
@@ -121,7 +132,8 @@
   <string name="current_lyric">Nykyinen sanoitus</string>
   <string name="current_version">Nykyinen versio</string>
   <string name="data_usage_warning">Datan käyttö</string>
-  <string name="data_usage_warning_summary">Käyttämällä mobiilidata-yhteyttä korkealaatuisen musiikin suoratoistoon saattaa nostaa datan käyttömaksuja.</string>
+  <string name="data_usage_warning_summary">Käyttämällä mobiilidatayhteyttä korkealaatuisen musiikin suoratoistoon saattaa nostaa datan käyttömaksuja.</string>
+  <string name="data_use_desc">Lailliset asiakirjat</string>
   <string name="date_format_str">d.M.yyyy</string>
   <string name="delete">Poista</string>
   <string name="delete_download">Poista</string>
@@ -553,6 +565,7 @@
   <string name="preset_music_playlist">Mi Musiikki soittolista</string>
   <string name="priority_storage">Käytä ulkoista SD-korttia</string>
   <string name="priority_storage_summary">Lataa automaattisesti ulkoiselle SD-kortille jos käytettävissä</string>
+  <string name="privacy_desc">Tietosuojakäytäntö (pakollinen)</string>
   <string name="privacy_policy">Tietosuojakäytäntö</string>
   <string name="pro_member">PRO-jäsen</string>
   <string name="project_device">Mi Puhelin</string>
