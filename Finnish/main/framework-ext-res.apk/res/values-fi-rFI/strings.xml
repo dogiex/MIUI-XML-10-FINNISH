@@ -104,6 +104,12 @@
   <string name="remain">Jäljellä: %s</string>
   <string name="replace">Korvaa</string>
   <string name="resolver_app_recommend_flag">Suosittele</string>
+  <string name="resolver_checkbox_always">Aina</string>
+  <string name="resolver_checkbox_once">Kerran</string>
+  <string name="resolver_mi_browser">Mi Browser</string>
+  <string name="resolver_offical_recommend">Virallinen</string>
+  <string name="resolver_other_method">Muita vaihtoehtoja</string>
+  <string name="resolver_recommend_options_tag">Suositeltuja vaihtoehtoja</string>
   <string name="resource_select">Valitse</string>
   <string name="screen_button_notification_text">Ota ne takaisin käyttöön painamalla Koti- ja Virtapainiketta samanaikaisesti.</string>
   <string name="screen_button_notification_title">Navigointipainikkeet on poistettu käytöstä</string>

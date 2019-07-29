@@ -1335,6 +1335,8 @@ Voit jatkaa puhelimesi käyttöä, kun palautat tehdasasetukset. Kun olet määr
   <string name="crypt_keeper_setup_time_remaining">Odota, puhelimesi salataan. Aikaa jäljellä: ^1</string>
   <string name="crypt_keeper_setup_title">Salaus käynnissä</string>
   <string name="crypt_keeper_switch_input_method">Vaihda syöttötapaa</string>
+  <string name="crypt_keeper_switch_to_pattern">Käytä kuviota</string>
+  <string name="crypt_keeper_switch_to_pin">Käytä PIN-koodia</string>
   <string name="crypt_keeper_unplugged_text">Yhdistä laturi ja yritä uudelleen.</string>
   <string name="crypt_keeper_warn_wipe">Varoitus: laite tyhjennetään ^1 epäonnistuneen lukituksenpoistoyrityksen jälkeen!</string>
   <string name="cryptkeeper_emergency_call">Hätäpuhelu</string>
@@ -4454,6 +4456,7 @@ Huom. Tämän laitteen lukitusta ei voi avata sormenjäljellä. Saat lisätietoj
   <string name="settings_manual_activity_title">Käyttöopas</string>
   <string name="settings_manual_activity_unavailable">Ongelma ladattaessa käyttöopasta.</string>
   <string name="settings_notify_need_backup">Varmuuskopioi asetuksesi Mi Pilveen käyttääksesi niitä, kun vaihdat puhelimia.</string>
+  <string name="settings_notify_new_version">Päivitys on saatavilla. Katso tiedot napauttamalla.</string>
   <string name="settings_notify_phone_recycled">Puhelinnumerosi on kierrätetty. Napauta lisätäksesi toinen puhelinnumero.</string>
   <string name="settings_safetylegal_activity_loading">Ladataan…</string>
   <string name="settings_safetylegal_activity_title">Suojaustiedot</string>

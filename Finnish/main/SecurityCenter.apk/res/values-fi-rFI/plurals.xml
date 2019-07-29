@@ -248,6 +248,10 @@ Jos otat mobiilidatan uudelleen käyttöön, operaattorisi saattaa veloittaa sin
         <item quantity="other">%d päivää edellisestä tarkistuksesta</item>
         <item quantity="one">%d päivä edellisestä tarkistuksesta</item>
     </plurals>
+    <plurals name="hints_scan_danger_result_with_number">
+        <item quantity="other">%d riskiä löytyi, korjaa nyt</item>
+        <item quantity="one">%d riski löytyi, korjaa nyt</item>
+    </plurals>
     <plurals name="hints_handle_item_text_risk_number">
         <item quantity="other">%d riskiä,</item>
         <item quantity="one">%d riski,</item>

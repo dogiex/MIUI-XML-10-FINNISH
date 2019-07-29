@@ -108,6 +108,7 @@ Lähetä tämä koodi valvojalle."</string>
   <string name="error_dup_binded_email">Tämä sähköpostiosoite on jo olemassa toisella Mi Tilillä.</string>
   <string name="error_invalid_bind_address">Syöttämäsi sähköpostiosoite on väärin.</string>
   <string name="exceed_binded_phone_times_notice">Tämä puhelinnumero on jo olemassa toisella Mi Tilillä.</string>
+  <string name="exit">Poistu</string>
   <string name="facebook">Facebook</string>
   <string name="failed_dup_secure_phone_number">Tämä puhelinnumero on jo olemassa toisella Mi Tilillä</string>
   <string name="find_device_access_denied">Tilaa ei voitu hakea, pääsy kielletty</string>
@@ -136,12 +137,20 @@ Lähetä tämä koodi valvojalle."</string>
   <string name="get_phone_bind_exceed_limit">Voit liittää puhelinnumeroita enintään kolmelle Mi Tilille. Tilejä ei voi lisätä.</string>
   <string name="get_phone_verifycode_exceed_limit">Liian monta vahvistuskoodia on lähetetty tälle numerolle. Odota 24 tuntia ja yritä uudelleen.</string>
   <string name="guest_account_label">Mi Vierastili</string>
+  <string name="i_agree">OK</string>
+  <string name="i_agree_continue">Jatka</string>
   <string name="identity">Tunnistaminen</string>
   <string name="inconsistent_pwd">Salasanat eivät täsmää</string>
   <string name="input_email_address_notice">Käytämme tätä sähköpostia tilisi vahvistamiseen</string>
   <string name="input_new_pwd">Anna uusi salasana</string>
   <string name="io_error_title">Vahvista verkkosi</string>
   <string name="just_a_second">Odota hetki…</string>
+  <string name="kr_license_desc">Mi Tilin ja Mi Pilven palvelut vaatii sinua hyväksymään käyttöehdot ja tietosuojakäytännön.</string>
+  <string name="kr_permission_contacts_desc">Käytetään lukemaan yhteystietojan tietoja</string>
+  <string name="kr_permission_desc">Lue vaaditut käyttöoikeudet alapuolelta</string>
+  <string name="kr_permission_phone_desc">Käytetään tilin turvallisuuteen</string>
+  <string name="kr_permission_sms_desc">Käytetään automaattiseen täyttämiseen vahvistuskoodeille</string>
+  <string name="kr_permission_storage_desc">Käytetään diagnostiikkatietojen säilömiseen</string>
   <string name="loading_micloud_sync_data">Odota hetki…</string>
   <string name="login_check_find_device">Haetaan laitteen turvallisuustietoa…</string>
   <string name="login_check_find_device_failed_title">Laitteen turvallisuustietoa ei voitu tarkistaa</string>
@@ -179,6 +188,7 @@ Lähetä tämä koodi valvojalle."</string>
   <string name="oauth_scopes_intro">%2$s saa seuraavat käyttöoikeudet: %3$s</string>
   <string name="oauth_title">Kirjaudu Mi Tilillä</string>
   <string name="ok">OK</string>
+  <string name="optional_permissions">Valinnaiset käyttöoikeudet</string>
   <string name="passport_Resend">Lähetä uudelleen</string>
   <string name="passport_access_denied">Pääsy kielletty</string>
   <string name="passport_account_hint_text">Sähköpostiosoite/Puhelinnumero/Mi Tilin ID</string>
@@ -296,6 +306,7 @@ Aktivoi tilisi seuraamalla
   <string name="passport_phone_ticket_login">Kirjaudu sisään tekstiviestillä</string>
   <string name="passport_prev">Takaisin</string>
   <string name="passport_privacy_policy">Tietosuojakäytäntö</string>
+  <string name="passport_privacy_policy_required">Tietosuojakäytäntö (vaadittu)</string>
   <string name="passport_pwd_generate_failure">Salasanan luonti epäonnistui</string>
   <string name="passport_pwd_generating">Luodaan…</string>
   <string name="passport_querying_phone_info">Pyydetään tilitietoja…</string>
@@ -379,6 +390,7 @@ Aktivoi tilisi seuraamalla
   <string name="passport_user_agreement_p2">Palveluehdot</string>
   <string name="passport_user_agreement_p3"> ja </string>
   <string name="passport_user_agreement_p4">Tietosuojakäytännön</string>
+  <string name="passport_user_agreement_required">Käyttöehdot (vaadittu)</string>
   <string name="passport_user_id_notice">Mi Tilisi ID on %s.</string>
   <string name="passport_user_reg_region">Maa/Alue</string>
   <string name="passport_user_reg_region_warning">Et voi muuttaa maatasi/aluettasi tilin luomisen jälkeen</string>
@@ -394,6 +406,10 @@ Aktivoi tilisi seuraamalla
   <string name="passport_wrong_vcode">Antamasi koodi on virheellinen</string>
   <string name="passport_wrong_voice">Antamasi koodi on virheellinen</string>
   <string name="passport_yes">Kyllä</string>
+  <string name="permission_group_contacts">Yhteystiedot</string>
+  <string name="permission_group_phone">Puhelin</string>
+  <string name="permission_group_sms">Tekstiviesti</string>
+  <string name="permission_group_storage">Tallennustila</string>
   <string name="phone_num_use_for">Puhelinnumeroa käytetään:</string>
   <string name="photoPickerNotFoundText">Kuvia ei saatavilla.</string>
   <string name="push_notification_content">Hae vahvistuskoodi</string>
@@ -428,6 +444,7 @@ Aktivoi tilisi seuraamalla
   <string name="search_user_detail_desc">Henkilökohtaiset tiedot</string>
   <string name="search_user_detail_path">Asetukset/Mi Tili/Henkilökohtaiset tiedot</string>
   <string name="search_user_detail_top_key_words">Henkilökohtaiset tiedot,Vaihda Profiilikuva,Vaihda Käyttäjänimi,Vaihda Lempinimi,Vaihda Syntymäaika,Vaihda Sukupuoli</string>
+  <string name="select_all">Valitse kaikki</string>
   <string name="send_diagnosis_log">Lähetä diagnostiikkaloki</string>
   <string name="send_email_activate_message">Vahvistussähköposti lähetetty</string>
   <string name="sending">Lähetetään…</string>

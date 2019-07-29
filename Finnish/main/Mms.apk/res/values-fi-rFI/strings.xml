@@ -303,6 +303,7 @@
   <string name="menu_pick_from_contact">Valitse yhteystiedoista</string>
   <string name="menu_preferences">Asetukset</string>
   <string name="menu_send_as_common">Lähetä tekstiviestinä</string>
+  <string name="menu_traffic_destination">Määränpää</string>
   <string name="menu_unlock">Poista suosikeista</string>
   <string name="menu_view_contact">Näytä yhteystieto</string>
   <string name="message_class_label">"Viestin luokka: "</string>
@@ -436,6 +437,7 @@
   <string name="notification_multiple">[%s]</string>
   <string name="notification_multiple_title">Uusia viestejä</string>
   <string name="number_add_hint">Syötä puhelinnumero</string>
+  <string name="number_recognition_partner">Numeroiden tunnistuskumppanit</string>
   <string name="open_audio_record_panel">Avaa äänen nauhoituspaneeli</string>
   <string name="open_edit_sms_panel">Avaa viestin muokkauspaneeli</string>
   <string name="open_url_with_web">Avataanko tämä URL-osoite Selaimessa?</string>
@@ -774,6 +776,7 @@
   <string name="too_many_attachments">%1$s liitetiedostoa ei voi ylittää. Vain %2$s ensimmäistä lisätään.</string>
   <string name="too_many_recipients">Viesti sisältää liian monta vastaanottajaa (%1$s). Voit valita enintään %2$s vastaanottajaa.</string>
   <string name="too_many_unsent_mms">Viestiä ei voi lähettää juuri nyt. Liian monta lähettämätöntä multimediaviestiä.</string>
+  <string name="train_edit_destination">Lisää</string>
   <string name="try_to_send">Yritä lähettää</string>
   <string name="type_attachment">liitetiedosto</string>
   <string name="type_audio">ääni</string>

@@ -270,10 +270,27 @@ Et menetä mitään sovellustietoja."</string>
   <string name="app_name_na">Datan käyttö</string>
   <string name="app_name_securitycenter">Tietoturva</string>
   <string name="app_not_installed_toast">Sovellus ei ole asennettu laitteellesi.</string>
-  <string name="app_right">小米公司官方出品</string>
-  <string name="app_summary">"微信/QQ/米聊抢红包神器
-支持个人红包与群红包
-春节红包活动，不错过每一个红包"</string>
+  <string name="app_permission_use_group_calendar">Kalenteri</string>
+  <string name="app_permission_use_group_calendar_des">Lukea ja lisätä kalenteritietoja</string>
+  <string name="app_permission_use_group_camera">Kamera</string>
+  <string name="app_permission_use_group_camera_des">Käyttää kameraa</string>
+  <string name="app_permission_use_group_contact">Yhteystiedot</string>
+  <string name="app_permission_use_group_contact_des">Lukea ja lisätä yhteystietojen tietoja</string>
+  <string name="app_permission_use_group_location">Sijaintitieto</string>
+  <string name="app_permission_use_group_location_des">Tarkka ja suuntaa antava sijainti</string>
+  <string name="app_permission_use_group_mic">Mikrofoni</string>
+  <string name="app_permission_use_group_mic_des">Nauhoittaa ääntä</string>
+  <string name="app_permission_use_group_phone">Puhelin</string>
+  <string name="app_permission_use_group_phone_des">Lukea ja lisätä kohteita puheluhistoriaan, soittaa puheluita ja pääsy puhelun tilaan</string>
+  <string name="app_permission_use_group_sensor">Anturit</string>
+  <string name="app_permission_use_group_sensor_des">Lukea antureiden luomaa tietoa</string>
+  <string name="app_permission_use_group_sms">Viestintä</string>
+  <string name="app_permission_use_group_sms_des">Lähettää, vastaanottaa ja lukea viestejä</string>
+  <string name="app_permission_use_group_storage">Tallennustila</string>
+  <string name="app_permission_use_group_storage_des">Kohteiden tallentaminen sekä pääsy tallennustilaan</string>
+  <string name="app_permission_use_neccesary">Vaaditut käyttöoikeudet</string>
+  <string name="app_permission_use_no_neccesary">Valinnaiset käyttöoikeudet</string>
+  <string name="app_permission_use_title">Käyttöoikeudet</string>
   <string name="app_usage_never">Ei käytetty koskaan</string>
   <string name="app_usage_recently">Äskettäin käytetty</string>
   <string name="app_version">Versio</string>
@@ -586,10 +603,12 @@ Et menetä mitään sovellustietoja."</string>
   <string name="cpu_usage_process_run_time_little_time">Vähemmän, kuin 1 minuutti</string>
   <string name="cpu_usage_view_action_btn_text">Näytä napauttamalla</string>
   <string name="create_shortcut">Luo Aloitusnäytölle pikakuvaketa Pelien nopeuttajasta</string>
-  <string name="cta_dialog_msg">Tietoturva-sovellus vaatii internet-yhteyden päivityksiä varten sekä pääsyn sijaintitietoihin toimiakseen normaalisti.</string>
+  <string name="cta_dialog_msg">Sinun täytyy hyväksyä Tietosuojakäytäntömme, ennen kuin voit käyttää Tietoturva-sovellusta. Tietoturva-sovelluksen on yhdistettävä internetiin ja saatava sijaintitietosi toimiakseen normaalisti ja pitääkseen virustorjunnan ajantasalla. Hyväksytkö?</string>
+  <string name="cta_dialog_negative">Poistu</string>
+  <string name="cta_dialog_positive">Hyväksyn</string>
   <string name="cta_dialog_title">Internet-yhteys</string>
-  <string name="cta_settings">Salli internet-yhteys</string>
-  <string name="current_network_state_not_need_diagnose">Internet-yhteys on normaali.</string>
+  <string name="cta_settings">Salli internetyhteys</string>
+  <string name="current_network_state_not_need_diagnose">Internetyhteys on normaali.</string>
   <string name="customize_limit_pkg">%s (mukautettu)</string>
   <string name="customizer_mode_user_define_name">Sääntöni</string>
   <string name="daily_card_setting_fragment_daily_card_brand">Operaattori</string>
