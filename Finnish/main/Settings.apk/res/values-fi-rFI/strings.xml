@@ -1360,16 +1360,12 @@ Voit jatkaa puhelimesi käyttöä, kun palautat tehdasasetukset. Kun olet määr
   <string name="current_use_uicc_se">Käytetään SIM-kortin turvaelementtiä</string>
   <string name="current_use_uicc_wallet">Käytät SIM%1$s Lompakkoa</string>
   <string name="current_zone">(nykyinen)</string>
-  <string name="cutout_mode_always">Näytä lovi aina</string>
-  <string name="cutout_mode_default">Automaattinen</string>
-  <string name="cutout_mode_settings_title">Jotkut sovellukset saattaa näkyä väärin jos mukautat lovea.</string>
-  <string name="cutout_mode_title">Lovi yksittäisissä sovelluksissa</string>
   <string name="custom_carrier_title">Muokkaa operaattorin nimeä</string>
-  <string name="custom_wifi_name_title">Muokkaa Wi-Fi:n nimeä</string>
   <string name="cutout_mode_always">Näytä näyttölovi aina</string>
   <string name="cutout_mode_default">Automaattinen</string>
   <string name="cutout_mode_settings_title">Jotkut sovellukset saattavat esiintyä väärin, jos mukautat näyttöloven esiintymismuotoa.</string>
   <string name="cutout_mode_title">Yksittäisten sovellusten näyttölovi</string>
+  <string name="custom_wifi_name_title">Muokkaa Wi-Fi:n nimeä</string>
   <string name="cutout_type_desc">Ota käyttöön pehmeentääksesi näyttöloven reunoja</string>
   <string name="cutout_type_title">Säädä näyttöloven muoto</string>
   <string name="daltonizer_mode_deuteranomaly">Deuteranomalia (puna-vihersokeus)</string>
