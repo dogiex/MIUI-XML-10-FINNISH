@@ -877,12 +877,12 @@ Muodostetaanko pari tämän laitteen kanssa?"</string>
   <string name="bluetooth_preference_device_settings">Laiteasetukset</string>
   <string name="bluetooth_preference_found_devices">Saatavilla olevat laitteet</string>
   <string name="bluetooth_preference_no_found_devices">Laitteita ei löydy</string>
-  <string name="bluetooth_preference_paired_devices">Laiteparit</string>
+  <string name="bluetooth_preference_paired_devices">Yhdistetyt laitteet</string>
   <string name="bluetooth_preference_paired_dialog_contacts_option">Yhteystiedot ja soittohistoria</string>
   <string name="bluetooth_preference_paired_dialog_internet_option">Internetyhteys</string>
   <string name="bluetooth_preference_paired_dialog_keyboard_option">Näppäimistö</string>
   <string name="bluetooth_preference_paired_dialog_name_label">Nimi</string>
-  <string name="bluetooth_preference_paired_dialog_title">Laitepari</string>
+  <string name="bluetooth_preference_paired_dialog_title">Yhdistetty laite</string>
   <string name="bluetooth_preference_scan_title">Etsi laitteita</string>
   <string name="bluetooth_profile_a2dp">Median ääni</string>
   <string name="bluetooth_profile_a2dp_high_quality">HD-ääni: %1$s</string>
@@ -1028,6 +1028,15 @@ Siirtonopeus"</string>
   <string name="brightness_summary">Säädä näytön kirkkautta</string>
   <string name="brightness_title">Kirkkaus</string>
   <string name="bssid_label">BSSID:</string>
+  <string name="bt_aac_dialog_summary">"Nykyinen laite tukee AAC-koodekkia. AAC saattaa kuitenkin epäonnistui äänen toistamisessa yhteensopivuusongelmien takia. Laitteesi vaihtoi SBC-koodekkiin automaattisesti.
+Voit muuttaa tätä asetusta Asetuksissa."</string>
+  <string name="bt_aac_dialog_title">Bluetooth-yhteydet</string>
+  <string name="bt_aac_open_dialog_summary">"AAC saattaa epäonnistua äänen toistamisessa yhteensopivuusongelmien takia.
+Voit poistaa tämän ominaisuudet käytöstä asetuksista Asetukset &gt; Bluetooth &gt; Yhdistetyt laitteet."</string>
+  <string name="bt_aac_open_dialog_title">Vaihdetaan AAC-koodekkiin</string>
+  <string name="bt_aac_pre_title">AAC</string>
+  <string name="bt_dialog_remember_choice">Muista valinta</string>
+  <string name="bt_dialog_settings">Asetukset</string>
   <string name="bt_hci_snoop_log">Ota Bluetoothin HCI-tarkkailuloki käyttöön</string>
   <string name="bt_hci_snoop_log_summary">Tallenna kaikki Bluetoothin HCl-paketit tiedostoon</string>
   <string name="bt_ldac_declaration">Kun Bluetooth-laite tukee LDAC:ia se yhdistetään oletuksena. LDAC tarjoaa laadukkaan äänentoiston, mutta se kuluttaa myös enemmän virtaa. Ongelmia voi ilmeentyä toiston aikana Bluetooth-laitteistorajoituksien vuoksi.</string>
@@ -1036,11 +1045,9 @@ Tämän ominaisuuden voi poistaa käytöstä [Asetuksista]"</string>
   <string name="bt_ldac_dialog_title">Nykyinen laite tukee LDAC:ia, joka yhdistettiin oletuksena:</string>
   <string name="bt_ldac_open_dialog_summary">LDAC tarjoaa laadukkaan äänentoiston, mutta se kuluttaa myös enemmän virtaa. Ongelmia voi ilmeentyä toiston aikana Bluetooth-laitteistorajoituksien vuoksi.</string>
   <string name="bt_ldac_open_dialog_title">Otetaanko LDAC käyttöön?</string>
-  <string name="bt_ldac_pre_summary">Tarjoaa laadukkaan äänentoiston</string>
   <string name="bt_ldac_pre_title">LDAC</string>
   <string name="bt_ldac_property">Ominaisuudet</string>
-  <string name="bt_ldac_remember_choice">Muista valinta</string>
-  <string name="bt_ldac_settings">Asetukset</string>
+  <string name="bt_pre_summary">Tarjoaa korkean äänenlaadun kokemuksen</string>
   <string name="bt_rarely_used_device_title">Harvoin käytetyt laitteet (%d)</string>
   <string name="bt_trace_log">Bluetooth jäljitysloki</string>
   <string name="bt_trace_log_summary">Bluetooth jäljitysloki</string>
@@ -1353,6 +1360,10 @@ Voit jatkaa puhelimesi käyttöä, kun palautat tehdasasetukset. Kun olet määr
   <string name="current_use_uicc_se">Käytetään SIM-kortin turvaelementtiä</string>
   <string name="current_use_uicc_wallet">Käytät SIM%1$s Lompakkoa</string>
   <string name="current_zone">(nykyinen)</string>
+  <string name="cutout_mode_always">Näytä lovi aina</string>
+  <string name="cutout_mode_default">Automaattinen</string>
+  <string name="cutout_mode_settings_title">Jotkut sovellukset saattaa näkyä väärin jos mukautat lovea.</string>
+  <string name="cutout_mode_title">Lovi yksittäisissä sovelluksissa</string>
   <string name="custom_carrier_title">Muokkaa operaattorin nimeä</string>
   <string name="custom_wifi_name_title">Muokkaa Wi-Fi:n nimeä</string>
   <string name="cutout_mode_always">Näytä näyttölovi aina</string>
@@ -2726,6 +2737,7 @@ PIN-koodi"</string>
   <string name="lockscreen_settings_title">Lukitusnäytön asetukset</string>
   <string name="login_account_dialog_message">Kirjaudu sisään Mi Tililläsi ja ota Mi Pilven synkronointi käyttöön.</string>
   <string name="login_account_dialog_title">Kirjaudu sisään Mi Tilillä</string>
+  <string name="login_account_summary">Hallinnoi tilejä, pilvipalveluita, maksuja ja paljon muuta</string>
   <string name="login_action">Kirjaudu sisään</string>
   <string name="long_press_back_key">Paina Takaisin-painiketta pitkään</string>
   <string name="long_press_buttom_key">Paina Koti-painiketta pitkään Lukitusnäytöllä</string>
@@ -2969,6 +2981,7 @@ Tällä laitteella on muita paikalla olevia käyttäjiä.
   <string name="miui_sos_settings_category">SOS-asetukset</string>
   <string name="miui_sos_statusbar_summary">Napauta poistaaksesi käytöstä</string>
   <string name="miui_sos_statusbar_title">Hätätila on aktivoitu</string>
+  <string name="miui_special_feature">Erikoisominaisuudet</string>
   <string name="miui_touch_filtered_warning">Jos sovellus estää käyttöoikeusikkunan, raahaa päällä oleva kohde pois edestä tai sulje sovellus.</string>
   <string name="miui_updater">Järjestelmän päivitys</string>
   <string name="miui_userguide">Käyttöopas</string>
@@ -3371,6 +3384,7 @@ Valitse käyttöjärjestelmäsi:"</string>
   <string name="other_device_info">Muut</string>
   <string name="other_personal_settings">Henkilökohtaiset asetukset</string>
   <string name="other_relative">Muut</string>
+  <string name="other_settings_sync_settings">Synkronointi</string>
   <string name="other_sound_category_preference_title">Muut äänet ja värinä</string>
   <string name="other_sound_settings">Muut äänet</string>
   <string name="others">Muu</string>
@@ -3470,7 +3484,7 @@ Valitse käyttöjärjestelmäsi:"</string>
   <string name="person_hotpot">Mobiilihotspotit</string>
   <string name="personal_data_section_title">Henkilötiedot</string>
   <string name="personal_device_admin_title">Henkilökohtainen</string>
-  <string name="personal_section_title">Henkilökohtainen</string>
+  <string name="personal_section_title">Personointi</string>
   <string name="phone_call_noise_suppression">Poista taustamelu puhelun aikana</string>
   <string name="phone_info_label">Puhelimen tiedot</string>
   <string name="phone_language">Kielet</string>
@@ -4222,6 +4236,7 @@ Näytön kiinnittäminen:
   <string name="search_oldman_mode_entry_name">Lite-tila;Vanhus-tila;Litetila</string>
   <string name="search_onekey_migrate">Lähetä;Siirrä;Mi Mover</string>
   <string name="search_other_advanced_settings">Lisäasetukset;Lisää asetuksia</string>
+  <string name="search_other_settings_sync_settings">Synkronointi;Auto;Vain Wi-Fi</string>
   <string name="search_owner_info_settings_title">Omistajan tiedot</string>
   <string name="search_page_layout_settings">Tekstin koko;Fontin koko;Pieni fontti;Suuri fontti;Keskikokoinen fontti;Valtava fontti;Fontin koko; Fontin koot</string>
   <string name="search_permission_manager">Käyttöoikeudet;Root oikeus</string>
@@ -4286,6 +4301,7 @@ Näytön kiinnittäminen:
   <string name="search_trusted_credentials">Luotetut todennustiedot;Sovelluksen allekirjoitus;Sovelluksien allekirjoitukset;Todennustiedot;Allekirjoitus</string>
   <string name="search_tts_settings_title">Teksti puheeksi -toisto;Teksti puheeksi</string>
   <string name="search_turn_on_security_lock">Valitse näytön lukitus;Näytön lukitus;Lisää näytön lukitus;näytönlukitus</string>
+  <string name="search_unlogin_account_title">Mi Tili;Mi Tilin ID;Tili;Tilin ID</string>
   <string name="search_usb_tethering_button_text">USB jakaminen;jakaminen;USB</string>
   <string name="search_user_agreement">Palveluehdot</string>
   <string name="search_user_dict_settings_title">Henkilökohtainen sanakirja;Sanakirja</string>
@@ -5013,7 +5029,7 @@ Se on Googlen tapa synkronoida tietoja, ja sen avulla voit käyttää yhteystiet
   <string name="system_alert_window_on">Kyllä</string>
   <string name="system_alert_window_settings">Sovellusten päällä näkyminen</string>
   <string name="system_alert_window_summary">%1$d/%2$d sovellusta saa näkyä muiden sovellusten päällä.</string>
-  <string name="system_and_device_section_title">Järjestelmä ja laite</string>
+  <string name="system_and_device_section_title">Järjestelmäasetukset</string>
   <string name="system_app">(Järjestelmä)</string>
   <string name="system_app_settings">Järjestelmäsovelluksien asetukset</string>
   <string name="system_apps_updater">Järjestelmäsovelluksien päivittäjä</string>
@@ -5258,6 +5274,8 @@ Se on Googlen tapa synkronoida tietoja, ja sen avulla voit käyttää yhteystiet
   <string name="unlock_set_unlock_pin_title">PIN-koodi</string>
   <string name="unlock_set_unlock_summary">Aseta näytön lukitus</string>
   <string name="unlock_setup_wizard_fingerprint_details">Kun olet määrittänyt näytön lukituksen, voit määrittää myös sormenjälkesi kohdassa Asetukset &gt; Tietoturva.</string>
+  <string name="unlogin_account_summary">Kaikki Mi-palvelut. Yksi Mi Tili</string>
+  <string name="unlogin_account_title">Kirjaudu sisään Mi Tiliin</string>
   <string name="unmount_inform_text">USB-tallennustila poistetaan käytöstä</string>
   <string name="unmute_sound_title">Poista mykistys</string>
   <string name="unrestrict_max_aspect_ratio_title">Nämä sovellukset ovat optimoitu kokonäyttötilaa varten</string>

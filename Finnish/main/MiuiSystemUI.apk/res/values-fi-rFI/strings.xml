@@ -780,6 +780,7 @@ Olet myös yhteydessä VPN-palvelimeen, joka voi valvoa verkon käyttöäsi."</s
      <string name="quick_settings_wifi_off_label">Wi-Fi pois käytöstä</string>
      <string name="quick_settings_wifi_on_label">Wi-Fi käytössä</string>
      <string name="quick_settings_work_mode_label">Työtila</string>
+     <string name="rapid_charge_mode_tip">Pikalataus</string>
      <string name="recent_menu_item_info">Tiedot</string>
      <string name="recent_menu_item_lock">Lukitse</string>
      <string name="recent_menu_item_multi_window">Jaa näyttö</string>

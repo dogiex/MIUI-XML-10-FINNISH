@@ -75,8 +75,6 @@
   <string name="agenda_assistant_payment_day">Maksupäivä</string>
   <string name="agenda_assistant_repayment_day">Maksupäivä</string>
   <string name="agenda_assistant_tail_num">Numero</string>
-  <string name="agenda_disclaimer">Vastuuvapauslauseke</string>
-  <string name="agenda_disclaimer_content">Tämän ominaisuuden tarjoaa Alipay. Alipay vastaa kaikista sen tarjoamista palveluista. Voit olla yhteydessä Alipayhin jos sinulla on kysyttävää.</string>
   <string name="agenda_i_known">Selvä</string>
   <string name="agenda_need_install_alipay">Asenna Alipay ennen tämän ominaisuuden käyttämistä.</string>
   <string name="agenda_no_title">(Nimetön)</string>
@@ -251,6 +249,8 @@
   <string name="cleanup_memory">Tyhjennä välimuisti</string>
   <string name="cleanup_power">Syväpuhdista</string>
   <string name="clear">Tyhjennä</string>
+  <string name="clock_alarm">Hälytys</string>
+  <string name="clock_parent">Kello</string>
   <string name="closed">Pois päältä</string>
   <string name="commute">Karttaehdotukset</string>
   <string name="commute_open">Näytä karttaehdotuksien kortti</string>
@@ -315,6 +315,8 @@
   <string name="didi_trip">Soita taksi</string>
   <string name="didi_trip_content">Arvioi hinta ja soita taksi</string>
   <string name="didi_trip_content_detail">Arvioi likimääräinen hinta taksille ja soita taksi.</string>
+  <string name="disclaimer_content">Tämän ominaisuuden tarjoaa %1$s. %1$s kantaa kaiken vastuun tarjoamistaan palveluista. Voit ottaa yhteyttä %1$s, jos sinulla on kysyttävää.</string>
+  <string name="disclaimer_title">Vastuuvapauslauseke</string>
   <string name="drive">Aja</string>
   <string name="duokan_open">Lisää Duokan kortti</string>
   <string name="duokan_setting_brief">Jatka lukemista siitä paikasta, mihin jäit.</string>
@@ -632,6 +634,8 @@ Useita tilauksia, jotka lähetetään SF Expressin kautta Taobaon, Tmallin ja Xi
   <string name="function_zhihu_title">Zhihu</string>
   <string name="go_to_pay">Nopea takaisinmaksu</string>
   <string name="go_to_school">Töihin ja töistä tai kouluun ja koulusta</string>
+  <string name="google_assistant">Avustaja</string>
+  <string name="google_parent">Google</string>
   <string name="greeting_alarm_desc">Herätys soi huomenna klo %1$s.</string>
   <string name="greeting_alarm_desc_with_duration">Herätys soi huomenna klo %1$s, mene nukkumaan, jotta saat %2$s edestä unta.</string>
   <string name="greeting_birth_desc">Tänään on henkilön %1$s syntymäpäivä.</string>
@@ -716,9 +720,11 @@ Useita tilauksia, jotka lähetetään SF Expressin kautta Taobaon, Tmallin ja Xi
   <string name="main_paste_add">Lisää</string>
   <string name="main_search_hint">Haku</string>
   <string name="main_select">Valitse</string>
+  <string name="map_baidu">Baidu Kartta</string>
   <string name="map_detail">Näytä reitti</string>
   <string name="map_didi">Soita taksi</string>
   <string name="map_empty_btn">Et ole lisännyt yhtään osoitetta</string>
+  <string name="map_gaode">Gaode Kartta</string>
   <string name="map_home_didi">Mene kotiin</string>
   <string name="map_home_way">Reitti kotiin</string>
   <string name="map_install_tip">Asenna Gaode tai Baidu kartat käyttääksesi tätä ominaisuutta</string>
@@ -747,6 +753,8 @@ Useita tilauksia, jotka lähetetään SF Expressin kautta Taobaon, Tmallin ja Xi
   <string name="mi_sport">Askelmittari</string>
   <string name="mi_sport_go_install">Lataa</string>
   <string name="mi_wallet">Mi Wallet</string>
+  <string name="midrop_parent">Mi Drop</string>
+  <string name="midrop_send">Lähetä</string>
   <string name="mini_cancel">Peruuta</string>
   <string name="miuishare_account_activate_confirmation">Aktivointi vaaditaan</string>
   <string name="miuishare_account_activate_ok">Aktivoi</string>
@@ -874,6 +882,7 @@ Useita tilauksia, jotka lähetetään SF Expressin kautta Taobaon, Tmallin ja Xi
   <string name="payment_upload_data_success">Lähetettiin tiedot onnistuneesti</string>
   <string name="payment_user_notice_bar_text">Tietoja \"Automaattisista maksuista\"</string>
   <string name="personalAssistant_mainpage">Kotisivu</string>
+  <string name="phone_check">Optimointi</string>
   <string name="pie_chart_label_atm">Pankkiautomaattinostot:</string>
   <string name="pie_chart_label_catering">Ruoka:</string>
   <string name="pie_chart_label_education">Koulutus:</string>
@@ -1123,6 +1132,8 @@ Useita tilauksia, jotka lähetetään SF Expressin kautta Taobaon, Tmallin ja Xi
   <string name="walk">Kävele</string>
   <string name="weibo_name">Uusi viesti</string>
   <string name="weibo_parent">Weibo</string>
+  <string name="whatsapp_parent">WhatsApp</string>
+  <string name="whatsapp_photos">Kuvat</string>
   <string name="which_transport">Miten normaalisti pääset määränpäähäsi?</string>
   <string name="widget_fav">Suosikit</string>
   <string name="widget_fav_open">Näytä suosikkikortti</string>

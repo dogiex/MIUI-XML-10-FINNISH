@@ -10,26 +10,22 @@
     </plurals>
     <plurals name="call_recording_notification_complete">
         <item quantity="other">%d puhelua nauhoitettu.</item>
-        <item quantity="one">yksi puhelu nauhoitettu.</item>
+        <item quantity="one">%d puhelu nauhoitettu.</item>
     </plurals>
     <plurals name="antispam_marked_count">
         <item quantity="other">%d MIUI:n käyttäjää ilmoittanut</item>
         <item quantity="one">%d MIUI:n käyttäjä ilmoittanut</item>
     </plurals>
-    <plurals name="livetalk_left_minute">
-        <item quantity="other">%d minuuttia jäljellä</item>
-        <item quantity="one">%d minuutti jäljellä</item>
-    </plurals>
     <plurals name="duration_seconds">
         <item quantity="other">%d sekuntia</item>
-        <item quantity="one">1 sekunti</item>
+        <item quantity="one">%d sekunti</item>
     </plurals>
     <plurals name="duration_minutes">
         <item quantity="other">%d minuuttia</item>
-        <item quantity="one">1 minuutti</item>
+        <item quantity="one">%d minuutti</item>
     </plurals>
     <plurals name="duration_hours">
         <item quantity="other">%d tuntia</item>
-        <item quantity="one">1 tunti</item>
+        <item quantity="one">%d tunti</item>
     </plurals>
 </resources>

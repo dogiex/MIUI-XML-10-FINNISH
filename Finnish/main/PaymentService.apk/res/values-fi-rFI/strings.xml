@@ -26,6 +26,7 @@
   <string name="abc_shareactionprovider_share_with">Jakaminen:</string>
   <string name="abc_shareactionprovider_share_with_application">Jakaminen: %s</string>
   <string name="abc_toolbar_collapse_description">Tiivistä</string>
+  <string name="app_name">Mi Krediitti</string>
   <string name="hybrid_provider">Tarjoaja %1$s</string>
   <string name="mibi_all_license_message">Olet käyttämässä Mi Krediittiä, joka on Xiaomi Inc.:n tarjoama palvelu. Ennen tämän palvelun käyttämistä, sinun täytyy hyväksyä Palveluehdot, jotka on määritetty %1$s. Napauta OK jos hyväksyt ehdot, jotka on lueteltu %1$s ja %1$s. Sinun täytyy yhdistää internetiin ja paikantaa laitteesi käyttääksesi Mi Krediittiä.</string>
   <string name="mibi_app_name">Mi Krediitti</string>
@@ -144,7 +145,7 @@ Tarkista paikallinen päivämäärä ja yritä uudelleen."</string>
   <string name="mibi_get_phone_num_title">Syötä puhelinnumero</string>
   <string name="mibi_get_phone_sms_prompt">Vahvistuskoodi lähetetty numeroon %1$s</string>
   <string name="mibi_giftcard_acitivity_and_denomination">%2$s-Mi Krediitin lahjakortti henkilöltä %1$s</string>
-  <string name="mibi_giftcard_available">käytettävissä</string>
+  <string name="mibi_giftcard_available">Käytettävissä</string>
   <string name="mibi_giftcard_denom">Mi Krediitti</string>
   <string name="mibi_giftcard_denom_available">Mi Krediittiä käytettävissä</string>
   <string name="mibi_giftcard_denom_frozen">Mi Krediittiä jäädytetty</string>
@@ -161,10 +162,10 @@ Tarkista paikallinen päivämäärä ja yritä uudelleen."</string>
   <string name="mibi_giftcard_push_notification_prime_title">Olet saanut lahjakortin</string>
   <string name="mibi_giftcard_push_notification_sub_title">%1$s: %2$s Mi Krediittiä annetaan pois.</string>
   <string name="mibi_giftcard_record">Lahjakorttini</string>
-  <string name="mibi_giftcard_unavailable">vanhentunut</string>
+  <string name="mibi_giftcard_unavailable">Vanhentunut</string>
   <string name="mibi_giftcard_use_now">Lunasta</string>
-  <string name="mibi_giftcard_used">lunastettu</string>
-  <string name="mibi_giftcard_vaild_util">voimassa %1$s</string>
+  <string name="mibi_giftcard_used">Lunastettu</string>
+  <string name="mibi_giftcard_vaild_util">Voimassa %1$s</string>
   <string name="mibi_giftcard_will_expire">Vanhentuu %1$s</string>
   <string name="mibi_giftcard_with_num">%1$s Mi Krediitin kuponki käytettävissä</string>
   <string name="mibi_header_network_error">Verkkoyhteyttä ei voitu muodostaa.</string>
@@ -185,6 +186,7 @@ Tarkista paikallinen päivämäärä ja yritä uudelleen."</string>
   <string name="mibi_mili_center">Mi Krediitti</string>
   <string name="mibi_milicenter_title">Mi Krediitti</string>
   <string name="mibi_mipay_error">Mipay epäonnistui</string>
+  <string name="mibi_more_operation">Lisää toimintoja</string>
   <string name="mibi_msg_denomination_type">Mi Krediitti</string>
   <string name="mibi_msg_error">Top-up epäonnistui</string>
   <string name="mibi_msg_order_hint_1_1">Tuotteen vahvistamisen jälkeen, puhelimesi</string>

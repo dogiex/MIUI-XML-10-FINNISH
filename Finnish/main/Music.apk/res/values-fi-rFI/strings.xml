@@ -47,8 +47,13 @@
   <string name="album_label">Albumin kansikuvat</string>
   <string name="album_name">Albumi</string>
   <string name="all_album_count">Kaikki albumit (%d)</string>
+  <string name="all_albums">Kaikki albumit</string>
+  <string name="all_artists">Kaikki artistit</string>
   <string name="all_playlist_count">Kaikki soittolistat (%d)</string>
+  <string name="all_playlists">Kaikki soittolistat</string>
+  <string name="all_songs">Kaikki kappaleet</string>
   <string name="all_tracks">Kaikki kappaleet</string>
+  <string name="all_videos">Kaikki videot</string>
   <string name="already_download">Ladataan…</string>
   <string name="already_download_btn">Ladataan…</string>
   <string name="already_favorited">On jo suosikeissa</string>
@@ -605,7 +610,9 @@ Ole onnellinen"</string>
   <string name="search_empty">Ei tulosta. Kokeile toisia sanoja</string>
   <string name="search_for_album">Albumi</string>
   <string name="search_for_artist">Artisti</string>
-  <string name="search_hint">Hae artistia, kappaletta, albumia, suosittele</string>
+  <string name="search_hint">Hae artisteja, kappaleita, albumeja ja suosituksia</string>
+  <string name="search_hint_local">Hae kappaleita laitteelta</string>
+  <string name="search_hint_online">Hae artisteja, albumeja, kappaleita, soittolistoja ja videoita verkosta</string>
   <string name="search_history_clear_all">Tyhjennä</string>
   <string name="search_instant_online_music">Online</string>
   <string name="search_menu_title">Haku</string>
@@ -680,8 +687,10 @@ Ole onnellinen"</string>
   <string name="tab_artist">Artistit</string>
   <string name="tab_artist_list">Artistit</string>
   <string name="tab_folder">Kansiot</string>
+  <string name="tab_playlist">Soittolistat</string>
   <string name="tab_track">Kappaleet</string>
   <string name="tab_track_list">Kappaleet</string>
+  <string name="tab_video">Videot</string>
   <string name="take_effect_afater_restart">Sinun täytyy käynnistää sovellus uudelleen tämän asetuksen tulemiseksi voimaan.</string>
   <string name="talkback_back">Takaisin</string>
   <string name="talkback_batch_process">Useita kohteita</string>

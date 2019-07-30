@@ -827,7 +827,7 @@ Se lisätään poikkeuksiin, mutta jo ennestään estetyt kohteet ei ilmesty puh
   <string name="face_unlock_check_failed">Sinua ei voitu tunnistaa</string>
   <string name="face_unlock_face_auth_failed_title">Kasvojen tietoja ei voitu vahvistaa. Vaihdetaan toiseen lukituksenpoistotyyliin…</string>
   <string name="face_unlock_face_start_title">Vahvistetaan kasvojen tietoja…</string>
-  <string name="face_unlock_finger_or_password_switch">Avaa lukitus käyttämällä sormenjälkeäsi tai antamalla salasana.</string>
+  <string name="face_unlock_finger_or_password_switch">Avaa lukitus käyttämällä sormenjälkeäsi tai antamalla salasana</string>
   <string name="face_unlock_guide_confirm">Käytä Kasvojentunnistusta</string>
   <string name="face_unlock_guide_dialog_summary">Voit käyttää kasvojen tietoja avataksesi laitteesi lukituksen. Otetaanko Kasvojentunnistus käyttöön?</string>
   <string name="face_unlock_not_found">Sinua ei voitu tunnistaa</string>

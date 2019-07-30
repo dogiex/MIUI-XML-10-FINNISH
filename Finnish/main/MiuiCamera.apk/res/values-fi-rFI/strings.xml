@@ -444,9 +444,12 @@ ja tuo henkilöt esiin."</string>
   <string name="pref_camera_jpegquality_title">Kuvanlaatu</string>
   <string name="pref_camera_live_sticker_internal_title">Sisäiset taikatyökalut</string>
   <string name="pref_camera_long_press_shutter_feature_title">Sulkija-painikkeen pitkä painallus</string>
+  <string name="pref_camera_long_press_viewfinder_title">Paina &amp; pidä Viewfinderiä pohjassa</string>
   <string name="pref_camera_long_pressing_burst_shooting_entry_burst">Sarjakuvaus</string>
   <string name="pref_camera_long_pressing_burst_shooting_entry_focus">Tarkenna</string>
   <string name="pref_camera_long_pressing_shutter_title">Paina &amp; pidä Sulkija-painiketta lukitaksesi AE/AF/AWB</string>
+  <string name="pref_camera_long_pressing_viewfinder_entry_google_lens">Google Lens</string>
+  <string name="pref_camera_long_pressing_viewfinder_entry_lock_ae_af">AE &amp; AF Lukitus</string>
   <string name="pref_camera_magic_mirror_title">Taikapeili</string>
   <string name="pref_camera_manual_mode_title">Manuaalinen</string>
   <string name="pref_camera_mfnr_sat_enable_title">Ota MFNR käyttöön</string>
@@ -569,7 +572,9 @@ ja tuo henkilöt esiin."</string>
   <string name="pref_front_mirror_entry_on">Päällä</string>
   <string name="pref_front_mirror_label_auto">Automaattinen</string>
   <string name="pref_front_mirror_title">Peilaa etukamera</string>
-  <string name="pref_google_lens">Google objektiivi</string>
+  <string name="pref_google_lens">Google lens</string>
+  <string name="pref_google_lens_summary">Tunnista automaattisesti QR-koodit, sähköpostit, numerot jne</string>
+  <string name="pref_google_lens_title">Lens Ehdotukset</string>
   <string name="pref_groupshot_with_primitive_title">Tallenna myös alkuperäiset kuvat</string>
   <string name="pref_manual_exposure_title">S</string>
   <string name="pref_priority_storage_title">Tallenna SD-kortille</string>
