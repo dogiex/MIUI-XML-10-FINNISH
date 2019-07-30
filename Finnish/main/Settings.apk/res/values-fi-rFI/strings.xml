@@ -2987,8 +2987,8 @@ Tällä laitteella on muita paikalla olevia käyttäjiä.
   <string name="mode_disable">Pois käytöstä</string>
   <string name="mode_enable">Käytössä</string>
   <string name="model_info">Malli</string>
-  <string name="model_name">Mallin nimi</string>
-  <string name="model_number">Mallinumero</string>
+  <string name="model_name">Malli</string>
+  <string name="model_number">Laitteen malli</string>
   <string name="modify_instruction_password_settings">Aseta salasana</string>
   <string name="modify_privacy_password">Vaihda salasana</string>
   <string name="more_dangerous_option_hint">Korkean riskin toimintoja, mm. \"%1$s\" on käytössä. Napauta vaihtaaksesi asetuksia.</string>

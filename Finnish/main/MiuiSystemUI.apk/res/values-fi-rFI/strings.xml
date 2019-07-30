@@ -238,7 +238,6 @@
      <string name="config_rat_unknown" />
      <string name="confirm">Selvä</string>
      <string name="confirm_pin_msg">Anna Pin-koodi uudelleen</string>
-     <string name="custom_lock_wallpaper_enter">Siirry</string>
      <string name="data_saver">Datan säästäjä</string>
      <string name="data_saver_description">Vähentääksesi datan käyttöä, Datan säästäjä estää joitakin sovelluksia lähettämästi tai vastaanottamasta dataa taustalla. Tällä hetkellä käyttämäsi sovellus voi käyttää dataa, mutta saattaa käyttää sitä harvemmin. Tämä tarkoittaa sitä, että esimerkiksi kuvat eivät näyttäydy ennen kuin napautat niitä.</string>
      <string name="data_saver_enable_button">Ota käyttöön</string>
@@ -306,6 +305,8 @@
      <string name="face_unlock_check_failed">Sinua ei voitu tunnistaa</string>
      <string name="face_unlock_close_screen">Siirry lähemmäksi näyttöä</string>
      <string name="face_unlock_down">Nosta päätäsi</string>
+     <string name="face_unlock_fail">Kasvoja ei voitu vahvistaa</string>
+     <string name="face_unlock_fail_retry">Kasvojasi ei voitu vahvistaa. Yritä uudelleen napauttamalla kuvaketta.</string>
      <string name="face_unlock_identify_error">Tapahtui tunnistusvirhe</string>
      <string name="face_unlock_not_found">Sinua ei voitu tunnistaa</string>
      <string name="face_unlock_not_roi">Pidä kasvosi kehyksen sisällä</string>
@@ -326,6 +327,8 @@
      <string name="face_unlock_rotated_right">Käännä päätäsi vasemmalle</string>
      <string name="face_unlock_sc_status">Paina näyttöä alaspäin avataksesi kameran</string>
      <string name="face_unlock_stay_away_screen">Pysy 25-40 cm etäisyydellä näytöstä</string>
+     <string name="face_unlock_success_stay_screen_msg">Pysy Lukitusnäytöllä kasvojentunnistuksen jälkeen. Pyyhkäise ylös avataksesi Aloitusnäytön.</string>
+     <string name="face_unlock_success_stay_screen_title">Pysy Lukitusnäytöllä avaamisen jälkeen</string>
      <string name="fingerprint_add_text">Sormenjälkikäyttöliittymä päivitettiin. Lisää sormenjälkesi uudelleen.</string>
      <string name="fingerprint_add_title">Lisää sormenjälki</string>
      <string name="fingerprint_again_identified_msg">Sormenjälkesi on nyt aktiivinen. Käytä sitä laitteen lukituksen avaamiseen tai anna salasana.</string>
