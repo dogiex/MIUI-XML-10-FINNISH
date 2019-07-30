@@ -437,7 +437,7 @@
   <string name="notification_multiple">[%s]</string>
   <string name="notification_multiple_title">Uusia viestejä</string>
   <string name="number_add_hint">Syötä puhelinnumero</string>
-  <string name="number_recognition_partner">Numeroiden tunnistuskumppanit</string>
+  <string name="number_recognition_partner">Lähettäjä ID:n tunnistuspalveluntarjoajat</string>
   <string name="open_audio_record_panel">Avaa äänen nauhoituspaneeli</string>
   <string name="open_edit_sms_panel">Avaa viestin muokkauspaneeli</string>
   <string name="open_url_with_web">Avataanko tämä URL-osoite Selaimessa?</string>

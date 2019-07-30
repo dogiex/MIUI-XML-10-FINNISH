@@ -6,7 +6,7 @@
     </string-array>
     <string-array name="hmode_app_classify1">
         <item>Mukautettu</item>
-        <item>Virransäästö</item>
+        <item>MIUI virransäästö</item>
     </string-array>
 	<string-array name="hmode_app_classify2">
         <item>Aktiiviset sovellukset</item>
@@ -24,7 +24,7 @@
 	<string-array name="thermal_summaries">
         <item>Priorisoi lämpötilan säätö</item>
         <item>Priorisoi suorituskyky</item>
-        <item>Ei toimi Äärimmäisessä tilassa</item>
+        <item>Ei tuettu Äärimmäisessä virransäästössä</item>
     </string-array>
     <string-array name="power_mode_entries">
         <item>Suorituskyky</item>

@@ -1,8 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="activities_title">
+        <item>Erikoinen päivä</item>
+        <item>Muistettava päivä</item>
+        <item>Eläviä hetkiä</item>
+    </string-array>
     <string-array name="baby_sexy">
         <item>Poika</item>
         <item>Tyttö</item>
+    </string-array>
+    <string-array name="last_weekend_title">
+        <item>Viikonloppuni</item>
+        <item>Pieniä paloja elämää</item>
+        <item>Viikonlopun muistot</item>
     </string-array>
     <string-array name="month">
         <item>Tammikuu</item>
@@ -25,6 +35,11 @@
         <item>Isänäiti</item>
         <item>Äidinisä</item>
         <item>Äidinäiti</item>
+    </string-array>
+    <string-array name="parties_title">
+        <item>Yhdessä</item>
+        <item>Hyvät ajat</item>
+        <item>Sopusoinnussa</item>
     </string-array>
     <string-array name="card_last_week_day">
         <item>Viime Maanantai</item>
@@ -127,6 +142,10 @@
         <item>Isänäiti</item>
         <item>Äidinisä</item>
         <item>Äidinäiti</item>
+    </string-array>
+    <string-array name="sports_title">
+        <item>Liikkuu eteenpäin</item>
+        <item>Täynnä energiaa</item>
     </string-array>
     <string-array name="search_voice_assistant_suggestion">
         <item>帮我找出身份证的照片</item>

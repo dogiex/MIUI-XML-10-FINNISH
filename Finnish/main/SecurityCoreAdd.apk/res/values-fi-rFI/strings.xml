@@ -111,7 +111,7 @@ Varmista, että yrityksesi nimi on oikein. Lue ja hyväksy tietosuojakäytäntö
   <string name="ent_agency_code">yrityskoodi</string>
   <string name="ent_agency_code_hint">Anna yrityskoodi</string>
   <string name="ent_agency_code_invalid">Antamasi yrityskoodi on virheellinen.</string>
-  <string name="ent_agree_privacy_policy">Olen lukenut ja hyväksyn Tietosuojakäytännön</string>
+  <string name="ent_agree_privacy_policy">Olen lukenut ja hyväksynyt Tietosuojakäytännön</string>
   <string name="ent_app_verified">Näyttää siltä, että laitteellesi on asennettu yrityssovelluksia. Aktivoidaanko Yritystila?</string>
   <string name="ent_confirm_dialog_content">Et voi palata järjestelmäsi nykyiseen tilaan Yritystilan aktivoinnin jälkeen. Siitä huolimatta kaikki tietosi säilytetään tällä laitteella. Sinun täytyy käynnistää laitteesi uudelleen aktivoidaksesi Yritystilan. Aktivoidaanko nyt?</string>
   <string name="ent_disallow_running">Sovellusta ei ole sallittu käynnistää</string>
@@ -210,6 +210,7 @@ Voit myös ladata ne erikseen."</string>
   <string name="master_clear_apply_step_1">Valtuutuksen peruuttaminen vaatii laitteesi tehdasasetuksien palauttamisen. Tämä poistaa laitteeltasi kaikki tiedostot ja tiedot, mukaan lukien tilit, yhteystiedot, kuvat ja sovellukset. Varmuuskopioi kaikki tärkeät kohteet tietokoneellesi ennen valtuutuksen peruuttamista.</string>
   <string name="master_clear_apply_step_2">Varmista, että olet varmuuskopioinut kaikki tärkeät kohteet tietokoneellesi. \"OK\" -painikkeen napauttamisen jälkeen tehdasasetuksien palauttaminen suoritetaan laitteellesi, joka poistaa laitteeltasi kaikki tiedostot ja tiedot, mukaan lukien tilit, yhteystiedot, kuvat ja sovellukset.</string>
   <string name="master_clear_apply_title">Huomio</string>
+  <string name="master_clear_not_available">Tehdasasetuksien palautus on rajoitettu yrityksesi toimesta.</string>
   <string name="menu_item_about_privacy_title">Tietosuojakäytäntö</string>
   <string name="messageData">Viestit</string>
   <string name="more_settings">Lisää</string>

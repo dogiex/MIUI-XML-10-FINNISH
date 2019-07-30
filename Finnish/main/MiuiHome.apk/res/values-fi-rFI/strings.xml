@@ -114,6 +114,7 @@
   <string name="disable_wallpaper_scroll">Poista sivuttain-vieritys käytöstä</string>
   <string name="double_tap_to_lock_title">Lukitse näyttö tuplanapauttamalla</string>
   <string name="download_action">Lataa</string>
+  <string name="dual_app">Kaksoissovellukset</string>
   <string name="durationformatlong">%1$d:%3$02d:%5$02d</string>
   <string name="durationformatshort">%2$2d:%5$02d</string>
   <string name="durationformatshort_padding_with_0">%2$02d:%5$02d</string>

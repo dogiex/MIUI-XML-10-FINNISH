@@ -215,6 +215,14 @@ Lisää kaupunki manuaalisesti napauttamalla"</string>
   <string name="particulate_matter_exceeded">Korkea</string>
   <string name="particulate_matter_not_exceeded">Normaali</string>
   <string name="particulate_matter_serious_exceeded">Liian korkea</string>
+  <string name="permission_device_info">Laitteen tiedot</string>
+  <string name="permission_device_introduce">Tunnistaakseen laitteen ID:n laitteen mallista ja IMEI:stä ja tarjotakseen paikallisia palveluita kieliasetuksen mukaan</string>
+  <string name="permission_exit">Poistu</string>
+  <string name="permission_privacy">Tietosuojakäytäntö (pakollinen)</string>
+  <string name="permission_select_all">Valitse kaikki</string>
+  <string name="permission_storage">Tallennustila</string>
+  <string name="permission_storage_introduce">Käyttääkseen laitteella olevia kohteita ja tallentaakseen tiedostoja</string>
+  <string name="permission_user_protocol">Käyttöehdot (pakollinen)</string>
   <string name="policy_settings">Käyttöehdot</string>
   <string name="precipitation_degree_five">Rankka</string>
   <string name="precipitation_degree_four">Voimakas</string>
@@ -293,6 +301,8 @@ Lisää kaupunki manuaalisesti napauttamalla"</string>
   <string name="view_indexes_item_today">Tänään</string>
   <string name="view_indexes_item_tommorrow">Huomenna</string>
   <string name="weather_alert_channel_name">Hälytykset</string>
+  <string name="weather_introduce">Aina kanssasi, satoi tai paistoi.</string>
+  <string name="weather_permission_agree">Hyväksyn</string>
   <string name="weather_service_channel_name">Taustapalvelut</string>
   <string name="weather_alert">Säävaroitukset</string>
   <string name="wind_direction_no_data">Tuuli</string>

@@ -317,11 +317,11 @@ Aseta vain laitteet vierekkäin (yleensä takakannet vastakkain) ja kosketa näy
   <string name="aod_lock_screen_date_12">"EEEE d. MMMM'ta'"</string>
   <string name="aod_mode_bg">Tausta</string>
   <string name="aod_mode_clock">Kello</string>
-  <string name="aod_mode_style">Ajan tyyli ja tausta</string>
-  <string name="aod_mode_summary">Näytä aika, päivämäärä ja viestit, kun näyttö on sammutettu.</string>
-  <string name="aod_mode_title">Aina käytössä -tila</string>
+  <string name="aod_mode_style">Kellon tyyli ja tausta</string>
+  <string name="aod_mode_summary">Näytä aika, päivämäärä ja viestit, kun näyttö on sammutettu</string>
   <string name="aod_mode_time_summary">Ajasta milloin laitteesi tulisi siirtyä Aina käytössä -tilaan</string>
   <string name="aod_mode_time_title">Ajastus</string>
+  <string name="aod_mode_title">Aina käytössä -tila</string>
   <string name="aod_mode_turn_off">Pois käytöstä</string>
   <string name="aod_mode_turn_on">Käytössä</string>
   <string name="aod_sample_date">Tiistai 10. Toukokuuta</string>
@@ -3502,7 +3502,7 @@ Valitse käyttöjärjestelmäsi:"</string>
   <string name="power_bluetooth">Bluetooth</string>
   <string name="power_camera">Kamera</string>
   <string name="power_cell">Mobiiliverkon valmiustila</string>
-  <string name="power_center">Virta</string>
+  <string name="power_center">Akun optimointi</string>
   <string name="power_charge_remaining">%1$s latausaikaa jäljellä</string>
   <string name="power_charging_duration">%1$s – %2$s täyteen lataukseen</string>
   <string name="power_discharge_remaining">%1$s jäljellä</string>
@@ -3521,7 +3521,7 @@ Valitse käyttöjärjestelmäsi:"</string>
   <string name="power_key_start_enjoy">Lisätietoja Google Assistantista</string>
   <string name="power_key_start_guide">Google Assistantin herättäminen käyttäen Virtapainiketta koko näytön laitteilla</string>
   <string name="power_last_full_charge_summary">^1 sitten</string>
-  <string name="power_mgr">Akku</string>
+  <string name="power_mgr">Akun optimointi</string>
   <string name="power_mode">Virran asetukset</string>
   <string name="power_mode_balanced_title">Tasapainoinen</string>
   <string name="power_optimize">Virransäästö</string>

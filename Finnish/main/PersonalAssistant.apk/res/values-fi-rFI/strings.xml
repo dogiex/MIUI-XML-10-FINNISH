@@ -1010,7 +1010,7 @@ Useita tilauksia, jotka lähetetään SF Expressin kautta Taobaon, Tmallin ja Xi
   <string name="shopping_setting_remove">Peruutettuasi valtuutuksen, Sovellusholvi lopettaa ostoksiesi tietojen keräilyn ja Ostoskortti poistetaan. Peruutetaanko valtuutus silti?</string>
   <string name="shopping_setting_taobao">Taobao</string>
   <string name="shopping_setting_tmall">Tmall</string>
-  <string name="shopping_source">Mistä</string>
+  <string name="shopping_source">Mistä %s</string>
   <string name="shopping_support">Tuetut sovellukset</string>
   <string name="shortcut">Pikakuvakkeet</string>
   <string name="show_more">Näytä lisää</string>

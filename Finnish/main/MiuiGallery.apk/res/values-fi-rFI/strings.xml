@@ -15,7 +15,6 @@
   <string name="card_title_annual_foods">Herkullinen %1$s</string>
   <string name="card_title_annual_pets">Kasvatassut kohteessa %1$s</string>
   <string name="card_title_annual_travel">Matkani kohteessa %1$s</string>
-  <string name="card_title_last_week_end">Viikonloppuni</string>
   <string name="card_title_monthly_foods">Herkullinen</string>
   <string name="card_title_monthly_pets">Kasvatassut</string>
   <string name="card_title_party">Juhlat</string>
@@ -1036,6 +1035,8 @@ on käytettävissä"</string>
   <string name="free_view_desc">3D-näkymä</string>
   <string name="gallery_setting">Asetukset</string>
   <string name="gallery_sync_disable_toast">Gallerian synkronointi ei ole käytössä</string>
+  <string name="generate_story_summary">MIUI analysoi kuvasi ja luo tarina-albumeita. Poista tämä ominaisuus käytöstä lopettaaksesi tarina-albumien luomisen.</string>
+  <string name="generate_story_title">Tarina-albumit</string>
   <string name="get_album_info_in_process">Haetaan jaetun albumin tietoja…</string>
   <string name="gif_tip">GIF</string>
   <string name="gigabyteShort">Gt</string>
@@ -1074,6 +1075,8 @@ on käytettävissä"</string>
   <string name="image_invalid_path">Virheellinen polku</string>
   <string name="image_not_found">Kuvaa ei löydetty</string>
   <string name="image_quota_fulfiled">Liian monta kuvaa. Poista kuvia ja yritä uudelleen.</string>
+  <string name="image_selection_summary">MIUI analysoi samankaltaiset kuvat ja merkitsee parhaat otokset sinulle. Poista tämä ominaisuus käytöstä poistaaksesi kuvien merkinnät.</string>
+  <string name="image_selection_title">Valitse paras kuva</string>
   <string name="image_with_time">Kuva otettu %s</string>
   <string name="image_with_time_and_location">Kuva otettu %1$s. Sijainti: %2$s.</string>
   <string name="impunity_declaration_settings">Internetyhteyden ilmoitus</string>
@@ -1265,6 +1268,7 @@ mukauttaaksesi Galleriasi"</string>
   <string name="operation_send">Lähetä</string>
   <string name="operation_set_contact_photo">Aseta yhteystiedon kuvaksi</string>
   <string name="operation_set_slide_wallpaper">Aseta diaesityksen taustakuvaksi</string>
+  <string name="operation_set_video_wallpaper">Aseta videotaustakuva</string>
   <string name="operation_set_wallpaper">Aseta taustakuvaksi</string>
   <string name="operation_share">Jaa</string>
   <string name="operation_show_in_photos_tab">Näytä Kuvissa</string>
@@ -1430,6 +1434,7 @@ mukauttaaksesi Galleriasi"</string>
   <string name="recipient_editor_count_format">%d</string>
   <string name="recommanded_face_abandon_tip">Poistettiin ehdotuksista</string>
   <string name="recommanded_face_added_tip">Lisättiin \"%s\"</string>
+  <string name="recommend_category_title">Gallerian valitsemat</string>
   <string name="recovery_merge">Yhdistä</string>
   <string name="recovery_merge_or_rename">Yhdistä albumit</string>
   <string name="recovery_merge_or_rename_message">Tämän niminen albumi on jo olemassa. Yhdistetäänkö nyt?</string>
@@ -1572,6 +1577,8 @@ mukauttaaksesi Galleriasi"</string>
   <string name="send_too_many_files_error">Voit lähettää enintään %d kohdetta kerrallaan</string>
   <string name="set_as_slide_wallpaper_description">Tämä kuva on esikatselukuva, ladataanko alkuperäinen?</string>
   <string name="set_as_slide_wallpaper_title">Aseta diaesityksen taustakuvaksi</string>
+  <string name="set_as_video_wallpaper_description">Ladataanko tämä kohde ja käytetäänkö sitä videotaustakuvana?</string>
+  <string name="set_as_video_wallpaper_title">Aseta videotaustakuva</string>
   <string name="set_as_wallpaper_description">Tämä kuva on esikatselukuva, ladataanko alkuperäinen?</string>
   <string name="set_as_wallpaper_title">Aseta taustakuvaksi</string>
   <string name="set_face_group_toast_msg_new_user">Pidä henkilöä pohjassa yhdistääksesi tai jättääksesi huomiotta ne.</string>
@@ -1580,6 +1587,7 @@ mukauttaaksesi Galleriasi"</string>
   <string name="set_face_group_toast_title_old_user">Henkilöt voidaan järjestää ryhmiin</string>
   <string name="set_face_image">Aseta uusi profiilikuva</string>
   <string name="set_group">Aseta ryhmä</string>
+  <string name="set_video_wallpaper_failed">Tätä kohdetta ei voi käyttää videotaustakuvana</string>
   <string name="set_wallpaper_get_image_failed">Kuvaa ei voitu ladata, yritä myöhemmin uudelleen</string>
   <string name="setup_network_connection">Verkkoasetukset</string>
   <string name="share">Jaa</string>

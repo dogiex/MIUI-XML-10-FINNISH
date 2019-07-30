@@ -12,6 +12,7 @@
   <string name="fastboot_status_locked_summary">Root-käyttöoikeutta ei saada</string>
   <string name="fastboot_unlock_web_title">Mene viralliselle MIUI verkkosivulle ja hae avaustyökalu (unlock tool).</string>
   <string name="game_booster">Pelien nopeuttaja</string>
+  <string name="gamebox_no_network_btn">Lataa uudelleen</string>
   <string name="gb_alipays_can_not_complete">Maksua ei voi suorittaa loppuun. Asenna jatkaaksesi.</string>
   <string name="gb_weixinpay_can_not_complete">Maksua ei voi suorittaa loppuun. Asenna jatkaaksesi.</string>
   <string name="lucky_result_title">Punaisen kirjekuoret</string>
