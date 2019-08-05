@@ -78,6 +78,8 @@
   <string name="call_disambig_title">Valitse numero</string>
   <string name="call_fax_home">Soita faksinumeroon (koti)</string>
   <string name="call_fax_work">Soita faksinumeroon (työ)</string>
+  <string name="call_feature_volte">VoLTE</string>
+  <string name="call_feature_vowifi">VoWiFi</string>
   <string name="call_home">Soita kotinumeroon</string>
   <string name="call_isdn">Soita ISDN-numeroon</string>
   <string name="call_left">Puhelimen saldo</string>

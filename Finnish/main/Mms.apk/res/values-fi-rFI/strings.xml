@@ -32,6 +32,8 @@
   <string name="already_updated">Ajan tasalla</string>
   <string name="app_label">Viestit</string>
   <string name="app_name">Laitteet</string>
+  <string name="application_list_title">Minisovellukset</string>
+  <string name="attach_group_chat">Ryhmäkeskustelu</string>
   <string name="attach_image">Kuvat</string>
   <string name="attach_rcs_file">Tiedosto</string>
   <string name="attach_rcs_location">Sijainti</string>
@@ -43,6 +45,7 @@
   <string name="attach_take_photo">Ota kuva</string>
   <string name="attach_transaction">Siirrä rahaa</string>
   <string name="attach_video">Video</string>
+  <string name="attach_video_call">Videopuhelu</string>
   <string name="audio_download_failed">Ääntä ei voitu ladata</string>
   <string name="audio_message_expired">Tämä ääniviesti on vanhentunut.</string>
   <string name="audio_message_mx_offline">Äänen lataaminen epäonnistui. Mi Viesti on offline-tilassa tai ei ole käytettävissä.</string>
@@ -76,6 +79,7 @@
   <string name="button_unfold">Avaa</string>
   <string name="call_sender">Soita lähettäjälle</string>
   <string name="can_not_send_by_rcs">Ei voi käyttää China Mobile:n viestintään</string>
+  <string name="can_not_view_group_chat_stranger">Tuntemattomien tietoja ei voi näyttää.</string>
   <string name="cannot_add_picture_and_video">Videota ja kuvaa ei voi lisätä yhdelle dialle.</string>
   <string name="cannot_add_slide_anymore">Dioja ei voi lisätä enempää.</string>
   <string name="cannot_forward_drm_obj">Viestin sisältämää DRM kohdetta ei voi välittää eteenpäin.</string>
@@ -133,6 +137,7 @@
   <string name="confirm_restore_positive">Palauta</string>
   <string name="confirm_restore_title">Palauta viestejä</string>
   <string name="confirm_send_mms">Yksi vastaanottajista sisältää sähköpostiosoitteen. Tämä viesti lähetetään multimediaviestinä, joka saattaa aiheuttaa operaattorikohtaisia lisäkustannuksia.</string>
+  <string name="contact_not_exists">Tämä henkilö ei ole yhteystiedoissasi.</string>
   <string name="context_menu_add_calendar">Lisää kalenteriin</string>
   <string name="context_menu_add_contact">Lisää yhteystietoihin</string>
   <string name="context_menu_add_to_browser_favorite">Lisää Selaimen kirjanmerkkeihin</string>
@@ -254,6 +259,7 @@
   <string name="group_verification_codes_title">Ryhmitä kertakäyttösalasanat</string>
   <string name="group_view_settings_disolved">Kohteita ei voi katsoa. Tämä ryhmäkeskustelu poistettiin.</string>
   <string name="group_view_settings_not_memeber">Kohteita ei voi katsoa. Et ole tämän ryhmäkeskustelun jäsen.</string>
+  <string name="groupchat_list_title">Ryhmäkeskustelut</string>
   <string name="guild_add_attachments">Lisää hymiöitä ja muuta sisältöä napauttamalla</string>
   <string name="guild_add_recipients">Lisää vastaanottajia osoitekirjasta napauttamalla</string>
   <string name="guild_msim_switcher">Vaihda SIM-kortteja napauttamalla</string>
@@ -296,6 +302,7 @@
   <string name="menu_edit">Muokkaa</string>
   <string name="menu_forward">Välitä</string>
   <string name="menu_lock">Lisää suosikkeihin</string>
+  <string name="menu_make_call">Soita</string>
   <string name="menu_mark">Merkitse</string>
   <string name="menu_more">Lisää</string>
   <string name="menu_new_contact">Uusi yhteystieto</string>
@@ -306,6 +313,7 @@
   <string name="menu_traffic_destination">Määränpää</string>
   <string name="menu_unlock">Poista suosikeista</string>
   <string name="menu_view_contact">Näytä yhteystieto</string>
+  <string name="menu_view_group_info">Ryhmän tiedot</string>
   <string name="message_class_label">"Viestin luokka: "</string>
   <string name="message_contact">Yhteystieto:</string>
   <string name="message_details_title">Viestin tiedot</string>
@@ -417,6 +425,7 @@
   <string name="no_block_button_msg">Poista esto</string>
   <string name="no_conversations">Ei keskusteluja</string>
   <string name="no_delivery_report">Ei toimitusraporttia</string>
+  <string name="no_network_description">Verkkoyhteyttä ei voitu muodostaa. Tarkista verkkoasetuksesi ja yritä uudelleen.</string>
   <string name="no_subject">(Ei otsikkoa)</string>
   <string name="no_subject_view">(Ei otsikkoa)</string>
   <string name="non_english_subject_limit">13 merkkiä</string>
@@ -540,6 +549,9 @@
   <string name="prvate_contact">Yksityiset yhteystiedot</string>
   <string name="quick_reply">Vastaa</string>
   <string name="rate_limit_surpassed">OK</string>
+  <string name="rcs_auto_resend_as_sms_remind_change">Muuta asetuksia</string>
+  <string name="rcs_auto_resend_as_sms_remind_desp">Viestit, joiden koko on enintään 900 t voidaan muuntaa lähetettäväksi tekstiviestinä verkon signaalin ollessa heikko. Napauta \"Muuta asetuksia\" jos haluat muuntaa viestisi tekstiviestiksi.</string>
+  <string name="rcs_auto_resend_as_sms_remind_title">Muunna tekstiviestiksi</string>
   <string name="rcs_auto_resend_mms">Muunna multimediaviestiksi</string>
   <string name="rcs_auto_resend_sms">Muunna tekstiviestiksi</string>
   <string name="rcs_auto_resume">Jatka keskeytettyjä lähetyksiä automaattisesti</string>
@@ -550,10 +562,12 @@
   <string name="rcs_forward_faild">Välittäminen epäonnistui</string>
   <string name="rcs_forward_successful">Välitettiin onnistuneesti</string>
   <string name="rcs_group_notification_invitation">Ryhmäkeskustelukutsu</string>
+  <string name="rcs_hello_from_pc">Kirjaudu sisään Fetioniin tietokoneellasi siirtääksesi tiedostoja.</string>
   <string name="rcs_message">China Mobile Viestintä</string>
   <string name="rcs_message_disable">Tätä viestiä ei voi lukea Toisessa tilassa</string>
   <string name="rcs_msg">China Mobile Viestintä</string>
   <string name="rcs_not_online">China Mobile Viestintää ei voi käyttää. Tarkista verkkoasetuksesi ja yritä uudelleen.</string>
+  <string name="rcs_offline">Ei kirjautuneena UC:hen. Odota minuutti tai kaksi ja yritä uudelleen.</string>
   <string name="rcs_offline_hint">China Mobile Viestintä on offline-tilassa. Tätä viestiä ei voi välittää.</string>
   <string name="rcs_recipient_type_contact">Välitä yhteystiedolle</string>
   <string name="rcs_recipient_type_group">Välitä ryhmäkeskusteluun</string>
@@ -652,6 +666,7 @@
   <string name="security_alert_dialog_title">Raportoi</string>
   <string name="select_audio">Valitse ääni</string>
   <string name="select_bottom_text">Teksti alhaalla</string>
+  <string name="select_copy_text">Valitse kopioitava teksti</string>
   <string name="select_different_attachment">Valitse toinen liite.</string>
   <string name="select_different_audio">Valitse toinen ääni.</string>
   <string name="select_different_picture">Valitse toinen kuva.</string>

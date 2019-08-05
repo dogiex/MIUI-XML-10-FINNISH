@@ -751,6 +751,7 @@ Ole onnellinen"</string>
   <string name="view_album">Näytä albumi</string>
   <string name="vip_required">Hanki Premium-tason Kappalepaketti toistaaksesi tämän kappaleen. Kappale ohitettiin.</string>
   <string name="vip_required_with_song">%s on saatavilla vain PRO-jäsenille. Kappale ohitettiin.</string>
+  <string name="voice_search_first_hint">Kokeile puhehakua!</string>
   <string name="wifi_required_body" formatted="false">"Yhdistä Wi-Fi-verkkoon ladataksesi tämän %s tiedoston. 
 
 Napauta %s aloittaaksesi latauksen seuraavalla kerralla, kun olet yhteydessä Wi-Fi-verkkoon."</string>

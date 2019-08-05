@@ -223,10 +223,6 @@
         <item quantity="other">Näytä %d piilotettua kohdetta</item>
         <item quantity="one">Näytä %d piilotettu kohde</item>
     </plurals>
-    <plurals name="settings_toggle_position_divider_page">
-        <item quantity="other">%1$d nappulaa näytetään Ilmoitusalueella</item>
-        <item quantity="one">%1$d nappula näytetään Ilmoitusalueella</item>
-    </plurals>
     <plurals name="show_audio_logcat_countdown">
         <item quantity="other">%1$d askeleen päässä äänilokista</item>
         <item quantity="one">%1$d askeleen päässä äänilokista</item>

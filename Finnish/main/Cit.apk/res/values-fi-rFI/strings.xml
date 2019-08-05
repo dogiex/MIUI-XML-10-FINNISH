@@ -514,6 +514,8 @@ Kun olet laittanut tiedoston \"music.mp3\" SD-kortin hakemistoon, napauta näytt
   <string name="cit_tool_check_opt">Oletko varma?</string>
   <string name="cit_tool_check_opt_with_reboot">Käynnistetään uudelleen, oletko varma?</string>
   <string name="cit_tool_current_modem_test_mode">Nykyinen testitila:</string>
+  <string name="cit_tool_dc_backlight_toast_off">DC taustavalo pois käytöstä</string>
+  <string name="cit_tool_dc_backlight_toast_on">DC taustavalo käytössä</string>
   <string name="cit_tool_drx_only">DRX</string>
   <string name="cit_tool_enable_3A_log">Ota 3A loki Switch käyttöön</string>
   <string name="cit_tool_enable_display_3A_log">Ota 3A lokin näyttäminen käyttöön</string>
@@ -668,6 +670,9 @@ The second line shows the name and version number of Default MBN and Carrier MBN
   <string name="confirm">确认</string>
   <string name="copyright">Copyright © 2015 Goodix All Rights Reserved.</string>
   <string name="data_address">数据保存的文件地址 ：</string>
+  <string name="dc_backlight_title">DC taustavalotila alhaiselle valolle</string>
+  <string name="delete">Poista</string>
+  <string name="description_info">Tietoja</string>
   <string name="detail">详细失败数据：</string>
   <string name="detail_memory_pieces">请重启手机之后再进行测试</string>
   <string name="disable">关</string>
@@ -892,7 +897,8 @@ testi onnistui, paina Läpäisi-painiketta"</string>
   <string name="none">N/A</string>
   <string name="normal_touch_sensor">通过纹路测试头按压指纹模组</string>
   <string name="not_enrolled">请先注册指纹</string>
-  <string name="ok">确定</string>
+  <string name="ok">Ok</string>
+  <string name="open_dc_backlight_summary">Tietyt näyttöasetukset eivät ole yhteensopivia DC taustavalotilan kanssa. Ne kuitenkin palautetaan takaisin, kun poistat tämän tilan käytöstä. Otetaanko DC taustavalotila käyttöön?</string>
   <string name="other_category">其他</string>
   <string name="over_saturated_pixel_num">上饱和点个数:</string>
   <string name="overlay">跟上一张重复:</string>
@@ -964,9 +970,11 @@ The value of CS0 ranges from 3000 to 30000 , the pass button is highlight"</stri
 Click the Start Calibrate button
 After calibrate success, control the fixture close and away from the phone"</string>
   <string name="sar_sensor_test_timeout">Sar-anturin testin aikakatkaisu</string>
+  <string name="screen_cancel">Poista käytöstä</string>
+  <string name="screen_confirm">Ota käyttöön</string>
   <string name="screen_off_fail_retry">灭屏解锁失败重试次数：</string>
   <string name="screen_on_fail_retry">亮屏解锁失败重试次数：</string>
-  <string name="search_menu_title">Search</string>
+  <string name="search_menu_title">Haku</string>
   <string name="security_level_high">安全等级高</string>
   <string name="security_level_low">安全等级低</string>
   <string name="security_level_mid">安全等级中</string>

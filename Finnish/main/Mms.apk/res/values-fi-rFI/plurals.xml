@@ -43,6 +43,10 @@
         <item quantity="other">%1$s viestiä</item>
         <item quantity="one">%1$s viesti</item>
     </plurals>
+    <plurals name="rcs_group_notification_invitation_receive">
+        <item quantity="other">Vastaanotit %d ryhmäkeskustelun kutsua</item>
+        <item quantity="one">Vastaanotit %d ryhmäkeskustelun kutsun</item>
+    </plurals>
     <plurals name="recipient_count">
         <item quantity="other">%1$s henkilöä</item>
         <item quantity="one">%1$s henkilö</item>

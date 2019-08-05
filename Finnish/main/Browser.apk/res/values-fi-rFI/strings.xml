@@ -210,6 +210,7 @@
     <string name="cloud_tabs_sync_off">Synkronointi pois käytöstä</string>
     <string name="cloud_time_tips">Viimeisin synkronointi</string>
     <string name="cloud_up_to_loading_tips">Vapauta synkronoidaksesi</string>
+    <string name="collect_diagnosis_log">Kerää vianetsintäloki</string>
     <string name="collect_video">Kerää video</string>
     <string name="comment_app_menu">Kommentoi</string>
     <string name="comment_description">Kommentoi</string>
@@ -266,12 +267,17 @@
     <string name="data_traffic_prompt_message">Videoiden selaaminen mobiilidatalla lisää datan käyttöä. Jos operaattorikohtainen tiedonsiirtoraja ylittyy, operaattori voi veloittaa sinulta lisäkustannuksia.</string>
     <string name="data_traffic_prompt_title">Tiedonsiirron käyttäminen</string>
     <string name="data_traffic_stop">Pysäytä</string>
+    <string name="debug_mode_toast">Vianetsintä on käytössä</string>
     <string name="delete">Poista</string>
     <string name="delete_bookmark">Poista</string>
     <string name="delete_bookmark_action_warning">Poistetaanko kirjanmerkit?</string>
     <string name="delete_bookmark_group_warning">Poistetaanko ryhmä %s? Kaikki kirjanmerkit, jotka ovat tässä ryhmässä poistetaan.</string>
     <string name="delete_bookmark_warning">Poistetaanko kirjanmerkki %s?</string>
     <string name="delete_download">Poista</string>
+    <string name="diagnosis_log_send_failed">Vianetsintälokin lähetys epäonnistui.</string>
+  <string name="diagnosis_log_sent_format">"Vianetsintäloki lähetettiin.
+ID:%s
+Lähetä tämä koodi teknikolle."</string>
     <string name="dialog_cannot_resume">Lataus keskeytyi</string>
     <string name="dialog_clipboard_tabs_action">Avaa napauttamalla</string>
     <string name="dialog_clipboard_tabs_tip">Löydä kopioidut linkit</string>
@@ -387,6 +393,7 @@ katsoaksesi avoimia välilehtiä muilta laitteilta."</string>
     <string name="finish_sync_cloud_tabs">Synkronoitiin onnistuneesti</string>
     <string name="firstUsingSearchEngineTips">Vaihdetaanko hakukonetta?</string>
     <string name="fling_on_border_gesture_hint">Voit valita tälle eleelle toiminnon Asetuksista</string>
+    <string name="for_diagnosis_usage_only">Käytä tätä tietoa vain vianetsintään.</string>
     <string name="force_quick_search_title">Hae</string>
     <string name="force_touch_bookmark_history_title">Kirjanmerkit &amp; historia</string>
     <string name="force_touch_infoflow_title">Uutiset</string>
@@ -417,6 +424,8 @@ katsoaksesi avoimia välilehtiä muilta laitteilta."</string>
     <string name="guide_fashion_text">muoti</string>
     <string name="guide_fiction_text">taru</string>
     <string name="guide_finance_text">talous</string>
+    <string name="guide_first_optimization_type_main_title">Ihanat videot ei pysähdy</string>
+    <string name="guide_first_optimization_type_sub_title">15 sekuntia pientä videota tallentaa hetken</string>
     <string name="guide_flash_type_main_title">Salaman nopea</string>
     <string name="guide_flash_type_subtitle">Hämmästyttävä nopeus, sulava käyttöliittymä</string>
     <string name="guide_games_text">pelit</string>
@@ -427,6 +436,8 @@ katsoaksesi avoimia välilehtiä muilta laitteilta."</string>
     <string name="guide_military_text">sotilas</string>
     <string name="guide_motor_text">moottori</string>
     <string name="guide_politics_text">politiikka</string>
+    <string name="guide_second_optimization_type_main_title">Ota rennosti pelibaarissa</string>
+    <string name="guide_second_optimization_type_sub_title">Viihdejuoruja, Sotilaalliset Hotspotit, Uusimmat elokuvat ja TV, Emotionaalinen vaihtelu</string>
     <string name="guide_skip">Ohita</string>
     <string name="guide_slide_down">Pyyhkäise alaspäin</string>
     <string name="guide_slide_up">Pyyhkäise ylöspäin</string>
@@ -961,6 +972,7 @@ Muista, että lataamasi tiedostot ja lisäämäsi kirjanmerkin silti tallennetaa
     <string name="page_info">Sivun tiedot</string>
     <string name="page_info_address">Osoite:</string>
     <string name="page_info_view">Näytä sivun tiedot</string>
+    <string name="passport_oauth_sucess_tip">Vahvistettiin onnistuneesti</string>
     <string name="password">Salasana</string>
     <string name="pause_download">Pysäytetty</string>
     <string name="paused_queued_for_wifi">Odotetaan yhteyttä…</string>
@@ -1016,6 +1028,7 @@ Muista, että lataamasi tiedostot ja lisäämäsi kirjanmerkin silti tallennetaa
     <string name="pref_content_night_read_mode">Yötila</string>
     <string name="pref_content_search_engine">Aseta hakukone</string>
     <string name="pref_content_search_engine_summary">Valitse hakukone</string>
+    <string name="pref_debug_mode">Vianetsintätila</string>
     <string name="pref_download_setting">Latausasetukset</string>
     <string name="pref_enable_adblock_notification">Näytä mainostenestäjän ilmoitukset</string>
     <string name="pref_enable_news">Uutiset</string>
@@ -1182,6 +1195,8 @@ Muista, että lataamasi tiedostot ja lisäämäsi kirjanmerkin silti tallennetaa
     <string name="search_label">Selain</string>
     <string name="search_menu_title">Haku</string>
     <string name="search_notification_btn_title">Haku</string>
+    <string name="search_notification_guide_content">Koe nyt</string>
+    <string name="search_notification_guide_title">Pyyhkäise näytön yläreunasta ja koe pikahaku!</string>
     <string name="search_path_browser">Asetukset/Asennetut sovellukset/Selain</string>
     <string name="search_s139">139</string>
     <string name="search_settings_description">Kirjanmerkit ja verkkohistoria</string>
@@ -1203,7 +1218,9 @@ Muista, että lataamasi tiedostot ja lisäämäsi kirjanmerkin silti tallennetaa
     <string name="select_download_device">Valitse laite</string>
     <string name="send_comment_button">Lähetä</string>
     <string name="send_comment_title">Kommentoi</string>
+    <string name="send_diagnosis_log">Lähetä vianetsintäloki</string>
     <string name="senddesktop">Aloitusnäyttö</string>
+    <string name="sending">Lähetetään…</string>
     <string name="sendstartpage">Aloitussivu</string>
     <string name="sequence_bookmark_description">Paina ja pidä pohjassa muuttaaksesi kirjanmerkkien järjestystä</string>
     <string name="share_by_yidianzixun">【一点资讯】</string>
@@ -1233,6 +1250,8 @@ Selaimen täytyy yhdistää internetiin toimiakseen normaalisti. Sinun täytyy h
     <string name="small_video_ad_app_text_resume">Jatka</string>
     <string name="small_video_ad_web_text">Avaa</string>
     <string name="small_video_boba_tab">Lähetys</string>
+    <string name="small_video_comment">Kaikki kommentit</string>
+    <string name="small_video_comment_input_hint">Syötä kommenttisi</string>
     <string name="small_video_load_failed">Lataaminen epäonnistui</string>
     <string name="small_video_loading">Ladataan...</string>
     <string name="small_video_main_tab">Suositukset</string>
@@ -1320,9 +1339,10 @@ Selaimen täytyy yhdistää internetiin toimiakseen normaalisti. Sinun täytyy h
     <string name="tab_quicklinks">Aloitussivu</string>
     <string name="tab_yellowpage">Linkit</string>
     <string name="tabs_description">Välilehdet</string>
-    <string name="temp_refuse">Kieltäydy</string>
+    <string name="temp_refuse">Ei kiitos</string>
+    <string name="temporary_not_available">Toistaiseksi ei käytettävissä</string>
     <string name="title_bar_loading">Ladataan…</string>
-    <string name="title_notice_push">Ota työntö käyttöön</string>
+    <string name="title_notice_push">Ota push käyttöön</string>
     <string name="too_many_windows_dialog_message">Selain ei voi avata uutta välilehteä ennen kuin suljet jonkun välilehden.</string>
     <string name="too_many_windows_dialog_title">Välilehtiä ei voi avata lisää</string>
     <string name="topic_content_default">Otsikko</string>

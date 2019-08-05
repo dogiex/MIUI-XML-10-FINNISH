@@ -222,7 +222,7 @@
   <string name="event_reminder_value_zero">Ennen tapahtumaa</string>
   <string name="event_title">Otsikko</string>
   <string name="event_view">Näytä tapahtuma</string>
-  <string name="every_weekday">Joka arkipäivä (Ma–Pe)</string>
+  <string name="every_weekday">Maanantaista Perjantaihin</string>
   <string name="festival_detail_title">Festivaali</string>
   <string name="flight_check_in">Ilmoittaudu</string>
   <string name="flight_check_in_done">Ilmoittauduttiin</string>

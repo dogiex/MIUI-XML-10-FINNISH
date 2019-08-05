@@ -101,13 +101,9 @@
   <string name="impunity_declaration_negative_text">Poistu</string>
   <string name="impunity_declaration_positive_text">Salli</string>
   <string name="impunity_declaration_title">Tietosuojakäytäntö</string>
-  <string name="init_success">初始化完成</string>
-  <string name="jszc">手机淘宝拍立淘提供技术支持</string>
-  <string name="jzz">加载中</string>
   <string name="keywords_search_code">Lukija;Lue;QR koodi;QR;Tunnistus;Viivakoodi;Viivakoodit;Tuote;Tuotteet;Alipay;WeChat;Kuinka luen QR koodin;Kuinka luen viivakoodin;Kuinka skannaan;MIUI Lukija</string>
   <string name="keywords_search_document">Lukija;Skanneri;Lue asiakirja;Lue asiakirjoja;OCR;Lue tekstiä;Lue</string>
   <string name="keywords_search_namecard">Lukija;Skanneri;Käyntikortti;Käyntikortit;Skannaa;Skannaa kortteja;Kortti;Kortit;Yhteystiedot;Yhteystieto</string>
-  <string name="keywords_search_shopping">Ostelu;Lukija;Skanneri;Lue tuotteita;Lue tuote;Tarkista hinta;Tuotteet;Taobao;Tmall;Hinnat;Online ostelua</string>
   <string name="keywords_search_study">Lukija;Skanneri;Ongelmat;Ratkaise ongelmia;Kotityö;Koulu;Fysiikka;Kemia;Matematiikka;Englanti;Historia;Kiinalainen</string>
   <string name="keywords_search_translation">Lukija;Skanneri;Käännä;Sanakirja;Englanti;Ulkomaan kieli;Kieli;Kielet;Englannista Kiinaksi;Italialainen;Saksalainen;Japanilainen;Korealainen;Espanjalainen;Ranskalainen;Baidu Kääntäjä;Youdao Sanakirja;Baidu Sanakirja;Google Kääntäjä</string>
   <string name="label_choose_picture">Valitse kuva</string>
@@ -137,7 +133,6 @@
   <string name="name">Nimi:</string>
   <string name="new_schedule">Luo tapahtuma</string>
   <string name="nickname">Lempinimi:</string>
-  <string name="nljzz">努力加载中</string>
   <string name="no_network">Verkkoyhteyttä ei voi muodostaa</string>
   <string name="no_storage">Asenna SD-kortti ennen Kameran käyttöä</string>
   <string name="no_support_to_translate_type">Tämä kieli ei ole tuettu</string>
@@ -145,7 +140,6 @@
   <string name="not_recommend_access_web_url">Mene silti</string>
   <string name="note">Huomautus:</string>
   <string name="open_url">Avaa URL-osoite</string>
-  <string name="pailitao">淘宝拍立淘</string>
   <string name="pay_no_tip">Älä näytä uudelleen</string>
   <string name="pay_save_this_choose">Muista valintani</string>
   <string name="payment_text">Avaa sovelluksella %s</string>
@@ -164,7 +158,6 @@
   <string name="qr_code_details">QR-koodin tiedot:</string>
   <string name="recognize">Skannaa</string>
   <string name="recognize_fail">Koodia ei voitu lukea</string>
-  <string name="refresh">刷新</string>
   <string name="scan_result">Tulos</string>
   <string name="scan_support_type">WeChat, Alipay, QR-koodit, viivakoodit</string>
   <string name="sdk_not_ready">Valmistellaan SDK:ta. Yritä myöhemmin uudelleen.</string>

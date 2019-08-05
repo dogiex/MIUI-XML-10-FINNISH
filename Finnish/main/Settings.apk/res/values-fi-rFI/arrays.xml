@@ -212,7 +212,8 @@
     </string-array>
     <string-array name="battery_indicator_style_entries">
         <item>Graafinen</item>
-        <item>Prosentti</item>
+        <item>Prosentti (kuvakkeen sisällä)</item>
+        <item>Prosentti (kuvakkeen vieressä)</item>
         <item>Yläpalkki</item>
     </string-array>
     <string-array name="bearer_entries">
@@ -386,16 +387,6 @@
         <item>Kuvio</item>
         <item>PIN-koodi</item>
         <item>Salasana</item>
-    </string-array>
-    <string-array name="check_importance_entries">
-        <item>Suositus</item>
-        <item>Tärkeä</item>
-        <item>Ei tärkeä</item>
-    </string-array>
-    <string-array name="check_importance_summary">
-        <item>MIUI päättää, mitkä ilmoitukset näkyvät suoraan</item>
-        <item>Ilmoitukset näkyvät Ilmoitusalueella</item>
-        <item>Ilmoitukset näkyvät erillisessä kansiossa</item>
     </string-array>
     <string-array name="city_name">
         <item>Abidjan</item>
@@ -787,6 +778,16 @@
         <item>Nopeuttaa laitteen suorituskykyä</item>
         <item>Saattaa hidastaa laitteen suorituskykyä</item>
     </string-array>
+    <string-array name="fold_entries">
+        <item>Suositus</item>
+        <item>Tärkeä</item>
+        <item>Ei tärkeä</item>
+    </string-array>
+    <string-array name="fold_summaries">
+        <item>MIUI päättää, mitkä ilmoitukset näkyvät suoraan</item>
+        <item>Ilmoitukset näkyvät Ilmoitusalueella</item>
+        <item>Ilmoitukset näkyvät erillisessä kansiossa</item>
+    </string-array>
     <string-array name="handy_mode_size_text_entries">
         <item>4,5\u2033</item>
         <item>4,0\u2033</item>
@@ -919,6 +920,14 @@ Huomautus: Vain Ubuntu 8.04!"</item>
     <string-array name="notch_battery_indicator_style_entries">
         <item>Graafinen</item>
         <item>Prosentti</item>
+    </string-array>
+    <string-array name="notification_shade_shortcut_entries">
+        <item>Haku</item>
+        <item>Asetukset</item>
+    </string-array>
+    <string-array name="notification_style_entries">
+        <item>MIUI</item>
+        <item>Android</item>
     </string-array>
     <string-array name="overlay_display_devices_entries">
         <item>Ei mitään</item>
@@ -1111,13 +1120,14 @@ Huomautus: Vain Ubuntu 8.04!"</item>
         <item>Näytä vain tilapalkissa</item>
         <item>Älä näytä operaattorin nimeä koskaan</item>
     </string-array>
-    <string-array name="status_bar_settings_notification_shade_shortcut_entries">
-        <item>Haku</item>
-        <item>Asetukset</item>
-    </string-array>
     <string-array name="status_bar_style_entries">
         <item>Yhdistetty</item>
         <item>Erikseen</item>
+    </string-array>
+    <string-array name="time_format_entries">
+        <item>12-tuntinen 1:00 PM</item>
+        <item>24-tuntinen 13:00</item>
+        <item>Automaattinen (järjestelmän kielen mukaan)</item>
     </string-array>
     <string-array name="timezone_filters">
         <item>Amerikka</item>
