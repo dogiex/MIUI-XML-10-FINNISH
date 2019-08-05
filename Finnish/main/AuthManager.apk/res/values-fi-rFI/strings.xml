@@ -46,6 +46,8 @@
   <string name="HIPS_Perm_Settings_Desc">muokkaa järjestelmäasetuksia</string>
   <string name="HIPS_Perm_SystemAlert">Näytä pop-up ikkuna</string>
   <string name="HIPS_Perm_SystemAlert_Desc">näytä pop-up ikkuna</string>
+  <string name="HIPS_Perm_UDevice_ID">Jaa osia laitteen tiedoista pelien kehittäjien kanssa auttaaksesi heitä parantamaan pelikokemusta. Hyväksytkö?</string>
+  <string name="HIPS_Perm_UDevice_ID_DESC">jaa osia laitteen tiedoista pelien kehittäjien kanssa auttaaksesi heitä parantamaan pelikokemusta. Hyväksytkö?</string>
   <string name="HIPS_Perm_VideoRecorder">Pääsy kameraan</string>
   <string name="HIPS_Perm_VideoRecorder_Desc">pääsy kameraan kuvien tai videon ottamiseksi</string>
   <string name="HIPS_Perm_WIFI_Connectivity">Muuta Wi-Fi yhteyttä</string>

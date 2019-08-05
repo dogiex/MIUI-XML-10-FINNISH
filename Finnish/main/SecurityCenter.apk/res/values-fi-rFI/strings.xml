@@ -1095,7 +1095,7 @@ Se lisätään poikkeuksiin, mutta jo ennestään estetyt kohteet ei ilmesty puh
   <string name="gs_performance_mode">Suorituskykytila</string>
   <string name="gs_performance_mode_detail">Optimoi järjestelmän suorituskyky pelejä varten</string>
   <string name="gs_sign_notification">Muistuta kirjautua sisään päivittäin klo 20</string>
-  <string name="gs_slip_gamebox_detail">Käytä liukusäädintä tuodaksesi pikakuvakepaneelin näkyviin. Pikavastaukset ja näytön nauhoitusvalinnat ovat käytettävissä.</string>
+  <string name="gs_slip_gamebox_detail">Käytä liukusäädintä tai pyyhkäise näytön yläreunasta tuodaksesi pikakuvakepaneelin näkyviin</string>
   <string name="guide_get_operator_error">Väärä operaattori?</string>
   <string name="guide_operator_text">"Nykyinen operaattorisi: "</string>
   <string name="guide_quck_open">Ota käyttöön</string>
@@ -1993,6 +1993,7 @@ Kalibroinnin aikana, MIUI lähettää tekstiviestin operaattorillesi saadakseen 
   <string name="section_title_clear_acc">Tyhjennä välimuisti</string>
   <string name="section_title_security_defend">Tietoturva</string>
   <string name="section_title_system">Järjestelmän tietoturva</string>
+  <string name="security_center_slogan">Tietoturva. Aina valppaana.</string>
   <string name="security_scan_optimizing">Optimoidaan…</string>
   <string name="see_detail">Tiedot</string>
   <string name="see_more_content">Päivitä Pelit nähdäksesi lisää kohokohtia</string>
@@ -2363,22 +2364,14 @@ Tässä ohjeet:
   <string name="tether_over_limit_dialog_title">Tiedonsiirtovaroitus</string>
   <string name="tether_over_limit_warning_notify_message">Poista kannettava hotspot käytöstä.</string>
   <string name="tether_over_limit_warning_notify_title">Saavutettiin hotspotin tiedonsiirtoraja</string>
-  <string name="text_alarm_after">"今年的红包活动已全部结束
-期待与您来年重聚"</string>
-  <string name="text_alarm_before">"今年的红包活动即将开始
-财神已就位，敬请期待"</string>
-  <string name="text_alarm_close">"开启红包闹钟
-及时提醒各种红包雨
-不再错过任何红包"</string>
-  <string name="text_all_control_summary">开启后当检测到红包时，自动点亮屏幕进行提示</string>
   <string name="text_button">Selvä</string>
   <string name="text_cycle_day">%s</string>
-  <string name="text_day"/>
-  <string name="text_error">相关软件版本过低或未安装</string>
-  <string name="text_lucky_alarm_before">红包活动即将开始</string>
   <string name="thermal_tips_message">Pelaamalla pelejä Suorituskykytilan ollessa käytössä saattaa johtaa ylikuumenemisen ongelmiin.</string>
   <string name="thermal_tips_title">Huomio</string>
   <string name="third_application">Asennetut sovellukset</string>
+  <string name="third_desktop_dialog_content">Kolmansien osapuolten käynnistinsovellukset saattaa aiheuttaa tietovuotoja, epänormaalia akun tyhjenemistä, viivettä jne., vain MIUI:n vahvistamat käynnistimet voit asettaa oletuskäynnistimeksi.</string>
+  <string name="third_desktop_dialog_ok">Selvä</string>
+  <string name="third_desktop_dialog_title">Virhe</string>
   <string name="three_percent_total_pkg">%s (3%% kuukausittaisesta datasta)</string>
   <string name="timeshow_h">%.1f t</string>
   <string name="timeshow_h_int">%d t</string>

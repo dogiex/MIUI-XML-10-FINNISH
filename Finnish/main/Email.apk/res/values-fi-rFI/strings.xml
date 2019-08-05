@@ -479,6 +479,7 @@
   <string name="folder_drafts_name_en0">Luonnokset</string>
   <string name="folder_drafts_name_en1">Luonnos</string>
   <string name="folder_drafts_name_en2">[Gmail]/Luonnokset</string>
+  <string name="folder_empty_to_fresh">Sähköpostia ei ole synkronoitu. Synkronoi vetämällä alas.</string>
   <string name="folder_junk_name_cn0">垃圾邮件</string>
   <string name="folder_junk_name_cn1">垃圾箱</string>
   <string name="folder_junk_name_cn2">[Gmail]/垃圾邮件</string>
@@ -489,6 +490,7 @@
   <string name="folder_junk_name_en4">Roskaposti</string>
   <string name="folder_list_display_all">Näytä kaikki kansiot</string>
   <string name="folder_list_display_only_import">Näytä vain tärkeät kansiot</string>
+  <string name="folder_no_mails">Tässä kansiossa ei ole sähköposteja</string>
   <string name="folder_picker_title">Valitse kansiot</string>
   <string name="folder_removed">Poistettu kansiosta %1$s</string>
   <string name="folder_sent_name_cn0">已发送</string>
@@ -1161,6 +1163,7 @@ Kosketa "&lt;b&gt;Synkronoi nyt&lt;/b&gt; synkronoidaksesi sähköpostin kerran,
   <string name="widget_large_unread_count">%d+</string>
   <string name="widget_other_views">Muu</string>
   <string name="wipe_account_fail_description">Salli</string>
+  <string name="wipe_account_fail_description_remind">Datan käyttöoikeuden takia tilin poistamisen jälkeen kalenteriin ja yhteystietoihin saattaa jäädä jäännöstietoja, poista ne käsin.</string>
   <string name="wipe_account_fail_title">Henkilökohtaista tietoa ei voitu poistaa</string>
   <string name="wps_title">WPS Sähköposti</string>
   <string name="wrong_password">Salasana, jonka syötit on väärin</string>

@@ -80,7 +80,6 @@
   <string name="category_type_other">Muu</string>
   <string name="category_video">Videot</string>
   <string name="category_zip">Pakatut</string>
-  <string name="change_sticker">Valitse toinen tarra</string>
   <string name="choose_report_comment_reason">Miksi raportoit tämän kommentin?</string>
   <string name="choose_report_reason">Miksi raportoit tämän videon?</string>
   <string name="clean_hint">Vapauta tallennustilaa napauttamalla</string>
@@ -785,7 +784,6 @@
   <string name="video_upload_wechat_hint">Hanki lisää faneja lähettämällä WeChat videot.</string>
   <string name="video_uploaded">Lähetetty</string>
   <string name="view_master_rank">Näytä Youliao top</string>
-  <string name="view_more_sticker">Näytä lisää tarroja</string>
   <string name="view_top_rank">Näytä sijat</string>
   <string name="wb_btn_bind">Weibo</string>
   <string name="wechat_btn_bind">WeChat</string>

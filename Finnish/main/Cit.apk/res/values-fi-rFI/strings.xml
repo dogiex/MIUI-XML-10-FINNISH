@@ -390,6 +390,7 @@ Kun olet laittanut tiedoston \"music.mp3\" SD-kortin hakemistoon, napauta näytt
   <string name="cit_sim_state_puk_required">PUK-koodi vaaditaan</string>
   <string name="cit_sim_state_ready">SIM-kortti valmis</string>
   <string name="cit_sim_state_unkown">Tuntematon</string>
+  <string name="cit_splash_check_summary">Varmista, että näyttö on mustana vähintään 5 sekuntia.</string>
   <string name="cit_start_calibration">Kalibroi</string>
   <string name="cit_stop_calibration">Lopeta kalibroiminen</string>
   <string name="cit_tfcard_support_summary">Tarkista tämän laitteen TF-muistikortin yhteensopuvuus</string>
@@ -582,6 +583,7 @@ The second line shows the name and version number of Default MBN and Carrier MBN
   <string name="cit_tool_select_opposite">Valitse päinvastoin</string>
   <string name="cit_tool_setting_expired">Asetus vanhentui, yritä uudelleen!</string>
   <string name="cit_tool_setting_wait">Asetetaan! Odota hetki</string>
+  <string name="cit_tool_splash_test_title">Splash-testi</string>
   <string name="cit_tool_switch_autosms">Ota käyttöön/Poista käytöstä AutoSMSReg</string>
   <string name="cit_tool_to_fetching">Noudetaa</string>
   <string name="cit_tool_tpdump">Kosketa virheenkorjaustilaan</string>
@@ -873,6 +875,7 @@ testi onnistui, paina Läpäisi-painiketta"</string>
   <string name="more_detail">查询识别失败特征数据</string>
   <string name="more_detail_confirm_setting">确认内存设置并请手动重启手机</string>
   <string name="more_than">大于</string>
+  <string name="motor_calibration">Moottorin kalibrointi</string>
   <string name="name_count">个</string>
   <string name="nav_category">导航策略</string>
   <string name="navigation_drawer_close">Close navigation drawer</string>

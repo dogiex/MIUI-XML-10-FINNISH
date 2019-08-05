@@ -105,7 +105,7 @@
   <string name="default_folder_title_services">Palvelut</string>
   <string name="default_folder_title_telcel">Telcel</string>
   <string name="default_folder_title_tools">Työkalut</string>
-  <string name="default_screen_preview_title">Aseta oletusnäyttö napauttamalla</string>
+  <string name="default_screen_preview_title">Aseta oletusnäyttö</string>
   <string name="default_shortcut_title_10086">10086.cn</string>
   <string name="delete">Poista</string>
   <string name="delete_screen">Poista näyttö</string>
@@ -123,6 +123,7 @@
   <string name="edit_mode_group_error_full">Ei tarpeeksi tilaa</string>
   <string name="edit_mode_group_error_in_folder">Sulje kansio ennen kuvakkeiden ryhmittelyä</string>
   <string name="edit_mode_group_error_one_folder">Kansiota ei voi kopioida valittujen kuvakkeiden kanssa</string>
+  <string name="edit_mode_top_menu_finish">Valmis</string>
   <string name="edit_mode_uninstall">Poista</string>
   <string name="editing_add_widget_tips">Muokkaa widgettiä</string>
   <string name="editing_mode_enter_tip_text">Muokkaa Aloitusnäyttöä nipistämällä</string>
@@ -222,6 +223,7 @@
   <string name="menu_default_screen_preview">Aseta oletusnäyttö</string>
   <string name="menu_edit">Muokkaa Aloitusnäyttöä</string>
   <string name="menu_exit_scene">Poistu Mi Spacesta</string>
+  <string name="menu_finish">Valmis</string>
   <string name="menu_item_add_item">Aseta Aloitusnäytölle</string>
   <string name="menu_launcher_setting">Käynnistimen asetukset</string>
   <string name="menu_lock">Lukitse Aloitusnäytön ulkoasu</string>
@@ -345,7 +347,6 @@
   <string name="uninstall_xspace_dialog_title_format">Poistetaanko kaksois \"%s\"?</string>
   <string name="unknown_artist_name">Tuntematon artisti</string>
   <string name="unnamed_folder_name">Kansio</string>
-  <string name="use_theme_screen_cells_title">Salli teeman korvata näytön ulkoasu</string>
   <string name="wallpaper">Taustakuva</string>
   <string name="wallpaper_auto_change_title">Lukitusnäyttö</string>
   <string name="wallpaper_failed_message">Taustakuvaa ei voi asettaa</string>
@@ -359,4 +360,5 @@
   <string name="widget_gadget_player">Musiikki</string>
   <string name="widget_global_search">Etsi</string>
   <string name="widget_quick_function">Pikatoiminnot</string>
+  <string name="widgets_preview_title">Lisää widgetti</string>
 </resources>

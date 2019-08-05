@@ -117,7 +117,7 @@
     <string name="app_downloading_ratio_text">Ladataan %s</string>
     <string name="app_downloading_text">Ladataan</string>
     <string name="app_installing_text">Asennetaan</string>
-    <string name="app_name">InfoStream</string>
+    <string name="app_name">UiFramework</string>
     <string name="app_new_version">Uusin versio tästä sovelluksesta on jo asennettuna</string>
     <string name="app_open_text">Avaa</string>
     <string name="app_task_download_exists_text">Lataus on jo olemassa</string>
@@ -257,6 +257,8 @@
     <string name="data_monitor_dialog_message">Näyttää siltä, että jokin kuluttaa mobiilidataasi. Avaa aloitussivu lopettaaksesi tämän.</string>
     <string name="data_traffic_continue">Jatka</string>
     <string name="data_traffic_download_cancel">Peruuta</string>
+    <string name="data_traffic_download_confirm">Käytetään mobiilidatayhteyttäsi</string>
+    <string name="data_traffic_download_ok">Ok</string>
     <string name="data_traffic_download_prompt">Nykyinen video voidaan ladata vain Wi-Fi-ympäristössä</string>
     <string name="data_traffic_download_setting">Asetukset</string>
     <string name="data_traffic_goto">Ilmainen dataliikenne</string>
@@ -464,6 +466,7 @@ katsoaksesi avoimia välilehtiä muilta laitteilta."</string>
     <string name="js_disable_confirm_message">Poistamalla JavaScripti käytöstä saattaa aiheuttaa joidenkin sivujen näyttämisen väärältä.</string>
     <string name="js_disable_confirm_title">Poista JavaScript käytöstä?</string>
     <string name="keep_queued_download">Säilytä</string>
+    <string name="load_error_tip">Latausvirhe, yritä uudelleen napauttamalla</string>
     <string name="loading_tips">Vedä alas päivittääksesi</string>
     <string name="local_bookmarks">Mi</string>
     <string name="login_failed_toast">Kirjautuminen epäonnistui, päivitä ja yritä uudelleen</string>

@@ -690,6 +690,9 @@
   <string name="cleaner_screen_shot_action">Tyhjennä</string>
   <string name="cleaner_screen_shot_description">Poista kuvakaappaukset, joita et enää tarvitse.</string>
   <string name="cleaner_screen_shot_title">Poista kuvakaappauksia</string>
+  <string name="cleaner_similar_action">Poista nyt</string>
+  <string name="cleaner_similar_description">Poista kuvien kaksoiskappaleet</string>
+  <string name="cleaner_similar_title">Kuvien kaksoiskappaleet</string>
   <string name="cleaner_slim_action">Aloita optimointi</string>
   <string name="cleaner_slim_description">Säilytä optimoidut kuvat laitteellasi. Alkuperäiset tiedotot säilytetään Mi Pilvessä.</string>
   <string name="cleaner_slim_start">Optimoi</string>
@@ -697,6 +700,10 @@
   <string name="cleaner_space_description">voidaan vapauttaa</string>
   <string name="cleaner_space_detail_description">Tyhjennä Galleriasi kuvat vapauttaaksesi tallennustilaa</string>
   <string name="cleaner_stop_scan">Pysäytä skannaaminen</string>
+  <string name="cleaner_video_action">Poista nyt</string>
+  <string name="cleaner_video_description">Poista tallennustilaa vievät videot</string>
+  <string name="cleaner_video_pick_delete_selected">Poista valitut videot</string>
+  <string name="cleaner_video_title">Poista videoita</string>
   <string name="click_download_gif">Lataa GIF napauttamalla</string>
   <string name="click_top_right">Napauta tätä kuvaketta</string>
   <string name="close">Sulje</string>
@@ -1409,6 +1416,7 @@ mukauttaaksesi Galleriasi"</string>
   <string name="play_gif_desc">Toista GIF</string>
   <string name="play_video_desc">Toista video</string>
   <string name="preparing_data">Odota hetki…</string>
+  <string name="print_log">Tulostusloki</string>
   <string name="privacy_permission_request_message">Galleria tarvitsee %3$s käyttöoikeuden. Keräämämme tiedot tullaan käyttämään meidän %1$s ja %2$s mukaisesti. Sallitko?</string>
   <string name="privacy_permission_request_negative">Rajoita</string>
   <string name="privacy_permission_request_positive">Salli</string>
@@ -1494,6 +1502,11 @@ mukauttaaksesi Galleriasi"</string>
   <string name="scan_barcode_guide">Saadaksesi albumin QR-koodin, napauta Jaa-kuvaketta.</string>
   <string name="scan_barcode_to_join">Lisää albumi skannaamalla QR-koodi</string>
   <string name="scan_qr_code_buttom_text">Näytä tämä albumi skannaamalla QR-koodi</string>
+  <string name="screen_doodle_talkback_size">Piirtoviivan leveys</string>
+  <string name="screen_editor_finish">Valmis</string>
+  <string name="screen_save_dialog_btn_cancel">Peruuta</string>
+  <string name="screen_save_dialog_btn_delete">Poista kuvakaappaus</string>
+  <string name="screen_save_dialog_btn_save">Tallenna Galleriaan</string>
   <string name="search_backup_full_screen">Ota Mi Pilven synkronointi käyttöön löytääksesi lisää kohteita ja henkilöitä</string>
   <string name="search_backup_now">Ota käyttöön</string>
   <string name="search_backup_sub_title">Ota käyttöön löytääksesi lisää kuvia</string>
@@ -1602,6 +1615,7 @@ mukauttaaksesi Galleriasi"</string>
   <string name="show_hidden_album_title">Näytä näkymättömät albumit</string>
   <string name="show_in_other_albums_disable_toast_long_press_menu">Siirrettiin onnistuneesti, mene Muut albumit nähdäksesi</string>
   <string name="show_in_other_albums_enable_toast_long_press_menu">Siirrettiin onnistuneesti, mene Albumeihin nähdäksesi</string>
+  <string name="similar_keep_clear">Pidä parhaat otokset</string>
   <string name="slideshow_interval_dialog_title">Syötä intervalli</string>
   <string name="slideshow_interval_invalid">Intervallin täytyy olla 3 ja 3600 sekunnin välillä</string>
   <string name="slideshow_interval_title">Näytä jokaista diaa</string>

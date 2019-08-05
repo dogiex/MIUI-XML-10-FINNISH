@@ -31,7 +31,7 @@
   <string name="activity_main_update_time">Päivitetty %1$s</string>
   <string name="activity_main_update_time_expire">Tieto on vanhentunut</string>
   <string name="activity_main_update_time_right_now">juuri nyt</string>
-  <string name="activity_minute_rain_location_fail_msg">Sijainnin paikantaminen epäonnistui. Näytetään oletuksena Peking.</string>
+  <string name="activity_minute_rain_location_fail_msg">Tarkkaa sijaintitietoa ei saatu. Vaihdettiin nykyiseen kaupunkiin.</string>
   <string name="activity_weathermain_locationg">Paikannetaan…</string>
   <string name="activity_weathermain_locationg_error">Sijainnin paikantaminen epäonnistui</string>
   <string name="add_city">Lisää</string>
@@ -73,6 +73,8 @@
   <string name="aqi_quality_pm10_desc">Hengitettävät hiukkaset</string>
   <string name="aqi_quality_pm25_desc">Pienhiukkaset</string>
   <string name="aqi_quality_so2_desc">Rikkidioksidi</string>
+  <string name="aqi_settings_summary">ILI hälytykset</string>
+  <string name="aqi_settings_title">ILI</string>
   <string name="aqi_short_desc">ILI %1$s</string>
   <string name="aqi_station_best_quality_station">Paras lähistöllä</string>
   <string name="aqi_station_min_distance_station">Lähin asema</string>
@@ -246,10 +248,10 @@ Lisää kaupunki manuaalisesti napauttamalla"</string>
   <string name="real_time_sunrise">Auringonnousu %1$s</string>
   <string name="real_time_sunset">Auringonlasku %1$s</string>
   <string name="realtime_aqi_title">Ilmanlaatuindeksi</string>
-  <string name="realtime_humidity_title">Suhteellinen kosteus</string>
+  <string name="realtime_humidity_title">Kosteus</string>
   <string name="realtime_temperature_no_data">N/A</string>
   <string name="realtime_wind_default_title">Tuuli</string>
-  <string name="receive_net_mock_success">Net mock receive success</string>
+  <string name="receive_net_mock_success">Net mock vastaanottaminen onnistui</string>
   <string name="refresh_fail">Verkkoyhteyttä ei voi muodostaa</string>
   <string name="reminder_from_xiaomi_weather_app">Mi Sään hälytys</string>
   <string name="retry">Yritä uudelleen</string>

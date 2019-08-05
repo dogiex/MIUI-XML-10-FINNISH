@@ -81,7 +81,7 @@ Pitää kohteen terävänä ja sumentaa taustan."</string>
 ja optimoi valokuvasi näiden tietojen perusteella"</string>
   <string name="ai_scene_top_moon_off">Hämärätila</string>
   <string name="ai_scene_top_tip">Kuutila</string>
-  <string name="autozoom_click_hint">Napauta kohdetta aloittaaksesi seuraamisen. Pysy vähintään 3 metriä kohteesta parhaan tehosteen vuoksi.</string>
+  <string name="autozoom_click_hint">Napauta kohdetta pitääksesi sen tarkennettuna, kun se liikkuu. Pysy vähintään 3 metriä kohteesta parhaan tehosteen vuoksi.</string>
   <string name="autozoom_disabled_hint">Liikkuvan kohteen seuraaminen lopetettiin</string>
   <string name="autozoom_hint">Seuraa liikkuvaa kohdetta</string>
   <string name="audio_focus_exit_button_text">Poista Äänitarkennus käytöstä</string>
@@ -295,6 +295,8 @@ Muotokuvatilassa"</string>
   <string name="live_sticker_fragment_tab_name">TikTok Taikatarrat</string>
   <string name="live_sticker_network_error_hint">Verkkovirhe</string>
   <string name="live_sticker_updating">Päivitetään…</string>
+  <string name="macro_mode">Macro</string>
+  <string name="macro_mode_tip">Linssin ja kohteen etäisyys toisistaan ei pitäisi ylittää 10 cm</string>
   <string name="makeup_reset_toast">Poista meikkitehosteet</string>
   <string name="message_snap_double_confirm">Äänenvoimakkuuspainikkeen pitkä painallus käynnistää tällä hetkellä NFC:n. Korvataanko tämä ominaisuus?</string>
   <string name="module_name_beauty">Kauneus</string>
@@ -536,7 +538,7 @@ ja tuo henkilöt esiin."</string>
   <string name="pref_camera_ultra_wide_ldc_description">Korjaa vääristyneet kohteet automaattisesti</string>
   <string name="pref_camera_ultra_wide_ldc_title">Korjaa vääristymät ultralaajakulmaotoksissa</string>
   <string name="pref_camera_ultra_wide_mode_title">Ultralaajakulmatila</string>
-  <string name="pref_camera_video_bokeh_off">Videon bokeh pois käytöstä</string>
+  <string name="pref_camera_video_bokeh_off">Videon bokeh poissa käytöstä</string>
   <string name="pref_camera_video_bokeh_on">Videon bokeh käytössä</string>
   <string name="pref_camera_video_duration_entry_10">10 minuuttia</string>
   <string name="pref_camera_video_duration_entry_120">Ei rajaa</string>
@@ -606,7 +608,8 @@ ja tuo henkilöt esiin."</string>
   <string name="pref_video_quality_entry_480p">SD 480p, 30fps</string>
   <string name="pref_video_quality_entry_4kuhd">UHD 4K, 30fps</string>
   <string name="pref_video_quality_entry_4kuhd_60fps">UHD 4K, 60fps</string>
-  <string name="pref_video_quality_entry_720p">HD 720p, 30fps</string>
+  <string name="pref_video_quality_entry_720p">HD 720p</string>
+  <string name="pref_video_quality_entry_720p_60fps">HD 720p, 60fps</string>
   <string name="pref_video_quality_entry_fwvga">FWVGA</string>
   <string name="pref_video_quality_entry_vga">VGA</string>
   <string name="pref_video_quality_entry_wqvga">WQVGA</string>

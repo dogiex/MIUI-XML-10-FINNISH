@@ -264,4 +264,8 @@
         <item quantity="other">%d kohdetta</item>
         <item quantity="one">%d kohde</item>
     </plurals>
+    <plurals name="video_count_format">
+        <item quantity="other">%1$d tiedostoa</item>
+        <item quantity="one">%1$d tiedosto</item>
+    </plurals>
 </resources>
