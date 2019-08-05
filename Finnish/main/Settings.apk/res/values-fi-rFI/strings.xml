@@ -1983,7 +1983,7 @@ Saat lisätietoja organisaatiosi järjestelmänvalvojalta."</string>
   <string name="ethernet_data_usage">Ethernet-datan käyttö</string>
   <string name="every_day">Joka päivä</string>
   <string name="expand_button_title">Lisäasetukset</string>
-  <string name="expandable_under_keyguard_title">Näytä Lukitusnäytöllä</string>
+  <string name="expandable_under_keyguard_title">Näytä turvallisella Lukitusnäytöllä</string>
   <string name="experimental_category_title">Kokeellinen</string>
   <string name="experimental_preference">(Kokeellinen)</string>
   <string name="extended_power_menu">Laajennettu virtavalikko</string>
@@ -3378,6 +3378,7 @@ Valitse käyttöjärjestelmäsi:"</string>
   <string name="notification_sound_title">Ilmoituksen oletusääni</string>
   <string name="notification_style_title">Ilmoituksen tyyli</string>
   <string name="notification_suggestion_summary">Näytä tai piilota ilmoituksen sisältö</string>
+  <string name="notification_suggestion_title">Hallinnoi tietoa lukitusnäytöllä</string>
   <string name="notification_summary_level">Taso %d</string>
   <string name="notification_summary_none">Käytössä kaikissa sovelluksissa</string>
   <string name="notification_toggle_off">Pois käytöstä</string>
@@ -3960,7 +3961,7 @@ Et menetä mitään sovellustietoja."</string>
   <string name="reset_network_desc">"Tämä nollaa kaikki verkkoasetukset, mukaan lukien seuraavat:
 
 Wi-Fi
-mobiilitiedonsiirto
+Mobiilidata
 Bluetooth."</string>
   <string name="reset_network_final_button_text">Nollaa asetukset</string>
   <string name="reset_network_final_desc">Nollataanko kaikki verkkoasetukset? Toimintoa ei voi peruuttaa.</string>
@@ -4354,7 +4355,7 @@ Näytön kiinnittäminen:
   <string name="search_sound_settings">Ääni;Äänenvoimakkuus;värinä;Poista kohina;melunvaimennus</string>
   <string name="search_status_bar_settings">Ilmoitukset &amp; tilapalkki;Ilmoitukset;Tilapalkki</string>
   <string name="search_status_bar_settings_custom_carrier">Muokkaa operaattorin nimeä;Operaattorin nimi</string>
-  <string name="search_status_bar_settings_expandable_under_keyguard">Näytä lukitusnäytöllä</string>
+  <string name="search_status_bar_settings_expandable_under_keyguard">Näytä turvallisella Lukitusnäytöllä;näytä turvallisella lukitusnäytöllä</string>
   <string name="search_status_bar_settings_manage_notification">Sovellusilmoitukset;Ilmoitukset</string>
   <string name="search_status_bar_settings_show_carrier">Näytä operaattorin nimi;Operaattorin nimi</string>
   <string name="search_status_bar_settings_show_network_speed">Näytä yhteyden nopeus;yhteyden nopeus</string>
@@ -4774,7 +4775,6 @@ Laitteeseesi asennettu luotettu varmenne tekee tämän mahdolliseksi."</string>
   <string name="status_bar_settings">Ilmoitukset &amp; tilapalkki</string>
   <string name="status_bar_settings_all_app_display_loading">Odota hetki…</string>
   <string name="status_bar_settings_expand_top_notification">Laajenna ylin ilmoitus</string>
-  <string name="status_bar_settings_expandable_under_keyguard">Näytä Lukitusnäytöllä</string>
   <string name="status_bar_settings_manage_notification">Sovellusilmoitukset</string>
   <string name="status_bar_settings_notification_bar">Ilmoitusalue</string>
   <string name="status_bar_settings_notification_led_custom">Mukautettu väri</string>
@@ -5749,13 +5749,6 @@ Napauta plussaa lisätäksesi sanoja."</string>
   <string name="wifi_aggressive_handover_summary">Kun asetus on käytössä, datayhteys siirtyy helpommin Wi-Fistä matkapuhelinverkkoon, jos Wi-Fi-signaali on heikko.</string>
   <string name="wifi_allow_scan_with_traffic">Salli Wi-Fi-verkkovierailuskannaus aina</string>
   <string name="wifi_allow_scan_with_traffic_summary">Salli/estä Wi-Fi-verkkovierailuskannaus liittymässä esiintyvän dataliikenteen perusteella.</string>
-  <string name="wifi_and_mobile_skipped_message">"Jos et määritä Wi-Fi-asetuksia
-
-"&lt;li&gt;puhelimesi ei voi muodostaa yhteyttä internetiin&lt;/li&gt;"
-
-"&lt;li&gt;et voi ladata ohjelmistopäivityksiä ennen kuin muodostat internetyhteyden&lt;/li&gt;"
-
-"&lt;li&gt;et voi ottaa laitteen suojausominaisuuksia käytt&amp;#246;&amp;#246;n tällä hetkellä.&lt;/li&gt;</string>
   <string name="wifi_ap_band_config">Valitse AP-taajuus</string>
   <string name="wifi_ap_choose_2G">2,4 GHz:n taajuus</string>
   <string name="wifi_ap_choose_5G">5 GHz:n taajuus</string>

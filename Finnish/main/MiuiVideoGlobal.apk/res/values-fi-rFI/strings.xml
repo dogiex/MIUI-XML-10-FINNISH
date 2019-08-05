@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <resources>
+    <string name="Subscribe">Tilaa</string>
     <string name="abc_action_bar_home_description">Siirry etusivulle</string>
     <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
     <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
@@ -37,8 +38,6 @@
     <string name="alert_dialog_download_prepare">Valmistellaan latausta…</string>
     <string name="alert_dialog_download_progress">"Ladataan sovellusta: "</string>
     <string name="app_name">Mi Video</string>
-    <string name="app_name_hungama">Hungama Play</string>
-    <string name="browser_error">Toistaiseksi ei käytettävissä, yritä myöhemmin uudelleen</string>
     <string name="cancel">Peruuta</string>
     <string name="canceled">Peruutettu</string>
     <string name="cast_ad_label">Mainos</string>
@@ -108,21 +107,9 @@
     <string name="dialog_privacy_title">Valtuuttaminen</string>
     <string name="dialog_revoke_privacy_info_new2">Valtuutuksen peruuttamisen jälkeen sovellus lopettaa tietojen keräämisen ja kaikki siihen liittyvät tiedot poistetaan palvelimiltamme. Tämä tekee sovelluksesta käytännössä käyttökelvottoman. Peruutetaanko valtuutus siitä huolimatta?</string>
     <string name="dialog_revoke_privacy_title">Valtuutuksen peruuttaminen</string>
-    <string name="enable_background_audio">Toista taustalla</string>
-    <string name="error_drm_not_supported">Suojattu sisältö ei ole tuettu, jos API-taso on alle 18</string>
-    <string name="error_drm_unknown">Tapahtui tuntematon DRM-virhe</string>
-    <string name="error_drm_unsupported_scheme">Tämä laite ei tue vaadittua DRM-järjestelmää</string>
-    <string name="error_mg_content_not_available">Tämä sisältö ei ole saatavilla maassasi.</string>
-    <string name="error_mg_no_content">Sisältöä ei ole saatavilla tälle elokuvalle. Yritä myöhemmin uudelleen</string>
-    <string name="error_mg_no_content_for_tv">Sisältöä ei ole saatavilla tälle TV-Ohjelmalle. Yritä myöhemmin uudelleen</string>
-    <string name="error_msg_invalid_url">Virheellinen URL-osoite. Yritä myöhemmin uudelleen</string>
-    <string name="error_msg_no_network">Verkkoyhteyttä ei havaittu. Varmista, että olet yhteydessä verkkolähteeseen ja yritä uudelleen.</string>
-    <string name="error_msg_server_error">Palvelin ei ole saatavilla tällä hetkellä. Yritä uudelleen.</string>
-    <string name="error_msg_socket_timeout">Yhteys aikakatkaistu. Yritä uudelleen</string>
-    <string name="error_msg_video_play_time_out">Videota ei voi toistaa tällä hetkellä. Yritä myöhemmin uudelleen.</string>
-    <string name="error_msg_video_play_time_out_title">Aikakatkaistu</string>
-    <string name="error_no_content">Sisältöä ei ole saatavilla.</string>
-    <string name="error_title">Tietoja</string>
+    <string name="diy_channels_tips">Voit nyt mukauttaa kanaviesi luetteloa.</string>
+    <string name="empty_channels">Hallinnoi kanavoita</string>
+    <string name="empty_subscribe">Et tilaa vielä mitään.</string>
     <string name="exit">Poistu</string>
     <string name="exo_controls_fastforward_description">Kelaa eteenpäin</string>
     <string name="exo_controls_next_description">Seuraava raita</string>
@@ -138,18 +125,15 @@
     <string name="fw_loading">Odota hetki…</string>
     <string name="fw_reload_sub_title">Yritä uudelleen napauttamalla näyttöä</string>
     <string name="fw_reload_title">Verkkoyhteyttä ei voitu muodostaa.</string>
-    <string name="grant_write_settings_permission">Salli tämä käyttöoikeus hallitaksesi soittimen kirkkautta</string>
+    <string name="get_ph_ticket">Hanki koodi</string>
+    <string name="goto_sign_up">Luo tili</string>
+    <string name="hidden_channels">Seuraavia kanavia ei näytetä Aloitussivulla.</string>
     <string name="id_namespace">hungama</string>
-    <string name="include_sensitive_extra">true</string>
-    <string name="lbl_connection_failed_alert_title">Yhteyden muodostaminen epäonnistui</string>
-    <string name="lbl_player_local_video_deleted_alert_dialog_text">Tätä videota ei voi toistaa.</string>
-    <string name="lbl_player_no_network">Verkkoyhteyttä ei havaittu. Varmista, että olet yhteydessä verkkolähteeseen ja yritä uudelleen.</string>
-    <string name="lbl_player_response_failed_alert_dialog_text">Pyyntöäsi ei voi suorittaa tällä hetkellä. Yritä myöhemmin uudelleen.</string>
-    <string name="lbl_setting_playback_streaming_auto">Auto</string>
-    <string name="lbl_url_alert">Tietoja</string>
-    <string name="lc_id">en-us</string>
-    <string name="logging_normal">Normaali</string>
-    <string name="logging_verbose">Runsas</string>
+    <string name="init_channels">Palauta oletukset</string>
+    <string name="isSubscribed">Tilattu</string>
+    <string name="isornot_your_mi_account">Onko tämä Mi Tilisi?</string>
+    <string name="language_select_tips">Mitkä ovat videon kielimieltymyksesi? Voit valita useita kieliä.</string>
+    <string name="language_setting_tips">Tallennettiin onnistuneesti. Voit muuttaa kielimieltymystäsi asetuksissa.</string>
     <string name="login">Kirjaudu sisään</string>
     <string name="lp_base_folder">SD-kortti</string>
     <string name="lp_speed_title">Toistonopeus</string>
@@ -285,6 +269,7 @@ Kaikki verkosta löytyvät tekstitykset tarjoaa opensubtitles.org."</string>
     <string name="mr_controller_volume_slider">Äänenvoimakkuuden säädin</string>
     <string name="mr_system_route_name">Järjestelmä</string>
     <string name="mr_user_route_category_name">Laitteet</string>
+    <string name="my_favorite_channels">Kanavani</string>
     <string name="need_update_app">Päivitä Mi Video käyttääksesi sen kaikkia ominaisuuksia</string>
     <string name="network_connect_info">Verkkoyhteyttä ei voitu muodostaa. Tarkista verkkoasetuksesi ja yritä uudelleen.</string>
     <string name="network_failed">Verkkoyhteyttä ei voitu muodostaa</string>
@@ -292,7 +277,6 @@ Kaikki verkosta löytyvät tekstitykset tarjoaa opensubtitles.org."</string>
     <string name="no_recommend_data">Ei suositeltuja videoita juuri nyt</string>
     <string name="not_show">Älä näytä uudelleen</string>
     <string name="notify_apk_installed">Ladattiin onnistuneesti</string>
-    <string name="off">[pois käytöstä]</string>
     <string name="ok">OK</string>
     <string name="ovp_alert_dialog_download_install_task">Ladataan HD-liitännäistä…</string>
     <string name="ovp_buffering_video_netplay_label_v5">Puskuroidaan…</string>
@@ -344,6 +328,10 @@ Kaikki verkosta löytyvät tekstitykset tarjoaa opensubtitles.org."</string>
     <string name="ovp_navigation_home">Koti</string>
     <string name="ovp_navigation_localvideo">Paikallinen</string>
     <string name="ovp_navigation_setting">Asetukset</string>
+    <string name="ovp_navigation_subscribe">Tilaa</string>
+    <string name="ovp_player_plugin_dlg_neg_btn">Sulje</string>
+    <string name="ovp_player_plugin_dlg_no_content">Videosoittimen liitännäisiä ei ole asennettu.</string>
+    <string name="ovp_player_plugin_dlg_title">Videosoittimen liitännäiset</string>
     <string name="ovp_plugin_install_failure">Liitännäistä ei voitu asentaa</string>
     <string name="ovp_search_key_not_null">Hae antamalla avainsanoja</string>
     <string name="ovp_select_ci">Valitse jakso</string>
@@ -364,9 +352,24 @@ Kaikki verkosta löytyvät tekstitykset tarjoaa opensubtitles.org."</string>
     <string name="ovp_video_plugin_installation_failure">Liitännäistä %1$s ei voitu asentaa</string>
     <string name="ovp_video_plugin_installation_two">Odota hetki…</string>
     <string name="password_toggle_content_description">Muuta salasanan näkyvyyttä</string>
-    <string name="ping_platform">SOVELLUS</string>
-    <string name="ping_property">Elokuva</string>
-    <string name="player_replay_btn_text">Uusinta</string>
+    <string name="permission_continue">Jatka</string>
+    <string name="permission_info">"Mi Videon on päästävä laitteesi IMEI-numeroon tehdäkseen seuraavaa:
+
+    Paremmin mukautetut palvelut laitteellesi;
+    Nostaa tilisi turvallisuutta."</string>
+    <string name="permission_info1">Mi Video tarvitsee pääsyn laitteesi IMEI-numeroon tehdäkseen seuraavaa:</string>
+    <string name="permission_info2">Paremmin mukautetut palvelut laitteellesi;</string>
+    <string name="permission_info3">Nostaa tilisi turvallisuutta.​</string>
+    <string name="permission_phone">Puhelin</string>
+    <string name="permission_phone_desc">Käyttääkseen laitteen tilaa ja pysäyttääkseen toiston puheluiden aikana</string>
+    <string name="permission_storage">Tallennustila</string>
+    <string name="permission_storage_desc">Käyttääkseen kohteita, tallentaakseen tiedostoja, näyttääkseen ja toistaakseen laitteella olevia videoita</string>
+    <string name="permission_title">Käyttöoikeuksia vaaditaan</string>
+    <string name="phone_bind_too_many">Tämä puhelin on ollut käytössä usealla Mi Tilillä lyhyessä ajassa. Kokeile käyttää toista puhelinnumeroa.</string>
+    <string name="phone_hint">Puhelinnumero</string>
+    <string name="phone_number">Puhelinnumero</string>
+    <string name="psw_hint">Salasana</string>
+    <string name="psw_sign_in">Kirjaudu sisään käyttäen salasanaa</string>
     <string name="pull_to_refresh_from_bottom_pull_label">Päivitä vetämällä ylöspäin…</string>
     <string name="pull_to_refresh_from_bottom_refreshing_label">Odota hetki…</string>
     <string name="pull_to_refresh_from_bottom_release_label">Vapauta päivittääksesi…</string>
@@ -376,6 +379,7 @@ Kaikki verkosta löytyvät tekstitykset tarjoaa opensubtitles.org."</string>
     <string name="push_message_switch">Push-ilmoitukset</string>
     <string name="push_message_tips">Ota käyttöön vastaanottaaksesi push-ilmoituksia</string>
     <string name="pw_category">Kategoriat</string>
+    <string name="pw_channels">Kanavat</string>
     <string name="pw_click_channel_scrol_to_top">Siirry takaisin ylös napauttamalla uudelleen</string>
     <string name="pw_comment_back">Takaisin</string>
     <string name="pw_comment_detail">Tiedot</string>
@@ -417,9 +421,11 @@ Katso muita videoita!"</string>
     <string name="pw_video_mine">Videoni</string>
     <string name="pw_video_offline">Paikalliset videot</string>
     <string name="read_and_agree">Hyväksyn</string>
+    <string name="recommend_channels">Suositellut kanavat</string>
     <string name="recommend_online_switch">Online suositukset</string>
     <string name="recommend_online_tips">Ota käyttöön vastaanottaaksesi suositeltuja online-videoita</string>
     <string name="recommend_page_replay">UUSINTA</string>
+    <string name="restore_channel_list">Palautetaanko oletukset nyt?</string>
     <string name="retry">Yritä uudelleen</string>
     <string name="revoke">Peruuta</string>
     <string name="s1">Tallenna kuva</string>
@@ -437,14 +443,12 @@ Katso muita videoita!"</string>
     <string name="search_menu_title">Haku</string>
     <string name="selectall">Valitse kaikki</string>
     <string name="selectnull">Poista valinnat</string>
-    <string name="session_create_error">Palvelin palautti SESSION CREATE ERROR -virheen, ota yhteyttä SDK-kehittäjiin!</string>
     <string name="share">Jaa</string>
     <string name="share_ugc_content">Katso %1$s! #%2$s (%3$s)</string>
     <string name="share_ugc_join">Liity mukaan</string>
     <string name="share_ugc_waitting">Luodaan linkkiä…</string>
     <string name="slid_fail_message">Ei voitu tallentaa</string>
     <string name="slide_save_message">Luodaan videota…</string>
-    <string name="storage_permission_denied">Tallennustilan käyttöoikeus estettiin</string>
     <string name="switch_ratio_pause">Toistonopeus on epävakaa. Vaihdetaan takaisin oletusnopeudelle…</string>
     <string name="t_downloading">Ladataan:</string>
     <string name="t_exit_app">Poistu napauttamalla uudelleen.</string>
@@ -461,9 +465,13 @@ Katso muita videoita!"</string>
     <string name="t_network_error">Tapahtui verkkovirhe.</string>
     <string name="t_ovp_check_delete_favor">Valitse poistettavat kohteet</string>
     <string name="t_start_download">Aloitetaan lataamaan:</string>
-    <string name="txt_cancel_download">PERUUTA SIIRTO</string>
-    <string name="txt_download_complete">Lataus valmis</string>
-    <string name="txt_watch_now">KATSO NYT</string>
+    <string name="ticket_hint">Vahvistuskoodi</string>
+    <string name="ticket_invalid">Syöttämäsi koodi on virheellinen</string>
+    <string name="ticket_sign_in">Kirjaudu sisään tekstiviestillä</string>
+    <string name="title_publisher">Julkaisija</string>
+    <string name="title_subscribe">Tilaukset</string>
+    <string name="toast_share_failed">Ei voitu jakaa. Odota minuutti tai kaksi ja yritä uudelleen.</string>
+    <string name="ugc_confirm_unsubscribe">Poistetaanko tilaus nyt?</string>
     <string name="ui_log_tip">Napauta tätä aluetta piilottaaksesi, paina ja pidä pohjassa tyhjentääksesi vanhat lokitiedot. Raahaa lokitiedot manuaalisesti.</string>
     <string name="update">Päivitä</string>
     <string name="v_app_name">Mi Video</string>
