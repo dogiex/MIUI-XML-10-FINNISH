@@ -501,6 +501,7 @@
   <string name="sc_allow_network_dialog_message">Sallitaanko tämän sovelluksen ottaa yhteyttä internetiin saadakseen päivityksiä?</string>
   <string name="scanning">Skannataan…</string>
   <string name="search_history">Hakuhistoria</string>
+  <string name="security_center_slogan">Tietoturva. Aina valppaana.</string>
   <string name="see_more">Lisää</string>
   <string name="set_immediately">Aseta</string>
   <string name="seton_immediately">Ota käyttöön</string>

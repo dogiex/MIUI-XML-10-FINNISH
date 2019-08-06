@@ -218,6 +218,17 @@ and reverse plug in the charger"</string>
   <string name="cit_emergencycall_check_title">Hätäpuhelu</string>
   <string name="cit_exit_test_summary">Kun poistut, kaikki testeihin liittyvät tiedot poistetaan.</string>
   <string name="cit_exit_test_title">Poistu testistä</string>
+  <string name="cit_f2_cali">Kalibrointi</string>
+  <string name="cit_f2_cali_done">Kalibrointi valmis!</string>
+  <string name="cit_f2_cali_failed">Kalibrointi epäonnistui, yritä uudelleen!</string>
+  <string name="cit_f2_cali_title">Kameran kalibrointi</string>
+  <string name="cit_f2_calibrating">Kalibrointi on käynnissä...</string>
+  <string name="cit_f2_camera_check_summary">"Testiohjeet:
+
+1. Napauta kalibrointipainiketta.
+2. Kalibrointi valmis -teksti tulee näkyviin, kun kamera on kalibroitu."</string>
+  <string name="cit_f2_capture_fail">Kalibrointi epäonnistui, yritä uudelleen!</string>
+  <string name="cit_f2_capture_success">Napauta kalibrointipainiketta!</string>
   <string name="cit_fail">Epäonnistui</string>
   <string name="cit_finger_check_title">Sormenjälkitesti</string>
   <string name="cit_flash_life_check_summary">Laitteen flash-muistin arvioitu elinikä</string>

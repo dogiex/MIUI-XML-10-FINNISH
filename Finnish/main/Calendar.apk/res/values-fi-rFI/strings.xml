@@ -69,7 +69,7 @@
   <string name="agenda_month_empty_hint">Ei tapahtumia tänään</string>
   <string name="agenda_tomorrow">HUOMENNA, %1$s</string>
   <string name="agenda_view">Tapahtumat</string>
-  <string name="alarm_label">Unohda</string>
+  <string name="alarm_label">Selvä</string>
   <string name="alert_reminder_divider">|</string>
   <string name="alert_reminder_expired">Vanhentunut</string>
   <string name="alert_title">Kalenteri-ilmoitukset</string>
@@ -99,6 +99,7 @@
   <string name="can_not_modify_allday_event">Koko päivän tapahtumaa ei voida muokata</string>
   <string name="can_not_modify_event">Tapahtumaa ei voida muokata</string>
   <string name="can_not_modify_repeating_acrossing_days_event">Monen päivän tapahtumaa ei voida muokata</string>
+  <string name="cancel_reminder_later">Peruuta muistutus</string>
   <string name="card_detail_dialog_message">%1$s päivittyy joka päivä. Tilaa vastaanottaaksesi päivittäiset päivitykset.</string>
   <string name="card_detail_dialog_negative">Tilaa myöhemmin</string>
   <string name="card_detail_dialog_positive">Tilaa nyt</string>
@@ -144,6 +145,7 @@
   <string name="date_pattern_mm_dd">M月d日</string>
   <string name="date_today">" (tänään)"</string>
   <string name="day_view_new_event_hint">+ Uusi tapahtuma</string>
+  <string name="default_reminder_later_time">Oletus aikaväli toiminnolle \"Muistuta myöhemmin\"</string>
   <string name="default_reminder_mode">Muistutukset</string>
   <string name="delete_recurring_event_title">Poistetaanko %s?</string>
   <string name="delete_this_event_title">Poistetaanko tämä tapahtuma?</string>
@@ -320,6 +322,7 @@
   <string name="movie_event_delete_successfully">Poistettiin elokuvalippu onnistuneesti</string>
   <string name="network_not_available">Verkkoyhteyttä ei voi muodostaa</string>
   <string name="new_event_description">Uusi</string>
+  <string name="next_alarm_time">Seuraava muistutus klo %1$s</string>
   <string name="no_contact_birthday_hint">Ei tuotavia syntymäpäiviä</string>
   <string name="no_events_hint">Ei tapahtumia</string>
   <string name="no_network">"Verkkoyhteyttä ei voitu muodostaa.
@@ -327,6 +330,7 @@ Tarkista verkkoyhteys ja yritä uudelleen."</string>
   <string name="no_network_btn">Yritä uudestaan</string>
   <string name="no_title_label">(Ei otsikkoa)</string>
   <string name="no_visiable_calendar_message">Sinun täytyy lisätä kalenteritili. Napauta Lisää tili jatkaaksesi.</string>
+  <string name="no_visiable_calendar_message_only_for_xiaomi_account">Sinun täytyy lisätä kalenteritili. Napauta \"Lisää tili\" jatkaaksesi.</string>
   <string name="no_visiable_calendar_select_account">Lisää tili</string>
   <string name="no_visiable_calendar_title">Lisää tili</string>
   <string name="notification_channel_name">Kalenterimuistutukset</string>
@@ -373,13 +377,6 @@ Tarkista verkkoyhteys ja yritä uudelleen."</string>
   <string name="preferences_default_reminder_dialog">Muistutuksen oletusaika</string>
   <string name="preferences_default_reminder_title">Muistutuksen oletusaika</string>
   <string name="preferences_home_tz_title">Kotiaikavyöhyke</string>
-  <string name="preferences_import_credit_repayment">信用卡还款</string>
-  <string name="preferences_import_electricity_bill">电费缴费</string>
-  <string name="preferences_import_gas_bill">燃气缴费</string>
-  <string name="preferences_import_hotel">酒店</string>
-  <string name="preferences_import_loan">贷款账单</string>
-  <string name="preferences_import_movie">电影票</string>
-  <string name="preferences_import_travel">机票火车票</string>
   <string name="preferences_notification_ringtone_title">Ääni</string>
   <string name="preferences_title">Kalenteri</string>
   <string name="preferences_use_home_tz_descrip">Näyttää kalenterit ja tapahtumien ajat oman aikavyöhykkeesi ajassa matkustaessasi</string>
@@ -387,11 +384,10 @@ Tarkista verkkoyhteys ja yritä uudelleen."</string>
   <string name="preferences_week_start_day_dialog">Viikko alkaa päivänä</string>
   <string name="preferences_week_start_day_title">Viikko alkaa päivänä</string>
   <string name="pull_to_refresh_hint">Vedä lataaksesi tapahtumat %1$d ajalta</string>
-  <string name="recommend_card_add">立即订阅</string>
-  <string name="recommend_card_adding">订阅中</string>
-  <string name="recommend_card_close_hint">将为您减少类似订阅推荐</string>
   <string name="refresh">Päivitä</string>
   <string name="refreshing_hint">Odota hetki…</string>
+  <string name="reminder_later">Muistuta myöhemmin</string>
+  <string name="reminder_later_notification_time_format">HH:mm</string>
   <string name="reminder_overdue">Vanhentunut</string>
   <string name="repeat_activity_label">Toisto</string>
   <string name="repeat_custom_activity_label">Oma valinta</string>
@@ -450,6 +446,8 @@ Tarkista verkkoyhteys ja yritä uudelleen."</string>
   <string name="setting_title_yiji_display">显示黄历宜忌</string>
   <string name="setting_toast_dump_mylog_done">生成成功,您的日志在文件管理器\"手机/MIUI/debug_log/com.android.calendar/dump\"文件夹下</string>
   <string name="setting_user_experience">用户体验计划</string>
+  <string name="share_not_install_wechat">Asenna wechat.</string>
+  <string name="share_not_install_weibo">Asenna weibo.</string>
   <string name="share_title">Jaa</string>
   <string name="shift_card_edit_reminder">编辑提醒</string>
   <string name="shift_card_reminder_day">本轮第%1$d天</string>

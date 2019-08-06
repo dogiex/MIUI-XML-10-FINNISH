@@ -13,7 +13,8 @@ Pitää kohteen terävänä ja sumentaa taustan."</string>
   <!-- miui 10 valmis -->
   <string name="accessibility_ai_scene_off">AI kamera pois käytöstä</string>
   <string name="accessibility_ai_scene_on">AI kamera käytössä</string>
-  <string name="hint_ae_af_lock">Automaattinen tarkennus / automaattinen valotus on lukittu</string>
+  <string name="hint_ae_af_lock">Automaattinen tarkennus ja automaattinen valotus on lukittu.</string>
+  <string name="hint_ae_af_lock_extra">Automaattinen tarkennus ja automaattinen valotus on lukittu. Vaihda Google Lensiin Kameran asetuksista.</string>
   <string name="hint_ae_lock">Automaattinen valotus on lukittu</string>
   <!-- miui 10 valmis -->
   <string name="access_sd_fail">SD-korttia ei voi käyttää.</string>
@@ -462,12 +463,12 @@ ja tuo henkilöt esiin."</string>
   <string name="pref_camera_long_press_shutter_feature_title">Sulkija-painikkeen pitkä painallus</string>
   <string name="pref_camera_long_press_viewfinder_google_lens">Google Lens</string>
   <string name="pref_camera_long_press_viewfinder_lock_ae_af">AE/AF Lukko</string>
-  <string name="pref_camera_long_press_viewfinder_title">Viewfinder Asetukset</string>
+  <string name="pref_camera_long_press_viewfinder_title">Viewfinder asetukset</string>
   <string name="pref_camera_long_pressing_burst_shooting_entry_burst">Sarjakuvaus</string>
   <string name="pref_camera_long_pressing_burst_shooting_entry_focus">Tarkenna</string>
   <string name="pref_camera_long_pressing_shutter_title">Paina &amp; pidä Sulkija-painiketta lukitaksesi AE/AF/AWB</string>
   <string name="pref_camera_long_pressing_viewfinder_entry_google_lens">Google Lens</string>
-  <string name="pref_camera_long_pressing_viewfinder_entry_lock_ae_af">AE/AF Lukko</string>
+  <string name="pref_camera_long_pressing_viewfinder_entry_lock_ae_af">AE/AF lukko</string>
   <string name="pref_camera_magic_mirror_title">Taikapeili</string>
   <string name="pref_camera_manual_mode_title">Manuaalinen</string>
   <string name="pref_camera_mfnr_sat_enable_title">Ota MFNR käyttöön</string>
@@ -490,10 +491,7 @@ ja tuo henkilöt esiin."</string>
   <string name="pref_camera_peak_title">Focus peaking</string>
   <string name="pref_camera_picture_format_entry_jpeg">Jpeg</string>
   <string name="pref_camera_picture_format_entry_raw">Raw</string>
-  <string name="pref_camera_picturesize_entry_16_9">16:9</string>
-  <string name="pref_camera_picturesize_entry_18_9">18:9</string>
-  <string name="pref_camera_picturesize_entry_4_3">4:3</string>
-  <string name="pref_camera_picturesize_entry_fullscreen">Koko näyttö 16:9</string>
+  <string name="pref_camera_picturesize_entry_fullscreen">Koko näyttö</string>
   <string name="pref_camera_picturesize_entry_standard">Normaali 4:3</string>
   <string name="pref_camera_picturesize_title_simple_mode">Kameran kehys</string>
   <string name="pref_camera_portrait_mode_entry_off">Muotokuvatila pois käytöstä</string>
@@ -591,8 +589,8 @@ ja tuo henkilöt esiin."</string>
   <string name="pref_front_mirror_label_auto">Automaattinen</string>
   <string name="pref_front_mirror_title">Peilaa etukamera</string>
   <string name="pref_google_lens">Google lens</string>
-  <string name="pref_google_lens_summary">Tunnista automaattisesti QR-koodit, sähköpostit, numerot ja paljon muuta</string>
-  <string name="pref_google_lens_title">Lens Ehdotukset</string>
+  <string name="pref_google_lens_summary">Osoita kameraasi yhteystietoihin, URL-osoitteisiin ja QR-koodeihin nähdäksesi käytettävissä olevat vaihtoehdot</string>
+  <string name="pref_google_lens_title">Lens ehdotukset</string>
   <string name="pref_groupshot_with_primitive_title">Tallenna myös alkuperäiset kuvat</string>
   <string name="pref_manual_exposure_title">S</string>
   <string name="pref_priority_storage_title">Tallenna SD-kortille</string>
@@ -723,6 +721,12 @@ Laajakulmatila tulee apuun, kun et voi liikkua kauemmaksi kohteestasi."</string>
   <string name="video_reach_size_limit">Kokorajoitus saavutettu.</string>
   <string name="video_ultra_clear_tip">4K UHD</string>
   <string name="view_privacy_policy">Näytä Tietosuojakäytäntö</string>
-  <string name="wait">Odota hetki…</string>
+  <string name="wideselfie_press_shoot_key_to_start">Napauta sulkijapainiketta</string>
+  <string name="wideselfie_result_image_lossless">Panoramaa ei voitu tallentaa</string>
+  <string name="wideselfie_rotate_slowly">Käännä puhelinta hitaasti sivuttain</string>
+  <string name="wideselfie_rotate_to_back">Kallista puhelinta taaksepäin</string>
+  <string name="wideselfie_rotate_to_front">Kallista puhelinta eteenpäin</string>
+  <string name="wideselfie_rotate_to_left_slowly">Käännä puhelinta hitaasti vasemmalle</string>
+  <string name="wideselfie_rotate_to_right_slowly">Käännä puhelinta hitaasti oikealle</string>
   <string name="zoom_no_support_tip_48M">Zoomaus ei toimi 48MP-tilassa</string>
 </resources>

@@ -23,8 +23,10 @@
   <string name="btn_continue">Jatka</string>
   <string name="btn_restore_abort">Peruuta</string>
   <string name="btn_restore_cancel">Peruuta</string>
+  <string name="btn_restore_continue">Palauta silti</string>
   <string name="btn_restore_resume">Jatka</string>
   <string name="btn_restore_retry">Yritä uudelleen</string>
+  <string name="btn_restore_wait">Odota Wi-Fiä</string>
   <string name="btn_retry">Tarkista uudelleen</string>
   <string name="btn_skip">Ohita tämä kohta</string>
   <string name="button_cancel">Peruuta</string>
@@ -84,7 +86,7 @@ Huomio: Asennettujen sovelluksien datatietoja ei varmuuskopioida Mi Pilveen. Kä
   <string name="confirm_cancel_restore_positive">Jatka</string>
   <string name="confirm_cancel_restore_title">Peruutetaanko palauttaminen?</string>
   <string name="confirm_restore">Palauta</string>
-  <string name="confirm_restore_summary">Aloitusnäyttö käynnistyy uudelleen ja sovellukset ladataan automaattisesti laitteen ollessa yhteydessä Wi-Fi-verkkoon</string>
+  <string name="confirm_restore_summary">Aloitusnäyttösi käynnistetään uudelleen. Varmuuskopioidut sovellukset ladataan automaattisesti.</string>
   <string name="confirm_restore_title">Palauta</string>
   <string name="customization">Kustomoi</string>
   <string name="date_format">HH:mm:ss d.M.yyyy</string>
@@ -92,7 +94,7 @@ Huomio: Asennettujen sovelluksien datatietoja ei varmuuskopioida Mi Pilveen. Kä
   <string name="desktop_downloading">Ladataan</string>
   <string name="desktop_failed">Virhe</string>
   <string name="desktop_installing">Asennetaan</string>
-  <string name="desktop_wait_wifi">Odotetaan</string>
+  <string name="desktop_wait_network">Odotetaan…</string>
   <string name="desktop_waiting">Odotetaan</string>
   <string name="device_delete_prompt">Poistetaanko %s varmuuskopio?</string>
   <string name="dialog_btn_cancel_backup">Peruuta</string>
@@ -107,6 +109,7 @@ Huomio: Asennettujen sovelluksien datatietoja ei varmuuskopioida Mi Pilveen. Kä
   <string name="dialog_msg_restore_require_wlan">Varmuuskopioitujen tiedostojen palauttaminen vaatii yhdistämisen Wi-Fi-verkkoon.</string>
   <string name="dialog_title_require_wlan">Yhdistä Wi-Fi-verkkoon</string>
   <string name="dir_date_format">HHmmss_ddMMyyyy</string>
+  <string name="doing_calc_backup_data_size">Lasketaan kokoa…</string>
   <string name="doing_restore_home">Palautetaan Aloitusnäyttöä ja asetuksia…</string>
   <string name="done_remove">Poistettiin onnistuneesti</string>
   <string name="download_home_data">Ladataan Aloitusnäytön ulkoasua…</string>
@@ -133,6 +136,10 @@ Huomio: Asennettujen sovelluksien datatietoja ei varmuuskopioida Mi Pilveen. Kä
   <string name="miui_device_name">Android</string>
   <string name="msg_alert_cancel_restore">Palautetaan kohteita. Lopetetaanko nyt?</string>
   <string name="msg_alert_restore_error">Kohteita ei voitu palauttaa Mi Pilvestä. Yritä uudelleen.</string>
+  <string name="msg_restore_start_with_metered_network">"Aloitusnäyttösi käynnistetään uudelleen. Varmuuskopioidut sovellukset ladataan automaattisesti.
+%s edestä tiedostoja ladataan."</string>
+  <string name="msg_restore_with_metered_network_hint">Jos jatkat näiden kohteiden palauttamista, lataamiseen käytetään mobiilidataa.</string>
+  <string name="msg_restore_with_metered_network_pattern">%s edestä tiedostoja ladataan.</string>
   <string name="network_error">Yhdistä verkkoon</string>
   <string name="no_account">Et ole kirjautuneena Mi Tiliin.</string>
   <string name="no_backup">Ei varmuuskopioita Mi Pilvessä.</string>
@@ -145,8 +152,11 @@ Huomio: Asennettujen sovelluksien datatietoja ei varmuuskopioida Mi Pilveen. Kä
   <string name="other_device_main_space">Ensimmäinen tila</string>
   <string name="other_device_second_space">Toinen tila</string>
   <string name="process_whole_recovery">Palautetaan \"%s\"</string>
+  <string name="provision_background_restore_more_data">Palauta lisää kohteita taustalla</string>
   <string name="provision_error_connect_msg">Testaa verkko ja yritä uudelleen. Varmuuskopiot ei ole käytettävissä, kun laitteesi on offline-tilassa.</string>
   <string name="provision_error_connect_title">Ei voi yhdistää</string>
+  <string name="provision_restore_data">Palautetaan kohteita</string>
+  <string name="provision_restore_item_backup_name_with_size">%1$s %2$s</st
   <string name="query_restore_description">Palauta Aloitusnäytön sovellukset ja asetukset käyttäen tätä varmuuskopiota. Tämä korvaa jo olemassaolevien sovelluksien kaksoiskappaleiden sovellustiedot. Sovellukset, jotka eivät sisälly varmuuskopioon, siirretään viimeiselle Aloitusnäytölle.</string>
   <string name="query_restore_summary">Tälle laitteelle löydettiin Mi Pilvi varmuuskopio. Palautetaanko Aloitusnäytön sovellukset ja asetukset vai käytetäänkö laitetta uutena laitteena ja poistetaanko edellinen Mi Pilvi varmuuskopiot?</string>
   <string name="recover_from_micloud">Palauta Mi Pilvi varmuuskopio</string>
@@ -158,9 +168,24 @@ Huomio: Asennettujen sovelluksien datatietoja ei varmuuskopioida Mi Pilveen. Kä
   <string name="remove_task_in_process">Poistetaan…</string>
   <string name="remove_task_unfinished">Poistaminen ei ole valmis</string>
   <string name="remove_unfinished">Poistetaan, yritä myöhemmin uudelleen</string>
+  <string name="restore_app_order_finish">Valmis</string>
+  <string name="restore_app_order_loading">Odota hetki…</string>
+  <string name="restore_app_order_retry">Yritä uudelleen</string>
+  <string name="restore_app_order_retry_desc">"Verkkoyhteyttä ei voitu muodostaa.
+Tarkista verkkoasetukset ja yritä uudelleen."</string>
+  <string name="restore_app_order_search_hint">Hae kohteita asettaaksesi prioriteetin</string>
+  <string name="restore_app_order_search_input_high_light">%s</string>
+  <string name="restore_app_order_search_installed">Sovellukset tällä laitteella</string>
+  <string name="restore_app_order_search_normal">Normaalin prioriteetin sovellukset</string>
+  <string name="restore_app_order_search_prior">Korkean prioriteetin kosketukset</string>
+  <string name="restore_app_order_title">Priorisoi palautettavat kohteet</string>
   <string name="restore_cloud_backup_to_phone">Palauta kohteita Mi Pilvestä</string>
-  <string name="restore_data_summary">Tämä toiminto vaatii internet-yhteyden.</string>
+  <string name="restore_data_summary">Tämä toiminto vaatii internetyhteyden.</string>
   <string name="restore_data_title">Palauta tiedot</string>
+  <string name="restore_detail_category_apps">Aloitusnäytön ulkoasu &amp; sovellukset</string>
+  <string name="restore_detail_category_settings">Asetukset</string>
+  <string name="restore_detail_more">Lisää</string>
+  <string name="restore_detail_title">Valitse palautettavat kohteet</string>
   <string name="restore_finish_description">Palautus valmis</string>
   <string name="restore_finished_notification_content">Palautettiin Aloitusnäytön sovellukset, järjestelmäasetukset jne.</string>
   <string name="restore_from_cloud">Palauta Mi Pilven varmuuskopio</string>
@@ -168,6 +193,8 @@ Huomio: Asennettujen sovelluksien datatietoja ei varmuuskopioida Mi Pilveen. Kä
   <string name="restore_home_failed">Aloitusnäyttöä ei voitu palauttaa.</string>
   <string name="restore_home_screen_apps">Palauta Mi Pilven varmuuskopiosta</string>
   <string name="restore_init_description">Aloita palauttaminen</string>
+  <string name="restore_network_pause">%s (Jatka napauttamalla)</string>
+  <string name="restore_network_unconnect">%s (Odotetaan yhteyttä)</string>
   <string name="restore_task_cancelling">Peruutetaan…</string>
   <string name="restore_task_in_process">Palautetaan…</string>
   <string name="restore_unfinished">Palautetaan, yritä myöhemmin uudelleen</string>
@@ -183,6 +210,7 @@ Huomio: Asennettujen sovelluksien datatietoja ei varmuuskopioida Mi Pilveen. Kä
   <string name="success_open_cloudbackup">Aloitusnäytön sovelluksien varmuuskopiot on käytössä</string>
   <string name="title_alert_cancel_restore">Lopeta palauttaminen</string>
   <string name="title_alert_restore_error">Palauttaminen epäonnistui</string>
+  <string name="title_restore_with_current_network">Käytetään nykyistä yhteyttä tiedostojen lataamiseen</string>
   <string name="total_space">Tilaa yhteensä: %s</string>
   <string name="try_again">Napauta yrittääksesi uudelleen</string>
   <string name="try_continue">Napauta jatkaaksesi</string>

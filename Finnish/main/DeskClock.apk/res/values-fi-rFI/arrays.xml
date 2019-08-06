@@ -52,6 +52,11 @@
         <item>25 minuuttia</item>
         <item>30 minuuttia</item>
     </string-array>
+    <string-array name="clock_bg_setting_entries">
+        <item>Valkoinen</item>
+        <item>Musta</item>
+        <item>Automaattinen</item>
+    </string-array>
     <string-array name="countries_names_miui">
         <item>Norsunluurannikko</item>
         <item>Ghana</item>

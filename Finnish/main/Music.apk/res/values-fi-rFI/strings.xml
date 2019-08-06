@@ -91,7 +91,6 @@
   <string name="back_confirm">Siirrä sovellus taustalle napauttamalla uudelleen</string>
   <string name="banner_op">Mi Musiikki</string>
   <string name="bluetooth_device">Bluetooth äänilaite</string>
-  <string name="browser_error">Toistaiseksi ei käytettävissä, yritä myöhemmin uudelleen</string>
   <string name="buffering">Puskuroidaan…</string>
   <string name="button_cancel_download">Peruuta</string>
   <string name="button_download_now">Lataa nyt</string>
@@ -131,6 +130,7 @@
   <string name="connect_now">Yhdistä</string>
   <string name="connecting_apk">Yhdistetään…</string>
   <string name="count_format">%2$1.1fK</string>
+  <string name="count_million_format">%2$1.2fM</string>
   <string name="create_playlist">Luo soittolista</string>
   <string name="create_playlist_failure">Soittolistan luominen epäonnistui</string>
   <string name="current_album">Nykyinen albumin kansikuva</string>
@@ -630,7 +630,6 @@ Ole onnellinen"</string>
   <string name="selected_count">Valittuna %1$d/%2$d</string>
   <string name="send_to_title">Lähetä kohteeseen (%1$s)</string>
   <string name="service_and_settings">Palvelu ja asetukset</string>
-  <string name="session_create_error">Palvelin palautti ISTUNNON LUONTIVIRHE-koodin, ota yhteyttä SDK-kehittäjiin!</string>
   <string name="set_as_ring">Aseta soittoääneksi</string>
   <string name="set_ringtones_failed">Soittoäänen asettaminen epäonnistui</string>
   <string name="set_ringtones_successful">%s asetettiin soittoääneksi</string>
@@ -653,8 +652,6 @@ Ole onnellinen"</string>
   <string name="shuffle_music">Toista sekoittaen</string>
   <string name="shuffle_off_notif">Sekoitus ei käytössä.</string>
   <string name="shuffle_on_notif">Sekoitus käytössä.</string>
-  <string name="signup_type_silent_default">äänetön</string>
-  <string name="signup_type_user_default">LoginSDK consumer</string>
   <string name="similar_albums">Samankaltaisia albumeja</string>
   <string name="similar_playlists">Samankaltaisia soittolistoja</string>
   <string name="similar_songs">Samankaltaisia kappaleita</string>

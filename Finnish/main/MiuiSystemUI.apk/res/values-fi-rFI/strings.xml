@@ -360,6 +360,7 @@
      <string name="guest_wipe_session_message">Haluatko jatkaa istuntoasi?</string>
      <string name="guest_wipe_session_title">Tervetuloa takaisin, vieras!</string>
      <string name="guest_wipe_session_wipe">Aloita alusta</string>
+     <string name="gxzw_area">Sormenjälkitunnistin</string>
      <string name="gxzw_press_harder">Paina hieman lujempaa</string>
      <string name="gxzw_try_again">Yritä uudelleen</string>
      <string name="gxzw_try_more_again">Yritä uudelleen</string>
@@ -529,6 +530,10 @@ Yritä uudelleen %2$d sekunnin kuluttua."</string>
      <string name="left_nav_bar_button_type">Ylimääräisen vasemman painikkeen tyyppi</string>
      <string name="lock_screen_date">"EEEE d. MMMM'ta'"</string>
      <string name="lock_screen_date_12">"EEEE d. MMMM'ta'"</string>
+     <string name="lock_screen_date_two_lines">"EEEE
+d. MMMM'ta'"</string>
+  <string name="lock_screen_date_two_lines_12">"EEEE
+d. MMMM'ta'"</string>
      <string name="lock_screen_magazine_default_content">Päivittäinen annos tuoreita kuvia</string>
      <string name="lock_screen_magazine_default_title">Taustakuvan Karuselli</string>
      <string name="lock_screen_magazine_global_button_text">Lisää</string>

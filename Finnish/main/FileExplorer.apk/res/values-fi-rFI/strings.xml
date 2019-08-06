@@ -220,6 +220,8 @@
   <string name="found_usb">USB-tallennustila yhdistetty</string>
   <string name="ftp_account_req_notice">4–16 merkkiä, kirjaimia ja numeroita, merkkikokoriippuvainen (ISOT ja pienet)</string>
   <string name="ftp_anonymous_login">Anonyymi kirjautuminen</string>
+  <string name="ftp_anonymous_warning_msg">Anonyymiominaisuudet voivat aiheuttaa tietoturvariskejä. Käytetäänkö ominaisuutta silti?</string>
+  <string name="ftp_anonymous_warning_title">Huomio</string>
   <string name="ftp_invalid_username_or_password">Syöttämäsi käyttäjänimi tai salasana on väärin.</string>
   <string name="ftp_open_port_error">Portin avaaminen epäonnistui. Tarkista verkkoyhteytesi tai nollaa portin numero.</string>
   <string name="ftp_password_hint">Salasana</string>
@@ -242,6 +244,7 @@
   <string name="group_title_extra_new">Uusi</string>
   <string name="handsome_boy">Mies</string>
   <string name="has_installed">Asennettu</string>
+  <string name="home_action_up">Takaisin</string>
   <string name="homepage_tab_category">Kategoria</string>
   <string name="homepage_tab_file_view_phone">Tallennustila</string>
   <string name="homepage_tab_recent">Viimeaikaiset</string>
@@ -603,7 +606,7 @@
   <string name="smb_loading">Odota hetki…</string>
   <string name="sort_size_asc">Pienemmästä suurempaan</string>
   <string name="sort_size_desc">Suuremmasta pienempään</string>
-  <string name="start_server">Aloita palvelin</string>
+  <string name="start_server">Käynnistä palvelin</string>
   <string name="stay_awake_summary">Älä päästä näyttöä nukkumaan FTP:n käytön aikana</string>
   <string name="stay_awake_title">Pidä näyttö hereillä</string>
   <string name="sticker_btn_str_explore_tab">Tutki tuhansittain hauskoja juttuja!</string>

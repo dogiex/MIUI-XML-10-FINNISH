@@ -203,6 +203,7 @@ Kaikki laitteellasi olevat tiedot voidaan poistaa ja Lukitusnäytön salasanasi 
   <string name="app_manager_factory_reset">Poista päivitykset</string>
   <string name="app_manager_factory_reset_dlg_msg">Kaikki tämän Android järjestelmäsovelluksen päivitykset poistetaan.</string>
   <string name="app_manager_factory_reset_dlg_title">Poistetaanko päivitykset?</string>
+  <string name="app_manager_find_apps">Hae sovelluksia</string>
   <string name="app_manager_force_stop_dlg_text">Jos pakkolopetat sovelluksen, se saattaa käyttäytyä omituisesti.</string>
   <string name="app_manager_force_stop_dlg_title">Pakkolopetetaanko?</string>
   <string name="app_manager_full_screen_summary">Salli valittujen sovelluksien toimia kokonäyttötilassa</string>
@@ -1050,6 +1051,7 @@ Se lisätään poikkeuksiin, mutta jo ennestään estetyt kohteet ei ilmesty puh
   <string name="gb_msg_transparent_dispaly_summary">Läpikuultava</string>
   <string name="gb_network_status_bad">Tapahtui yhteysvirhe.</string>
   <string name="gb_new_feature">Uusi ominaisuus</string>
+  <string name="gb_shortcut_pref_title">Aloitusnäytön pikakuvake</string>
   <string name="gb_sign_gift">Kirjaudu sisään saadaksesi palkintoja</string>
   <string name="gb_sign_gift_button_text">Vastaanota</string>
   <string name="gb_sign_notification_summary">Kirjaudu sisään päivittäin vastaanottaaksesi Xunyou parannuksen</string>
@@ -1595,7 +1597,7 @@ Kokeile käyttää toista ethernet-kaapelia reitittimesi yhdistämiseen. Jos luu
   <string name="optimize_result_summary_system_default_settings">Käyttämällä MIUI:n oletussovelluksia parannat järjestelmän vakautta ja tietoturvaa.</string>
   <string name="optimize_result_title_sucurity_risk">Tietoturvariskejä löytyi</string>
   <string name="optimize_result_title_system_default_settings">Oletusasetukset ovat muuttuneet</string>
-  <string name="optimize_result_title_uninstall_apps">Sovellukset</string>
+  <string name="optimize_result_title_uninstall_apps">Poista sovelluksia</string>
   <string name="optimize_result_toast_system_default_settings">Palauta oletusasetukset</string>
   <string name="optimize_result_toast_system_no_item_selected">Ei valittuja kohteita</string>
   <string name="optmizingbar_optimize_done">Optimoitu</string>
@@ -1950,6 +1952,11 @@ Kalibroinnin aikana, MIUI lähettää tekstiviestin operaattorillesi saadakseen 
   <string name="section_title_system">Järjestelmän tietoturva</string>
   <string name="security_center_slogan">Tietoturva. Aina valppaana.</string>
   <string name="security_scan_optimizing">Optimoidaan…</string>
+  <string name="securityadd_install_fail">Liitännäistä ei voitu päivittää. Yritä uudelleen.</string>
+  <string name="securityadd_update_tips_cancle">Ei nyt</string>
+  <string name="securityadd_update_tips_message">Päivitä Tietoturvapalvelun liitännäinen käyttääksesi viimeisimpiä peliominaisuuksia. %1$d Mt ladataan.</string>
+  <string name="securityadd_update_tips_now">Päivitä</string>
+  <string name="securityadd_update_tips_title">Päivitä</string>
   <string name="see_detail">Tiedot</string>
   <string name="see_more_content">Päivitä Pelit nähdäksesi lisää kohokohtia</string>
   <string name="set_applock_password">Aseta salasana</string>

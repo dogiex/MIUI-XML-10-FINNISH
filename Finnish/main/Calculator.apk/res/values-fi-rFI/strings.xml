@@ -135,7 +135,7 @@
   <string name="item_title_currency">Valuutta</string>
   <string name="item_title_dress_size">Vaatteen Koko</string>
   <string name="item_title_length_conversion">Pituus</string>
-  <string name="item_title_mortgage">Laina</string>
+  <string name="item_title_mortgage">Asuntolaina</string>
   <string name="item_title_relationship">Sukulaisuussuhde</string>
   <string name="item_title_scientific_calculator">Tieteellinen</string>
   <string name="item_title_tax">Verot</string>
@@ -168,9 +168,7 @@
   <string name="loan_interest_rate">Korko</string>
   <string name="loan_pay_years">Lainan aika</string>
   <string name="loan_payback_way">Takaisinmaksu</string>
-  <string name="loan_repayment_detail">Yksityiskohtainen takaisinmaksu</string>
   <string name="loan_repayment_detail_loading">Ladataan yksityiskohtaista takaisinmaksua…</string>
-  <string name="loan_repayment_detail_unit">Yksityiskohtainen takaisinmaksu (CNY)</string>
   <string name="loan_unit">(x10K)</string>
   <string name="medical_treatment">Sairaanhoito</string>
   <string name="menuDesc">valikko</string>
@@ -200,7 +198,7 @@
   <string name="mortgage_interest_rate">Kaupallinen korko</string>
   <string name="mortgage_item_repayment">Takaisinmaksun menetelmä</string>
   <string name="mortgage_item_start_time">Aloitus päivä</string>
-  <string name="mortgage_item_years">Lainan vuodet</string>
+  <string name="mortgage_item_years">Lainakausi</string>
   <string name="mortgage_loans_amount">Lainan suuruus</string>
   <string name="mortgage_provident_found_interest_rate">Rahaston korko</string>
   <string name="mortgage_repayment_amount">Takaisinmaksun suuruus</string>

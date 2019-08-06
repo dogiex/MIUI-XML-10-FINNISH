@@ -102,8 +102,6 @@
   <string name="force_touch_menu_add">Lisää muistio</string>
   <string name="format_move_note_out_folder">Tämä muistio on siirretty</string>
   <string name="format_move_note_to_folder">Siirrettiin kansioon %1$s</string>
-  <string name="format_move_notes_out_folder">Siirrettiin kansiosta %1$s</string>
-  <string name="format_move_notes_to_folder">Siirrettiin %1$s kansioon %2$s</string>
   <string name="hidden_notes_fragment_title">Piilotetut muistiot</string>
   <string name="hint_cannot_view_hidden_note_content">Piilotettujen muistioiden sisältöä ei voi näyttää</string>
   <string name="hint_foler_name">Nimi</string>
@@ -212,11 +210,9 @@
   <string name="toast_cancel_to_insert_image">Kuvan lisääminen epäonnistui.</string>
   <string name="toast_message_add_image_fail">Kuvaa ei voitu lisätä</string>
   <string name="toast_notes_delete_success">Poistettiin onnistuneesti</string>
-  <string name="toast_notes_hidden_count">Piilotettiin %1$s onnistuneesti</string>
   <string name="toast_notes_hidden_edit">Tämä muistio piilotettiin onnistuneesti. Vedä alaspäin nähdäksesi piilotetut muistiot.</string>
   <string name="toast_notes_hidden_home">Tämä muistio piilotettiin onnistuneesti. Vedä alaspäin nähdäksesi piilotetut muistiot.</string>
   <string name="toast_notes_unhidden">Poistettiin piilosta onnistuneesti</string>
-  <string name="toast_notes_unhidden_count">Poistettiin %1$s piilosta onnistuneesti</string>
   <string name="toast_reach_text_limit_attachment">Uusia liitetiedostoja ei voi lisätä, koska muistio on liian pitkä</string>
   <string name="toast_reach_text_limit_checkbox">Valintaruutua ei voi lisätä, koska muistio on liian pitkä</string>
   <string name="toast_reach_text_limit_truncate">Tämä muistio on liian pitkä. Joitakin tekstejä poistettiin lopusta.</string>

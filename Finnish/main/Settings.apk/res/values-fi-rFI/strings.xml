@@ -289,13 +289,13 @@ Järjestelmänvalvoja voi valvoa tähän käyttäjäprofiiliin liittyviä asetuk
   <string name="allow_bind_app_widget_activity_always_allow_bind">%1$s saa luoda widgetejä ja käyttää niiden tietoja</string>
   <string name="allow_data_usage_title">Salli roaming-tiedonsiirto</string>
   <string name="allow_device_id_access">Sovellukset, joilla on Laite ID:n käyttöoikeus</string>
-  <string name="allow_float_summary">Ponnahdusilmoitukset näytön yläreunassa</string>
+  <string name="allow_float_summary">Salli kelluvat ilmoitukset</string>
   <string name="allow_float_title">Kelluvat ilmoitukset</string>
   <string name="allow_interruption">Salli keskeytykset</string>
   <string name="allow_interruption_summary">Salli sovelluksen päästää ääniä, väristä ja/tai näyttää ponnahdusilmoituksia näytöllä</string>
-  <string name="allow_keyguard_summary">Näytä ilmoituksia lukitusnäytöllä</string>
+  <string name="allow_keyguard_summary">Salli ilmoitukset Lukitusnäytöllä</string>
   <string name="allow_keyguard_title">Lukitusnäytön ilmoitukset</string>
-  <string name="allow_lights_title">Salli vilkkuvan valon vihjeet</string>
+  <string name="allow_lights_title">Salli LED-valojen käyttö</string>
   <string name="allow_mock_location">Salli sijaintien imitointi</string>
   <string name="allow_mock_location_summary">Salli sijaintien imitointi</string>
   <string name="allow_overlay_description">Anna sovelluksen näkyä muiden avoimien sovellusten päällä. Se voi häiritä muiden sovellusten käyttöä tai muuttaa niiden ulkoasua tai vaikutelmaa käyttäytymisestä.</string>
@@ -336,7 +336,7 @@ Aseta vain laitteet vierekkäin (yleensä takakannet vastakkain) ja kosketa näy
   <string name="aod_mode_bg">Tausta</string>
   <string name="aod_mode_clock">Kello</string>
   <string name="aod_mode_style">Kellon tyyli ja tausta</string>
-  <string name="aod_mode_summary">Näytä aika, päivämäärä ja viestit, kun näyttö on sammutettu</string>
+  <string name="aod_mode_summary">Tämä ominaisuus nostaa järjestelmän virrankäyttöä. Se sammuu, kun laitteesi on ollut tarpeeksi kauan pimeässä tai Virransäästörajoituksia on otettu käyttöön.</string>
   <string name="aod_mode_time_summary">Ajasta milloin laitteesi tulisi siirtyä Aina käytössä -tilaan</string>
   <string name="aod_mode_time_title">Ajastus</string>
   <string name="aod_mode_title">Aina käytössä -tila</string>
@@ -525,6 +525,7 @@ Aseta vain laitteet vierekkäin (yleensä takakannet vastakkain) ja kosketa näy
   <string name="auto_disable_screenbuttons_summary">Poista navigointipainikkeet käytöstä automaattisesti, kun käytät valitsemiasi sovelluksia. Ota painikkeet takaisin käyttöön tuplanapauttamalla mitä tahansa niistä.</string>
   <string name="auto_disable_screenbuttons_title">Poista navigointipainikkeet käytöstä automaattisesti</string>
   <string name="auto_dual_clock_summary">Näytä Kaksoiskello, kun nykyinen aika eroaa toisesta kellosta</string>
+  <string name="auto_dual_clock_aod_summary">Näytä Kaksoiskello, kun nykyinen aika eroaa toisesta kellosta</string>
   <string name="auto_dual_clock_title">Kaksoiskello</string>
   <string name="auto_launch_disable_text">Oletuksia ei asetettu.</string>
   <string name="auto_launch_enable_text">Olet valinnut tämän sovelluksen käynnistettäväksi oletuksena tiettyjen toimintojen yhteydessä.</string>
@@ -1105,6 +1106,12 @@ Tämän ominaisuuden voi poistaa käytöstä [Asetuksista]"</string>
   <string name="call_manager_enable_summary">Anna palvelun hallinnoida puheluita.</string>
   <string name="call_manager_enable_title">Ota Call Manager käyttöön</string>
   <string name="call_manager_title">Call Manager</string>
+  <string name="call_records_name_1">Debbie Smith</string>
+  <string name="call_records_name_2">Jason Lee</string>
+  <string name="call_records_name_3">Tom Fowles</string>
+  <string name="call_records_summary_1">9:35 AM | 26 seconds | China Unicom</string>
+  <string name="call_records_summary_2">August 16 | 1m 16s | China Mobile</string>
+  <string name="call_records_summary_3">August 16 | 2m 24s | China Unicom</string>
   <string name="call_settings_primary_user_only">Muuta puheluasetuksia Ensimmäisessä tilassa</string>
   <string name="call_settings_summary">Ota käyttöön puhelinvastaaja, soitonsiirrot, koputuspalvelu, soittajan tunnus</string>
   <string name="call_settings_title">Puheluasetukset</string>
@@ -1798,7 +1805,7 @@ Asetus vaikuttaa tämän puhelimen kaikkiin käyttäjiin."</string>
   <string name="double_twist_for_camera_mode_title">Kameran vaihtaminen</string>
   <string name="download_current_rom">Hanki uusin MIUI versio</string>
   <string name="downloading_description">Ladataan…</string>
-  <string name="doze_always_on_summary">Näytä aika, ilmoituskuvakkeet ja muita tietoja. Nostaa akun käyttöä.</string>
+  <string name="doze_always_on_summary">Tämä ominaisuus nostaa järjestelmän virrankäyttöä. Se sammuu, kun laitteesi on ollut tarpeeksi kauan pimeässä tai Virransäästörajoituksia on otettu käyttöön.</string>
   <string name="doze_always_on_title">Aina päällä</string>
   <string name="doze_summary">Aktivoi näyttö, kun saat ilmoituksia.</string>
   <string name="doze_title">Ambient-näyttö</string>
@@ -1806,11 +1813,12 @@ Asetus vaikuttaa tämän puhelimen kaikkiin käyttäjiin."</string>
   <string name="dtmf_tone_enable_title">Valintanäppäimien näppäinäänet</string>
   <string name="dual_clock">Kaksoiskello</string>
   <string name="dual_clock_aod_hint">"\Kaksoiskello\" on riippuvainen seuraavista ominaisuuksista: 1. Sammutetulle näytölle, salli kohteiden näyttäminen asetuksissa Asetukset &gt; Näyttö; 2. Lukitusnäytölle, varmista, että käytät oletus- tai klassista teemaa asetuksissa Asetukset &gt; Teemat; 3. Aloitusnäytölle, varmista että käytät järjestelmän oletuskellowidgettiä.</string>
+  <string name="dual_clock_aod_open_message">Kaksoiskello näytetään Lukitusnäytöllä, Aloitusnäytöllä ja sammutetulla näytöllä.</string>
   <string name="dual_clock_hint">\"Kaksoiskello\" on riippuvainen seuraavista ominaisuuksista: 1. Lukitusnäytölle, varmista, että käytät oletus- tai klassista teemaa asetuksissa Asetukset &gt; Teemat; 2. Aloitusnäytölle, varmista että käytät järjestelmän oletuskellowidgettiä.</string>
   <string name="dual_clock_ok">Selvä</string>
-  <string name="dual_clock_open_message">Kaksoiskello näytetään Lukitusnäytöllä, Aloitusnäytöllä ja sammutetulla näytöllä.</string>
-  <string name="dual_setting_simcard1">SIM-kortti 1</string>
-  <string name="dual_setting_simcard2">SIM-kortti 2</string>
+  <string name="dual_clock_open_message">Kaksoiskello näytetään Lukitusnäytöllä ja Aloitusnäytöllä.</string>
+  <string name="dual_setting_simcard1">SIM 1</string>
+  <string name="dual_setting_simcard2">SIM 2</string>
   <string name="dump_log">Hae ongelmaan liittyvät lokit</string>
   <string name="dump_log_summary">"Tämä toiminto on luotu luomaan 284 lokin MIUI:n Alpha- ja Beta-versioissa. Käytä sitä varoen.
 Voit katsoa luotuja lokeja Tiedostohallinnassa."</string>
@@ -2261,10 +2269,13 @@ Varmuuskopioita ei vähennetä Drive-tallennustilan kiintiöstäsi. Suuria ja ke
   <string name="gxzw_anim_rhythm">Rytmi</string>
   <string name="gxzw_anim_star">Tähtien valo</string>
   <string name="gxzw_anim_title">Sormenjäljen animaatio</string>
+  <string name="gxzw_aod_show_summary">Sormenjäljen kuvake näytetään, kun näyttö on sammutettuna. Tämä ominaisuus nostaa järjestelmän virrankäyttöä.</string>
+  <string name="gxzw_aod_show_tittle">Näytä sormenjäljen kuvake, kun näyttö on sammutettuna</string>
   <string name="gxzw_dialog_message">Käyttääksesi näytön sisäistä sormenjälkitunnistinta normaalisti, älä käytä näytön suojia. Jos olet sitä mieltä, että näytön suoja on kuitenkin tarpeellinen, valitse yhteensopiva malli valtuutettujen mallien joukosta.</string>
   <string name="gxzw_dialog_not_show_again">Älä näytä uudelleen</string>
   <string name="gxzw_dialog_ok">Selvä</string>
   <string name="gxzw_dialog_title">Tietoja näytön sisäisestä sormenjälkitunnistimesta</string>
+  <string name="gxzw_enroll_again">Nosta sormesi ja paina sormenjälkitunnistinta uudelleen</string>
   <string name="handy_mode">Yhden käden-tila</string>
   <string name="handy_mode_enable">Yhden käden-tila</string>
   <string name="handy_mode_size">Näytön koko</string>
@@ -2519,10 +2530,15 @@ Voit muuttaa tätä asetusta myöhemmin kohdassa Asetukset > Sovellukset ja ilmo
   <string name="launch_google_search">Käynnistä Google-avustaja</string>
   <string name="launch_recents">Käynnistä Viimeaikaiset</string>
   <string name="launch_voice_assistant">Käynnistä Ääniavustaja</string>
+  <string name="launch_wifi_text">Näytä tiedot</string>
+  <string name="launcher_icon">Kuvakkeet</string>
   <string name="launcher_title">Aloitusnäyttö &amp; Viimeaikaiset</string>
   <string name="launching_cit">Käynnistetään CIT</string>
   <string name="launching_pho">Käynnistetään puhelimen tietoja…</string>
   <string name="launching_rep">Raportoidaan…</string>
+  <string name="layout_exhuge_font_take_effect_tips">XXL-tekstin koko toimii vain Puhelin-, Viestit-, ja Yhteystiedot -sovelluksissa</string>
+  <string name="layout_exhuge_font_tips">Lisää vaihtoehtoja on käytettävissä %1$s</string>
+  <string name="layout_exhuge_font_tips_reg">Esteettömyys &gt; Näyttökoko</string>
   <string name="layout_size_exhuge">XXL</string>
   <string name="layout_size_exhuge_text">Valtava</string>
   <string name="layout_size_huge">XL</string>
@@ -2546,7 +2562,7 @@ Voit muuttaa tätä asetusta myöhemmin kohdassa Asetukset > Sovellukset ja ilmo
   <string name="legal_workday_message">(Ohita juhlapyhät)</string>
   <string name="license_title">Käyttölupa</string>
   <string name="lift_to_wake_title">Herätä nostamalla</string>
-  <string name="lights_title">Vilkuta valoa</string>
+  <string name="lights_title">LED-valo</string>
   <string name="line_breaking_summary">Optimoi kappaleen rivinväli</string>
   <string name="line_breaking_title">Optimoi teksti</string>
   <string name="link_speed_label">Linkin nopeus:</string>
@@ -3293,13 +3309,13 @@ Valitse käyttöjärjestelmäsi:"</string>
   <string name="notes_privacy_password_role_instruction">Yksityiset muistiot säilytetään täällä.</string>
   <string name="notifi_channels">Ilmoituskategoriat</string>
   <string name="notifi_channels_other">Muu</string>
-  <string name="notifi_importance_default">Päästää äänen</string>
-  <string name="notifi_importance_high">Päästää äänen ja ponnahtaa näytölle</string>
-  <string name="notifi_importance_low">Näkyy mykistettynä</string>
-  <string name="notifi_importance_min">Näkyy mykistettynä ja minimoituna</string>
+  <string name="notifi_importance_default">Toista ääni ja näytä Lukitusnäytöllä</string>
+  <string name="notifi_importance_high">Toista ääni, näytä Lukitusnäytöllä, salli kokonäytön käyttäminen</string>
+  <string name="notifi_importance_low">Älä toista ääntä</string>
+  <string name="notifi_importance_min">Älä näytä Lukitusnäytöllä, älä toista ääntä</string>
   <string name="notifi_importance_none">Pois käytöstä</string>
   <string name="notifi_importance_unspecified">Anna sovelluksen päättää</string>
-  <string name="notifi_no_channels">Tämä sovellus ei ole näyttänyt yhtään ilmoitusta</string>
+  <string name="notifi_no_channels">Tämä sovellus ei ole vielä vastaanottanut yhtään ilmoitusta</string>
   <string name="notification_app_settings_button">Ilmoitusasetukset</string>
   <string name="notification_badge_title">Salli pistemerkki</string>
   <string name="notification_badging_title">Salli pistemerkit</string>
@@ -3315,6 +3331,8 @@ Valitse käyttöjärjestelmäsi:"</string>
   <string name="notification_fold_description1">Ilmoituskansiot esiteltiin MIUI 9:ssä. Tämä ominaisuus suodattaa ei tärkeät ilmoitukset ja asettaa ne erilliseen kansioon.</string>
   <string name="notification_fold_description2">MIUI muistaa mitä ilmoituksia napautat ja käyttää useita kriteereitä määrittääkseen onko ne tärkeitä.</string>
   <string name="notification_fold_description3">Jos mielestäsi tärkeät ilmoitukset menevät silti Ilmoituskansioon, ilmoitathan ongelmasta meille. Olisimme kiitollisia palautteestasi.</string>
+  <string name="notification_fold_footer_icon_summary">Näytä sovelluskuvakkeet, kun ei tärkeät ilmoitukset ryhmitetään</string>
+  <string name="notification_fold_footer_icon_title">Näytä sovelluskuvakkeet</string>
   <string name="notification_fold_summary">Kaikki ei tärkeät ilmoitukset näytetään erillisessä kansiossa</string>
   <string name="notification_fold_title">Ilmoituskansio</string>
   <string name="notification_group_title">Ilmoituskategorian ryhmä</string>
@@ -3484,6 +3502,8 @@ OTG poistetaan käytöstä automaattisesti, kun sitä ei käytetä 10 minuuttiin
   <string name="page_layout_31">Jack Tang</string>
   <string name="page_layout_32">Play Kauppa</string>
   <string name="page_layout_33">Google</string>
+  <string name="page_layout_34">Puhelin</string>
+  <string name="page_layout_35">Muistio</string>
   <string name="page_layout_4">Musiikki</string>
   <string name="page_layout_5">Video</string>
   <string name="page_layout_6">Sovellukset</string>
@@ -3491,7 +3511,11 @@ OTG poistetaan käytöstä automaattisesti, kun sitä ei käytetä 10 minuuttiin
   <string name="page_layout_8">Mi Elämä</string>
   <string name="page_layout_9">Teemat</string>
   <string name="page_layout_confirm_message">Jotta asetukset tulevat voimaan, laitteesi täytyy käynnistää uudelleen. Tämä kestää noin yhden minuutin.</string>
+  <string name="page_layout_confirm_message_enlarge">Teksti, kuvat ja kuvakkeet suurennetaan. Jotkut kuvakkeet saattavat vaihtaa paikkoja.</string>
+  <string name="page_layout_confirm_message_narrow">Teksti, kuvat ja kuvakkeet pienennetään. Jotkut kuvakkeet saattavat vaihtaa paikkoja.</string>
   <string name="page_layout_confirm_title">Vaihda näytön asetuksia</string>
+  <string name="page_layout_confirm_title_enlarge">Suuremmat kohteet</string>
+  <string name="page_layout_confirm_title_narrow">Pienemmät kohteet</string>
   <string name="page_layout_godzilla_title">XXL</string>
   <string name="page_layout_huge_title">XL</string>
   <string name="page_layout_large_title">L</string>
@@ -3593,7 +3617,7 @@ OTG poistetaan käytöstä automaattisesti, kun sitä ei käytetä 10 minuuttiin
   <string name="power_hide_mode_summary">Säästä virtaa rajoittamalla yksittäisten sovelluksien taustatyöskentelyä, Wi-Fi- ja mobiilidatayhteyksiä, ja GPS:n käyttöä</string>
   <string name="power_hide_mode_title">Hallitse sovelluksien akunkäyttöä</string>
   <string name="power_idle">Puhelin on käyttämätön</string>
-  <string name="power_key_how_power_force_off">Kuinka laitteesi paketetaan uudelleenkäynnistymään</string>
+  <string name="power_key_how_power_force_off">Kuinka laitteesi pakotetaan uudelleenkäynnistymään</string>
   <string name="power_key_how_power_force_off_detail">Paina ja pidä pohjassa Virtapainiketta, kunnes laitteesi käynnistyy uudelleen</string>
   <string name="power_key_how_power_off">Kuinka avataan sammutus -sivu</string>
   <string name="power_key_how_power_off_detail">Paina ja pidä pohjassa Virtapainiketta 3 sekunnin ajan</string>
@@ -4144,6 +4168,7 @@ Näytön kiinnittäminen:
   <string name="screen_timeout_summary">Laitteen oltua käyttämättä: %1$s</string>
   <string name="screen_timeout_title">Näyttö sammuu</string>
   <string name="screen_usage_summary">Näytön käyttöaika edellisen täyden latauksen jälkeen</string>
+  <string name="screen_zoom_big">L</string>
   <string name="screen_zoom_conversation_icon_alex">A</string>
   <string name="screen_zoom_conversation_icon_pete">P</string>
   <string name="screen_zoom_conversation_message_1">Hei Petri!</string>
@@ -4157,8 +4182,10 @@ Näytön kiinnittäminen:
   <string name="screen_zoom_keywords">näytön tiheys, näytön zoomaus, skaala, skaalaus</string>
   <string name="screen_zoom_make_larger_desc">Suurenna</string>
   <string name="screen_zoom_make_smaller_desc">Pienennä</string>
+  <string name="screen_zoom_normal">S</string>
   <string name="screen_zoom_preview_title">Esikatselu</string>
   <string name="screen_zoom_short_summary">Suurenna tai pienennä kohteita näytöllä.</string>
+  <string name="screen_zoom_small">XS</string>
   <string name="screen_zoom_summary">Suurenna tai pienennä kohteita näytöllä. Jotkin sovellukset voivat siirtyä näytöllä.</string>
   <string name="screen_zoom_summary_custom">Muokattu (%d)</string>
   <string name="screen_zoom_summary_default">Oletus</string>
@@ -4213,7 +4240,7 @@ Näytön kiinnittäminen:
   <string name="se_wallet_ese">Mi Wallet sallii sinun käyttää Mi Pay -palvelua ja NFC matkustuskorttia.</string>
   <string name="se_wallet_hce">Käytä HCE lompakkoa</string>
   <string name="se_wallet_uicc">Käytä SIM%1$s Lompakkoa</string>
-  <string name="search_about_settings">Tietoa laitteesta;Tietoja laitteesta;Mallin numero;Android versio;MIUI versio;CPU;RAM;Sisäinen muisti;Muisti;Tallennustila;Sisäinen tallennustila;Baseband versio;Kernel versio;Ohjelmistoversion numero</string>
+  <string name="search_about_settings">Tietoa laitteesta;Tietoja laitteesta;Mallin numero;Android versio;MIUI versio;CPU;RAM;Sisäinen muisti;Muisti;Tallennustila;Sisäinen tallennustila;Baseband versio;Kernel versio;Ohjelmistoversion numero;Laitteeni;Puhelin;Laite</string>
   <string name="search_accelerometer_title">Näytön automaattinen kierto;Kierrä näyttöä;Suunta;Pysty;Vaaka</string>
   <string name="search_access_control">Yksityisyysasetukset;Yksityisyyden turvallisuus;Vieras;Vierastila</string>
   <string name="search_accessibility_captioning_title">Tekstitykset</string>
@@ -4373,7 +4400,7 @@ Näytön kiinnittäminen:
   <string name="search_trusted_credentials">Luotetut todennustiedot;Sovelluksen allekirjoitus;Sovelluksien allekirjoitukset;Todennustiedot;Allekirjoitus</string>
   <string name="search_tts_settings_title">Teksti puheeksi -toisto;Teksti puheeksi</string>
   <string name="search_turn_on_security_lock">Valitse näytön lukitus;Näytön lukitus;Lisää näytön lukitus;näytönlukitus</string>
-  <string name="search_unlogin_account_title">Mi Tili;Mi Tilin ID;Tili;Tilin ID</string>
+  <string name="search_unlogin_account_title">Mi Tili;Mi Tilin ID;Tili;Tilin ID;Xiaomi Tili;Tilin suojaus;Suojaa tili;Tilin tietoturva;Tilini</string>
   <string name="search_usb_tethering_button_text">USB jakaminen;jakaminen;USB</string>
   <string name="search_user_agreement">Palveluehdot</string>
   <string name="search_user_dict_settings_title">Henkilökohtainen sanakirja;Sanakirja</string>
@@ -6127,6 +6154,7 @@ Muodosta yhteys toiseen Wi-Fi-verkkoon valitsemalla "&lt;b&gt;Takaisin&lt;/b&gt;
   <string name="wizard_back">Edellinen</string>
   <string name="wizard_finish">Valmis</string>
   <string name="wizard_next">Seuraava</string>
+  <string name="words_title">Teksti</string>
   <string name="work_alarm_ringtone_title">Työherätyksen oletusääni</string>
   <string name="work_mode_label">Työtila</string>
   <string name="work_mode_summary">Sallii työprofiiliin toiminnan, esimerkiksi sovellukset ja taustasynkronoinnin.</string>
@@ -6268,8 +6296,8 @@ Muodosta yhteys toiseen Wi-Fi-verkkoon valitsemalla "&lt;b&gt;Takaisin&lt;/b&gt;
   <string name="zen_schedule_rule_enabled_toast">Automaattinen sääntö on määritetty ottamaan Älä häiritse -tila käyttöön määrättyinä aikoina.</string>
   <string name="zen_schedule_rule_type_name">Aikasääntö</string>
   <string name="zone_auto">Automaattinen aikavyöhyke</string>
-  <string name="zone_auto_summaryOff">Käytä verkon määrittämää aikavyöhykettä</string>
-  <string name="zone_auto_summaryOn">Käytä verkon määrittämää aikavyöhykettä</string>
+  <string name="zone_auto_summaryOff">Käytä operaattorin verkon tarjoamaa aikaa</string>
+  <string name="zone_auto_summaryOn">Käytä operaattorin verkon tarjoamaa aikaa</string>
   <string name="zone_list_menu_sort_alphabetically">Lajittelu aakkosjärjestyksessä</string>
   <string name="zone_list_menu_sort_by_timezone">Lajittelu aikavyöhykkeen mukaan</string>
 </resources>

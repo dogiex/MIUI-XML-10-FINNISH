@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <!-- 8.9.17 -->
-  <string name="ai_button_desc">Käytä tätä painiketta käynnistääksesi Mi AI:n ja suorita tehtäviä puhelimellasi käyttäen vain ääntäsi</string>
+  <string name="ai_button_desc">Pääset välittömästi käyttämään älykästä ääniavustajaa</string>
   <string name="ai_button_double_press">Tuplanapauta</string>
-  <string name="ai_button_double_press_desc">Määritä Mi AI ominaisuudet</string>
+  <string name="ai_button_double_press_desc">Paina AI-painiketta kaksi kertaa suorittaaksesi mukautettuja tehtäviä</string>
   <string name="ai_button_long_press">Paina ja pidä pohjassa</string>
-  <string name="ai_button_long_press_desc">Sano komentosi ja vapauta painike</string>
+  <string name="ai_button_long_press_desc">Paina ja pidä AI-painiketta pohjassa puhuaksesi Mi AI:lle</string>
   <string name="ai_button_single_press">Paina</string>
-  <string name="ai_button_single_press_desc">Käynnistä Mi AI</string>
-  <string name="ai_button_title">Tietoja AI-painikkeesta</string>
+  <string name="ai_button_single_press_desc">Paina AI-painiketta nähdäksesi Mi AI pikakuvakkeet</string>
+  <string name="ai_button_title">AI-painike</string>
   <string name="poco_agree_terms_other">(Mukaan lukien POCO Launcher Tietosuojakäytäntö ja Käyttöehdot)</string>
   <!-- // 8.9.17 -->
   <string name="accessibility_enabled">Esteettömyys käytössä.</string>
@@ -44,6 +44,7 @@
   <string name="item_lock_screen_password">Vain näytön lukitus</string>
   <string name="language_picker_other_languages_title">Lisää kieliä</string>
   <string name="language_settings">Valitse kieli</string>
+  <string name="locale_picker_other_locale_title">Lisää alueita</string>
   <string name="locale_picker_title">Valitse kielesi</string>
   <string name="miui_privacy_policy_no_network">Sinulla ei ole internet-yhteyttä. Katso Tietosuojakäytäntö osoitteessa %s.</string>
   <string name="miui_terms_no_network">Sinulla ei ole internet-yhteyttä. Katso Palveluehdot osoitteessa %s.</string>

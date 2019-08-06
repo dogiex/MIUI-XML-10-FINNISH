@@ -43,6 +43,8 @@
   <string name="choose_open_picture">Valitse toiminto</string>
   <string name="choose_open_time">Valitse milloin haluat aloittaa</string>
   <string name="clear_data">Tyhjennä</string>
+  <string name="close">Sulje</string>
+  <string name="close_ad">Sulje MAINOS</string>
   <string name="complete_time">Valmis:</string>
   <string name="confirm">OK</string>
   <string name="confirm_delete_downloads_message">%d latausta poistetaan.</string>

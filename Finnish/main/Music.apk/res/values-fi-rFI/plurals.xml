@@ -78,6 +78,10 @@ Huomio: Tiedosto poistetaan myös tältä laitteelta."</item>
         <item quantity="other">%d kappaletta ladataan</item>
         <item quantity="one">%d kappale ladataan</item>
     </plurals>
+    <plurals name="free_downloads_num_hint">
+        <item quantity="other">%d ilmaista latausta jäljellä</item>
+        <item quantity="one">%d ilmainen lataus jäljellä</item>
+    </plurals>
     <plurals name="multichoice_title">
         <item quantity="other">%d kohdetta valittu</item>
         <item quantity="one">%d kohde valittu</item>
@@ -117,5 +121,9 @@ Huomio: Tiedosto poistetaan myös tältä laitteelta."</item>
     <plurals name="video_play_count">
         <item quantity="other">%1$s katselukertaa</item>
         <item quantity="one">%1$s katselukerta</item>
+    </plurals>
+    <plurals name="vip_remain_days_hint">
+        <item quantity="other">%d päivää jäljellä</item>
+        <item quantity="one">%d päivä jäljellä</item>
     </plurals>
 </resources>

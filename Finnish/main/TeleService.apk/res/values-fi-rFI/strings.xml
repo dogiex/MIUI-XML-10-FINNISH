@@ -783,6 +783,7 @@ Siirtonopeus"</string>
   <string name="fdn_list_with_label">Sallittujen numeroiden luettelo (%s)</string>
   <string name="fdn_summary">Rajoita lähteviä puheluita FDN listattuihin numeroihin tai tietyllä etuliitteellä oleviin numeroihin</string>
   <string name="fdn_with_label">Sallitut numerot (%s)</string>
+  <string name="fiveg_switch_title">5G-verkko</string>
   <string name="flash_when_ring_summary">Ilmoita saapuvista puheluista käyttämällä salamaa</string>
   <string name="flash_when_ring_title">Vilkuta soidessa</string>
   <string name="force_allow_on_external">Salli aina ulkoinen tallennus</string>

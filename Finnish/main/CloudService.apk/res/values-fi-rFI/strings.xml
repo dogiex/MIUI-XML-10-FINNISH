@@ -28,6 +28,7 @@
   <string name="enable_find_device_error">Laitteen etsintää ei voi ottaa käyttöön. %1$s</string>
   <string name="enable_find_device_success">Laitteen etsintä on käytössä.</string>
   <string name="enable_micloud">Kirjaudu sisään käyttääksesi Mi Pilveä</string>
+  <string name="enable_sync_setting_title">Määritellään pilvipalveluita…</string>
   <string name="error_data_in_transfer">Synkronointi valmistuu %s tunnissa.</string>
   <string name="error_data_in_transfer_title">Mi Pilvi ei ole saatavilla</string>
   <string name="error_network">Verkkoyhteyttä ei voi muodostaa</string>
@@ -332,6 +333,7 @@ Tämä toiminto salaa ja lähettää laitteesi ID-tunnuksen Mi:n palvelimille."<
   <string name="pref_title_sync_contacts_title">Synkronoi yhteystiedot</string>
   <string name="pref_title_sync_display_photo_on_wifi_only">Käytä kuvien synkronointiin vain Wi-Fiä</string>
   <string name="privacy_policy">Tietosuojakäytäntö</string>
+  <string name="provision_sync_items_loading">Valmistellaan kohteiden synkronointia</string>
   <string name="reading_status">Ladataan tilaa…</string>
   <string name="reading_status_failure">Tilaa ei voitu ladata.</string>
   <string name="search_cloudbackup_pref">Pilven varmuuskopiointi</string>
@@ -395,6 +397,8 @@ Tämä toiminto salaa ja lähettää laitteesi ID-tunnuksen Mi:n palvelimille."<
   <string name="user_agreement_p5">"
 "</string>
   <string name="user_agreement_title">Mi Pilven Palveluehdot</string>
+  <string name="user_detail_agreement">Käyttöehdot</string>
+  <string name="user_detail_privacy_policy">Tietosuojakäytäntö</string>
   <string name="user_storage_info_available_text_prefix">%s käytettävissä</string>
   <string name="warning_bar_action_add_short_cut">Lisää</string>
   <string name="warning_bar_action_close">Sulje</string>

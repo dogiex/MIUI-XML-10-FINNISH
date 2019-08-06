@@ -1316,6 +1316,7 @@ mukauttaaksesi Galleriasi"</string>
   <string name="photo_editor_beautify">Kaunista</string>
   <string name="photo_editor_beautify_auto">Automaattinen</string>
   <string name="photo_editor_beauty_compare">Alkuperäinen</string>
+  <string name="photo_editor_compare_tip">Paina ja pidä pohjassa näyttääksesi alkuperäisen kuvan</string>
   <string name="photo_editor_crop_and_rotate">Rajaa</string>
   <string name="photo_editor_crop_auto">Auto</string>
   <string name="photo_editor_crop_auto_tips">Rajattiin automaattisesti</string>
@@ -1353,6 +1354,7 @@ mukauttaaksesi Galleriasi"</string>
   <string name="photo_editor_navigator_module_download_wait_wlan">Odota Wi-Fiä</string>
   <string name="photo_editor_navigator_module_downloading">Ladataan %s…</string>
   <string name="photo_editor_navigator_need_download">Yhdistä internetiin ladataksesi %s.</string>
+  <string name="photo_editor_remove_watermark">Poista vesileima</string>
   <string name="photo_editor_remover">Poista</string>
   <string name="photo_editor_rotate">Kierrä</string>
   <string name="photo_editor_saving">Tallennetaan…</string>
