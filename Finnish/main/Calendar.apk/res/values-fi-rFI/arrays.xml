@@ -235,13 +235,13 @@
         <item>neljäs Perjantai</item>
         <item>neljäs Lauantai</item>
         <item>neljäs Sunnuntai</item>
-        <item>viime Maanantai</item>
-        <item>viime Tiistai</item>
-        <item>viime Keskiviikko</item>
-        <item>viime Torstai</item>
-        <item>viime Perjantai</item>
-        <item>viime Lauantai</item>
-        <item>viime Sunnuntai</item>
+        <item>viimeinen Maanantai</item>
+        <item>viimeinen Tiistai</item>
+        <item>viimeinen Keskiviikko</item>
+        <item>viimeinen Torstai</item>
+        <item>viimeinen Perjantai</item>
+        <item>viimeinen Lauantai</item>
+        <item>viimeinen Sunnuntai</item>
     </string-array>
     <string-array name="response_labels1">
         <item>Ei vastausta</item>
