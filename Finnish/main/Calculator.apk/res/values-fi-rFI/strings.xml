@@ -8,10 +8,15 @@
   <string name="angle">deg</string>
   <string name="app_name">Laskin</string>
   <string name="app_name_danfa">Mi Laskin</string>
+  <string name="app_notification_info">Laskin työskentelee taustalla</string>
   <string name="arccos">arccos</string>
   <string name="arcsin">arcsin</string>
   <string name="arctan">arctan</string>
   <string name="base_rate">Peruskorko</string>
+  <string name="btn_float_window_alpha">Säädä läpinäkyvyyttä</string>
+  <string name="btn_float_window_back_to_app">Maksimoi Laskin</string>
+  <string name="btn_float_window_close">Sulje minimoitu Laskin</string>
+  <string name="btn_float_window_resize">Muuta minimoitua laskinta</string>
   <string name="cal_convert_to_word_figure">Muunna rahallisiksi merkeiksi</string>
   <string name="cal_copy">Kopioi</string>
   <string name="cal_edit_mode">Muokkaustila</string>
@@ -100,6 +105,7 @@
   <string name="extra_deduction_title">Muita vähennyksiä</string>
   <string name="factorial">!</string>
   <string name="factorialDesc">kertoma</string>
+  <string name="float_window_guide_text">Minimoi laskin napauttamalla tähän</string>
   <string name="from_num">100</string>
   <string name="from_unit">km/h</string>
   <string name="from_unit_en">kilometriä tunnissa</string>
@@ -123,6 +129,7 @@
   <string name="golbal_search_calculator_setting">Laskin;Laskimen asetukset;Asetukset</string>
   <string name="golbal_search_path_calculator_setting">Järjestelmäsovellukset/Laskin/Asetukset</string>
   <string name="help_content_desc">Apua</string>
+  <string name="hint_floatwindow_alpha_guide_text">Säädä läpinäkyvyyttä napauttamalla</string>
   <string name="home_loan">Asuntolainan korko</string>
   <string name="home_title_calculator">Laskin</string>
   <string name="house_rent">Vuokra</string>
@@ -614,6 +621,7 @@
   <string name="unit_yuan">CNY</string>
   <string name="updating">Päivitetään laskinta…</string>
   <string name="user_agreement">Käyttöehdot</string>
+  <string name="view_float_window_move">Siirrä minimoitua Laskinta</string>
   <string name="voiceDesc">Ääniohjaimet</string>
   <string name="wf_word_figure">Taloudelliset merkit</string>
   <string name="word_figure_guide_text">Voit vaihtaa tapausten välillä pitämällä tekstiä painettuna.</string>

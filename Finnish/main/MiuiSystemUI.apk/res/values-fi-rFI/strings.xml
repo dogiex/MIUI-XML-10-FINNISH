@@ -365,6 +365,7 @@
      <string name="gxzw_try_again">Yritä uudelleen</string>
      <string name="gxzw_try_more_again">Yritä uudelleen</string>
      <string name="gxzw_use_password">Avaa lukitus käyttämällä salasanaasi</string>
+     <string name="gxzw_use_password_to_unlock">Syötä Salasana</string>
      <string name="headset">Kuulokkeet</string>
      <string name="hidden_notifications_cancel">Ei kiitos</string>
      <string name="hidden_notifications_setup">Määritä</string>
@@ -379,7 +380,7 @@ Jäähtymisen jälkeen se toimii taas normaalisti."</string>
      <string name="incorrect_pukcode">Virheellinen PUK-koodi</string>
      <string name="input_password_after_boot_msg">Avaa laitteen lukitus antamalla salasanasi</string>
      <string name="input_password_after_boot_msg_can_not_switch_when_calling">Puhelun aikana ei voi vaihtaa tilojen välillä</string>
-	 <string name="input_password_after_boot_msg_can_not_switch_when_greenkid_active">Tilojen välillä ei voi vaihtaa, kun lapsilukko on käytössä</string>
+	<string name="input_password_after_boot_msg_can_not_switch_when_greenkid_active">Tilojen välillä ei voi vaihtaa, kun lapsilukko on käytössä</string>
      <string name="input_password_after_boot_msg_must_enter_owner_space">Sinun täytyy siirtyä Ensimmäiseen tilaan laitteen uudelleenkäynnistyksen jälkeen</string>
      <string name="input_password_hint_text">Anna salasana</string>
      <string name="input_pattern_hint_text">Piirrä lukituksenpoistokuviosi</string>
@@ -465,8 +466,6 @@ Ota yhteyttä operaattoriisi uutta SIM-korttia varten."</string>
      <string name="keyguard_sim_unlock_progress_dialog_message">Poistetaan SIM-kortin lukitusta…</string>
      <string name="keyguard_torch_cover_text">Pitääksesi soihtua päällä, pidä Virta-painiketta pohjassa</string>
      <string name="keyguard_unlock">Poista lukitus pyyhkäisemällä ylös</string>
-     <string name="keyguard_widget_12_hours_format">hmm</string>
-     <string name="keyguard_widget_24_hours_format">kkmm</string>
      <string name="kg_enter_confirm_pin_hint">Vahvista uusi PIN-koodi</string>
      <string name="kg_failed_attempts_almost_at_erase_profile">Olet yrittänyt poistaa puhelimen lukituksen virheellisesti %1$d kertaa. %2$d epäonnistuneen yrityksen jälkeen työprofiili poistetaan, joka poistaa myös kaikki profiilitiedot.</string>
      <string name="kg_failed_attempts_almost_at_erase_user">Olet yrittänyt poistaa puhelimen lukituksen virheellisesti %1$d kertaa. %2$d epäonnistuneen yrityksen jälkeen tämä käyttäjä poistetaan, joka poistaa myös kaikki käyttäjätiedot.</string>

@@ -1,5 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <!-- 9.4.15 -->
+  <string name="err_no_gms">Yhteensopimaton sovellusversio. Asenna tämä sovellus erikseen</string>
+  <string name="trans_detail_item_app_data_skip_data">Sovellustietoja ei voi siirtää</string>
+  <!-- // 9.4.15 // -->
   <!-- 8.9.17 -->
   <string name="trans_cancel_dialog_survey_title">Miksi keskeytit siirron?</string>
   <string name="trans_dialog_survey_finish">Lähetä</string>

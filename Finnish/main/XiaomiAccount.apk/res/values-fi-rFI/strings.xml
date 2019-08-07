@@ -46,14 +46,13 @@
   <string name="account_user_base_info">Henkilökohtaiset tiedot</string>
   <string name="account_user_birthday">Syntymäpäivä</string>
   <string name="account_user_details">Henkilökohtaiset tiedot</string>
-  <string name="account_user_email">Sähköposti</string>
+  <string name="account_user_email">Palautuksen sähköposti</string>
   <string name="account_user_gender">Sukupuoli</string>
   <string name="account_user_id">Mi Tilin ID</string>
   <string name="account_user_name">Nimi</string>
   <string name="account_user_name_dialog_title">Syötä käyttäjänimi</string>
   <string name="account_user_other_info">Lisää lähteitä</string>
-  <string name="account_user_phone">Puhelin</string>
-  <string name="account_user_recovery_phone">Palautuspuhelin</string>
+  <string name="account_user_phone">Palautuksen puhelin</string>
   <string name="account_user_region">Maakunta</string>
   <string name="account_xiaomi_service">Palvelut</string>
   <string name="action_add_phone">Lisää puhelinnumero</string>
@@ -61,6 +60,7 @@
   <string name="activate_email_notice">Muista aktivoida tilisi 24 tunnin kuluessa</string>
   <string name="activity_not_found_notice">Sovellusta ei löydy</string>
   <string name="add_account">Yhdistä tili</string>
+  <string name="agreement_and_privacy">Käyttöehdot ja Tietosuojakäytäntö</string>
   <string name="app_name">Mi Tili</string>
   <string name="auth_fail_warning">Istunto on vanhentunut, kirjaudu myöhemmin uudelleen</string>
   <string name="authorize_title">Valtuutus</string>
@@ -258,6 +258,7 @@ Aktivoi tilisi seuraamalla
   <string name="passport_extra_gdpr_license">Luomalla Mi Tilisi hyväksyt, että Xiaomi kerää, käsittelee ja käyttää henkilötietojasi mukaan lukien tietoja (esim. vahvistuskoodit), Toisen tilan tietoja (esim. tietoja kuinka käytät Toista tilaa, Ensimmäisessä- ja Toisessa tilassa käytettävät ID:t) sekä muita Tietosuojakäytännössämme määriteltyjä tietoja. Tutustu Tietosuojakäytäntöömme ja lue lisää, kuinka käsittelemme ja käytämme henkilötietoja.</string>
   <string name="passport_failed_to_send_activate_email">Aktivointisähköpostin lähettäminen epäonnistui</string>
   <string name="passport_find_password_on_web_msg">Palauta salasanasi osoitteessa account.mi.com.</string>
+  <string name="passport_first_login_prompt">Mi Tili luodaan automaattisesti, kun kirjaudut sisään ensimmäisen kerran.</string>
   <string name="passport_forget_password">Unohtuiko salasana</string>
   <string name="passport_forget_password_no_underline">Unohtuiko salasana</string>
   <string name="passport_get_back_pwd">Palauta tilin salasana</string>
@@ -429,6 +430,7 @@ Aktivoi tilisi seuraamalla
   <string name="restart_phone_bind_message">Tekstiviestin saapumisessa saattaa kestää hetki. Aloitetaanko alusta tästä huolimatta?</string>
   <string name="restart_phone_bind_title">Vaihda palautuspuhelin</string>
   <string name="same_new_and_old_pwd">Ei voi olla sama, kuin nykyinen salasana</string>
+  <string name="scan_barcode">Skannaa QR-koodi</string>
   <string name="scan_barcode_title">Kirjaudu Mi Tilillesi skannaamalla QR-koodi</string>
   <string name="search_account_security">Tilin tietoturva</string>
   <string name="search_account_security_desc">Tilin Asetukset</string>

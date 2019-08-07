@@ -97,12 +97,11 @@
   <string name="perm_send_push_lab">Lähetä push viesti</string>
   <string name="permdesc_manageLocationPolicy">Salli sovelluksen muuttaa sijaintiin koskevia käyttöoikeuksia ja määrittää sovelluskohtaisia sääntöjä.</string>
   <string name="permlab_manageLocationPolicy">Sijaintitietojen käyttö</string>
-  <string name="popup_camera_calibrate_failed">Ei voitu kalibroida. Vie laitteesi lähimpään Mi Homeen, jotta ongelma voidaan tutkia.</string>
+  <string name="popup_camera_calibrate_failed">Ei voitu kalibroida</string>
   <string name="popup_camera_calibrate_now">Kalibroi</string>
   <string name="popup_camera_calibrate_success">Kalibroitiin onnistuneesti. Voit avata etukameran nyt.</string>
   <string name="popup_camera_front_failed">Etukameraa ei voitu avata. Yritä uudelleen</string>
   <string name="popup_camera_front_falied_times">Etukameraa ei voitu avata useaan kertaan. Vie laitteesi lähimpään Mi Homeen, jotta ongelma voidaan tutkia.</string>
-  <string name="popup_camera_front_when_use">Etukamera on kiireinen tällä hetkellä. Avataanko siitä huolimatta?</string>
   <string name="popup_camera_popup_falied_times_calibrate">Etukameraa ei voitu avata useaan kertaan. Yritä kameran kalibrointia.</string>
   <string name="popup_camera_sure">Selvä</string>
   <string name="popup_camera_sure_wait">Selvä (%d s)</string>
@@ -183,7 +182,7 @@
   <string name="status_bar_toggle_vibrate">Värinä</string>
   <string name="status_bar_toggle_wifi">Wi-Fi</string>
   <string name="status_bar_toggle_wifi_ap">Hotspot</string>
-  <string name="stop_operate_camera_frequently">Näyttää siltä, että vaihdat kameroiden välillä liian usein.</string>
+  <string name="stop_operate_camera_frequently">Avaat etukameraa liian usein.</string>
   <string name="subinfo_default_name">SIM %d</string>
   <string name="switch_brand_desc_tv">Tietoturvapalvelut tarjoaa Spaces Mobile</string>
   <string name="switch_desc_tv">Kaksi tilaa. Yksi laite.</string>

@@ -85,6 +85,7 @@ ja optimoi valokuvasi näiden tietojen perusteella"</string>
   <string name="autozoom_click_hint">Napauta kohdetta pitääksesi sen tarkennettuna, kun se liikkuu. Pysy vähintään 3 metriä kohteesta parhaan tehosteen vuoksi.</string>
   <string name="autozoom_disabled_hint">Liikkuvan kohteen seuraaminen lopetettiin</string>
   <string name="autozoom_hint">Seuraa liikkuvaa kohdetta</string>
+  <string name="autozoom_landscape_hint">Ota kuva vaakatasossa parhaan tehosteen saamiseksi</string>
   <string name="audio_focus_exit_button_text">Poista Äänitarkennus käytöstä</string>
   <string name="back_bokeh_use_hint">Pidä kohde 1,5 metrin sisällä parhaan tehosteen saamiseksi</string>
   <string name="beauty_body">Vartalo</string>
@@ -94,6 +95,7 @@ ja optimoi valokuvasi näiden tietojen perusteella"</string>
   <string name="beauty_body_reset_tip">Vartalon tehosteet poistettiin onnistuneesti</string>
   <string name="beauty_body_shoulder">Olkapäät</string>
   <string name="beauty_body_slim_count_tip">Vartalon tehosteet toimivat vain yhden henkilön kuvissa</string>
+  <string name="beauty_body_whole">Vartalo</string>
   <string name="beauty_fragment_tab_name_3d_beauty">Kauneus</string>
   <string name="beauty_fragment_tab_name_3d_makeup">Meikki</string>
   <string name="beauty_fragment_tab_name_3d_remodeling">Muotoillaan uudelleen</string>
@@ -150,7 +152,6 @@ ja optimoi valokuvasi näiden tietojen perusteella"</string>
   <string name="config_name_group">Ryhmäselfie</string>
   <string name="config_name_hht">HHT</string>
   <string name="config_name_magic">Taika</string>
-  <string name="config_name_ratio">Suhde</string>
   <string name="config_name_scene">Näkymä</string>
   <string name="config_name_setting">Asetukset</string>
   <string name="config_name_sound">Ääni</string>
@@ -178,6 +179,7 @@ ja optimoi valokuvasi näiden tietojen perusteella"</string>
   <string name="device_watermark_default_text">AI-KOLMOISKAMERA</string>
   <string name="dialog_google_lens_option_0">Google Lens (Suositeltu)</string>
   <string name="dialog_ok">OK</string>
+  <string name="dialog_ok_time">OK (%d s)</string>
   <string name="do_not_remind_me">Älä näytä uudelleen</string>
   <string name="dual_camera_lens_covered_toast">Linssi on peitetty.</string>
   <string name="dual_camera_lowlight_toast">Näyttää siltä, että on liian pimeää.</string>
@@ -309,6 +311,7 @@ Muotokuvatilassa"</string>
   <string name="mimoji_detect_tips">请把脸放在取景框内</string>
   <string name="mimoji_edit_mimoji">Muokkaa emojia</string>
   <string name="mimoji_editor">Muokkaa</string>
+  <string name="mimoji_fragment_tab_name">Mimoji</string>
   <string name="mimoji_recapture">Ota uudelleen</string>
   <string name="mimoji_save">Tallenna</string>
   <string name="mimoji_save_success">Tallennettiin onnistuneesti</string>
@@ -622,13 +625,12 @@ ja tuo henkilöt esiin."</string>
   <string name="pref_video_quality_entry_480p">SD 480p, 30fps</string>
   <string name="pref_video_quality_entry_4kuhd">UHD 4K, 30fps</string>
   <string name="pref_video_quality_entry_4kuhd_60fps">UHD 4K, 60fps</string>
-  <string name="pref_video_quality_entry_720p">HD 720p</string>
+  <string name="pref_video_quality_entry_720p">HD 720p, 30fps</string>
   <string name="pref_video_quality_entry_720p_60fps">HD 720p, 60fps</string>
   <string name="pref_video_quality_entry_fwvga">FWVGA</string>
   <string name="pref_video_quality_entry_vga">VGA</string>
   <string name="pref_video_quality_entry_wqvga">WQVGA</string>
   <string name="pref_video_quality_entry_wvga">WVGA</string>
-  <string name="pref_video_quality_summary">4K videota ei tueta 120fps-tilassa</string>
   <string name="pref_video_quality_title">Videon kuvanlaatu</string>
   <string name="pref_video_speed_entry_fast">Nopea</string>
   <string name="pref_video_speed_entry_normal">Normaali</string>
@@ -702,7 +704,9 @@ ja tuo henkilöt esiin."</string>
   <string name="ultra_wide_close_tip">Ultralaajakulmatila pois käytöstä</string>
   <string name="ultra_wide_mode">Ultralaajakulma</string>
   <string name="ultra_wide_mode_use_hint_text">"Käytä tätä tilaa sisällyttääksesi kuvaasi isomman näkymän.
-Laajakulmatila tulee apuun, kun et voi liikkua kauemmaksi kohteestasi."</string>
+Ultralaajakulmatila tulee apuun, kun et voi liikkua kauemmaksi kohteestasi."</string>
+  <string name="ultra_wide_mode_use_hint_text_sat">"Kokeile 0.6X Ultralaajakulmatilaa sisältääksesi kuvaasi lisää näkymää.
+Ultralaajakulmatila tulee apuun, kun et voi liikkua kauemmaksi kohteestasi."</string>
   <string name="ultra_wide_open_tip">Ultralaajakulmatila</string>
   <string name="ultra_wide_recommend_tip_hint">Kokeile Ultralaajakulmatilaa</string>
   <string name="user_agree">Hyväksy</string>

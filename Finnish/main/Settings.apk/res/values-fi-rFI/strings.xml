@@ -50,6 +50,9 @@
   <string name="wifi_network_optimization">Optimaalinen yhteys</string>
   <string name="wifi_other_connection_mode">Muut yhteysasetukset</string>
   <string name="wifi_property">Wi-Fi-ominaisuudet</string>
+  <string name="wifi_protection_on">Käytössä</string>
+  <string name="wifi_protection_settings_title">Wi-Fi anturin suojaus</string>
+  <string name="wifi_protection_tip">MIUI ottaa Wi-Fi anturin suojausominaisuuden automaattisesti käyttöön. Puhelimen skannatessa ympärillä olevia Wi-Fi-verkkoja, se osoittaa satunnaisen MAC-osoitteen estääkseen Wi-Fi anturilaatikkoa varastamasta käyttäjän yksityisyyttä ja suojatakseen matkapuhelinta.</string>
   <string name="wifi_remembered_disabled_auto_connect">Tallennettu. Automaattinen yhdistäminen pois käytöstä.</string>
   <string name="wifi_traffic_priority">Wi-Fi nopeustila</string>
   <string name="wifi_traffic_priority_extreme">Äärimmäinen tila</string>
@@ -5352,7 +5355,48 @@ Se on Googlen tapa synkronoida tietoja, ja sen avulla voit käyttää yhteystiet
   <string name="usage_access_description">Käyttöoikeus antaa sovellukselle luvan seurata, mitä muita sovelluksia käytät ja kuinka usein, sekä nähdä operaattorisi, kieliasetuksesi ja muita tietoja.</string>
   <string name="usage_access_title">Sovellukset, joilla käyttölupa</string>
   <string name="usage_log">Sovelluksen käyttöstatistiikka</string>
+  <string name="usage_state_app_timer">Käyttöaika</string>
+  <string name="usage_state_app_usage_detail_title">Sovelluksen käyttötiedot</string>
+  <string name="usage_state_app_usage_list_title">Sovellusten käyttöaika tänään</string>
+  <string name="usage_state_app_usage_list_week_title">Sovellusten käyttöaika (viimeiset 7 päivää)</string>
+  <string name="usage_state_app_usage_tip_title" formatted="false">Käyttöaika aikavälillä %d:00 ja %d:00</string>
+  <string name="usage_state_app_use_time">Sovelluksen käyttöaika</string>
+  <string name="usage_state_channel_mouth">Viimeiset 30 päivää</string>
+  <string name="usage_state_channel_week">Viimeiset 7 päivää</string>
+  <string name="usage_state_device_noti_today_tip_title" formatted="false">Ilmoitukset aikavälillä %d:00 ja %d:00</string>
+  <string name="usage_state_device_unlock_today_tip_title" formatted="false">Laite avattiin aikavälillä %d:00 ja %d:00</string>
+  <string name="usage_state_friday">Pe</string>
+  <string name="usage_state_go_more">Lisää sovelluksia</string>
+  <string name="usage_state_hour_minute" formatted="false">%d t %d min</string>
+  <string name="usage_state_less_one_minute">Alle 1 minuutin</string>
+  <string name="usage_state_monday">Ma</string>
+  <string name="usage_state_mourth_day">Käyttöaika ajalle d.M.</string>
+  <string name="usage_state_noti_mourth_day">Ilmoitukset ajalle d.M.</string>
+  <string name="usage_state_notification">Hallitse ilmoituksia</string>
+  <string name="usage_state_notification_manager">Hallitse sovellusilmoituksia</string>
+  <string name="usage_state_remind_summary">Ota käyttöön saadaksesi käyttöajan hälytyksiä. Voit asettaa eri aikarajoja arkipäiville ja viikonlopuille.</string>
+  <string name="usage_state_remind_title">Käyttöajan hälytys</string>
+  <string name="usage_state_rest_day">Viikonloput</string>
+  <string name="usage_state_saturday">La</string>
+  <string name="usage_state_set_invalid_time_toast">Et voi asettaa alle 1 minuutin aikarajoituksia</string>
+  <string name="usage_state_sunday">Su</string>
+  <string name="usage_state_thursday">To</string>
+  <string name="usage_state_today">Tänään</string>
+  <string name="usage_state_today_total_text">Käyttöaika tänään</string>
+  <string name="usage_state_tuesday">Ti</string>
+  <string name="usage_state_unlock_mourth_day">Avattiin ajalle d.M.</string>
+  <string name="usage_state_usage_time">Käyttöaika</string>
+  <string name="usage_state_usage_time_remind">Käyttöajan hälytys</string>
+  <string name="usage_state_use_time_remind_title">Käyttöajan hälytys</string>
+  <string name="usage_state_wednesday">Ke</string>
+  <string name="usage_state_week_day_hour_minute" formatted="false">Viikonloput: %d t %d min</string>
+  <string name="usage_state_week_total_text">Käyttöaika (viimeiset 7 päivää)</string>
+  <string name="usage_state_which_mouth">MMMM</string>
+  <string name="usage_state_work_day">Arkipäivät</string>
+  <string name="usage_state_work_day_hour_minute" formatted="false">Arkipäivät: %d t %d min</string>
   <string name="usage_stats_label">Käyttötiedot</string>
+  <string name="usage_stats_normal_day">Arkipäivät</string>
+  <string name="usage_stats_week_day">Viikonloput</string>
   <string name="usage_time_label">Käyttöaika</string>
   <string name="usage_type_actual_power">Havaittu virrankäyttö</string>
   <string name="usage_type_audio">Ääni</string>
@@ -5374,6 +5418,25 @@ Se on Googlen tapa synkronoida tietoja, ja sen avulla voit käyttää yhteystiet
   <string name="usage_type_video">Video</string>
   <string name="usage_type_wake_lock">Ei virransäästötilaa</string>
   <string name="usage_type_wifi_running">Wi-Fi on käytössä</string>
+  <string name="usagestats_app_category_miui_financial">Talous</string>
+  <string name="usagestats_app_category_miui_game">Pelit</string>
+  <string name="usagestats_app_category_miui_life">Elämäntyyli</string>
+  <string name="usagestats_app_category_miui_productivity">Tuottavuus</string>
+  <string name="usagestats_app_category_miui_reading">Lukeminen</string>
+  <string name="usagestats_app_category_miui_shopping">Ostaminen</string>
+  <string name="usagestats_app_category_miui_social">Sosiaaliset verkot</string>
+  <string name="usagestats_app_category_miui_system">Järjestelmäsovellukset</string>
+  <string name="usagestats_app_category_miui_tools">Työkalut</string>
+  <string name="usagestats_app_category_miui_undefined">Muu</string>
+  <string name="usagestats_app_category_miui_video_etc">Musiikki ja video</string>
+  <string name="usagestats_device_notification_des">Käyttöajan raja tälle päivälle: %s</string>
+  <string name="usagestats_device_notification_des_over">Olet saavuttanut jo tämän päivän käyttöajan rajan.</string>
+  <string name="usagestats_device_notification_des_reset" formatted="false">Käyttöajan raja tälle päivälle: %s | %s jäljellä</string>
+  <string name="usagestats_device_notification_title">Käyttöajan hälytys</string>
+  <string name="usagestats_device_timeout_des" formatted="false">Olet käyttänyt laitettasi tänään %d t %d min. Pidä pieni tauko!</string>
+  <string name="usagestats_device_timeout_negative">Muistuta tunnin päästä</string>
+  <string name="usagestats_device_timeout_positive">Selvä</string>
+  <string name="usagestats_device_timeout_title">Käyttöajan hälytys</string>
   <string name="usb_adb_input">USB virheenkorjaus (Turvallisuus asetukset)</string>
   <string name="usb_adb_input_desc">Salli käyttöoikeuksien salliminen ja syöttölaitteen simulointi USB-virheenkorjauksen kautta</string>
   <string name="usb_audio_disable_routing">USB-äänireititys pois</string>
