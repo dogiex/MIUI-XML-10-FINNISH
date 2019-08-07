@@ -29,6 +29,7 @@
   <string name="avl_dialog_header">Tämä toiminto salaa ja lähettää laitteesi ID-numeron AVL:n palvelimille (%s).</string>
   <string name="avl_dialog_policy">näytä Tietosuojakäytäntö</string>
   <string name="avl_dialog_title">AVL:n Tietosuojakäytäntö</string>
+  <string name="common_ids_permission_label">Avastin yleinen id-käyttöoikeus</string>
   <string name="hello_world">Hei maailma!</string>
   <string name="menu_settings">Asetukset</string>
   <string name="tencent_dialog_cloudscan">Lähetä ja skannaa sovellusten nimet ja tiedot käyttäen internetistä haettuja virustunnisteita.</string>

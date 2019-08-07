@@ -24,6 +24,14 @@
         <item quantity="other">%1$s sekuntia palautteen jälkeen</item>
         <item quantity="one">%1$s sekuntia palautteen jälkeen</item>
     </plurals>
+    <plurals name="feedback_result_interval_time_too_short_minute">
+        <item quantity="other">Voit lähettää palautetta uudelleen %1$s minuutin kuluttua</item>
+        <item quantity="one">Voit lähettää palautetta uudelleen %1$s minuutin kuluttua</item>
+    </plurals>
+    <plurals name="feedback_result_interval_time_too_short_second">
+        <item quantity="other">Voit lähettää palautetta uudelleen %1$s sekunnin kuluttua</item>
+        <item quantity="one">Voit lähettää palautetta uudelleen %1$s sekunnin kuluttua</item>
+    </plurals>
     <plurals name="no_vote_num">
         <item quantity="other">%1$s henkilöä | </item>
         <item quantity="one">%1$s henkilö | </item>
@@ -39,13 +47,5 @@
     <plurals name="yes_vote_num">
         <item quantity="other"> | %1$s henkilöä</item>
         <item quantity="one"> | %1$s henkilö</item>
-    </plurals>
-    <plurals name="feedback_result_interval_time_too_short_minute">
-        <item quantity="other">Voit lähettää palautetta uudelleen %1$s minuutin kuluttua</item>
-        <item quantity="one">Voit lähettää palautetta uudelleen %1$s minuutin kuluttua</item>
-    </plurals>
-    <plurals name="feedback_result_interval_time_too_short_second">
-        <item quantity="other">Voit lähettää palautetta uudelleen %1$s sekunnin kuluttua</item>
-        <item quantity="one">Voit lähettää palautetta uudelleen %1$s sekunnin kuluttua</item>
     </plurals>
 </resources>

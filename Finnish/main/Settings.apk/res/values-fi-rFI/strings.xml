@@ -51,8 +51,8 @@
   <string name="wifi_other_connection_mode">Muut yhteysasetukset</string>
   <string name="wifi_property">Wi-Fi-ominaisuudet</string>
   <string name="wifi_protection_on">Käytössä</string>
-  <string name="wifi_protection_settings_title">Wi-Fi anturin suojaus</string>
-  <string name="wifi_protection_tip">MIUI ottaa Wi-Fi anturin suojausominaisuuden automaattisesti käyttöön. Puhelimen skannatessa ympärillä olevia Wi-Fi-verkkoja, se osoittaa satunnaisen MAC-osoitteen estääkseen Wi-Fi anturilaatikkoa varastamasta käyttäjän yksityisyyttä ja suojatakseen matkapuhelinta.</string>
+  <string name="wifi_protection_settings_title">Suojaus Wi-Fi-etsimispyyntöjä kohtaan</string>
+  <string name="wifi_protection_tip">MIUI suojelee yksityistietojasi WI-Fi-etsimispyynnöiltä, jotka tulevat satunnaisista MAC-osoitteista sekä Wi-Fi-etsimisnuuskijoista laitteesi etsiessään Wi-Fi-verkkoja.</string>
   <string name="wifi_remembered_disabled_auto_connect">Tallennettu. Automaattinen yhdistäminen pois käytöstä.</string>
   <string name="wifi_traffic_priority">Wi-Fi nopeustila</string>
   <string name="wifi_traffic_priority_extreme">Äärimmäinen tila</string>
@@ -1524,7 +1524,7 @@ Asetus vaikuttaa tämän puhelimen kaikkiin käyttäjiin."</string>
   <string name="date_and_time_settings_title_setup_wizard">Aseta päivämäärä ja aika</string>
   <string name="date_picker_title">Päiväys</string>
   <string name="date_time_24hour">Käytä 24-tuntista kelloa</string>
-  <string name="date_time_24hour_title">24 tunnin kello</string>
+  <string name="date_time_24hour_title">24-tunnin kello</string>
   <string name="date_time_auto">Automaattinen päivämäärä ja aika</string>
   <string name="date_time_auto_summaryOff">Käytä verkon määrittämää aikaa</string>
   <string name="date_time_auto_summaryOn">Käytä verkon määrittämää aikaa</string>
@@ -1536,6 +1536,9 @@ Asetus vaikuttaa tämän puhelimen kaikkiin käyttäjiin."</string>
   <string name="date_time_set_timezone_title">Aikavyöhyke</string>
   <string name="date_time_settings">Päivämäärä &amp; aika</string>
   <string name="day_of_week">Viikonpäivä</string>
+  <string name="dc_light_dialog_summary">Kuvanlaatu saattaa muuttua, kun Vilkkumisen estotila on käytössä. Otetaanko käyttöön siitä huolimatta??</string>
+  <string name="dc_light_summary">Käytä DC-himmennystä vähentääksesi silmien rasitusta</string>
+  <string name="dc_light_title">Vilkkumisen estotila</string>
   <string name="debug_app">Valitse vianetsintäsovellus</string>
   <string name="debug_app_not_set">Vianetsintäsovellusta ei ole asetettu</string>
   <string name="debug_app_set">Vianetsintäsovellus: %1$s</string>
@@ -3991,7 +3994,7 @@ Wi-Fi
 Mobiilidata
 Bluetooth."</string>
   <string name="reset_network_final_button_text">Nollaa asetukset</string>
-  <string name="reset_network_final_desc">Nollataanko kaikki verkkoasetukset? Toimintoa ei voi peruuttaa.</string>
+  <string name="reset_network_final_desc">Nollataanko kaikki verkkoasetukset nyt? Tämä saattaa kestää useita sekunteja. Toimintoa ei voi peruuttaa.</string>
   <string name="reset_network_title">Verkkoasetusten nollaus</string>
   <string name="reset_network_wifi">Wi-Fi</string>
   <string name="reset_second_space_passwd">Nollaa Toisen tilan salasana</string>

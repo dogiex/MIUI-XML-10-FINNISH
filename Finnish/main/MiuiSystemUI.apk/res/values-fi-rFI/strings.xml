@@ -250,6 +250,7 @@
      <string name="disable_vpn">Poista VPN käytöstä</string>
      <string name="disconnect_vpn">Katkaise VPN-yhteys</string>
      <string name="dnd_is_off">Älä häiritse on pois käytöstä</string>
+     <string name="dnd_notification_warnings_title">Puhelut ja ilmoitukset mykistetään, kunnes poistat Älä häiritse -tilan käytöstä</string>
      <string name="do_disclosure_generic">Yrityksenä hallitsee tätä laitetta</string>
      <string name="do_disclosure_with_name">Tätä laitetta hallitsee %s</string>
      <string name="do_not_silence">Älä hiljennä</string>
@@ -291,6 +292,7 @@
      <string name="face_data_manage_delete_msg">Poista kasvojen tiedot</string>
      <string name="face_data_manage_delete_sure">Et voi avata laitteen lukitusta käyttäen kasvojesi tietoja sen poistamisen jälkeen.</string>
      <string name="face_data_manage_delete_title">Kasvojen tiedot</string>
+     <string name="face_data_manage_unlock_liftcamera_msg">Kun näyttö valaistuu, pyyhkäise ylöspäin avataksesi laitteen lukituksen kasvojen tiedoilla.</string>
      <string name="face_data_manage_unlock_msg">Avaa laitteen lukitus käyttäen kasvojesi tietoja</string>
      <string name="face_data_manage_unlock_slide_msg">Korvaa liukupikakuvakkeet kasvojentunnistuksella</string>
      <string name="face_data_manage_unlock_title">Avaa laitteen lukitus käyttäen kasvojen tietoja</string>
@@ -306,7 +308,8 @@
      <string name="face_unlock_close_screen">Siirry lähemmäksi näyttöä</string>
      <string name="face_unlock_down">Nosta päätäsi</string>
      <string name="face_unlock_fail">Kasvoja ei voitu vahvistaa</string>
-     <string name="face_unlock_fail_retry">Kasvojasi ei voitu vahvistaa. Yritä uudelleen napauttamalla kuvaketta.</string>
+     <string name="face_unlock_fail_retry">Kasvojasi ei voitu vahvistaa. Yritä uudelleen napauttamalla yläpuolelle.</string>
+     <string name="face_unlock_fail_retry_global">Napauta yläpuolelle käyttääksesi Kasvojentunnistusta</string>
      <string name="face_unlock_identify_error">Tapahtui tunnistusvirhe</string>
      <string name="face_unlock_not_found">Sinua ei voitu tunnistaa</string>
      <string name="face_unlock_not_roi">Pidä kasvosi kehyksen sisällä</string>
@@ -617,6 +620,7 @@ Olet myös yhteydessä VPN-palvelimeen, joka voi valvoa verkon käyttöäsi."</s
      <string name="notification_channel_controls_closed_accessibility">Ilmoituksien ohjaimet kohteelle %1$s suljettu</string>
      <string name="notification_channel_controls_opened_accessibility">Ilmoituksien ohjaimet kohteelle %1$s avattu</string>
      <string name="notification_channel_disabled">Et saa näitä ilmoituksia enää.</string>
+     <string name="notification_channel_dnd">Älä häiritse</string>
      <string name="notification_channel_general">Yleiset viestit</string>
      <string name="notification_channel_location">Sijainti</string>
      <string name="notification_channel_screenbutton">Painikkeet</string>
@@ -1126,9 +1130,14 @@ Kaikki käyttäjät voivat päivittää kaikkien käyttäjien sovelluksia."</str
   <string name="battery_info_status_full">Täynnä</string>
   <string name="battery_info_status_not_charging">Ei laturissa</string>
   <string name="battery_info_status_unknown">Tuntematon</string>
+  <string name="battery_low_button_not_open_power_save">Ei nyt</string>
+  <string name="battery_low_button_open_power_save">Ota käyttöön</string>
   <string name="battery_low_percent_format">%d%% jäljellä</string>
-  <string name="battery_low_title">Yhdistä laturi</string>
-  <string name="battery_meter_very_low_overlay_symbol">!</string>
+  <string name="battery_low_percent_format_save_mode_closed">Akkua on jäljellä alle %d%%. Lataa laitteesi.</string>
+  <string name="battery_low_percent_format_save_mode_open">Akkua on jäljellä alle %d%%. Säästä virtaa ottamalla Virransäästö käyttöön.</string>
+  <string name="battery_low_percent_format_saver_started">%s jäljellä. Virransäästö on käytössä.</string>
+  <string name="battery_low_title">Akku on vähissä</string>
+  <string name="battery_low_title_power_save">Virransäästö</string>
   <string name="battery_profiles">Käytä akun profiileja</string>
   <string name="block_notification_content_text">Sovelluksen %1$s ilmoituksia ei näytetä uudelleen. Voit muuttaa tätä Asetuksissa.</string>
   <string name="block_notification_desc">Sovelluksen ilmoituksia ei näytetä uudelleen. Voit muuttaa tätä Asetuksissa.</string>
@@ -1576,12 +1585,65 @@ Saat lisätietoja järjestelmänvalvojalta."</string>
   <string name="please_slide_agian">Pyyhkäise uudelleen</string>
   <string name="pointer_location">Osoittimen sijainti</string>
   <string name="pointer_location_summary">Näytön peittokuva näyttää nykyiset kosketustiedot</string>
-  <string name="power_charging_duration">%1$s – %2$s täyteen lataukseen</string>
-  <string name="power_discharging_duration">%1$s – noin %2$s jäljellä</string>
-  <string name="power_discharging_duration_short">%1$s - %2$s jäljellä</string>
-  <string name="power_remaining_charging_duration_only">%1$s kunnes täynnä</string>
+  <string name="power_charging_duration">%1$s - %2$s kunnes täynnä</string>
+  <string name="power_discharge_by">Pitäisi kestää noin %1$s asti (%2$s)</string>
+  <string name="power_discharge_by_enhanced">Pitäisi kestää noin %1$s asti, perustuen käyttöösi (%2$s)</string>
+  <string name="power_discharge_by_only">Pitäisi kestää noin %1$s asti</string>
+  <string name="power_discharge_by_only_enhanced">Pitäisi kestää noin %1$s asti, perustuen käyttöösi</string>
+  <string name="power_discharging_duration">Noin %1$s jäljellä (%2$s)</string>
+  <string name="power_discharging_duration_enhanced">Noin %1$s jäljellä, perustuen käyttöösi (%2$s)</string>
+  <string name="power_notification_controls_description">"Ilmoituksen tärkeystason hallinnalla voit asettaa sovelluksen ilmoituksille tärkeystason väliltä 0-5. 
+
+"&lt;b&gt;Taso 5&lt;/b&gt;" 
+- Näytä ilmoitusluettelon kärjessä 
+- Salli kokonäytön keskeytykset 
+- Salli kurkista aina 
+
+"&lt;b&gt;Taso 4&lt;/b&gt;" 
+- Estä kokonäytön keskeytykset 
+- Salli kurkistaminen aina 
+
+"&lt;b&gt;Taso 3&lt;/b&gt;" 
+- Estä kokonäytön keskeytykset 
+- Estä kurkistaminen 
+
+"&lt;b&gt;Taso 2&lt;/b&gt;" 
+- Estä kokonäytön keskeytykset 
+- Estä kurkistaminen 
+- Älä päästä ääniä tai värinää 
+
+"&lt;b&gt;Taso 1&lt;/b&gt;" 
+- Estä kokonäytön keskeytykset 
+- Estä kurkistaminen 
+- Älä päästä ääniä tai värinää 
+- Piilota lukitusnäytöltä ja tilapalkista 
+- Näytä ilmoitusluettelon pohjalla 
+
+"&lt;b&gt;Taso 0&lt;/b&gt;" 
+- Estä sovelluksen kaikki ilmoitukset "</string>
+  <string name="power_remaining_charging_duration_only">%1$s jäljellä kunnes täynnä</string>
   <string name="power_remaining_duration_only">Noin %1$s jäljellä</string>
+  <string name="power_remaining_duration_only_enhanced">Noin %1$s jäljellä perustuen käyttöösi</string>
   <string name="power_remaining_duration_only_short">%1$s jäljellä</string>
+  <string name="power_remaining_duration_only_shutdown_imminent">Puhelin saattaa sammua pian</string>
+  <string name="power_remaining_duration_shutdown_imminent">Puhelin saattaa sammua pian (%1$s)</string>
+  <string name="power_remaining_less_than_duration">Alle %1$s jäljellä (%2$s)</string>
+  <string name="power_remaining_less_than_duration_only">Alle %1$s jäljellä</string>
+  <string name="power_remaining_more_than_subtext">Yli %1$s jäljellä (%2$s)</string>
+  <string name="power_remaining_only_more_than_subtext">Yli %1$s jäljellä</string>
+  <string name="power_remaining_settings_home_page">%1$s - %2$s</string>
+  <string name="power_save_ps_clean">Tyhjennä välimuisti kun laite lukitaan</string>
+  <string name="power_save_ps_close_setting">Poista taustapalvelut käytöstä (synkronointi, GPS) säästääksesi virtaa</string>
+  <string name="power_save_ps_freeze">Jäädytä taustalla olevat sovellukset</string>
+  <string name="power_save_ps_limit">Rajoita järjestelmäsovelluksien aktiviteettia</string>
+  <string name="preference_summary_default_combination">%1$s / %2$s</string>
+  <string name="private_dns_mode_off">Pois käytöstä</string>
+  <string name="private_dns_mode_opportunistic">Automaattinen</string>
+  <string name="private_dns_mode_provider">Yksityisen DNS-tarjoajan isäntänimi</string>
+  <string name="private_dns_mode_provider_failure">Ei voitu yhdistää</string>
+  <string name="private_dns_mode_provider_hostname_hint">Syötä DNS-tarjoajan isäntänimi</string>
+  <string name="process_kernel_label">Android-järjestelmä</string>
+  <string name="profile_owned_footer">Profiilia voidaan tarkkailla</string>
   <string name="prompt_danger">Vaara</string>
   <string name="prompt_detecting">Havaitaan</string>
   <string name="prompt_failure">Virhe</string>

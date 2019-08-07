@@ -1,8 +1,27 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="ad_downloading">Ladataan…</string>
+  <string name="abc_action_bar_home_description">Siirry alkuun</string>
+  <string name="abc_action_bar_up_description">Siirry ylös</string>
+  <string name="abc_action_menu_overflow_description">Lisää</string>
+  <string name="abc_action_mode_done">Valmis</string>
+  <string name="abc_activity_chooser_view_see_all">Näytä kaikki</string>
+  <string name="abc_activitychooserview_choose_application">Valitse sovellus</string>
+  <string name="abc_capital_off">POIS KÄYTÖSTÄ</string>
+  <string name="abc_capital_on">KÄYTÖSSÄ</string>
+  <string name="abc_search_hint">Haku…</string>
+  <string name="abc_searchview_description_clear">Tyhjennä kysely</string>
+  <string name="abc_searchview_description_query">Hakukysely</string>
+  <string name="abc_searchview_description_search">Haku</string>
+  <string name="abc_searchview_description_submit">Lähetä kysely</string>
+  <string name="abc_searchview_description_voice">Äänihaku</string>
+  <string name="abc_shareactionprovider_share_with">Jaa</string>
+  <string name="abc_shareactionprovider_share_with_application">Jaa sovelluksessa %s</string>
+  <string name="abc_toolbar_collapse_description">Tiivistä</string>
+  <string name="ad_downloading">Lataa…</string>
   <string name="app_name">Järjestelmäpalvelun liitännäinen</string>
   <string name="cancel_button">Peruuta</string>
+  <string name="dual_app_title">Kaksoissovellukset</string>
+  <string name="dual_app_words">Jokainen tili ansaitsee oman sovelluksensa</string>
   <string name="fastboot_locked_answer_1">Fastboot on perinteinen Mi laitteiden asennusmenetelmä. Kun laite on Fastboot-tilassa, kaikkiin siihen tallennettuihin tietoihin päästään käsiksi ja ne voidaan poistaa suoraan. Lukitsemme Fastbootin varmistaaksemme, että tietosi pysyvät turvallisina, jos hukkaat laitteen ja se takaa myös Etsi laite -ominaisuuksien luotettavuuden.</string>
   <string name="fastboot_locked_answer_2">Jos hukkaat laitteesi, Fastboot takaa laitteeseen tallennettujen tietojen turvallisuuden. Jos avaat Fastbootin, et voi enää lukita laitettasi etäkäytöllä tai poistaa laitteen tietoja käyttämällä Etsi laite -ominaisuutta. Siksi emme suosittele laitteesi Fastbootin avaamista.</string>
   <string name="fastboot_locked_answer_3">Sinun täytyy käyttää avaustyökalua (unlock tool) MIUI:n verkkosivuilta. Jotta voit avata laitteen, meidän täytyy varmistaa, että laite kuuluu sinulle. Siksi sinun pitäisi kirjautua sisään Mi Tililläsi ja ottaa Etsi laite -ominaisuus käyttöön.</string>
@@ -30,6 +49,7 @@
   <string name="pm_lable_name">Tietoa root-oikeuksista</string>
   <string name="privacy_declare_dialog_title">Palveluehdot</string>
   <string name="privacy_prompt_traffic_purchase_message">Puhelinnumerosi ja operaattorisi tiedot salataan ja lähetetään Mi:n palvelimille, jotta saadaan tietoa datan oston vaihtoehdoista.</string>
+  <string name="search_menu_title">Haku</string>
   <string name="share">Jaa</string>
   <string name="title_share_link">Jaa URL-osoite</string>
   <string name="usage_sorted_loading_text">Odota hetki…</string>

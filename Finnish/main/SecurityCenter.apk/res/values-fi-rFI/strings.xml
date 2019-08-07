@@ -1738,6 +1738,10 @@ Kokeile käyttää toista ethernet-kaapelia reitittimesi yhdistämiseen. Jos luu
   <string name="power_save_mode_summary">Seuraa taustaprosesseja ja poista synkronointi käytöstä.</string>
   <string name="power_save_on_time_end_time_summary_na">Minne</string>
   <string name="power_save_on_time_start_time_summary_na">Mistä</string>
+  <string name="power_save_ps_clean">Tyhjennä välimuisti kun laite lukitaan</string>
+  <string name="power_save_ps_close_setting">Poista taustapalvelut käytöstä (synkronointi, GPS) säästääksesi virtaa</string>
+  <string name="power_save_ps_freeze">Jäädytä tustalla olevat sovellukset</string>
+  <string name="power_save_ps_limit">Rajoita järjestelmäsovelluksien aktiviteettia</string>
   <string name="power_save_started_summary_text">Virransäästäjä on käytössä. Se vähentää sovelluksien taustatyöskentelyä, lopettaa synkronoinnin ja minimoi järjestelmän animaatioita.</string>
   <string name="power_save_summary_text">Vähennä sovellusten taustatyöskentelyä, lopeta synkronointi ja minimoi järjestelmän animaatioita ottamalla Virransäästö käyttöön.</string>
   <string name="power_save_title_text">Virransäästö</string>

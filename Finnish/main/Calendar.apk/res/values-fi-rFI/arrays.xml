@@ -94,13 +94,6 @@
         <item>5</item>
         <item>Ligue 1</item>
     </string-array>
-    <string-array name="ordinal_labels">
-        <item>ensimmäinen</item>
-        <item>toinen</item>
-        <item>kolmas</item>
-        <item>neljäs</item>
-        <item>viimeinen</item>
-    </string-array>
     <string-array name="pisces_info">
         <item>kalat</item>
         <item>Kalat</item>
@@ -212,6 +205,43 @@
         <item>viikko</item>
         <item>kuukausi</item>
         <item>vuosi</item>
+    </string-array>
+    <string-array name="repeat_monthly_on_day_count_values">
+        <item>ensimmäinen Maanantai</item>
+        <item>ensimmäinen Tiistai</item>
+        <item>ensimmäinen Keskiviikko</item>
+        <item>ensimmäinen Torstai</item>
+        <item>ensimmäinen Perjantai</item>
+        <item>ensimmäinen Lauantai</item>
+        <item>ensimmäinen Sunnuntai</item>
+        <item>toinen Maanantai</item>
+        <item>toinen Tiistai</item>
+        <item>toinen Keskiviikko</item>
+        <item>toinen Torstai</item>
+        <item>toinen Perjantai</item>
+        <item>toinen Lauantai</item>
+        <item>toinen Sunnuntai</item>
+        <item>kolmas Maanantai</item>
+        <item>kolmas Tiistai</item>
+        <item>kolmas Keskiviikko</item>
+        <item>kolmas Torstai</item>
+        <item>kolmas Perjantai</item>
+        <item>kolmas Lauantai</item>
+        <item>kolmas Sunnuntai</item>
+        <item>neljäs Maanantai</item>
+        <item>neljäs Tiistai</item>
+        <item>neljäs Keskiviikko</item>
+        <item>neljäs Torstai</item>
+        <item>neljäs Perjantai</item>
+        <item>neljäs Lauantai</item>
+        <item>neljäs Sunnuntai</item>
+        <item>viime Maanantai</item>
+        <item>viime Tiistai</item>
+        <item>viime Keskiviikko</item>
+        <item>viime Torstai</item>
+        <item>viime Perjantai</item>
+        <item>viime Lauantai</item>
+        <item>viime Sunnuntai</item>
     </string-array>
     <string-array name="response_labels1">
         <item>Ei vastausta</item>
