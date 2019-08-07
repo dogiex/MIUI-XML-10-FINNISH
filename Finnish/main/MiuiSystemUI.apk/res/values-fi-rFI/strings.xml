@@ -1142,7 +1142,6 @@ Kaikki käyttäjät voivat päivittää kaikkien käyttäjien sovelluksia."</str
   <string name="battery_low_percent_format">%d%% jäljellä</string>
   <string name="battery_low_percent_format_save_mode_closed">Akkua on jäljellä alle %d%%. Lataa laitteesi.</string>
   <string name="battery_low_percent_format_save_mode_open">Akkua on jäljellä alle %d%%. Säästä virtaa ottamalla Virransäästö käyttöön.</string>
-  <string name="battery_low_percent_format_saver_started">%s jäljellä. Virransäästö on käytössä.</string>
   <string name="battery_low_title">Akku on vähissä</string>
   <string name="battery_low_title_power_save">Virransäästö</string>
   <string name="battery_profiles">Käytä akun profiileja</string>
@@ -1602,35 +1601,6 @@ Saat lisätietoja järjestelmänvalvojalta."</string>
   <string name="power_discharge_by_only_enhanced">Pitäisi kestää noin %1$s asti, perustuen käyttöösi</string>
   <string name="power_discharging_duration">Noin %1$s jäljellä (%2$s)</string>
   <string name="power_discharging_duration_enhanced">Noin %1$s jäljellä, perustuen käyttöösi (%2$s)</string>
-  <string name="power_notification_controls_description">"Ilmoituksen tärkeystason hallinnalla voit asettaa sovelluksen ilmoituksille tärkeystason väliltä 0-5. 
-
-"&lt;b&gt;Taso 5&lt;/b&gt;" 
-- Näytä ilmoitusluettelon kärjessä 
-- Salli kokonäytön keskeytykset 
-- Salli kurkista aina 
-
-"&lt;b&gt;Taso 4&lt;/b&gt;" 
-- Estä kokonäytön keskeytykset 
-- Salli kurkistaminen aina 
-
-"&lt;b&gt;Taso 3&lt;/b&gt;" 
-- Estä kokonäytön keskeytykset 
-- Estä kurkistaminen 
-
-"&lt;b&gt;Taso 2&lt;/b&gt;" 
-- Estä kokonäytön keskeytykset 
-- Estä kurkistaminen 
-- Älä päästä ääniä tai värinää 
-
-"&lt;b&gt;Taso 1&lt;/b&gt;" 
-- Estä kokonäytön keskeytykset 
-- Estä kurkistaminen 
-- Älä päästä ääniä tai värinää 
-- Piilota lukitusnäytöltä ja tilapalkista 
-- Näytä ilmoitusluettelon pohjalla 
-
-"&lt;b&gt;Taso 0&lt;/b&gt;" 
-- Estä sovelluksen kaikki ilmoitukset "</string>
   <string name="power_remaining_charging_duration_only">%1$s jäljellä kunnes täynnä</string>
   <string name="power_remaining_duration_only">Noin %1$s jäljellä</string>
   <string name="power_remaining_duration_only_enhanced">Noin %1$s jäljellä perustuen käyttöösi</string>
@@ -1652,7 +1622,6 @@ Saat lisätietoja järjestelmänvalvojalta."</string>
   <string name="private_dns_mode_provider">Yksityisen DNS-tarjoajan isäntänimi</string>
   <string name="private_dns_mode_provider_failure">Ei voitu yhdistää</string>
   <string name="private_dns_mode_provider_hostname_hint">Syötä DNS-tarjoajan isäntänimi</string>
-  <string name="profile_owned_footer">Profiilia voidaan tarkkailla</string>
   <string name="prompt_danger">Vaara</string>
   <string name="prompt_detecting">Havaitaan</string>
   <string name="prompt_failure">Virhe</string>
