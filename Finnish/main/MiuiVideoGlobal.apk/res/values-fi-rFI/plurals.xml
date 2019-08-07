@@ -36,4 +36,8 @@
         <item quantity="other">Näytä kaikki %d kommenttia</item>
         <item quantity="one">Näytä %d kommentti</item>
     </plurals>
+    <plurals name="subscriber">
+        <item quantity="other"> tilaajaa</item>
+        <item quantity="one"> tilaaja</item>
+    </plurals>
 </resources>

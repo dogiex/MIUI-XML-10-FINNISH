@@ -726,11 +726,11 @@ Ultralaajakulmatila tulee apuun, kun et voi liikkua kauemmaksi kohteestasi."</st
   <string name="video_ultra_clear_tip">4K UHD</string>
   <string name="view_privacy_policy">Näytä Tietosuojakäytäntö</string>
   <string name="wideselfie_press_shoot_key_to_start">Napauta sulkijapainiketta</string>
-  <string name="wideselfie_result_image_lossless">Panoramaa ei voitu tallentaa</string>
+  <string name="wideselfie_result_image_lossless">Panoramakuvaa ei voitu luoda</string>
   <string name="wideselfie_rotate_slowly">Käännä puhelinta hitaasti sivuttain</string>
   <string name="wideselfie_rotate_to_back">Kallista puhelinta taaksepäin</string>
   <string name="wideselfie_rotate_to_front">Kallista puhelinta eteenpäin</string>
-  <string name="wideselfie_rotate_to_left_slowly">Käännä puhelinta hitaasti vasemmalle</string>
-  <string name="wideselfie_rotate_to_right_slowly">Käännä puhelinta hitaasti oikealle</string>
+  <string name="wideselfie_rotate_to_left_slowly">Käännä puhelinta vasemmalle</string>
+  <string name="wideselfie_rotate_to_right_slowly">Käännä puhelinta oikealle</string>
   <string name="zoom_no_support_tip_48M">Zoomaus ei toimi 48MP-tilassa</string>
 </resources>
