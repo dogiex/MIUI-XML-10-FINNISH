@@ -101,7 +101,6 @@
   <string name="popup_camera_calibrate_now">Kalibroi</string>
   <string name="popup_camera_calibrate_success">Kalibroitiin onnistuneesti. Voit avata etukameran nyt.</string>
   <string name="popup_camera_front_failed">Etukameraa ei voitu avata. Yritä uudelleen</string>
-  <string name="popup_camera_front_falied_times">Etukameraa ei voitu avata useaan kertaan. Vie laitteesi lähimpään Mi Homeen, jotta ongelma voidaan tutkia.</string>
   <string name="popup_camera_popup_falied_times_calibrate">Etukameraa ei voitu avata useaan kertaan. Yritä kameran kalibrointia.</string>
   <string name="popup_camera_sure">Selvä</string>
   <string name="popup_camera_sure_wait">Selvä (%d s)</string>

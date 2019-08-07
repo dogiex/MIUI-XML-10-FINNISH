@@ -105,6 +105,7 @@
   <string name="feedback_description">Kuvaus</string>
   <string name="feedback_description_bugreport_hint">Jossain tapauksissa (…) puhelimeni käyttäytyy omituisesti (…).</string>
   <string name="feedback_description_hint">Kuvaile ongelmaasi</string>
+  <string name="feedback_description_hint_suggestion">Kerro meille kuinka parantaisit MIUI:ta.</string>
   <string name="feedback_description_label">Kuvaus</string>
   <string name="feedback_description_suggest_hint">Haluaisin, että lisäätte uuden ominaisuuden (…) koska tarvitsen (…)."</string>
   <string name="feedback_detail_tile">Edistyminen</string>
@@ -113,6 +114,7 @@
   <string name="feedback_history_remind_login_desc">Kirjaudu Mi Tiliisi nähdäksesi lisätietoja ja virheilmoituksesi edistymistä</string>
   <string name="feedback_id">ID: %d</string>
   <string name="feedback_jira_key">JIRA Avain: %s</string>
+  <string name="feedback_jira_key_place_holder">Luodaa Jiraa…</string>
   <string name="feedback_package_log_failed">Lokitietoja ei voitu pakata</string>
   <string name="feedback_phone_model_label">Puhelimen malli</string>
   <string name="feedback_probability_label">Todennäköisyys</string>

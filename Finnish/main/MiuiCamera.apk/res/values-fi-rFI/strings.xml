@@ -708,12 +708,14 @@ Ultralaajakulmatila tulee apuun, kun et voi liikkua kauemmaksi kohteestasi."</st
   <string name="ultra_wide_mode_use_hint_text_sat">"Kokeile 0.6X Ultralaajakulmatilaa sisältääksesi kuvaasi lisää näkymää.
 Ultralaajakulmatila tulee apuun, kun et voi liikkua kauemmaksi kohteestasi."</string>
   <string name="ultra_wide_open_tip">Ultralaajakulmatila</string>
+  <string name="ultra_wide_open_tip_sat">0.6X Ultralaajakulma</string>
   <string name="ultra_wide_recommend_tip_hint">Kokeile Ultralaajakulmatilaa</string>
   <string name="user_agree">Hyväksy</string>
   <string name="user_agreement2">Palveluehdot</string>
   <string name="user_agreement4">Tietosuojakäytäntö</string>
   <string name="user_notice_identify_summary_format">Käyttämällä tätä palvelua, hyväksyt Xiaomin %1$s ja %2$s. Hyväksytkö internetiin yhdistämisen?</string>
   <string name="user_notice_title">Käyttöehdot</string>
+  <string name="video_beauty_tip">Videon kaunistaminen</string>
   <string name="video_camera_label">Videokamera</string>
   <string name="video_effect_entry_blackwhite">M&amp;V</string>
   <string name="video_effect_entry_bygone">Entisaika</string>
