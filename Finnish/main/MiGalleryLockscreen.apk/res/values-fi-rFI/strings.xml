@@ -174,6 +174,8 @@
   <string name="liked">Lisättiin suosikkeihin</string>
   <string name="lks_left_net_deny">Verkkoyhteys on rajoitettu</string>
   <string name="lks_left_net_error">Verkkoyhteyttä ei voitu muodostaa.</string>
+  <string name="lks_left_top_notice">Siirry takaisin ylös napauttamalla tähän</string>
+  <string name="lks_left_top_notice_refresh">Näytä uudet kohteet napauttamalla</string>
   <string name="lks_logo_desc2">Tuoreita taustakuvia päivittäin</string>
   <string name="lks_subscription_toast">Taustakuva vaihdettiin onnistuneesti</string>
   <string name="llks_pop_btm_des">Aloita päiväsi hymyllä</string>
@@ -185,6 +187,16 @@
   <string name="llks_pop_top_des_backup">Toimitettuna näytöllesi päivittäin</string>
   <string name="llks_pop_top_title">Uusia taustakuvia</string>
   <string name="llks_pop_top_title_backup">Tuoreita kuvia</string>
+  <string name="llks_setting_view_title">Lisänäyttö</string>
+  <string name="llks_simple_mode">Litetila</string>
+  <string name="llks_simple_mode_desc">Yksinkertaistettu asettelu ja lisää pikakuvakkeita</string>
+  <string name="llks_standard_mode">Oletus</string>
+  <string name="llks_standard_mode_desc">Taustakuvat, tarinat, päivittäiset suositukset</string>
+  <string name="llks_tools_gallery_name">Taustakuvan Karuselli</string>
+  <string name="llks_tools_nfc_data">%s CNY</string>
+  <string name="llks_tools_nfc_name">NFC</string>
+  <string name="llks_tools_remote_control_name">Mi Remote</string>
+  <string name="llks_tools_smart_devices_name">Mi Home</string>
   <string name="load_hdpicture_complete">Alkuperäinen kuva ladattiin onnistuneesti</string>
   <string name="loading">Odota hetki</string>
   <string name="lock_screen_date">"EEEE d. MMMM'ta'"</string>
@@ -360,6 +372,8 @@
   <string name="sst_wallpaper_history_title">Historia</string>
   <string name="sst_wifi_only_desc">Poista käytöstä päivittääksesi taustakuvat vain Wi-Fi-yhteydellä</string>
   <string name="sst_wifi_only_title">Päivitä taustakuvat mobiilidatalla</string>
+  <string name="subscribe_apply_wp">Lukitusnäytön taustakuva asetettiin onnistuneesti</string>
+  <string name="subscribe_dlg_content">Tilatessasi saat tuoreita taustakuvia ja aamutervehdyksiä päivittäin suoraan Lukitusnäytöllesi.</string>
   <string name="subscribe_item_checked">Tilattu</string>
   <string name="subscribe_item_unchecked">Ei tilattu</string>
   <string name="summary">Hyväksymällä Tietosuojakäytäntömme näet online sisällön. Jos et hyväksy, laitteessa olevat taustakuvat ovat silti käytettävissä.</string>
@@ -382,6 +396,7 @@
   <string name="toast_ad_down_tip2">Ladataan %s…</string>
   <string name="toast_load_hd_fail">Alkuperäistä kuvaa ei voitu ladata</string>
   <string name="toast_neterror_tip">Tapahtui verkkovirhe</string>
+  <string name="toast_update_no_more_newest_feeds">Ei uusia kohteita juuri nyt</string>
   <string name="top_search_tip">Hae tykkäämiäsi kategorioita</string>
   <string name="uninstall_introducation_text_desc">Taustakuvan Karuselli tuo uusia laadukkaita kuvia suoraan Lukitusnäytöllesi. Varmista, että voit elää ilman näitä ominaisuuksia, ennen kuin poistat sovelluksen.</string>
   <string name="uninstall_introduction_text_title">Tietoja Taustakuvan Karusellista</string>

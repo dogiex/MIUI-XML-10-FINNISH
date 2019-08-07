@@ -4,6 +4,14 @@
         <item quantity="other">%d artikkelia tästä aiheesta</item>
         <item quantity="one">%d artikkeli tästä aiheesta</item>
     </plurals>
+    <plurals name="llks_tools_remote_control_data">
+        <item quantity="other">%d kohdetta</item>
+        <item quantity="one">%d kohde</item>
+    </plurals>
+    <plurals name="llks_tools_smart_devices_data">
+        <item quantity="other">%d laitetta</item>
+        <item quantity="one">%d laite</item>
+    </plurals>
     <plurals name="lockscreen_magazine_subscribe">
         <item quantity="other">%1$s seuraajaa</item>
         <item quantity="one">%1$s seuraaja</item>
