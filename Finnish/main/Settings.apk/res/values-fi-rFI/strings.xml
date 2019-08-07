@@ -1196,10 +1196,14 @@ Tämän ominaisuuden voi poistaa käytöstä [Asetuksista]"</string>
   <string name="checking_for_updates">Tarkistetaan päivityksiä…</string>
   <string name="child_mode_settings">Lapsilukko</string>
   <string name="choose_a_card_to_reset">Valitse tyhjennettävä SIM-kortti</string>
+  <string name="choose_keyguard_clock_style">Lukitusnäytön kellon muoto</string>
+  <string name="choose_keyguard_clock_summary">Tämä asetus ei toimi kolmansien osapuolien teemoilla</string>
   <string name="choose_profile">Valitse profiili</string>
   <string name="choose_smartcover_type">Valitse kotelon tyyppi</string>
   <string name="choose_spell_checker">Valitse oikoluku</string>
   <string name="choose_timezone">Valitse aikavyöhyke</string>
+  <string name="choose_unlock_face_msg">Aseta näytön lukitus ennen kasvojen tietojen tallentamista.</string>
+  <string name="choose_unlock_fingerprint_msg">Aseta näytön lukitus ennen sormenjäljen lisäämistä.</string>
   <string name="choose_voice_input_title">Valitse äänisyöte</string>
   <string name="cleaner">Puhdistaja</string>
   <string name="clear_activities">Tyhjennä oletukset</string>
@@ -2270,7 +2274,6 @@ Varmuuskopioita ei vähennetä Drive-tallennustilan kiintiöstäsi. Suuria ja ke
   <string name="gxzw_add_fingerprint_put_finger_title">Paina ja nosta värinän jälkeen</string>
   <string name="gxzw_add_fingerprint_title">Lisää sormenjälkesi</string>
   <string name="gxzw_anim_light">Neon</string>
-  <string name="gxzw_anim_metal">Metalli</string>
   <string name="gxzw_anim_pulse">Syke</string>
   <string name="gxzw_anim_rhythm">Rytmi</string>
   <string name="gxzw_anim_star">Tähtien valo</string>
@@ -2346,7 +2349,7 @@ Voit muuttaa tätä asetusta myöhemmin kohdassa Asetukset > Sovellukset ja ilmo
   <string name="ignore_optimizations_on">Älä optimoi</string>
   <string name="ignore_optimizations_on_desc">Akku voi tyhjentyä tavallista nopeammin.</string>
   <string name="ignore_optimizations_title">Saako %s ohittaa akun optimoinnit?</string>
-  <string name="ime_security_warning">%1$s voi kerätä kaiken, mitä kirjoitat, mukaan lukien salasanat, luottokortin numerot ja muut henkilökohtaiset tiedot.</string>
+  <string name="ime_security_warning">%1$s saattaa kerätä kaiken, mitä kirjoitat, mukaan lukien salasanat, luottokortin numerot ja muut henkilökohtaiset tiedot.</string>
   <string name="imei_information_summary">IMEI-koodiin liittyvät tiedot</string>
   <string name="imei_information_title">IMEI-koodin tiedot</string>
   <string name="immediately_destroy_activities">Älä säilytä toimintoja</string>
@@ -2985,6 +2988,8 @@ Tällä laitteella on muita paikalla olevia käyttäjiä.
   <string name="miui_lab_features">MIUI lab ominaisuudet</string>
   <string name="miui_lab_gallery_search_desc">Paranneltu kuvahaku</string>
   <string name="miui_lab_gallery_search_title">Löydä kuvia Galleriassa</string>
+  <string name="miui_lab_gesture_desc">Poista fyysiset painikkeet käytöstä ja nauti kokonäytön eleistä</string>
+  <string name="miui_lab_gesture_title">Kokonäytön eleet</string>
   <string name="miui_lab_install_drive_mode_error">Ei voitu asentaa, yritä uudelleen.</string>
   <string name="miui_lab_install_drive_mode_summary">Autotila on järjestelmäsovellus. Asentaminen ei vaadi internetyhteyttä.</string>
   <string name="miui_lab_install_drive_mode_title">Asenna Autotila</string>
@@ -3556,7 +3561,7 @@ OTG poistetaan käytöstä automaattisesti, kun sitä ei käytetä 10 minuuttiin
   <string name="passpoint_content">Kohteen %1$s kirjautumistiedot</string>
   <string name="passpoint_label">Tallennettu seuraavan kautta:</string>
   <string name="passwordIncorrect">Syöttämäsi salasana on väärä</string>
-  <string name="password_entrance_title">Näytön lukitus</string>
+  <string name="password_entrance_title">Aseta näytön lukitus</string>
   <string name="password_guard">Salasana</string>
   <string name="password_turned_off_text">Salasana ei ole käytössä</string>
   <string name="password_turned_on_text">Salasana on käytössä</string>
@@ -4259,6 +4264,7 @@ Näytön kiinnittäminen:
   <string name="search_advanced_settings">Lisäasetukset;Wifi;Wifi asetukset;WLAN asetukset</string>
   <string name="search_airplane_mode">Lentokonetila;Lentokone tila;Lentotila;Lentokone;Lento</string>
   <string name="search_alarm_sound_title">Herätyksen oletusääni;hälytyksen ääni;herätyksen ääni;herätys;hälytys</string>
+  <string name="search_ambient_display_screen_title">Ambient-näyttö</string>
   <string name="search_android_beam_settings_title">NFC;Android Beam;Beam</string>
   <string name="search_apn_settings">APN;APN nimet;Tukiasemien nimet</string>
   <string name="search_app_invisible">Sovellus näkymätön;Näkymätön sovellus</string>
@@ -4296,6 +4302,7 @@ Näytön kiinnittäminen:
   <string name="search_dndm_vip_call_setting_title">VIP;Poikkeukset;Poikkeuslista</string>
   <string name="search_dndm_wristband">Aktivoi Mi Bandilla;Mi Band</string>
   <string name="search_do_not_disturb_mode">Älä häiritse</string>
+  <string name="search_doze_always_on_title">Aina käytössä</string>
   <string name="search_dtmf_tone_enable_title">Ota Numeronäppäimistön kosketusäänet käyttöön;Numeronäppäimistön kosketusäänet;kosketusäänet;numeronäppäimistön äänet;</string>
   <string name="search_empty">Ei hakutuloksia</string>
   <string name="search_enable_adb">USB-vianetsintä</string>
@@ -4586,7 +4593,6 @@ Huom. Tämän laitteen lukitusta ei voi avata sormenjäljellä. Saat lisätietoj
   <string name="settings_safetylegal_activity_unreachable">Laite ei ole yhteydessä verkkoon. Voit tarkastella näitä tietoja osoitteessa %s tietokoneella, jolla on internetyhteys.</string>
   <string name="settings_safetylegal_title">Suojaustiedot</string>
   <string name="settings_shortcut">Asetukset-pikakuvake</string>
-  <string name="setup_choose_unlock_fingerprint_msg">Aseta näytön lukitus, ennen kuin lisäät sormenjälkesi.</string>
   <string name="setup_choose_unlock_mixed_password">Salasana</string>
   <string name="setup_choose_unlock_mixpassword_title">Aseta salasana</string>
   <string name="setup_choose_unlock_password">PIN-koodi</string>
@@ -5360,12 +5366,13 @@ Se on Googlen tapa synkronoida tietoja, ja sen avulla voit käyttää yhteystiet
   <string name="usage_log">Sovelluksen käyttöstatistiikka</string>
   <string name="usage_state_app_timer">Käyttöaika</string>
   <string name="usage_state_app_usage_detail_title">Sovelluksen käyttötiedot</string>
-  <string name="usage_state_app_usage_list_title">Sovellusten käyttöaika tänään</string>
-  <string name="usage_state_app_usage_list_week_title">Sovellusten käyttöaika (viimeiset 7 päivää)</string>
+  <string name="usage_state_app_usage_list_title">Sovellusten käyttöaika</string>
+  <string name="usage_state_app_usage_list_week_title">Sovellusten käyttöaika</string>
   <string name="usage_state_app_usage_tip_title" formatted="false">Käyttöaika aikavälillä %d:00 ja %d:00</string>
   <string name="usage_state_app_use_time">Sovelluksen käyttöaika</string>
   <string name="usage_state_channel_mouth">Viimeiset 30 päivää</string>
   <string name="usage_state_channel_week">Viimeiset 7 päivää</string>
+  <string name="usage_state_date">d.M.</string>
   <string name="usage_state_device_noti_today_tip_title" formatted="false">Ilmoitukset aikavälillä %d:00 ja %d:00</string>
   <string name="usage_state_device_unlock_today_tip_title" formatted="false">Laite avattiin aikavälillä %d:00 ja %d:00</string>
   <string name="usage_state_friday">Pe</string>
@@ -5373,8 +5380,8 @@ Se on Googlen tapa synkronoida tietoja, ja sen avulla voit käyttää yhteystiet
   <string name="usage_state_hour_minute" formatted="false">%d t %d min</string>
   <string name="usage_state_less_one_minute">Alle 1 minuutin</string>
   <string name="usage_state_monday">Ma</string>
-  <string name="usage_state_mourth_day">Käyttöaika ajalle d.M.</string>
-  <string name="usage_state_noti_mourth_day">Ilmoitukset ajalle d.M.</string>
+  <string name="usage_state_mourth_day">Käyttöaika ajalle %s</string>
+  <string name="usage_state_noti_mourth_day">Ilmoitukset ajalle %s</string>
   <string name="usage_state_notification">Hallitse ilmoituksia</string>
   <string name="usage_state_notification_manager">Hallitse sovellusilmoituksia</string>
   <string name="usage_state_remind_summary">Ota käyttöön saadaksesi käyttöajan hälytyksiä. Voit asettaa eri aikarajoja arkipäiville ja viikonlopuille.</string>
@@ -5387,7 +5394,7 @@ Se on Googlen tapa synkronoida tietoja, ja sen avulla voit käyttää yhteystiet
   <string name="usage_state_today">Tänään</string>
   <string name="usage_state_today_total_text">Käyttöaika tänään</string>
   <string name="usage_state_tuesday">Ti</string>
-  <string name="usage_state_unlock_mourth_day">Avattiin ajalle d.M.</string>
+  <string name="usage_state_unlock_mourth_day">Avattiin ajalle %s</string>
   <string name="usage_state_usage_time">Käyttöaika</string>
   <string name="usage_state_usage_time_remind">Käyttöajan hälytys</string>
   <string name="usage_state_use_time_remind_title">Käyttöajan hälytys</string>
@@ -5434,7 +5441,7 @@ Se on Googlen tapa synkronoida tietoja, ja sen avulla voit käyttää yhteystiet
   <string name="usagestats_app_category_miui_video_etc">Musiikki ja video</string>
   <string name="usagestats_device_notification_des">Käyttöajan raja tälle päivälle: %s</string>
   <string name="usagestats_device_notification_des_over">Olet saavuttanut jo tämän päivän käyttöajan rajan.</string>
-  <string name="usagestats_device_notification_des_reset" formatted="false">Käyttöajan raja tälle päivälle: %s | %s jäljellä</string>
+  <string name="usagestats_device_notification_des_reset" formatted="false">Päivän raja: %s | %s jäljellä</string>
   <string name="usagestats_device_notification_title">Käyttöajan hälytys</string>
   <string name="usagestats_device_timeout_des" formatted="false">Olet käyttänyt laitettasi tänään %d t %d min. Pidä pieni tauko!</string>
   <string name="usagestats_device_timeout_negative">Muistuta tunnin päästä</string>

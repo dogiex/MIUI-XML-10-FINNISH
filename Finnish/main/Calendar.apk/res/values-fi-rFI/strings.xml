@@ -169,6 +169,8 @@
   <string name="edit_event_confirm_message">Hylätäänkö muutokset?</string>
   <string name="edit_event_countdown_name_empty_hint">Syötä tapahtuman nimi</string>
   <string name="edit_event_countdown_name_hint">Tapahtuma</string>
+  <string name="edit_event_custom_reminder_time_dup">Mukautettu muistutus: %1$s</string>
+  <string name="edit_event_custom_reminder_title">Aseta mukautettu muistutus</string>
   <string name="edit_event_dislike_title">Miksi peruutit?</string>
   <string name="edit_event_from_label">Alkaa</string>
   <string name="edit_event_input_year">Syötä vuosi</string>
@@ -202,8 +204,6 @@
   <string name="event_action_edit">Muokkaa</string>
   <string name="event_all_day_label">Koko päivä</string>
   <string name="event_create">Uusi tapahtuma</string>
-  <string name="event_created_fail_text">创建赛事提醒失败</string>
-  <string name="event_created_text">已创建赛事提醒</string>
   <string name="event_delete">Poista tapahtuma</string>
   <string name="event_edit">Muokkaa tapahtumaa</string>
   <string name="event_info_descrip">Kuvaus</string>
@@ -219,9 +219,9 @@
   <string name="event_info_title_invite">Kokouskutsu</string>
   <string name="event_info_when">Milloin</string>
   <string name="event_info_where">Missä</string>
-  <string name="event_lunar_month">月</string>
   <string name="event_reminder_allday_day_zero">Samana päivänä klo %2$s</string>
-  <string name="event_reminder_value_zero">Ennen tapahtumaa</string>
+  <string name="event_reminder_custom">Mukautettu</string>
+  <string name="event_reminder_value_zero">Tapahtuman alkaessa</string>
   <string name="event_title">Otsikko</string>
   <string name="event_view">Näytä tapahtuma</string>
   <string name="every_weekday">Maanantaista Perjantaihin</string>

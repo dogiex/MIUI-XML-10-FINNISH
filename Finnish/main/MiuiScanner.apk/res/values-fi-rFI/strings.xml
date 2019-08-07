@@ -37,6 +37,7 @@
   <string name="business_card">Käyntikortti</string>
   <string name="business_card_result_title">Käyntikortti</string>
   <string name="business_card_title">Aseta käyntikortti kehyksen sisälle</string>
+  <string name="business_card_with_qr_code">Aseta käyntikortti tai QR-koodi kehyksen sisälle</string>
   <string name="business_copy">Kopioi</string>
   <string name="business_new_contacts">Luo yhteystieto</string>
   <string name="business_no_result">Käyntikorttia ei tunnistettu. Yritä uudelleen.</string>

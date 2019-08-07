@@ -52,6 +52,12 @@
   <string name="catch_full_log_item_title_wifi">Wi-Fi ja Mi Drop</string>
   <string name="catch_full_log_notification_content">Napauta palataksesi takaisin lokeihin</string>
   <string name="catch_full_log_notification_title">Luodaan lokia…</string>
+  <string name="catch_full_log_privacy_content_audio">Olet luomassa lokeja ja tallentamassa niitä laitteellesi. Lokit saattaa sisältää tietoja laitteesi äänistä, sisältäen toistahistorian ja nauhoitushistoria. Ole varovainen ja älä jaa näitä lokeja toisille henkilöille. Napauttamalla alapuolella olevaa \"Hyväksyn\" painiketta hyväksyt, että keräämme yllä mainitut lokien luomat tiedot ja lähetämme lokit meidän palvelimille paikantaaksemme ja ratkaistaksemme ilmoittamasi ongelmat.</string>
+  <string name="catch_full_log_privacy_content_bt">Olet luomassa lokeja ja tallentamassa niitä laitteellesi. Lokit saattaa sisältää Bluetooth-laitteen käyttötietoja (mukaan lukien puheluhistorian, viestit, siirretyt tiedostot jne.). Ole varovainen ja älä jaa näitä lokeja toisille henkilöille. Napauttamalla alapuolella olevaa \"Hyväksyn\" painiketta hyväksyt, että keräämme yllä mainitut lokien luomat tiedot ja lähetämme lokit meidän palvelimille paikantaaksemme ja ratkaistaksemme ilmoittamasi ongelmat.</string>
+  <string name="catch_full_log_privacy_content_gps">Olet luomassa lokeja ja tallentamassa niitä laitteellesi. Lokit saattaa sisältää henkilötietojasi ja sijaintitietojasi. Ole varovainen ja älä jaa näitä lokeja toisille henkilöille. Napauttamalla alapuolella olevaa \"Hyväksyn\" painiketta hyväksyt, että keräämme yllä mainitut lokien luomat tiedot ja lähetämme lokit meidän palvelimille paikantaaksemme ja ratkaistaksemme ilmoittamasi ongelmat.</string>
+  <string name="catch_full_log_privacy_content_sensor">Olet luomassa lokeja ja tallentamassa niitä laitteellesi. Lokit saattaa sisältää laitteesi antureiden keräämiä tietoja (mukaan lukien ympäristön valoisuusanturi, barometri, askelmittari, magnetometri jne.). Ole varovainen ja älä jaa näitä lokeja toisille henkilöille. Napauttamalla alapuolella olevaa \"Hyväksyn\" painiketta hyväksyt, että keräämme yllä mainitut lokien luomat tiedot ja lähetämme lokit meidän palvelimille paikantaaksemme ja ratkaistaksemme ilmoittamasi ongelmat.</string>
+  <string name="catch_full_log_privacy_content_signal">Olet luomassa lokeja ja tallentamassa niitä laitteellesi. Lokit saattaa sisältää viestisi, puheluhistoriasi, verkkotietosi ja kommunikaatiotiedot. Ole varovainen ja älä jaa näitä lokeja toisille henkilöille. Napauttamalla alapuolella olevaa \"Hyväksyn\" painiketta hyväksyt, että keräämme yllä mainitut lokien luomat tiedot ja lähetämme lokit meidän palvelimille paikantaaksemme ja ratkaistaksemme ilmoittamasi ongelmat.</string>
+  <string name="catch_full_log_privacy_content_wifi">Olet luomassa lokeja ja tallentamassa niitä laitteellesi. Lokit saattaa sisältää henkilötietojasi, sijaintitietojasi mukaan lukien laitteesi IP- ja MAC-osoitteet. Jos olet yhdistettynä suojaamattomaan Wi-Fi-verkkoon, saatamme myös päästä käsiksi osittain kommunikaatiotietoihisi. Ole varovainen ja älä jaa näitä lokeja toisille henkilöille. Napauttamalla alapuolella olevaa \"Hyväksyn\" painiketta hyväksyt, että keräämme yllä mainitut lokien luomat tiedot ja lähetämme lokit meidän palvelimille paikantaaksemme ja ratkaistaksemme ilmoittamasi ongelmat.</string>
   <string name="catch_full_log_start_dump_hprof">Luo viiveloki</string>
   <string name="catch_full_log_submit_directly">Lähetä</string>
   <string name="close_feedback_main">Piilota</string>
@@ -380,7 +386,7 @@
   <string name="toast_report_copied_to_clipboard">Raportti kopioitiin leikepöydälle</string>
   <string name="toast_report_sent_failed">Raporttia ei voida lähettää</string>
   <string name="toast_report_sent_succeed">Raportti on lähetetty</string>
-  <string name="toast_screenshot_too_large">10 Mt suurempia kuvia tai videoita ei voi lähettää.</string>
+  <string name="toast_screenshot_too_large">100 Mt suurempia kuvia tai videoita ei voi lähettää.</string>
   <string name="toast_third_packagename_required">Syötä sovelluksen nimi</string>
   <string name="toast_title_required">Kuvaile ongelmasi</string>
   <string name="topic_author">1#</string>

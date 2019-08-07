@@ -195,7 +195,13 @@
   <string name="guide_install_app_msg">Tätä sovellusta ei ole asennettu laitteellesi. Etsitäänkö ja asennetaanko sovellus nyt?</string>
   <string name="guide_install_app_title">Etsi ja asenna sovellus?</string>
   <string name="guide_tips_editing_mode">Valitse widgetti painamalla ja pitämällä sitä pohjassa</string>
+  <string name="home_gesture_content_center">Sisältökeskus</string>
+  <string name="home_gesture_global_search">Haku</string>
+  <string name="home_gesture_no_action">Ei mitään</string>
+  <string name="home_gesture_notification_bar">Ilmoitukset</string>
+  <string name="home_pull_down_action">Pyyhkäise alaspäin Aloitusnäytöllä</string>
   <string name="home_screen">Aloitusnäyttö</string>
+  <string name="home_slide_up_action">Pyyhkäise ylöspäin Aloitusnäytöllä</string>
   <string name="image_too_small_message">Alkuperäinen kuva ei ole tarpeeksi suuri.</string>
   <string name="install">Asenna</string>
   <string name="invalid_contact_shortcut">Yhteystieto ei kelpaa</string>
@@ -203,6 +209,8 @@
   <string name="is_system_wallpaper_message">Järjestelmän resursseja ei voi poistaa</string>
   <string name="launcher_auto_fill_empty_title">Täytä tyhjät ruudukot</string>
   <string name="launcher_not_exist">Tapahtui virhe. Mene takaisin Aloitusnäytölle ja yritä uudelleen.</string>
+  <string name="launcher_pull_down_title">Pyyhkäise ylöspäin Aloitusnäytöllä</string>
+  <string name="launcher_slide_up_title">Pyyhkäise alaspäin Aloitusnäytöllä</string>
   <string name="launcher_sliding_up_gesture">Avaa hakutoiminto pyyhkäisemällä Aloitusnäytöllä ylöspäin</string>
   <string name="launcher_title">Aloitusnäyttö &amp; Viimeaikaiset</string>
   <string name="like">Lisää suosikkeihin</string>

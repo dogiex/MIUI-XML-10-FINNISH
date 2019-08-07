@@ -250,7 +250,7 @@
      <string name="disable_vpn">Poista VPN käytöstä</string>
      <string name="disconnect_vpn">Katkaise VPN-yhteys</string>
      <string name="dnd_is_off">Älä häiritse on pois käytöstä</string>
-     <string name="dnd_notification_warnings_title">Puhelut ja ilmoitukset mykistetään, kunnes poistat Älä häiritse -tilan käytöstä</string>
+     <string name="dnd_notification_warnings_title">Älä häiritse -tila on käytössä. Puhelut ja ilmoitukset mykistetään.</string>
      <string name="do_disclosure_generic">Yrityksenä hallitsee tätä laitetta</string>
      <string name="do_disclosure_with_name">Tätä laitetta hallitsee %s</string>
      <string name="do_not_silence">Älä hiljennä</string>
@@ -331,6 +331,13 @@
      <string name="face_unlock_sc_status">Paina näyttöä alaspäin avataksesi kameran</string>
      <string name="face_unlock_stay_away_screen">Pysy 25-40 cm etäisyydellä näytöstä</string>
      <string name="face_unlock_success">Kasvojen tiedot vahvistettiin onnistuneesti</string>
+     <string name="face_unlock_success_show_message_dialog_msg">Salli Lukitusnäytön ilmoituksien katselu Lukitusnäytölläsi.</string>
+     <string name="face_unlock_success_show_message_dialog_negative_btn">Ei kiitos</string>
+     <string name="face_unlock_success_show_message_dialog_positive_btn">Salli</string>
+     <string name="face_unlock_success_show_message_dialog_title">Lukitusnäytön ilmoitukset</string>
+     <string name="face_unlock_success_show_message_msg">Näytä vain ilmoituksen lähde laitteen ollessa lukittuna ja lisää ilmoituksen muut tiedot, kun kasvojesi tiedot on vahvistettu</string>
+     <string name="face_unlock_success_show_message_title">Näytä ilmoituksen tiedot kasvojen tietojen vahvistamisen jälkeen</string>
+     <string name="face_unlock_success_show_message_toast">Ilmoitukset näytetään Lukitusnäytöllä</string>
      <string name="face_unlock_success_stay_screen_msg">Pysy Lukitusnäytöllä kasvojentunnistuksen jälkeen. Pyyhkäise ylös avataksesi Aloitusnäytön.</string>
      <string name="face_unlock_success_stay_screen_title">Pysy Lukitusnäytöllä avaamisen jälkeen</string>
      <string name="fingerprint_add_text">Sormenjälkikäyttöliittymä päivitettiin. Lisää sormenjälkesi uudelleen.</string>
@@ -1242,6 +1249,9 @@ Siirtonopeus"</string>
   <string name="category_work">Työ</string>
   <string name="charge_length_format">%1$s sitten</string>
   <string name="chooseUsbActivity">Valitse sovellus USB-laitetta varten</string>
+  <string name="choose_clock_title_left_top">Tasattu vasemmalle</string>
+  <string name="choose_clock_title_middle">Keskitetty</string>
+  <string name="choose_clock_title_vertical">Pystysuora</string>
   <string name="choose_profile">Valitse profiili</string>
   <string name="clear_adb_keys">Peruuta USB-vianetsinnän käyttöoikeudet</string>
   <string name="click_expand">Laajenna napauttamalla</string>

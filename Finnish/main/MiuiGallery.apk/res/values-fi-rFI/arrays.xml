@@ -9,6 +9,10 @@
         <item>Poika</item>
         <item>Tyttö</item>
     </string-array>
+    <string-array name="backup_automatically_key_words">
+        <item>Varmuuskopioi kuvat</item>
+        <item>Synkronoi kuvat Mi Pilven kanssa</item>
+    </string-array>
     <string-array name="last_weekend_title">
         <item>Viikonloppuni</item>
         <item>Pieniä paloja elämää</item>

@@ -296,20 +296,20 @@ Saat lisätietoja varmenteesta järjestelmänvalvojaltasi."</item>
         <item quantity="one">1 kohde</item>
     </plurals>
     <plurals name="usage_state_device_explain_today">
-        <item quantity="other">Avattu %d kertaa tänään</item>
-        <item quantity="one">Avattu %d kerran tänään</item>
+        <item quantity="other">Avattu %d kertaa</item>
+        <item quantity="one">Avattu %d kerran</item>
     </plurals>
     <plurals name="usage_state_device_explain_week">
-        <item quantity="other">Avattu %d kertaa viimeisen 7 päivän aikana</item>
-        <item quantity="one">Avattu %d kerran viimeisen 7 päivän aikana</item>
+        <item quantity="other">Avattu %d kertaa</item>
+        <item quantity="one">Avattu %d kerran</item>
     </plurals>
     <plurals name="usage_state_device_noti_explain_today">
-        <item quantity="other">Vastaanotettu %d ilmoitusta tänään</item>
-        <item quantity="one">Vastaanotettu %d ilmoitus tänään</item>
+        <item quantity="other">Vastaanotettu %d ilmoitusta</item>
+        <item quantity="one">Vastaanotettu %d ilmoitus</item>
     </plurals>
     <plurals name="usage_state_device_noti_explain_week">
-        <item quantity="other">Vastaanotettu %d ilmoitusta viimeisen 7 päivän aikana</item>
-        <item quantity="one">Vastaanotettu %d ilmoitus viimeisen 7 päivän aikana</item>
+        <item quantity="other">Vastaanotettu %d ilmoitusta</item>
+        <item quantity="one">Vastaanotettu %d ilmoitus</item>
     </plurals>
     <plurals name="usage_state_hour">
         <item quantity="other">%d tuntia</item>

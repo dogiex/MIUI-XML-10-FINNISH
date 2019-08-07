@@ -96,6 +96,8 @@ ja optimoi valokuvasi näiden tietojen perusteella"</string>
   <string name="beauty_body_shoulder">Olkapäät</string>
   <string name="beauty_body_slim_count_tip">Vartalon tehosteet toimivat vain yhden henkilön kuvissa</string>
   <string name="beauty_body_whole">Vartalo</string>
+  <string name="beauty_clear">Tyhjennä</string>
+  <string name="beauty_clear_toast">Tyhjennettiin Kauneustehosteet onnistuneesti</string>
   <string name="beauty_fragment_tab_name_3d_beauty">Kauneus</string>
   <string name="beauty_fragment_tab_name_3d_makeup">Meikki</string>
   <string name="beauty_fragment_tab_name_3d_remodeling">Muotoillaan uudelleen</string>
@@ -103,7 +105,7 @@ ja optimoi valokuvasi näiden tietojen perusteella"</string>
   <string name="beauty_fragment_tab_name_makeup">Edistynyt</string>
   <string name="beauty_mode_reset_toast">Poistettiin uudelleenmuotoilutehosteet</string>
   <string name="beauty_reset">Palauta</string>
-  <string name="beauty_reset_toast">Palautettiin vartalon tehosteet onnistuneesti</string>
+  <string name="beauty_reset_toast">Palautettiin Kauneustehosteet onnistuneesti</string>
   <string name="beauty_tab_name_live_beauty">Kaunista</string>
   <string name="beauty_tab_name_live_filter">Suodattimet</string>
   <string name="bokeh_use_hint">Syvyystehoste</string>
@@ -191,6 +193,7 @@ ja optimoi valokuvasi näiden tietojen perusteella"</string>
   <string name="edit_eyebrow_dye">Kulmakarvat</string>
   <string name="edit_face_ruddy">Punertava</string>
   <string name="edit_face_slender">Hoikka</string>
+  <string name="edit_hairline">Hiusraja</string>
   <string name="edit_jelly_lips">Huulikiilto</string>
   <string name="edit_lips">Huulet</string>
   <string name="edit_neck">Kaula</string>

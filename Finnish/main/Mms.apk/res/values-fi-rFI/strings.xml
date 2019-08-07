@@ -179,6 +179,8 @@
   <string name="dialog_message_mx">Mi Viestin avulla voit lähettää viestejä toisille MIUI-käyttäjille ilman maksuja. Mi Viestin aktivoimiseen vaaditaan lähtevä tekstiviesti. Operaattorisi veloittaa sinua tästä viestistä. Sinun täytyy hyväksyä meidän \"%1$s\" ja \"%2$s\" ennen Mi Viestin käyttämistä.</string>
   <string name="dialog_message_networking">Viestisovelluksen täytyy käyttää Keltaisiasivuja tarjotakseen Lähettäjän ID-tunnistuksen. Viestisovelluksen ja Keltaisensivujen on yhdistettävä internetiin ja saatava sijaintitietosi toimiakseen normaalisti. Hyväksytkö?</string>
   <string name="dialog_message_rcs">China Mobile:n viestinnän avulla voit lähettää viestejä toisille China Mobile -käyttäjille Mannerkiinassa ilman maksuja. Sinun täytyy hyväksyä \"%1$s\" ennen China Mobile viestinnän käyttämistä.</string>
+  <string name="dialog_sim_locked_confirm">OK</string>
+  <string name="dialog_sim_locked_message">SIM-korttisi ei toimi kunnolla tämän puhelimen kanssa, koska se ei täytä tilauksesi käyttöehtoja. Jos sinulla on kysyttävää ja tarvitset lisätietoja asiaan liittyen, ota yhteyttä Xiaomin palvelukeskukseen tai kauppaan, joka myi tuotteen sinulle.</string>
   <string name="dialog_title_fake_cell_detect_error">Korjaaminen</string>
   <string name="dialog_title_mx_rcs">Mi Viesti</string>
   <string name="dialog_title_networking">Käyttöehdot</string>

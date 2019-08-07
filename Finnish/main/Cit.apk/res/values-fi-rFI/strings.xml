@@ -505,8 +505,6 @@ Kun olet laittanut tiedoston \"music.mp3\" SD-kortin hakemistoon, napauta näytt
   <string name="cit_tool_check_opt">Oletko varma?</string>
   <string name="cit_tool_check_opt_with_reboot">Käynnistetään uudelleen, oletko varma?</string>
   <string name="cit_tool_current_modem_test_mode">Nykyinen testitila:</string>
-  <string name="cit_tool_dc_backlight_toast_off">DC taustavalo pois käytöstä</string>
-  <string name="cit_tool_dc_backlight_toast_on">DC taustavalo käytössä</string>
   <string name="cit_tool_drx_only">DRX</string>
   <string name="cit_tool_enable_3A_log">Ota 3A loki Switch käyttöön</string>
   <string name="cit_tool_enable_display_3A_log">Ota 3A lokin näyttäminen käyttöön</string>
@@ -659,7 +657,6 @@ The second line shows the name and version number of Default MBN and Carrier MBN
   <string name="cit_wifi_state_refresh">Päivitä</string>
   <string name="cit_yellow_torch_on">Käynnistä keltainen taskulamppu</string>
   <string name="copyright">Copyright © 2015 Goodix All Rights Reserved.</string>
-  <string name="dc_backlight_title">DC taustavalotila alhaiselle valolle</string>
   <string name="delete">Poista</string>
   <string name="description_info">Tietoja</string>
   <string name="dsi_sar_on_off_tips">Dsi Sar Käytössä/Pois käytöstä -kytkin</string>
@@ -735,7 +732,6 @@ testi onnistui, paina Läpäisi-painiketta"</string>
   <string name="noise">noise:</string>
   <string name="none">N/A</string>
   <string name="ok">Ok</string>
-  <string name="open_dc_backlight_summary">Tietyt näyttöasetukset eivät ole yhteensopivia DC taustavalotilan kanssa. Ne kuitenkin palautetaan takaisin, kun poistat tämän tilan käytöstä. Otetaanko DC taustavalotila käyttöön?</string>
   <string name="pass">Läpäisi</string>
   <string name="phone_not_been_restarted">Puhelinta ei ole käynnistetty uudelleen</string>
   <string name="picture">Kuva</string>

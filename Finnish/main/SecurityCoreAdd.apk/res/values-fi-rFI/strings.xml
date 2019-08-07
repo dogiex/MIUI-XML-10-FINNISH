@@ -38,6 +38,7 @@ tämä ominaisuus lisätään Toiseen tilaan automaattisesti."</string>
   <string name="closeSecondSpace">Poista Toinen tila</string>
   <string name="closeSecondSpaceSummary">Poista Toinen tila ja tiedot</string>
   <string name="closeSuccess">Poistettu käytöstä</string>
+  <string name="close_kid_space_success">Poistettiin Lapsitila</string>
   <string name="close_second_space">Toinen tila poistettiin</string>
   <string name="close_second_space_success">Toinen tila poistettiin</string>
   <string name="closed">Pois päältä</string>
@@ -202,6 +203,7 @@ Voit myös ladata ne erikseen."</string>
   <string name="install">Asenna</string>
   <string name="install_error">Ei voitu asentaa. Yritä uudelleen.</string>
   <string name="invalid_qr_code">Virheellinen QR-koodi</string>
+  <string name="kid_mode_label">Lapsitila</string>
   <string name="list_empty_text">Tyhjä</string>
   <string name="list_empty_text_xspace">Asenna WeChat/QQ/Weibo, luo kaksoissovellus ja yritä uudelleen.</string>
   <string name="loading">Odota hetki…</string>

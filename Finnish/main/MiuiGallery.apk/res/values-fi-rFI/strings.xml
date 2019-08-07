@@ -47,6 +47,7 @@
   <!-- miui 10 valmis -->
   <string name="ai_album_open_switch_button_title">Aloita kuvien analysointi</string>
   <string name="ai_album_requesting_title">AI-algoritmi käsittelee vielä kuviasi. Tule takaisin hetken kuluttua.</string>
+  <string name="ai_album_setting_key_word">Hae kuvia</string>
   <string name="ai_album_setting_sub_title">Salli AI-algoritmin tunnistaa henkilöitä, paikkoja ja kuvissa esiintyviä kohteita löytääksesi ne nopeammin.</string>
   <string name="ai_album_setting_title">Tunnista kuvissa esiintyvät kohteet</string>
   <string name="search_empty_title">Etsi kuvissa esiintyviä tiettyjä henkilöitä, paikkoja tai kohteita Galleriassasi</string>
@@ -272,6 +273,8 @@
   <string name="backuped_title">Varmuuskopioitiin onnistuneesti</string>
   <string name="backuping_title_gprs">Varmuuskopioidaan käyttämällä mobiilidataa…</string>
   <string name="backuping_title_normal">Varmuuskopioidaan…</string>
+  <string name="base_btn_cancel">Peruuta</string>
+  <string name="base_btn_download">Lataa</string>
   <string name="begin_share">Luotiin Vauva albumi \"%s\", voit jakaa sen nyt</string>
   <string name="begin_share_toast">Luodaanko erillinen albumi tälle lapselle ennen jakamista?</string>
   <string name="blank_app_name"/>
@@ -992,6 +995,7 @@ on käytettävissä"</string>
   <string name="filter_category_master">Mestari</string>
   <string name="filter_category_portrait">Muotokuva</string>
   <string name="filter_category_scene">Maisema</string>
+  <string name="filter_category_sky">Taivas</string>
   <string name="filter_film_blackwhite">M&amp;V</string>
   <string name="filter_film_dew">Kaste</string>
   <string name="filter_film_fade">Häivytä</string>
@@ -1034,6 +1038,17 @@ on käytettävissä"</string>
   <string name="filter_scene_series">Heijastukset</string>
   <string name="filter_scene_vivid">Eloisa</string>
   <string name="filter_scene_warm">Aurinko</string>
+  <string name="filter_sky_cloudy">Pilvinen</string>
+  <string name="filter_sky_detect_forbidden_tips">Taivasta ei tunnistettu</string>
+  <string name="filter_sky_download_failed">Liitännäistä ei voitu ladata. Tarkista verkkoyhteytesi ja yritä uudelleen.</string>
+  <string name="filter_sky_download_finish">Liitännäinen ladattiin onnistuneesti</string>
+  <string name="filter_sky_download_sdk_without_wifi_msg">Jos et ole yhteydessä Wi-Fiin, voit käyttää mobiilidataa liitännäisen (%1$d Mt) lataamiseen, joka sallii taivaan vaihtamisen kuvissasi.</string>
+  <string name="filter_sky_download_sdk_without_wifi_title">Lataa liitännäinen</string>
+  <string name="filter_sky_dusk">Hämärä</string>
+  <string name="filter_sky_glow">Hehku</string>
+  <string name="filter_sky_rainbow">Sateenkaari</string>
+  <string name="filter_sky_sunny">Aurinkoinen</string>
+  <string name="filter_sky_sunset">Auringonlasku</string>
   <string name="finish_create_baby_album_toast">Luotiin albumi \"%s\" Mi Pilveen</string>
   <string name="finish_fill_baby">Luo</string>
   <string name="flash_off">Ei salamaa</string>
@@ -1715,6 +1730,7 @@ mukauttaaksesi Galleriasi"</string>
   <string name="today">Tänään</string>
   <string name="too_many_recipients">Voit lisätä enintään %2$s vastaanottajaa (Tällä hetkellä lisätyt %1$s).</string>
   <string name="trash_bin">Roskakori</string>
+  <string name="trash_bin_key_word">Poistetut kuvat</string>
   <string name="trash_bin_summary">Selaa varmuuskopioituja kuvia, jotka poistettiin äskettäin</string>
   <string name="try_again_later">Yritä myöhemmin uudelleen.</string>
   <string name="try_to_send">Lähetä</string>

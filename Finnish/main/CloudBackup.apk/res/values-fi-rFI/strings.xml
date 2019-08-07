@@ -121,7 +121,8 @@ Huomio: Asennettujen sovelluksien datatietoja ei varmuuskopioida Mi Pilveen. Kä
   <string name="error_retry_later">Toimintoa ei voitu suorittaa. Odota minuutti tai kaksi ja yritä uudelleen…</string>
   <string name="error_unknown">Jotain meni pieleen</string>
   <string name="get_device_id_error">Laitteen ID-numeron noutaminen epäonnistui</string>
-  <string name="home_hint_global_launcher">Poco Käynnistin</string>
+  <string name="hint_restore_cross_space">Aloitusnäytön ulkoasu saattaa näkyä väärin jos siirrät kohteita tilojen välillä.</string>
+  <string name="home_hint_global_launcher">Poco Launcher</string>
   <string name="home_hint_other_launcher">Muu käynnistin</string>
   <string name="home_restore_error">Aloitusnäytön palauttaminen epäonnistui</string>
   <string name="lack_of_storage">Tallennustilaa ei ole riittävästi</string>

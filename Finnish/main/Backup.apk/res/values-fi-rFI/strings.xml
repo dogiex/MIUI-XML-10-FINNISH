@@ -42,6 +42,7 @@ Varmista, että USB-asemassa on tarpeeksi tallennustilaa ennen aloittamista."</s
   <string name="perm_read_phone_state">Lukea puhelimen tilaa</string>
   <string name="perm_read_sms">Lukea tekstiviestejä</string>
   <string name="perm_storage">Lukea ja kirjoittaa ulkoiselle tallennustilalle</string>
+  <string name="phone_title">Puhelimen asetukset</string>
   <string name="storage_sd_card">SD-kortti</string>
   <string name="storage_usb">USB-asema</string>
   <string name="trans_install_guide_button_start">Aloita</string>
