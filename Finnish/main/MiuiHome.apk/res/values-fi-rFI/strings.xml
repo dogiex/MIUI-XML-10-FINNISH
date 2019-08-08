@@ -43,7 +43,7 @@
     <string name="app_category_games">Pelit</string>
     <string name="app_category_health">Terveys</string>
     <string name="app_category_lifestyle">Elämäntyyli</string>
-    <string name="app_category_music_movie">Musiikki & Video</string>
+    <string name="app_category_music_movie">Musiikki &amp; Video</string>
     <string name="app_category_news">Uutiset</string>
     <string name="app_category_photos">Kuvat</string>
     <string name="app_category_productivity">Tuottavuus</string>
