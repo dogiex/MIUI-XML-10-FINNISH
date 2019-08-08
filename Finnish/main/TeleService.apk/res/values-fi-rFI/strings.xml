@@ -877,6 +877,7 @@ Haluatko kuitenkin vaihtaa operaattoria?"</string>
   <string name="ivr_type_cu_3">China Unicom 2G</string>
   <string name="ivr_type_settings">Datapaketin asetukset</string>
   <string name="ivr_type_settings_hint">Anna datapakettisi koodi</string>
+  <string name="jump_to_mobile_network_setting">Matkapuhelinverkon asetukset</string>
   <string name="keep_screen_on">Pysy käynnissä</string>
   <string name="keep_screen_on_summary">Näyttö ei sammu puhelimen latautuessa</string>
   <string name="labelCDMAMore">CDMA-puheluasetukset</string>
@@ -1388,6 +1389,7 @@ SIM-korttisi lukitaan seuraavan epäonnistuneen yrityksen jälkeen."</string>
   <string name="selectContact">valitse yhteystieto</string>
   <string name="select_application">Valitse sovellus</string>
   <string name="select_automatically">Valitse automaattisesti</string>
+  <string name="select_dds_dialog_title">Valitse mobiilidatan oletus SIM</string>
   <string name="select_logd_size_dialog_title">Valitse puskurikohtaiset lokikoot</string>
   <string name="select_logd_size_title">Lokipuskurien koot</string>
   <string name="select_logpersist_dialog_title">Valitse lokipuskurit, joita säilytetään pysyvästi laitteella</string>

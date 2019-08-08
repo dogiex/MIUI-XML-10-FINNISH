@@ -202,6 +202,7 @@ Tarkista verkkoasetukset ja yritä uudelleen."</string>
   <string name="restoring_file_title_no_progress">Palautetaan tiedostoja…</string>
   <string name="restoring_settings">Palautetaan asetuksia…</string>
   <string name="retry">Yritä uudelleen</string>
+  <string name="selected">Valittuna</string>
   <string name="self_device_main_space">Tämän puhelimen Ensimmäinen tila</string>
   <string name="self_device_second_space">Tämän puhelimen Toinen tila</string>
   <string name="settings_backup">Järjestelmäasetukset</string>
@@ -215,6 +216,7 @@ Tarkista verkkoasetukset ja yritä uudelleen."</string>
   <string name="total_space">Tilaa yhteensä: %s</string>
   <string name="try_again">Napauta yrittääksesi uudelleen</string>
   <string name="try_continue">Napauta jatkaaksesi</string>
+  <string name="unselected">Ei valittuna</string>
   <string name="unsupported_home">Päivitä MIUI viimeisimpään versioon.</string>
   <string name="wait_icon_download">Ladataan sovelluksien kuvakkeita</string>
 </resources>

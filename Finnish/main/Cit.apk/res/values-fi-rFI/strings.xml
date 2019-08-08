@@ -392,6 +392,7 @@ Kun olet laittanut tiedoston \"music.mp3\" SD-kortin hakemistoon, napauta näytt
   <string name="cit_thermal_history_title">Lämpöhistoria</string>
   <string name="cit_tool">Lisätyökalut</string>
   <string name="cit_tool_active_mbn">Aktiivinen</string>
+  <string name="cit_tool_active_mbn_notify">Odota hetki, että mbn asetetaan</string>
   <string name="cit_tool_bluetooth">Bluetooth testityökalu</string>
   <string name="cit_tool_bluetooth_dut">Siirry Bluetooth testitilaan</string>
   <string name="cit_tool_bluetooth_enhanced">Siirry Bluetoothin paranneltuun testiin</string>
@@ -502,6 +503,8 @@ Kun olet laittanut tiedoston \"music.mp3\" SD-kortin hakemistoon, napauta näytt
   <string name="cit_tool_cal_accelerometer">Kiihtyvyysanturin kalibrointityökalu</string>
   <string name="cit_tool_cal_camera">Kameran kalibrointityökalu</string>
   <string name="cit_tool_cal_gyroscope">Gyroskoopin kalibrointityökalu</string>
+  <string name="cit_tool_check_cal">Peruuta</string>
+  <string name="cit_tool_check_ok">Ok</string>
   <string name="cit_tool_check_opt">Oletko varma?</string>
   <string name="cit_tool_check_opt_with_reboot">Käynnistetään uudelleen, oletko varma?</string>
   <string name="cit_tool_current_modem_test_mode">Nykyinen testitila:</string>
@@ -540,12 +543,17 @@ The second line shows the name and version number of Default MBN and Carrier MBN
   <string name="cit_tool_modem">Modeemin testityökalut</string>
   <string name="cit_tool_modem_bugreport">Pakota modeemin coredump</string>
   <string name="cit_tool_modem_clear_empty">Tyhjennä</string>
+  <string name="cit_tool_modem_deactive_mbn">Deaktivoi</string>
   <string name="cit_tool_modem_exit_ftm">Poistu FTM tilasta</string>
+  <string name="cit_tool_modem_feature_config_cust">Nykyinen ominaisuus määritetty seuraavasti</string>
+  <string name="cit_tool_modem_feature_config_default">Nykyinen ominaisuus määritetty oletukseksi</string>
   <string name="cit_tool_modem_mbn">Muuta modeemin määrityksiä</string>
   <string name="cit_tool_modem_mbn_config_load_and_active">MBN määrityksen lataamis- ja aktivointityökalu</string>
+  <string name="cit_tool_modem_mbn_opt_fail_notfiy">Opt epäonnistui, yritä uudelleen käynnistämällä puhelin uudelleen</string>
   <string name="cit_tool_modem_offline_log">Avaa/Sulje offline-loki</string>
   <string name="cit_tool_modem_rf_ant_test">Modeemin rf ant testin asetukset</string>
-  <string name="cit_tool_modem_test_clr">Sulje gpio testi</string>
+  <string name="cit_tool_modem_test_clr">Määritä koodin oletusarvi</string>
+  <string name="cit_tool_modem_test_device_value_set">Muokkaa laitteen tilaa</string>
   <string name="cit_tool_modem_test_get">Päivitä</string>
   <string name="cit_tool_modem_test_mode">Modeemin testitilan asetukset</string>
   <string name="cit_tool_modem_test_mode_closed">Testitila suljettiin</string>
@@ -553,7 +561,9 @@ The second line shows the name and version number of Default MBN and Carrier MBN
   <string name="cit_tool_modem_test_mode_opened">Testitila avattu</string>
   <string name="cit_tool_modem_test_mode_select">Valitse testitila:</string>
   <string name="cit_tool_modem_test_mode_set">Vahvista asetus</string>
-  <string name="cit_tool_modem_test_set">validate</string>
+  <string name="cit_tool_modem_test_rf_ant">RF Ant</string>
+  <string name="cit_tool_modem_test_set">Vahvista</string>
+  <string name="cit_tool_modem_test_will_set">Avaa testitilan ja käynnistää dutin uudelleen</string>
   <string name="cit_tool_nfc">NFC testityökalu</string>
   <string name="cit_tool_nfc_st">Nfc ST:</string>
   <string name="cit_tool_nfc_st_confreq">taajuus:</string>
