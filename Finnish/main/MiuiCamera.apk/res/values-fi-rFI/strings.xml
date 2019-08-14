@@ -13,9 +13,6 @@ Pitää kohteen terävänä ja sumentaa taustan."</string>
   <!-- miui 10 valmis -->
   <string name="accessibility_ai_scene_off">AI kamera pois käytöstä</string>
   <string name="accessibility_ai_scene_on">AI kamera käytössä</string>
-  <string name="hint_ae_af_lock">Automaattinen tarkennus ja automaattinen valotus on lukittu.</string>
-  <string name="hint_ae_af_lock_extra">Automaattinen tarkennus ja automaattinen valotus on lukittu. Vaihda Google Lensiin Kameran asetuksista.</string>
-  <string name="hint_ae_lock">Automaattinen valotus on lukittu</string>
   <!-- miui 10 valmis -->
   <string name="access_sd_fail">SD-korttia ei voi käyttää.</string>
   <string name="accessibility_audio_shutter_bg">Äänisulkijan tausta</string>
