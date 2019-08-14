@@ -258,8 +258,6 @@
     <string name="data_monitor_dialog_message">Näyttää siltä, että jokin kuluttaa mobiilidataasi. Avaa aloitussivu lopettaaksesi tämän.</string>
     <string name="data_traffic_continue">Jatka</string>
     <string name="data_traffic_download_cancel">Peruuta</string>
-    <string name="data_traffic_download_confirm">Käytetään mobiilidatayhteyttäsi</string>
-    <string name="data_traffic_download_ok">Ok</string>
     <string name="data_traffic_download_prompt">Nykyinen video voidaan ladata vain Wi-Fi-ympäristössä</string>
     <string name="data_traffic_download_setting">Asetukset</string>
     <string name="data_traffic_goto">Ilmainen dataliikenne</string>

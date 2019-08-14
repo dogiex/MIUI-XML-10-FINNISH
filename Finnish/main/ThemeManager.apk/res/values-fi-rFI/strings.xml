@@ -59,6 +59,7 @@ Teemat tunnistaa, mitä sovelluksia käytät ja näyttää läpinäkyviä tausta
   <string name="apply_theme_with_ringtones">Käytä teeman soittoääniä</string>
   <string name="audio_duration_minutes_format">%1$d minuuttia</string>
   <string name="audio_duration_seconds_format">%1$d sekuntia</string>
+  <string name="audition_ringtone">Toista</string>
   <string name="automatically_update_using_theme_tips">Päivitä automaattisesti seuraavalla kerralla</string>
   <string name="backup_theme_dialog_message">Varmuuskopioidaanko nykyinen teemasi?</string>
   <string name="backup_theme_dialog_ok">Varmuuskopioi</string>
@@ -86,6 +87,7 @@ Teemat tunnistaa, mitä sovelluksia käytät ja näyttää läpinäkyviä tausta
   <string name="component_title_settings_video_wallpaper">Taustakuvia erikoistehosteilla</string>
   <string name="component_title_video_wallpaper">Taustakuvaelokuvat</string>
   <string name="component_title_wallpaper">Taustakuva</string>
+  <string name="count_down_tip">%d s jäljellä</string>
   <string name="current_using_desktop_wallpaper_text">Aloitusnäyttö</string>
   <string name="current_using_lockscreen_wallpaper_text">Lukitusnäyttö</string>
   <string name="current_version_incompatible">Ei yhteensopiva</string>
@@ -215,6 +217,7 @@ Poistaaksesi tämän ominaisuuden käytöstä, siirry Asetukset &gt; Ääni &amp
   <string name="item_resource_audio_optional_notification_ring">Ilmoitukset</string>
   <string name="item_resource_audio_optional_phone_ring">Soittoääni</string>
   <string name="lab">Teemalaboratorio</string>
+  <string name="like_list">Tykkäämäni kohteet</string>
   <string name="live_wallpaper">Live taustakuva</string>
   <string name="loading">Odota hetki…</string>
   <string name="loading_resource_detail_fail">Lähdettä ei voi ladata</string>
@@ -284,6 +287,7 @@ Poistaaksesi tämän ominaisuuden käytöstä, siirry Asetukset &gt; Ääni &amp
   <string name="online_precust_scenery">Maisema</string>
   <string name="online_search_hint">Etsi verkkolähteitä</string>
   <string name="password_toggle_content_description">Vaihda salasanan näkyvyys</string>
+  <string name="playing_ringtone">Toistetaan</string>
   <string name="pref_privacy_policy">Tietosuojakäytäntö</string>
   <string name="present_local_fonts">Fonttini</string>
   <string name="present_local_themes">Teemani</string>
@@ -320,7 +324,6 @@ Poistaaksesi tämän ominaisuuden käytöstä, siirry Asetukset &gt; Ääni &amp
   <string name="resource_alarm_default">Herätys</string>
   <string name="resource_app_name">Näytä lähteet</string>
   <string name="resource_apply">Aseta</string>
-  <string name="resource_apply_trial">Kokeile nyt</string>
   <string name="resource_back">Takaisin</string>
   <string name="resource_buy">Osta</string>
   <string name="resource_can_not_selected">%1$s ei voi valita</string>
@@ -392,7 +395,6 @@ Poistaaksesi tämän ominaisuuden käytöstä, siirry Asetukset &gt; Ääni &amp
   <string name="resource_download">Lataa</string>
   <string name="resource_download_notification_title_many">%1$s teemaa ladattu</string>
   <string name="resource_download_notification_title_one">Teema ladattu</string>
-  <string name="resource_download_trial">Kokeile ilmaiseksi</string>
   <string name="resource_downloaded_title">Ladatut lähteet</string>
   <string name="resource_downloading">Ladataan</string>
   <string name="resource_exchange">Lunasta</string>
@@ -555,8 +557,6 @@ Poistaaksesi tämän ominaisuuden käytöstä, siirry Asetukset &gt; Ääni &amp
   <string name="theme_changed_failed_message">Teemaa ei voitu asettaa</string>
   <string name="theme_changed_message">Teema asetettu</string>
   <string name="theme_changing_dialog_title">"Asetetaan "</string>
-  <string name="theme_comment_dialog_message">Arvostele tämä sovellus ja kerro mitä olet mieltä.</string>
-  <string name="theme_comment_dialog_ok">Arvostele</string>
   <string name="theme_component_title_alarm">Herätys</string>
   <string name="theme_component_title_alarmstyle">Herätyksen tyyli</string>
   <string name="theme_component_title_all">Teemat</string>
@@ -606,7 +606,6 @@ Poistaaksesi tämän ominaisuuden käytöstä, siirry Asetukset &gt; Ääni &amp
   <string name="theme_select_others">Selaa</string>
   <string name="theme_setting">Asetukset</string>
   <string name="theme_staggered_item_text">Vastaanota Mi Krediittejä</string>
-  <string name="theme_to_comment">Ei huono!</string>
   <string name="theme_user_agreement_allow">Hyväksy</string>
   <string name="theme_user_agreement_content1">"Käyttämällä tätä tuotetta, hyväksyt meidän "</string>
   <string name="theme_user_agreement_content2">Käyttöehdot</string>
@@ -649,6 +648,13 @@ Poistaaksesi tämän ominaisuuden käytöstä, siirry Asetukset &gt; Ääni &amp
   <string name="transparent_wallpaper_white_wallpaper_failed">Taustasta ei voitu tehdä valkoista</string>
   <string name="transparent_wallpaper_white_wallpaper_success">Tausta on nyt valkoinen</string>
   <string name="transparent_wallpaper_white_wallpaper_tip">Läpinäkyvä taustakuva näyttää parhaalta valkoisella taustalla</string>
+  <string name="trial_count_empty">Tälle päivälle ei ole enää ilmaisia kohteita. Tule takaisin huomenna!</string>
+  <string name="trial_count_tip">Kokeilujakso päättyy %1$s:%2$s:%3$s kuluttua</string>
+  <string name="trial_for_free">Kokeilujakso</string>
+  <string name="trial_get_failed_tip">Hanki teema katsomalla video loppuun.</string>
+  <string name="trial_get_success_tip">Onneksi olkoon! Sait 3-päivän ilmaisen kokeilun.</string>
+  <string name="trial_now">Kokeile nyt</string>
+  <string name="try_5_min">Kokeile 5 minuutin ajan</string>
   <string name="uid_change_dialog_message">Olet poistanut päivitykset. Käynnistä laite uudelleen, jotta voit käyttää teemoja.</string>
   <string name="uid_change_dialog_ok">Selvä</string>
   <string name="uid_change_dialog_title">Käynnistä laite</string>
@@ -666,6 +672,11 @@ Poistaaksesi tämän ominaisuuden käytöstä, siirry Asetukset &gt; Ääni &amp
   <string name="using_theme_next_automatic_update">Automaattiset päivitykset</string>
   <string name="using_theme_next_automatic_update_summary">Päivitä ladatut teemat automaattisesti Wi-Fi-yhteydellä, kun näyttö on lukittu</string>
   <string name="using_theme_show_ad">Suositukset</string>
+  <string name="video_ad_click">Kokeile nyt</string>
+  <string name="video_ad_try_for_free">Ilmainen kokeilu</string>
+  <string name="video_ad_uncomplete_tip">Hanki teema katsomalla video loppuun.</string>
+  <string name="video_ad_uncomplete_tip_cancel">Peruuta</string>
+  <string name="video_ad_uncomplete_tip_continue">Jatka katsomista</string>
   <string name="video_audio_apply_success">Määritettiin video äänellä onnistuneesti</string>
   <string name="video_data_tips_message">Mobiilidatan käyttäminen voi aiheuttaa lisäkustannuksia. Jatketaanko siitä huolimatta?</string>
   <string name="video_data_tips_title">Tiedonsiirtovaroitus</string>

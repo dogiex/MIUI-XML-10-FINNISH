@@ -750,6 +750,11 @@
         <item>10 minuuttia</item>
         <item>30 minuuttia</item>
     </string-array>
+    <string-array name="drip_battery_indicator_style_entries">
+        <item>Graafinen</item>
+        <item>Prosentti (kuvakkeen sisällä)</item>
+        <item>Prosentti (kuvakkeen vieressä)</item>
+    </string-array>
     <string-array name="enable_opengl_traces_entries">
         <item>Ei mitään</item>
         <item>Logcat</item>

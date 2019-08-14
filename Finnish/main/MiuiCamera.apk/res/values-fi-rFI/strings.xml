@@ -28,13 +28,15 @@ Pitää kohteen terävänä ja sumentaa taustan."</string>
   <string name="accessibility_bokeh_level">F%1$s aukko</string>
   <string name="accessibility_bokeh_normal">Etukameran taustan sumennus pois käytöstä</string>
   <string name="accessibility_bokeh_on">Etukameran taustan sumennus käytössä</string>
-  <string name="accessibility_camera_lighting_close_panel">Suljettiin salamavalikko</string>
-  <string name="accessibility_camera_lighting_open_panel">Avattiin salamavalikko</string>
+  <string name="accessibility_camera_lighting_close_panel">Suljettiin salamatehostevalikko</string>
+  <string name="accessibility_camera_lighting_open_panel">Avattiin salamatehostevalikko</string>
   <string name="accessibility_camera_liveshot_off">Poistettiin dynaamiset otot käytöstä</string>
   <string name="accessibility_camera_liveshot_on">Otettiin dynaamiset otot käyttöön</string>
   <string name="accessibility_camera_module_picker">Kameranmoduulin valitsija</string>
   <string name="accessibility_camera_picker">Etu- ja takakameran vaihtokytkin</string>
   <string name="accessibility_camera_picker_finish">Vaihdettiin kameroita onnistuneesti</string>
+  <string name="accessibility_camera_record_start">Aloitettiin videon nauhoittaminen</string>
+  <string name="accessibility_camera_record_stop">Lopetettiin videon nauhoittaminen</string>
   <string name="accessibility_camera_shutter_finish">Otettiin kuva onnistuneesti</string>
   <string name="accessibility_closed">Poistettiin käytöstä</string>
   <string name="accessibility_effect_mode_button">Tehosteen painike</string>
@@ -74,9 +76,9 @@ Pitää kohteen terävänä ja sumentaa taustan."</string>
   <string name="accessibility_stereo_button">Tarkennuksen säätö</string>
   <string name="accessibility_ultra_wide_off">Poistettiin Ultralaajakulmatila käytöstä</string>
   <string name="accessibility_ultra_wide_on">Otettiin Ultralaajakulmtatila käyttöön</string>
-  <string name="accessibility_video_capture_button">Kuvapainike videon nauhoittamiseen</string>
-  <string name="accessibility_video_pause_button">pysäytä nauhoitus</string>
-  <string name="accessibility_video_resume_button">jatka nauhoitusta</string>
+  <string name="accessibility_video_capture_button">Kuvanottamispainike videon nauhoittamisen aikana</string>
+  <string name="accessibility_video_pause_button">Pysäytettiin videon nauhoittaminen</string>
+  <string name="accessibility_video_resume_button">Jatkettiin videon nauhoittamista</string>
   <string name="accessibility_zoom_button">Zoom-tila</string>
   <string name="ai_scene_mode_use_hint_text">"AI-kamera tunnistaa näkymän automaattisesti
 ja optimoi valokuvasi näiden tietojen perusteella"</string>
@@ -92,7 +94,7 @@ ja optimoi valokuvasi näiden tietojen perusteella"</string>
   <string name="beauty_body_body">Hoikka</string>
   <string name="beauty_body_head">Pää</string>
   <string name="beauty_body_legged">Jalat</string>
-  <string name="beauty_body_reset_tip">Vartalon tehosteet poistettiin onnistuneesti</string>
+  <string name="beauty_body_reset_tip">Vartalon tehosteet tyhjennettiin onnistuneesti</string>
   <string name="beauty_body_shoulder">Olkapäät</string>
   <string name="beauty_body_slim_count_tip">Vartalon tehosteet toimivat vain yhden henkilön kuvissa</string>
   <string name="beauty_body_whole">Vartalo</string>
@@ -103,7 +105,7 @@ ja optimoi valokuvasi näiden tietojen perusteella"</string>
   <string name="beauty_fragment_tab_name_3d_remodeling">Muotoillaan uudelleen</string>
   <string name="beauty_fragment_tab_name_beauty">Kauneus</string>
   <string name="beauty_fragment_tab_name_makeup">Edistynyt</string>
-  <string name="beauty_mode_reset_toast">Poistettiin uudelleenmuotoilutehosteet</string>
+  <string name="beauty_mode_reset_toast">Tyhjennettiin uudelleenmuotoilutehosteet onnistuneesti</string>
   <string name="beauty_reset">Palauta</string>
   <string name="beauty_reset_toast">Palautettiin Kauneustehosteet onnistuneesti</string>
   <string name="beauty_tab_name_live_beauty">Kaunista</string>
@@ -205,6 +207,14 @@ ja optimoi valokuvasi näiden tietojen perusteella"</string>
   <string name="edit_slim_nose">Nenä</string>
   <string name="edit_smile">Hymy</string>
   <string name="error_fail_to_start_audio_capture">Äänenkaappauksen aloittaminen epäonnistui</string>
+  <string name="eye_light">Silmän kimmellys</string>
+  <string name="eye_light_angel">Enkeli</string>
+  <string name="eye_light_comic">Manga</string>
+  <string name="eye_light_crescent">Puolikuu</string>
+  <string name="eye_light_nature">Luonto</string>
+  <string name="eye_light_rainbow">Sateenkaari</string>
+  <string name="eye_light_star">Tähdet</string>
+  <string name="eye_light_window">Ikkuna</string>
   <string name="face_age_info">Ikä: %d</string>
   <string name="face_analyze_info">Ikä: %2$s (%1$s)</string>
   <string name="face_analyze_info_female">Nainen</string>
@@ -244,6 +254,10 @@ jos käännät puhelimesi"</string>
   <string name="hine_hht">"Vähäisellä valoisuudella kamera ottaa usean kuvan
 ja luo otoksen, jossa kuvassa on vähiten kohinaa."</string>
   <string name="hint_device_water_mark">Kuvan vesileima lisätään automaattisesti.</string>
+  <string name="hint_ae_af_lock">Automaattinen tarkennus ja -valotus on lukittu.</string>
+  <string name="hint_ae_af_lock_extra">Automaattinen tarkennus ja -valotus on lukittu. Vaihda Google Lensiin Kameran asetuksissa</string>
+  <string name="hint_ae_lock">Auomaattinen valotus on lukittu</string>
+  <string name="hint_eye_light">Silmien kimmellystehosteet toimii parhaiten, kun salama on käytössä</string>
   <string name="hint_fast_motion">Video, jonka otat toistetaan nopeammin.</string>
   <string name="hint_groupshot">"Kamera ottaa useita kuvia
 ja luo otoksen, jossa kaikki ovat parhaimmillaan."</string>
@@ -267,6 +281,7 @@ Muotokuvatilassa"</string>
   <string name="lighting_pattern_leaf">Lehdet</string>
   <string name="lighting_pattern_movie">Elokuva</string>
   <string name="lighting_pattern_nature">Luonnollinen</string>
+  <string name="lighting_pattern_null">Ei mitään</string>
   <string name="lighting_pattern_rainbow">Sateenkaari</string>
   <string name="lighting_pattern_shutter">Kaihtimet</string>
   <string name="lighting_pattern_stage">Näyttämö</string>
@@ -304,14 +319,13 @@ Muotokuvatilassa"</string>
   <string name="live_sticker_updating">Päivitetään…</string>
   <string name="macro_mode">Macro</string>
   <string name="macro_mode_tip">Linssin ja kohteen etäisyys toisistaan ei pitäisi ylittää 10 cm</string>
-  <string name="makeup_reset_toast">Poista meikkitehosteet</string>
+  <string name="makeup_reset_toast">Tyhjennettiin meikkitehosteet onnistuneesti</string>
   <string name="message_snap_double_confirm">Äänenvoimakkuuspainikkeen pitkä painallus käynnistää tällä hetkellä NFC:n. Korvataanko tämä ominaisuus?</string>
   <string name="mimoji_back">Takaisin</string>
   <string name="mimoji_cancle">Peruuta</string>
   <string name="mimoji_confirm">Vahvista</string>
   <string name="mimoji_delete_mimoji">Poista emoji</string>
   <string name="mimoji_delete_success">Poistaminen onnistui</string>
-  <string name="mimoji_detect_tips">请把脸放在取景框内</string>
   <string name="mimoji_edit_mimoji">Muokkaa emojia</string>
   <string name="mimoji_editor">Muokkaa</string>
   <string name="mimoji_fragment_tab_name">Mimoji</string>
@@ -319,7 +333,6 @@ Muotokuvatilassa"</string>
   <string name="mimoji_save">Tallenna</string>
   <string name="mimoji_save_success">Tallennettiin onnistuneesti</string>
   <string name="mimoji_selected">Valitse</string>
-  <string name="mimoji_tips">轻触拍照，长按录像</string>
   <string name="module_name_beauty">Kauneus</string>
   <string name="module_name_capture">Kuva</string>
   <string name="module_name_fun">Lyhyt video</string>

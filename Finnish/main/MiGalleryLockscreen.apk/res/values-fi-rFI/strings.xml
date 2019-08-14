@@ -381,13 +381,17 @@
   <string name="summary_international">Käyttämällä tätä toimintoa hyväksyt meidän Käyttöehdot ja Tietosuojakäytännön. Tämä toiminto tarvitsee internetyhteyden toimiakseen normaalisti.</string>
   <string name="tab_user_title_bar_text">Asetukset</string>
   <string name="theme_apply_failured">Asettaminen epäonnistui, yritä uudelleen myöhemmin</string>
+  <string name="theme_apply_lockscreen_success">Asetettiin onnistuneesti</string>
   <string name="theme_apply_success">Asetettiin onnistuneesti</string>
   <string name="theme_applying">Asetetaan…</string>
+  <string name="theme_close_maml">Taustakuvan Karusellin kuvat korvaa Lukitusnäytön taustakuvan.</string>
   <string name="theme_des">Aseta oletusteema ja ota Taustakuvan Karuselli uudelleen käyttöön.</string>
   <string name="theme_des_lock_style">Aseta oletus Lukitusnäyttö ja oa Taustakuvan Karuselli uudelleen käyttöön.</string>
+  <string name="theme_des_maml">Ei vaikuta nykyisen teeman muihin komponentteihin. Teema päivittyy asettaakseen muutokset.</string>
   <string name="theme_ok">Asetukset</string>
   <string name="theme_title">Vaihda oletusteemaan</string>
   <string name="theme_title_lock_style">Vaihda oletus Lukitusnäyttöön</string>
+  <string name="theme_title_subscribe">Tilaa Taustakuvan Karuselli</string>
   <string name="ticket_hint">Vahvistuskoodi</string>
   <string name="ticket_invalid">Antamasi koodi on virheellinen</string>
   <string name="ticket_sign_in">Kirjaudu sisään tekstiviestillä</string>

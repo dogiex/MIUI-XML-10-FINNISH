@@ -37,10 +37,6 @@
     <plurals name="mins_ago">
         <item quantity="other">%1$d min sitten</item>
     </plurals>
-    <plurals name="miot_device_camera_size">
-        <item quantity="other">%d älykameraa</item>
-        <item quantity="one">%d älykamera</item>
-    </plurals>
     <plurals name="payment_record_dialog_delete_message">
         <item quantity="other">Poistetaanko %s kohdetta maksuista?</item>
         <item quantity="one">Poistetaanko %s kohde maksuista?</item>

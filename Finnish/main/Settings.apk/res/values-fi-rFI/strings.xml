@@ -597,6 +597,19 @@ Käytetty viimeksi %2$s"</string>
   <string name="backup_pw_cancel_button_text">Peruuta</string>
   <string name="backup_pw_set_button_text">Aseta varmuuskopion salasana</string>
   <string name="backup_section_title">Varmuuskopiointi &amp; palautus</string>
+  <string name="backup_set_clear_success">Poistettiin varmuuskopion salasana käytöstä onnistuneesti</string>
+  <string name="backup_set_clear_title">Poista varmuuskopion salasana käytöstä</string>
+  <string name="backup_set_confirm">OK</string>
+  <string name="backup_set_confirm_clear">Poista käytöstä</string>
+  <string name="backup_set_enter_new_pw">Syötä uusi varmuuskopion salasana</string>
+  <string name="backup_set_enter_new_pw_again">Vahvista uusi varmuuskopion salasana</string>
+  <string name="backup_set_enter_old_pw">Syötä vanha varmuuskopion salasana</string>
+  <string name="backup_set_enter_pw_title">Syötä varmuuskopion salasana</string>
+  <string name="backup_set_error_pw">Syöttämäsi salasana on virheellinen</string>
+  <string name="backup_set_modify_title">Vaihda varmuuskopion salasana</string>
+  <string name="backup_set_new_pw_title">Syötä uusi varmuuskopion salasana</string>
+  <string name="backup_set_null_pw">Syötä salasana ensin</string>
+  <string name="backup_set_pw_confirm_title">Vahvista varmuuskopion uusi salasana</string>
   <string name="badge_title">Näytä aloitusnäytön kuvakemerkki</string>
   <string name="band_mode_failed">Epäonnistui</string>
   <string name="band_mode_loading">Ladataan taajuusluetteloa...</string>
@@ -2278,7 +2291,7 @@ Varmuuskopioita ei vähennetä Drive-tallennustilan kiintiöstäsi. Suuria ja ke
   <string name="gxzw_anim_rhythm">Rytmi</string>
   <string name="gxzw_anim_star">Tähtien valo</string>
   <string name="gxzw_anim_title">Sormenjäljen animaatio</string>
-  <string name="gxzw_aod_show_summary">Sormenjäljen kuvake näytetään, kun näyttö on sammutettuna. Tämä ominaisuus nostaa järjestelmän virrankäyttöä.</string>
+  <string name="gxzw_aod_show_summary">Nosta laitetta tai napauta näyttöä, jotta sormenjäljen kuvake ilmestyy. Tämä ominaisuus nostaa järjestelmän virrankäyttöä.</string>
   <string name="gxzw_aod_show_tittle">Näytä sormenjäljen kuvake, kun näyttö on sammutettuna</string>
   <string name="gxzw_dialog_message">Käyttääksesi näytön sisäistä sormenjälkitunnistinta normaalisti, älä käytä näytön suojia. Jos olet sitä mieltä, että näytön suoja on kuitenkin tarpeellinen, valitse yhteensopiva malli valtuutettujen mallien joukosta.</string>
   <string name="gxzw_dialog_not_show_again">Älä näytä uudelleen</string>
@@ -2458,7 +2471,6 @@ Voit muuttaa tätä asetusta myöhemmin kohdassa Asetukset > Sovellukset ja ilmo
   <string name="keyguard_notification_status_title">Ilmoituksien saapuessa näytön ollessa sammuksissa</string>
   <string name="keyguard_security_setting_others">Muut</string>
   <string name="keyguard_security_setting_privacy_policy">Tietosuojakäytäntö</string>
-  <string name="keyguard_vertical_clock_title">Pystysuora Kello</string>
   <string name="keywords_accounts">tili</string>
   <string name="keywords_airplane">Lentokone;Lentokonetila;Lento;Lentotila</string>
   <string name="keywords_all_apps">sovellukset, lataus, järjestelmä</string>
