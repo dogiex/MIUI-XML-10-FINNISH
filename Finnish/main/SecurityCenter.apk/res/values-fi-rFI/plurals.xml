@@ -373,6 +373,10 @@ Jos otat mobiilidatan uudelleen käyttöön, operaattorisi saattaa veloittaa sin
         <item quantity="other">Kirjauduttu sisään %d päivää peräkkäin</item>
         <item quantity="one">Kirjauduttu sisään %d kerran</item>
     </plurals>
+    <plurals name="function_shield_num">
+        <item quantity="other">%d ominaisuutta</item>
+        <item quantity="one">%d ominaisuus</item>
+    </plurals>
     <plurals name="hide_txt_hint_with_blank_2">
         <item quantity="other">    +%1$d enemmän merkkejä</item>
         <item quantity="one">    +%1$d enemmän merkkejä</item>

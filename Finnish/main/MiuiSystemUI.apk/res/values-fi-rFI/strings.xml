@@ -330,7 +330,6 @@
      <string name="face_unlock_rotated_right">Käännä päätäsi vasemmalle</string>
      <string name="face_unlock_sc_status">Paina näyttöä alaspäin avataksesi kameran</string>
      <string name="face_unlock_stay_away_screen">Pysy 25-40 cm etäisyydellä näytöstä</string>
-     <string name="face_unlock_success">Kasvojen tiedot vahvistettiin onnistuneesti</string>
      <string name="face_unlock_success_show_message_dialog_msg">Salli Lukitusnäytön ilmoituksien katselu Lukitusnäytölläsi.</string>
      <string name="face_unlock_success_show_message_dialog_negative_btn">Ei kiitos</string>
      <string name="face_unlock_success_show_message_dialog_positive_btn">Salli</string>
@@ -424,7 +423,6 @@ prioriteetti"</string>
      <string name="keyguard_charged">Ladattu</string>
      <string name="keyguard_charging_back_to_lockscreen">Takaisin Lukitusnäytölle</string>
      <string name="keyguard_charging_info_battery_used_time_text">Akkukäytöllä</string>
-     <string name="keyguard_charging_info_click_to_detail">Näytä tiedot</string>
      <string name="keyguard_charging_info_drained_power_percent_text">Kuluttanut</string>
      <string name="keyguard_charging_info_last_charge_time">d.M. H:mm</string>
      <string name="keyguard_charging_info_last_charge_today_time">Tänään %s</string>
@@ -436,11 +434,14 @@ prioriteetti"</string>
      <string name="keyguard_charging_info_tip_text4">Älä käytä laitettasi aktiivisesti latauksen aikana välttääksesi laitteen ylikuumenemisen.</string>
      <string name="keyguard_charging_info_tip_text5">Akuilla kestää kauemmin latautua jos ne kuumenevat tavallista enemmän.</string>
      <string name="keyguard_charging_info_tip_text6">Sammuta näyttö ja laita laitteesi pois viilentääksesi sen.</string>
+     <string name="keyguard_charging_normal_and_level_tip">Ladataan %d%%</string>
+     <string name="keyguard_charging_quick_and_level_tip">Pikaladataan %d%%</string>
+     <string name="keyguard_charging_super_quick_and_level_tip">Ladataan nopeasti %d%%</string>
      <string name="keyguard_indication_charging_time">Ladataan (%s kunnes täynnä)</string>
      <string name="keyguard_indication_charging_time_fast">Ladataan nopeasti (%s kunnes täynnä)</string>
      <string name="keyguard_indication_charging_time_slowly">Ladataan hitaasti (%s kunnes täynnä)</string>
      <string name="keyguard_indication_trust_disabled">Laite pysyy lukittuna, kunnes manuaalisesti poistat laitteen lukituksen</string>
-     <string name="keyguard_instructions_when_pattern_disabled">Paina Valikko-painiketta poistaaksesi lukituksen.</string>
+     <string name="keyguard_instructions_when_pattern_disabled">Paina Valikkopainiketta poistaaksesi lukituksen.</string>
      <string name="keyguard_left_calculator">Laskin</string>
      <string name="keyguard_left_calendar">Kalenteri</string>
      <string name="keyguard_left_contacts">Yhteystiedot</string>
@@ -546,9 +547,10 @@ d. MMMM'ta'"</string>
      <string name="lock_screen_magazine_default_content">Päivittäinen annos tuoreita kuvia</string>
      <string name="lock_screen_magazine_default_title">Taustakuvan Karuselli</string>
      <string name="lock_screen_magazine_global_button_text">Lisää</string>
+     <string name="lock_screen_magazine_preview_fullscreen_bottom_button_global_text">Lisää</string>
+     <string name="lock_screen_magazine_preview_fullscreen_bottom_button_text">Siirry</string>
      <string name="lock_screen_no_sim_card_emergency_only">Vain hätäpuhelut</string>
      <string name="lock_screen_no_sim_card_no_service">Ei palvelua</string>
-     <string name="lock_wallpaper_enter">Siirry</string>
      <string name="lockscreen_access_pattern_area">Kuvion alue.</string>
      <string name="lockscreen_access_pattern_cell_added">Solu lisätty</string>
      <string name="lockscreen_access_pattern_cell_added_verbose">Solu %1$s lisätty</string>
