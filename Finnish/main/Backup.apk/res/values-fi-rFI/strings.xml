@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <!-- 9.4.15 -->
-  <string name="err_no_gms">Yhteensopimaton sovellusversio. Asenna tämä sovellus erikseen</string>
+  <string name="err_no_gms">Yhteensopimaton sovellusversio. Asenna tämä sovellus erikseen.</string>
   <string name="trans_detail_item_app_data_skip_data">Sovellustietoja ei voi siirtää</string>
   <!-- // 9.4.15 // -->
   <!-- 8.9.17 -->
@@ -204,6 +204,9 @@ https://appleid.apple.com/#!&amp;page=signin poistaaksesi käytöstä"</string>
   <string name="delete_backup_title">Poista varmuuskopio</string>
   <string name="delete_failed_backup_confirm">Tämä varmuuskopio sisältää virheitä.</string>
   <string name="deselect_all">Poista valinnat</string>
+  <string name="dialog_app_upgrade_download">Päivitä</string>
+  <string name="dialog_app_upgrade_exit">Poistu</string>
+  <string name="dialog_app_upgrade_message">Mi Moverista on uusi versio saatavilla. Päivitetäänkö Mi Mover nyt?</string>
   <string name="dir_date_format">yyyyMMdd_HHmmss</string>
   <string name="disable_encrypt_description">Älä salaa</string>
   <string name="disable_encrypt_title">Poista salaus käytöstä</string>

@@ -1555,6 +1555,7 @@ Asetus vaikuttaa tämän puhelimen kaikkiin käyttäjiin."</string>
   <string name="day_of_week">Viikonpäivä</string>
   <string name="dc_light_dialog_summary">Kuvanlaatu saattaa muuttua, kun Vilkkumisen estotila on käytössä. Otetaanko käyttöön siitä huolimatta??</string>
   <string name="dc_light_summary">Käytä DC-himmennystä vähentääksesi silmien rasitusta</string>
+  <string name="dc_light_summary_new">DC-himmennys vähentää silmien rasitusta alhaisessa valossa. Kuvanlaatu saattaa kuitenkin heikentyä, kun vilkkumisen esto on käytössä.</string>
   <string name="dc_light_title">Vilkkumisen estotila</string>
   <string name="debug_app">Valitse vianetsintäsovellus</string>
   <string name="debug_app_not_set">Vianetsintäsovellusta ei ole asetettu</string>
@@ -3000,7 +3001,7 @@ Tällä laitteella on muita paikalla olevia käyttäjiä.
   <string name="miui_lab_features">MIUI lab ominaisuudet</string>
   <string name="miui_lab_gallery_search_desc">Paranneltu kuvahaku</string>
   <string name="miui_lab_gallery_search_title">Löydä kuvia Galleriassa</string>
-  <string name="miui_lab_gesture_desc">Poista fyysiset painikkeet käytöstä ja nauti kokonäytön eleistä</string>
+  <string name="miui_lab_gesture_desc">Käytä navigointiin eleitä painikkeiden sijaan</string>
   <string name="miui_lab_gesture_title">Kokonäytön eleet</string>
   <string name="miui_lab_install_drive_mode_error">Ei voitu asentaa, yritä uudelleen.</string>
   <string name="miui_lab_install_drive_mode_summary">Autotila on järjestelmäsovellus. Asentaminen ei vaadi internetyhteyttä.</string>
@@ -4273,6 +4274,7 @@ Näytön kiinnittäminen:
   <string name="search_accessibility_screen_magnification_title">Suurennuseleet;Suurennus</string>
   <string name="search_accessibility_settings">Esteettömyys</string>
   <string name="search_account_list">Muut tilit;Tili;Tilit</string>
+  <string name="search_add_facerecoginition_text">Kasvoilla avaaminen;Kasvojentunnistus</string>
   <string name="search_advanced_settings">Lisäasetukset;Wifi;Wifi asetukset;WLAN asetukset</string>
   <string name="search_airplane_mode">Lentokonetila;Lentokone tila;Lentotila;Lentokone;Lento</string>
   <string name="search_alarm_sound_title">Herätyksen oletusääni;hälytyksen ääni;herätyksen ääni;herätys;hälytys</string>
@@ -4339,6 +4341,7 @@ Näytön kiinnittäminen:
   <string name="search_lock_settings">Lukitusnäyttö &amp; salasana;Lukitusnäyttö ja salasana;Bluetooth avaus;salasana;Avaa Bluetooth laitteella</string>
   <string name="search_lock_sounds_enable_title">Näytön lukitusääni;Ruudun lukitusääni;Ota Näytön lukitusääni käyttöön</string>
   <string name="search_manage_device_admin">Laitteen ylläpitäjät;Admin;Ylläpitäjä;Järjestelmänvalvoja</string>
+  <string name="search_manage_facerecoginition_text">Kasvoilla avaaminen;Kasvojentunnistus</string>
   <string name="search_manage_notification_access_title">Pääsy ilmoituksiin;Ilmoitukset;Ilmoituksien käyttöoikeudet</string>
   <string name="search_master_clear_title">Tehdasasetuksien palauttaminen</string>
   <string name="search_menu">Hakuasetukset</string>

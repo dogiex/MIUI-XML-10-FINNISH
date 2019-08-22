@@ -186,8 +186,8 @@
   <string name="micloud_main_network_error">Verkkoon ei voi yhdistää</string>
   <string name="micloud_main_simple_last_sync_time">Synkronoitu viimeksi： %s</string>
   <string name="micloud_main_simple_off">Synkronointi pois käytöstä</string>
-  <string name="micloud_main_sync_mode_summary">Synkronoi useimmat kohteet, kun laturi on yhdistettynä ja näyttö on sammutettuna</string>
-  <string name="micloud_main_sync_mode_title">Virransäästötila</string>
+  <string name="micloud_main_sync_mode_summary">Yllä olevat kohteet synkronoidaan reaaliajassa, kun tämä ominaisuus on käytössä. Tämä saattaa nostaa laitteesi virrankulutusta.</string>
+  <string name="micloud_main_sync_mode_title">Synkronoi reaaliajassa</string>
   <string name="micloud_main_wait_charge">Jatka synkronointia lataamalla laitteesi täyteen.</string>
   <string name="micloud_main_wait_charge_sleep">Sammuta näyttö ja lataa laitteesi täyteen jatkaaksesi synkronointia.</string>
   <string name="micloud_main_wait_wlan">Odotetaan Wi-Fiä</string>

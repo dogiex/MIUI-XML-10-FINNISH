@@ -3,7 +3,7 @@
   <!-- 8.9.17 -->
   <string name="fps960_toast">Hidastettu tallennus aloitetaan, kun ajastin saavuttaa valkoisen pisteen</string>
   <string name="module_name_new_slow_motion">Hidastus</string>
-  <string name="portrait_mode_use_hint_for_bokeh">"Kokeile Muotokuva-tilaa.
+  <string name="portrait_mode_use_hint_for_bokeh">"Kokeile Muotokuvatilaa.
 Pitää kohteen terävänä ja sumentaa taustan."</string>
   <string name="pref_new_slow_motion_video_quality_240_720only">Voit nauhoittaa vain 720p-videoita 240fps valittuna</string>
   <string name="pref_new_slow_motion_video_quality_960_720only">Voit nauhoittaa vain 720p-videoita 960fps valittuna</string>
@@ -73,6 +73,7 @@ Pitää kohteen terävänä ja sumentaa taustan."</string>
   <string name="accessibility_stereo_button">Tarkennuksen säätö</string>
   <string name="accessibility_ultra_wide_off">Poistettiin Ultralaajakulmatila käytöstä</string>
   <string name="accessibility_ultra_wide_on">Otettiin Ultralaajakulmtatila käyttöön</string>
+  <string name="accessibility_video_btn_play">Toista video</string>
   <string name="accessibility_video_capture_button">Kuvanottamispainike videon nauhoittamisen aikana</string>
   <string name="accessibility_video_pause_button">Pysäytettiin videon nauhoittaminen</string>
   <string name="accessibility_video_resume_button">Jatkettiin videon nauhoittamista</string>
@@ -81,10 +82,12 @@ Pitää kohteen terävänä ja sumentaa taustan."</string>
 ja optimoi valokuvasi näiden tietojen perusteella"</string>
   <string name="ai_scene_top_moon_off">Hämärätila</string>
   <string name="ai_scene_top_tip">Kuutila</string>
+  <string name="audio_focus_exit_button_text">Poista Äänitarkennus käytöstä</string>
   <string name="autozoom_click_hint">Napauta kohdetta pitääksesi sen tarkennettuna, kun se liikkuu. Pysy vähintään 3 metriä kohteesta parhaan tehosteen vuoksi.</string>
   <string name="autozoom_disabled_hint">Liikkuvan kohteen seuraaminen lopetettiin</string>
   <string name="autozoom_hint">Seuraa liikkuvaa kohdetta</string>
   <string name="autozoom_landscape_hint">Ota kuva vaakatasossa parhaan tehosteen saamiseksi</string>
+  <string name="back_bokeh_use_hint">Pidä kohdettasi alle 1,5 metrin etäisyydellä parhaan tehosteen saamiseksi</string>
   <string name="audio_focus_exit_button_text">Poista Äänitarkennus käytöstä</string>
   <string name="back_bokeh_use_hint">Pidä kohde 1,5 metrin sisällä parhaan tehosteen saamiseksi</string>
   <string name="beauty_body">Vartalo</string>
@@ -217,12 +220,6 @@ ja optimoi valokuvasi näiden tietojen perusteella"</string>
   <string name="face_analyze_info_female">Nainen</string>
   <string name="face_analyze_info_male">Mies</string>
   <string name="face_beauty_advanced">Pro</string>
-  <string name="face_beauty_age_alias_0_7">0-7</string>
-  <string name="face_beauty_age_alias_18_30">18-30</string>
-  <string name="face_beauty_age_alias_31_44">31-44</string>
-  <string name="face_beauty_age_alias_45_60">45-60</string>
-  <string name="face_beauty_age_alias_60_m">60+</string>
-  <string name="face_beauty_age_alias_8_17">8-17</string>
   <string name="face_beauty_age_alias_female_0_7">Nainen 0-7</string>
   <string name="face_beauty_age_alias_female_18_30">Nainen 18-30</string>
   <string name="face_beauty_age_alias_female_31_44">Nainen 31-44</string>
@@ -235,8 +232,8 @@ ja optimoi valokuvasi näiden tietojen perusteella"</string>
   <string name="face_beauty_age_alias_male_45_60">Mies 45-60</string>
   <string name="face_beauty_age_alias_male_60_m">Mies 60+</string>
   <string name="face_beauty_age_alias_male_8_17">Mies 8-17</string>
-  <string name="face_beauty_close">Pois päältä</string>
-  <string name="face_beauty_intelligent_level_0">Pois päältä</string>
+  <string name="face_beauty_close">Pois käytöstä</string>
+  <string name="face_beauty_intelligent_level_0">Pois käytöstä</string>
   <string name="face_beauty_intelligent_level_1">Matala</string>
   <string name="face_beauty_intelligent_level_2">Keskitaso</string>
   <string name="face_beauty_intelligent_level_3">Korkea</string>
@@ -308,10 +305,10 @@ Muotokuvatilassa"</string>
   <string name="live_speed_extreme_fast">Todella nopea</string>
   <string name="live_speed_extreme_slow">Todella hidas</string>
   <string name="live_speed_fast">Nopea</string>
-  <string name="live_speed_fragment_tab_name">Nauhoitusnopeus</string>
+  <string name="live_speed_fragment_tab_name">Nopeus</string>
   <string name="live_speed_normal">Tavallinen</string>
   <string name="live_speed_slow">Hidas</string>
-  <string name="live_sticker_fragment_tab_name">TikTok Taikatarrat</string>
+  <string name="live_sticker_fragment_tab_name">TikTok tehosteet</string>
   <string name="live_sticker_network_error_hint">Verkkovirhe</string>
   <string name="live_sticker_updating">Päivitetään…</string>
   <string name="macro_mode">Macro</string>
@@ -370,7 +367,7 @@ Muotokuvatilassa"</string>
   <string name="portrait_bokeh_first_tips">"Käytä Muotokuvatilaa sumentaaksesi
 kuvasi taustan"</string>
   <string name="portrait_bokeh_text">Muotokuvatila</string>
-  <string name="portrait_bokeh_tips">Aseta kohde 1,5 metrin etäisyydelle</string>
+  <string name="portrait_bokeh_tips">Aseta kohde alle 1,5 metrin etäisyydelle</string>
   <string name="portrait_mode_depth_effect_success_hint">Syvyystehosteet</string>
   <string name="portrait_mode_lowlight_hint">Nyt on liian pimeää</string>
   <string name="portrait_mode_too_close_hint">Siirry kauemmaksi kohteesta</string>
@@ -385,9 +382,9 @@ ja tuo henkilöt esiin."</string>
   <string name="pref_audio_focus_title">Äänitarkennus</string>
   <string name="pref_burst_shoot_title">Sarjakuvaus</string>
   <string name="pref_camcorder_settings">Video</string>
-  <string name="pref_camcorder_settings_category">Kamera-asetukset</string>
+  <string name="pref_camcorder_settings_category">Kameran asetukset</string>
   <string name="pref_camera_ai_scene_title">AI kamera</string>
-  <string name="pref_camera_antibanding_entry_0">Pois päältä</string>
+  <string name="pref_camera_antibanding_entry_0">Pois käytöstä</string>
   <string name="pref_camera_antibanding_entry_1">50 Hz</string>
   <string name="pref_camera_antibanding_entry_2">60 Hz</string>
   <string name="pref_camera_antibanding_entry_3">Auto</string>
@@ -402,7 +399,7 @@ ja tuo henkilöt esiin."</string>
   <string name="pref_camera_autoexposure_entry_frameaverage">Kehyksen keskiarvo</string>
   <string name="pref_camera_autoexposure_entry_spotmetering">Pistemittaus</string>
   <string name="pref_camera_autoexposure_title">Automaattivalotuksen asetukset</string>
-  <string name="pref_camera_beautify_entry_auto">Pois päältä</string>
+  <string name="pref_camera_beautify_entry_auto">Pois käytöstä</string>
   <string name="pref_camera_beautify_entry_high">Korkea</string>
   <string name="pref_camera_beautify_entry_low">Matala</string>
   <string name="pref_camera_beautify_entry_normal">Keskitaso</string>
@@ -442,8 +439,8 @@ ja tuo henkilöt esiin."</string>
   <string name="pref_camera_facedetection_auto_hidden_title">Piilota kasvojentunnistuksen kehys automaattisesti</string>
   <string name="pref_camera_facedetection_title">Kasvojentunnistus</string>
   <string name="pref_camera_flashmode_entry_auto">Automaattinen</string>
-  <string name="pref_camera_flashmode_entry_off">Pois päältä</string>
-  <string name="pref_camera_flashmode_entry_on">Päällä</string>
+  <string name="pref_camera_flashmode_entry_off">Pois käytöstä</string>
+  <string name="pref_camera_flashmode_entry_on">Käytössä</string>
   <string name="pref_camera_flashmode_entry_torch">Taskulamppu</string>
   <string name="pref_camera_flashmode_title">Salaman tila</string>
   <string name="pref_camera_focus_shoot_summary">Tarkenna napauttamalla, ota kuva napauttamalla uudelleen.</string>
@@ -456,17 +453,17 @@ ja tuo henkilöt esiin."</string>
   <string name="pref_camera_focusmode_title">Tarkennustila</string>
   <string name="pref_camera_front_ai_scene_entry_off">AI-kamera pois käytöstä</string>
   <string name="pref_camera_front_ai_scene_entry_on">AI-kamera</string>
-  <string name="pref_camera_front_bokeh_entry_off">Pois päältä</string>
-  <string name="pref_camera_front_bokeh_entry_on">Päällä</string>
+  <string name="pref_camera_front_bokeh_entry_off">Pois käytöstä</string>
+  <string name="pref_camera_front_bokeh_entry_on">Käytössä</string>
   <string name="pref_camera_gradienter_title">Suorista</string>
   <string name="pref_camera_groupshot_mode_title">Ryhmäselfie</string>
   <string name="pref_camera_hand_night_title">HHT</string>
   <string name="pref_camera_hdr_entry_auto">Automaattinen</string>
   <string name="pref_camera_hdr_entry_live">Live</string>
   <string name="pref_camera_hdr_entry_normal">Pro</string>
-  <string name="pref_camera_hdr_entry_off">Pois päältä</string>
+  <string name="pref_camera_hdr_entry_off">Pois käytöstä</string>
   <string name="pref_camera_hdr_title">HDR</string>
-  <string name="pref_camera_hfr_entry_off">Pois päältä</string>
+  <string name="pref_camera_hfr_entry_off">Pois käytöstä</string>
   <string name="pref_camera_histogram_entry_disable">Poista käytöstä</string>
   <string name="pref_camera_histogram_entry_enable">Ota käyttöön</string>
   <string name="pref_camera_iso_entry_auto">AUTO</string>
@@ -502,9 +499,9 @@ ja tuo henkilöt esiin."</string>
   <string name="pref_camera_optimized_flash_enable_title">Optimoitu salama</string>
   <string name="pref_camera_panoramamode_title">Panoraama</string>
   <string name="pref_camera_parallel_process_enable_title">Ota käyttöön rinnakkainen käsittely</string>
-  <string name="pref_camera_peak_entry_off">Pois päältä</string>
-  <string name="pref_camera_peak_entry_on">Päällä</string>
-  <string name="pref_camera_peak_title">Focus peaking</string>
+  <string name="pref_camera_peak_entry_off">Pois käytöstä</string>
+  <string name="pref_camera_peak_entry_on">Käytössä</string>
+  <string name="pref_camera_peak_title">Tarkennuksen huippu</string>
   <string name="pref_camera_picture_format_entry_jpeg">Jpeg</string>
   <string name="pref_camera_picture_format_entry_raw">Raw</string>
   <string name="pref_camera_picturesize_entry_fullscreen">Koko näyttö</string>
@@ -515,7 +512,7 @@ ja tuo henkilöt esiin."</string>
   <string name="pref_camera_portrait_mode_title">Muotokuvatila</string>
   <string name="pref_camera_portrait_with_facebeauty_title">Kaunista Muotokuvatilassa</string>
   <string name="pref_camera_proximity_lock_summary">Lukitse kosketuseleet, kun laitetaan taskuun</string>
-  <string name="pref_camera_proximity_lock_title">Tasku-tila</string>
+  <string name="pref_camera_proximity_lock_title">Taskutila</string>
   <string name="pref_camera_quick_shot_anim_enable_title">Ota nopean kuvan animaatio käyttöön</string>
   <string name="pref_camera_quick_shot_enable_title">Ota nopea kuva käyttöön</string>
   <string name="pref_camera_recordlocation_entry_off">Pois käytöstä</string>
@@ -531,7 +528,7 @@ ja tuo henkilöt esiin."</string>
   <string name="pref_camera_scenemode_entry_landscape">Maisema</string>
   <string name="pref_camera_scenemode_entry_night">Yö</string>
   <string name="pref_camera_scenemode_entry_night_portrait">Yö muotokuva</string>
-  <string name="pref_camera_scenemode_entry_off">Pois päältä</string>
+  <string name="pref_camera_scenemode_entry_off">Pois käytöstä</string>
   <string name="pref_camera_scenemode_entry_portrait">Muotokuva</string>
   <string name="pref_camera_scenemode_entry_snow">Lumi</string>
   <string name="pref_camera_scenemode_entry_sports">Urheilu</string>
@@ -542,14 +539,14 @@ ja tuo henkilöt esiin."</string>
   <string name="pref_camera_settings_title">Asetukset</string>
   <string name="pref_camera_sharpness_title">Terävyys</string>
   <string name="pref_camera_show_gender_age_config_title">Ikä &amp; sukupuoli</string>
-  <string name="pref_camera_show_gender_age_entry_alias">Näytä ikä, kun Kaunista-ominaisuus on käytössä</string>
-  <string name="pref_camera_show_gender_age_entry_off">Pois päältä</string>
-  <string name="pref_camera_show_gender_age_entry_on">Näytä ikä ja sukupuoli, kun Kaunista-ominaisuus on käytössä</string>
+  <string name="pref_camera_show_gender_age_entry_alias">Näytä ikä, kun Kaunistus on käytössä</string>
+  <string name="pref_camera_show_gender_age_entry_off">Pois käytöstä</string>
+  <string name="pref_camera_show_gender_age_entry_on">Näytä ikä ja sukupuoli, kun Kaunistus on käytössä</string>
   <string name="pref_camera_show_gender_age_label_alias">Ikä</string>
   <string name="pref_camera_show_gender_age_label_on">Ikä &amp; sukupuoli</string>
   <string name="pref_camera_show_gender_age_title">Ikä &amp; sukupuoli</string>
   <string name="pref_camera_snap_enable_title">Nopean kuvan tila</string>
-  <string name="pref_camera_snap_entry_off">Pois päältä</string>
+  <string name="pref_camera_snap_entry_off">Pois käytöstä</string>
   <string name="pref_camera_snap_entry_take_movie">Nopean kuvan tila (video)</string>
   <string name="pref_camera_snap_entry_take_picture">Nopean kuvan tila (kuva)</string>
   <string name="pref_camera_snap_label_take_movie">Video</string>
@@ -557,13 +554,13 @@ ja tuo henkilöt esiin."</string>
   <string name="pref_camera_snap_toast_when_volume_can_wake_screen">Nopean kuvan tilaa ei voi käyttää jos \"Herätä Äänenvoimakkuuspainikkeella\" on käytössä.</string>
   <string name="pref_camera_sound_title">Kameran äänet</string>
   <string name="pref_camera_square_mode_title">Neliö</string>
-  <string name="pref_camera_stereo_mode_title">Tarkennuksen säätö</string>
+  <string name="pref_camera_stereo_mode_title">Tarkennuksen säätäminen</string>
   <string name="pref_camera_super_resolution_title">Ota SR käyttöön</string>
   <string name="pref_camera_tilt_shift_entry_circle">Ympyrä</string>
   <string name="pref_camera_tilt_shift_entry_parallel">Rinnakkainen</string>
   <string name="pref_camera_tilt_shift_title">Tilt-shift</string>
-  <string name="pref_camera_touchafaec_entry_off">Pois päältä</string>
-  <string name="pref_camera_touchafaec_entry_on">Päällä</string>
+  <string name="pref_camera_touchafaec_entry_off">Pois käytöstä</string>
+  <string name="pref_camera_touchafaec_entry_on">Käytössä</string>
   <string name="pref_camera_ubifocus_title">Uudelleentarkennus</string>
   <string name="pref_camera_ultra_wide_ldc_description">Korjaa vääristyneet kohteet automaattisesti</string>
   <string name="pref_camera_ultra_wide_ldc_title">Korjaa vääristymät ultralaajakulmaotoksissa</string>
@@ -594,14 +591,14 @@ ja tuo henkilöt esiin."</string>
   <string name="pref_camera_zoom_mode_entry_ultra">ULTRA LAAJA</string>
   <string name="pref_camera_zoom_mode_entry_wide">LAAJA</string>
   <string name="pref_camera_zoom_mode_title">LINSSI</string>
-  <string name="pref_camera_zsl_entry_off">Pois päältä</string>
-  <string name="pref_camera_zsl_entry_on">Päällä</string>
+  <string name="pref_camera_zsl_entry_off">Pois käytöstä</string>
+  <string name="pref_camera_zsl_entry_on">Käytössä</string>
   <string name="pref_capture_settings">Kamera</string>
-  <string name="pref_face_beauty_title">Kaunista</string>
+  <string name="pref_face_beauty_title">Kaunistus</string>
   <string name="pref_fingerprint_capture_title">Sormenjäljellä kuvan ottaminen</string>
   <string name="pref_front_mirror_entry_auto">Kun kasvot tunnistetaan</string>
-  <string name="pref_front_mirror_entry_off">Pois päältä</string>
-  <string name="pref_front_mirror_entry_on">Päällä</string>
+  <string name="pref_front_mirror_entry_off">Pois käytöstä</string>
+  <string name="pref_front_mirror_entry_on">Käytössä</string>
   <string name="pref_front_mirror_label_auto">Automaattinen</string>
   <string name="pref_front_mirror_title">Peilaa etukamera</string>
   <string name="pref_google_lens">Google lens</string>
@@ -616,8 +613,8 @@ ja tuo henkilöt esiin."</string>
   <string name="pref_scan_qrcode_summary">Vain takakamera voi lukea QR-koodeja \"Valokuva\" -tilassa.</string>
   <string name="pref_scan_qrcode_title">Skannaa QR-koodit</string>
   <string name="pref_setting_title">Asetukset</string>
-  <string name="pref_simple_hdr_entry_off">Pois päältä</string>
-  <string name="pref_simple_hdr_entry_on">Päällä</string>
+  <string name="pref_simple_hdr_entry_off">Pois käytöstä</string>
+  <string name="pref_simple_hdr_entry_on">Käytössä</string>
   <string name="pref_skin_beautify_color_title">Väri</string>
   <string name="pref_skin_beautify_eye_title">Silmät</string>
   <string name="pref_skin_beautify_intelligent_title">Älykäs</string>
@@ -625,7 +622,6 @@ ja tuo henkilöt esiin."</string>
   <string name="pref_skin_beautify_smooth_title">Sileä</string>
   <string name="pref_userdefine_watermark_title">Mukautettu vesileima</string>
   <string name="pref_video_captrue_ability_title">Valokuvan ottaminen nauhoituksen aikana</string>
-  <string name="pref_video_encoder_default">h264</string>
   <string name="pref_video_encoder_entry_h264">H.264 Korkea yhteensopivuus</string>
   <string name="pref_video_encoder_entry_h265">H.265 Korkea suorituskyky</string>
   <string name="pref_video_encoder_title">Videon enkooderi</string>
@@ -726,7 +722,7 @@ Ultralaajakulmatila tulee apuun, kun et voi liikkua kauemmaksi kohteestasi."</st
   <string name="user_agree">Hyväksy</string>
   <string name="user_agreement2">Palveluehdot</string>
   <string name="user_agreement4">Tietosuojakäytäntö</string>
-  <string name="user_notice_identify_summary_format">Käyttämällä tätä palvelua, hyväksyt Xiaomin %1$s ja %2$s. Hyväksytkö internetiin yhdistämisen?</string>
+  <string name="user_notice_identify_summary_format">Ennen Kameran käyttämistä sinun täytyy hyväksyä meidän Käyttöehdot ja Tietosuojakäytäntö. Kameran täytyy yhdistää internetiin toimiakseen normaalisti. Hyväksytkö?</string>
   <string name="user_notice_title">Käyttöehdot</string>
   <string name="video_beauty_tip">Videon kaunistaminen</string>
   <string name="video_camera_label">Videokamera</string>
@@ -740,6 +736,7 @@ Ultralaajakulmatila tulee apuun, kun et voi liikkua kauemmaksi kohteestasi."</st
   <string name="video_reach_size_limit">Kokorajoitus saavutettu.</string>
   <string name="video_ultra_clear_tip">4K UHD</string>
   <string name="view_privacy_policy">Näytä Tietosuojakäytäntö</string>
+  <string name="wait">Odota hetki…</string>
   <string name="wideselfie_press_shoot_key_to_start">Napauta sulkijapainiketta</string>
   <string name="wideselfie_result_image_lossless">Panoramakuvaa ei voitu luoda</string>
   <string name="wideselfie_rotate_slowly">Käännä puhelinta hitaasti sivuttain</string>
