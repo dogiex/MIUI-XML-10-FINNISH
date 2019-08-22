@@ -87,8 +87,6 @@ ja optimoi valokuvasi näiden tietojen perusteella"</string>
   <string name="autozoom_disabled_hint">Liikkuvan kohteen seuraaminen lopetettiin</string>
   <string name="autozoom_hint">Seuraa liikkuvaa kohdetta</string>
   <string name="autozoom_landscape_hint">Ota kuva vaakatasossa parhaan tehosteen saamiseksi</string>
-  <string name="back_bokeh_use_hint">Pidä kohdettasi alle 1,5 metrin etäisyydellä parhaan tehosteen saamiseksi</string>
-  <string name="audio_focus_exit_button_text">Poista Äänitarkennus käytöstä</string>
   <string name="back_bokeh_use_hint">Pidä kohde 1,5 metrin sisällä parhaan tehosteen saamiseksi</string>
   <string name="beauty_body">Vartalo</string>
   <string name="beauty_body_body">Hoikka</string>
