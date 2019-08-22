@@ -1844,8 +1844,7 @@ Kokeile käyttää toista ethernet-kaapelia reitittimesi yhdistämiseen. Jos luu
   <string name="privacy_apps_manage_dialog_title">Tietoja piilotetuista sovelluksista</string>
   <string name="privacy_apps_manager_dialog_message">Tämän sovelluksen kuvaketta ei näytetä Aloitusnäytöllä piilotettuasi tämän sovelluksen. Piilotetaanko tämä sovellus nyt?</string>
   <string name="privacy_apps_tutorial">Oppitunti</string>
-  <string name="privacy_apps_tutorial_prompt_pageone">"Piilotettuasi sovelluksen, se siirretään piilotettuun kansioon. Sen Aloitusnäytön pikakuvake piilotetaan myös.
-Tätä ominaisuutta ei tueta järjestelmäsovelluksilla."</string>
+  <string name="privacy_apps_tutorial_prompt_pageone">Tämän ominaisuuden avulla voit piilottaa sovelluksen kuvakkeen, jotta se ei enää näy Aloitusnäytölläsi.</string>
   <string name="privacy_apps_tutorial_prompt_pagethree">Annettuasi salasanasi, piilotettujen sovelluksien kansio tulee esiin.</string>
   <string name="privacy_apps_tutorial_prompt_pagetwo">Levitä kahta sormea näytölläsi. Näet viestin, joka pyytää antamaan Sovelluslukon salasanasi.</string>
   <string name="privacy_declare_dialog_title">Palveluehdot</string>

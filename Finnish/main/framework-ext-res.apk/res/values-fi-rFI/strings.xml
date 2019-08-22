@@ -151,6 +151,8 @@
   <string name="silence_mode">Äänetön tila</string>
   <string name="sim_added_reboot_confirm">Käynnistä uudelleen</string>
   <string name="sim_added_reboot_title">SIM-kortti aktivoituu uudelleenkäynnistämisen jälkeen.</string>
+  <string name="sim_lock_non_ais_msg">SIM-korttisi ei toimi kunnolla tässä puhelimessa, koska se ei noudata tilauksesi käyttöehtoja. Jos tarvitset lisätietoja tästä tapauksesta, otathan yhteyttä Xiaomin palvelukeskuksiin tai kauppaan, josta ostit tuotteen.</string>
+  <string name="sim_lock_now_ais_title">SIM %1$d</string>
   <string name="softap_notifif_summary">%d yhdistänyt</string>
   <string name="softap_notifif_title">Hotspot \"%s\" on käytössä</string>
   <string name="standard">Äänetön</string>
