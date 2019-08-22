@@ -309,6 +309,8 @@ Lähetä tämä koodi teknikolle."</string>
     <string name="document_open_message">Parantaaksesi lukukokemusta ja pitääksesi turvallisuudesta huolen, käytä WPS:n kustomoitua versiota</string>
     <string name="document_open_other">Muut sovellukset</string>
     <string name="document_open_title">Avaa sovelluksella</string>
+    <string name="document_open_txt_message">Parantaaksesi lukukokemustasi ja varmistaaksesi tietoturvan, käytä Kirjahyllyä</string>
+    <string name="document_open_txt_start_read">Aloita lukeminen</string>
     <string name="dont_remind_again">Muista tämä valinta</string>
     <string name="download_btn_select_all">Valitse kaikki</string>
     <string name="download_btn_select_none">Poista valinnat</string>
