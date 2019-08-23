@@ -990,7 +990,6 @@ vastaanottaaksesi muistutuksia maksuista ja matkoista"</string>
   <string name="refreshing_done">Valmis</string>
   <string name="release_to_refresh">Päivitä vapauttamalla</string>
   <string name="remind_attachment_size_limit">Sähköpostisi tulisi olla alle %s Mt</string>
-  <string name="remote_no_mail">Palvelimella ei ole enempää sähköposteja.</string>
   <string name="remove_account">Poista tili</string>
   <string name="remove_folder">Poista kansiosta %1$s</string>
   <string name="remove_star">Poista tähti</string>
