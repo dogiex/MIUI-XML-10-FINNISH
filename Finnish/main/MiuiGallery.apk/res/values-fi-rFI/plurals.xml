@@ -84,6 +84,10 @@
         <item quantity="other">Valitse enintään %d kuvaa</item>
         <item quantity="one">Valitse enintään %d kuva</item>
     </plurals>
+    <plurals name="collage_select_image_dynamic_range">
+        <item quantity="other">Kollaasit voivat sisältää 1-%d kuvaa</item>
+        <item quantity="one">Kollaasit voivat sisältää 1-%d kuvan</item>
+    </plurals>
     <plurals name="custom_select_title_items_selected">
         <item quantity="other">%d kohdetta valittu</item>
         <item quantity="one">%d kohde valittu</item>

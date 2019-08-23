@@ -48,4 +48,20 @@
         <item quantity="other"> | %1$s henkilöä</item>
         <item quantity="one"> | %1$s henkilö</item>
     </plurals>
+    <plurals name="tts_report_temperature_high_centigrade">
+        <item quantity="other">Korkein lämpötila: %1$s Celsius-asetetta</item>
+        <item quantity="one">Korkein lämpötila: %1$s Celsius-aste</item>
+    </plurals>
+    <plurals name="tts_report_temperature_high_fahrenheit">
+        <item quantity="other">Korkein lämpötila: %1$s Fahrenheit-astetta</item>
+        <item quantity="one">Korkein lämpötila: %1$s Fahrenheit-aste</item>
+    </plurals>
+    <plurals name="tts_report_temperature_low_centigrade">
+        <item quantity="other">Lowest temperature: %1$s Celsius-asetetta</item>
+        <item quantity="one">Lowest temperature: %1$s Celsius-aste</item>
+    </plurals>
+    <plurals name="tts_report_temperature_low_fahrenheit">
+        <item quantity="other">Lowest temperature: %1$s Fahrenheit-astetta</item>
+        <item quantity="one">Lowest temperature: %1$s Fahrenheit-aste</item>
+    </plurals>
 </resources>

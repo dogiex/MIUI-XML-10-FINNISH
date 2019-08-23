@@ -2,14 +2,12 @@
 <resources>
   <!-- 8.9.17 -->
   <string name="account_settings_preference_add_account">Lisää sähköpostitili</string>
-  <string name="chinese">Kiinalainen</string>
-  <string name="mail_search_lab">hakutunniste</string>
   <string name="mailbox_name_display_add_account">Lisää sähköpostitili</string>
-  <string name="notify_channel_new_mail">Uuden sähköpostin muistutus</string>
+  <string name="notify_channel_new_mail">Ilmoita uusista viesteistä</string>
   <string name="notify_channel_no_disterb">Älä häiritse -tila</string>
-  <string name="notify_channel_permission_notice">Ilmoituksen muistutuksen käyttöoikeus</string>
-  <string name="notify_channel_send_fail">Epäonnistuneen lähetyksen muistutus</string>
-  <string name="notify_channel_service">Taustasynkronoinnin muistutus</string>
+  <string name="notify_channel_permission_notice">Käyttöoikeuksia vaaditaan</string>
+  <string name="notify_channel_send_fail">Ilmoita epäonnistuneesti lähetyksestä</string>
+  <string name="notify_channel_service">Ilmoita taustasynkronoinnista</string>
   <string name="show_more_attachment">Lisää liitetiedostoja</string>
   <string name="update_to_wps_mail">Nauti WPS Mailin avulla useammasta ominaisuudesta</string>
   <!-- // 8.9.17 -->
@@ -86,11 +84,12 @@
   <string name="account_setup_basics_manual_setup_action">Manuaalinen määritys</string>
   <string name="account_setup_basics_mi_mail_login_help">Sinun on ehkä vahvistettava tilisi tekstiviestillä vastaanottaaksesi sähköposteja</string>
   <string name="account_setup_basics_password_label">Salasana</string>
+  <string name="account_setup_basics_password_label_authcode">Syötä salasana tai vahvistuskoodi</string>
   <string name="account_setup_basics_title">Tilin asetukset</string>
   <string name="account_setup_check_settings_check_incoming_msg">Vahvistetaan palvelimen asetuksia…</string>
   <string name="account_setup_check_settings_check_outgoing_msg">Vahvistetaan SMTP-asetuksia…</string>
   <string name="account_setup_check_settings_retr_info_msg">Noudetaan tilin tietoja…</string>
-  <string name="account_setup_correct_address_tips">Syötä sähköpostiosoite</string>
+  <string name="account_setup_correct_address_tips">Syöttämäsi sähköpostiosoite on virheellinen</string>
   <string name="account_setup_creating_account_msg">"    Luodaan tiliä…"</string>
   <string name="account_setup_deleting_account_msg">"    Poistetaan tiliä…"</string>
   <string name="account_setup_exchange_certificate_title">Asiakkaan varmenne</string>
@@ -173,9 +172,10 @@
   <string name="ad_merge">Mainokset &amp; Ilmoitukset</string>
   <string name="add_account">Lisää tili</string>
   <string name="add_account_keywords">Lisää tili;lisää sähköposti tili</string>
+  <string name="add_account_search">Lisää tili</string>
   <string name="add_attachment">Lisää liitetiedosto</string>
   <string name="add_calendar">Muistuta</string>
-  <string name="add_file_exception">Lisää poikkeus. Yritä lisätä toisesta polusta.</string>
+  <string name="add_file_exception">Ei voitu lisätä. Yritä lisätä tämä liitetiedosto toisesta paikasta.</string>
   <string name="add_label">Lisää kansio</string>
   <string name="add_pre_message_attachments">Lisätäänkö edellisen viestin liitetiedostot??</string>
   <string name="add_pre_message_attachments_no">Älä lisää</string>
@@ -185,10 +185,10 @@
   <string name="always_bcc_myself">Lähetä piilokopio itselleni</string>
   <string name="always_show_images">Näytä kuvat aina tältä lähettäjältä</string>
   <string name="app_name">Sähköposti</string>
-  <string name="appraise_des">Teemme paljon töitä tuotteiden kehittämiseen miellyttääksemme sinua. Tue meitä antamalla kommenttisi.</string>
-  <string name="appraise_good">Ylistä ja rohkaise</string>
-  <string name="appraise_ignore">Väliaikainen arviointi</string>
-  <string name="appraise_negative">Negatiivinen kommentti</string>
+  <string name="appraise_des">Tykkäätkö sovelluksestamme?</string>
+  <string name="appraise_good">Kyllä</string>
+  <string name="appraise_ignore">En osaa sanoa</string>
+  <string name="appraise_negative">En</string>
   <string name="archive">Arkistoi</string>
   <string name="archived">Arkistoitu</string>
   <string name="att_download_failed_content">Viestin liitetiedoston lataaminen epäonnistui.</string>
@@ -217,6 +217,7 @@
   <string name="attachment_not_exists">Liitetiedostoa ei ole olemassa!</string>
   <string name="attachment_open_SecurityException_hint">Sinulla ei ole käyttöoikeutta avata tätä tiedostoa tai se saattaa olla vioittunut.</string>
   <string name="attachment_open_SecurityException_title">Tiedoston avaaminen epäonnistui</string>
+  <string name="attachment_opening_mode">Sovelluksia liitetiedostoille</string>
   <string name="attachment_size_exceed_limit">Koko ylitti palvelimen rajan</string>
   <string name="attachment_stop_all">Lopeta</string>
   <string name="attachment_text">Teksti</string>
@@ -365,12 +366,14 @@
   <string name="default_">OLETUS</string>
   <string name="default_exchange">EXCHANGE</string>
   <string name="default_imap">IMAP</string>
+  <string name="default_opening_attchemnt_mode">Avaa liitetiedostot käyttäen oletussovelluksia</string>
   <string name="default_pop3">POP3</string>
   <string name="default_setup">OLETUSASETUKSET</string>
   <string name="default_signature">Lähetetty Mi puhelimestani</string>
   <string name="default_signature_2">Lähetetty laitteestani %s</string>
   <string name="del_account_questionnair_hint">Voitko kertoa meille, miksi olet poistamassa tätä tiliä?</string>
   <string name="delete">Poista</string>
+  <string name="delete_contact_content">Poistetaanko tämä yhteystieto nyt?</string>
   <string name="delete_message_flow">Poista viestiketju</string>
   <string name="delete_message_flow_keywords">poista viesti ketju;poista uudelleenohjaa</string>
   <string name="deleted">Poistettu</string>
@@ -442,7 +445,8 @@
   <string name="exception_cancel">"
         Tämä tapahtuma on peruttu
         koska:
-%s "</string>
+        %s
+   "</string>
   <string name="exception_updated">Tapahtuman tiedot on vaihdettu seuraavanlaiseksi: %s</string>
   <string name="exchange_name">Yritys</string>
   <string name="exchange_name_alternate">Microsoft Exchange ActiveSync</string>
@@ -490,7 +494,7 @@
   <string name="folder_junk_name_en4">Roskaposti</string>
   <string name="folder_list_display_all">Näytä kaikki kansiot</string>
   <string name="folder_list_display_only_import">Näytä vain tärkeät kansiot</string>
-  <string name="folder_no_mails">Tässä kansiossa ei ole sähköposteja</string>
+  <string name="folder_no_mails">Tässä kansiossa ei ole sähköposteja.</string>
   <string name="folder_picker_title">Valitse kansiot</string>
   <string name="folder_removed">Poistettu kansiosta %1$s</string>
   <string name="folder_sent_name_cn0">已发送</string>
@@ -540,12 +544,12 @@
   <string name="gmail_server_authorization_deleted">Tilin varmentaminen epäonnistui. Yritä lisätä tämä tili uudelleen.p</string>
   <string name="gmail_web_login_go">OK</string>
   <string name="gmail_web_login_required_message">Kirjaudu Gmail-tiliin</string>
-  <string name="have_auth_code">Kirjaudu sisään koodilla</string>
+  <string name="have_auth_code">Minulla on koodi</string>
   <string name="header_category_account">Tilit</string>
   <string name="header_category_other">Palaute</string>
   <string name="header_label_general_preferences">Yleistä</string>
   <string name="help_and_info">Ohje</string>
-  <string name="help_me_get_qq_auth">Auta minua saamaan QQ-vahvistuskoodi</string>
+  <string name="help_me_get_qq_auth">Hanki QQ-koodi</string>
   <string name="hide_elided">▼ Piilota lainattu teksti</string>
   <string name="hide_password">Piilota salasana</string>
   <string name="hierarchical_folder_parent_top">%1$s∕%2$s∕</string>
@@ -566,16 +570,18 @@
   <string name="invalid_recipient">Osoite %s ei kelpaa.</string>
   <string name="invalid_recipient_title">Virheellinen vastaanottaja</string>
   <string name="kilobytes">%s Kt</string>
-  <string name="list_empty_to_fresh">Ei sähköposteja, päivitä vetämällä alaspäin.</string>
+  <string name="list_empty_to_fresh">Ei vielä sähköposteja.</string>
   <string name="load_from_remote">Etsi palvelimen postilaatikosta</string>
   <string name="load_more">Lataa lisää</string>
   <string name="loading_conversation">Ladataan…</string>
   <string name="loading_conversations">Ladataan…</string>
   <string name="loading_from_remote">Ladataan…</string>
   <string name="local_search">Paikallinen haku</string>
+  <string name="local_search_result">%s tulosta synkronoiduissa viesteissä</string>
   <string name="log_save_path">Lokin polku</string>
   <string name="login">Kirjaudu sisään</string>
   <string name="login139">Kirjaudu sisään China Mobilella</string>
+  <string name="login_err_message">Syöttämäsi salasana on virheellinen. Saatat tarvita myös vahvistuskoodin kirjautuaksesi sisään. Jos sinun täytyy palauttaa salasanasi, vieraile osoitteessa https://email.163.com/ nähdäksesi käytettävissä olevat vaihtoehdot.</string>
   <string name="login_failed_ticker">Kirjautuminen tiliin %s epäonnistui.</string>
   <string name="login_failed_title">Kirjautuminen ei onnistu</string>
   <string name="login_mail">Kirjaudu sisään</string>
@@ -614,38 +620,48 @@
   <string name="me_subject_pronun">me</string>
   <string name="meeting_accepted">"
         Hyväksytty:
-%s "</string>
+        %s
+   "</string>
   <string name="meeting_allday">"
         Milloin:
-%s (koko päivä)
-    "</string>
+        %s
+        (koko päivä)
+   "</string>
   <string name="meeting_allday_recurring">"
         Milloin:
-%s (koko päivä, toistuva)
-    "</string>
+        %s
+        (koko päivä, toistuva)
+   "</string>
   <string name="meeting_canceled">"
         Peruutettu:
-%s "</string>
+        %s
+   "</string>
   <string name="meeting_declined">"
         Hylätty:
-%s "</string>
+        %s
+   "</string>
   <string name="meeting_recurring">"
         Milloin:
-%s (toistuva)
-    "</string>
+        %s
+        (toistuva)
+   "</string>
   <string name="meeting_responded_failed">Ei vastausta</string>
   <string name="meeting_tentative">"
         Alustava:
-%s "</string>
+        %s
+   "</string>
   <string name="meeting_updated">"
         Päivitetty:
-%s "</string>
+        %s
+   "</string>
   <string name="meeting_when">"
         Milloin:
-%s "</string>
+        %s
+   "</string>
   <string name="meeting_where">"
         Missä:
-%s "</string>
+        %s
+   "</string>
   <string name="megabytes">%s Mt</string>
   <string name="menu_att_mgr">Liitetiedostot</string>
   <string name="menu_att_mgr_order_default">Viimeksi katsotut</string>
@@ -739,7 +755,7 @@ Kokeile toista postilaatikkoa."</string>
   <string name="one_day">1 päivä</string>
   <string name="one_month">1 kuukausi</string>
   <string name="one_week">1 viikko</string>
-  <string name="open_androidp_warning">Avoin 9.0 Epävirallinen SDK Varoitus</string>
+  <string name="open_androidp_warning">Varoita epävirallisista 9.0 SDK:sta</string>
   <string name="open_calendar_and_contacts_permission">Salli Sähköpostin käyttää yhteystietoja ja kalenteritietoja Asetuksissa</string>
   <string name="open_external_storage_and_calendar_permission">Salli Sähköpostin käyttää tallennustilaa ja kalenteritietoja Asetuksissa</string>
   <string name="open_external_storage_and_contacts_and_calendar_permission">Salli Sähköpostin käyttää tallennustilaa, yhteystietoja ja kalenteritietoja Asetuksissa</string>
@@ -846,8 +862,7 @@ vastaanottaaksesi muistutuksia maksuista ja matkoista"</string>
   <string name="policy_screen_timeout">Käyttämättömän laitteen lukittava näyttö</string>
   <string name="policy_text_truncation">Rajoita sähköpostin tekstin kokoa</string>
   <string name="pop3_name">Omat (POP3)</string>
-  <string name="preference_eas_tips">Aseta sähköpostipalvelin napauttamalla Aktivoi.</string>
-  <string name="preference_imap_tips"/>
+  <string name="preference_eas_tips">Napauta “Aktivoi“ asettaaksesi sähköpostipalvelimen.</string>
   <string name="preference_pop_tips">POP3:ssa, liitetiedostot ladataan automaattisesti sähköpostin mukana. Tämä saattaa nostaa mobiilidatan käyttöä.</string>
   <string name="preference_sender_image_description">Näytä postilaatikossa profiilikuvat lähettäjän nimen vieressä</string>
   <string name="preference_sender_image_title">Näytä profiilikuvat postilaatikossa</string>
@@ -857,7 +872,8 @@ vastaanottaaksesi muistutuksia maksuista ja matkoista"</string>
   <string name="preview_attachment">Esikatsele</string>
   <string name="previous_action">Takaisin</string>
   <string name="print">Tulosta</string>
-  <string name="privacy_des">Lokitiedot sisältää debuggaustiedot, jotka sähköpostisovellus on tulostanut ja tiedot laitteestasi paikantaaksemme palautteesi kysymykset. Valitsemalla \"%1$s\" olet lukenut ja hyväksynyt meidän 《%2$s》</string>
+  <string name="print_scheduler_title">Tulostuksen ajastaminen</string>
+  <string name="privacy_des">Lokitiedot sisältävät vianhakutiedot sähköpostisovelluksestasi ja laitteesi tiedoista. Näitä tietoja käytetään ongelmien nopeampaan paikantamiseen. Napauttamalla alla olevaa \"%1$s\", hyväksyt meidän \"%2$s\".</string>
   <string name="privacy_policy">Tietosuojakäytäntö</string>
   <string name="prompt_title">Ilmoitus</string>
   <string name="protocol_eas">eas</string>
@@ -886,13 +902,13 @@ vastaanottaaksesi muistutuksia maksuista ja matkoista"</string>
   <string name="qq_bar_send_message">Lähetä tekstiviesti</string>
   <string name="qq_login_basecode">Kirjaudutaan QQ Sähköpostiin selaimessa. Syötä salasanasi.</string>
   <string name="qq_login_get_auth">Ota salasanan suojaaminen käyttöön jos et saa tekstiviestiä</string>
-  <string name="qq_login_notice">Vihje: Jos olet määrittänyt riippumattoman salasanan, sinun täytyy antaa riippumaton salasana päästääksesi sähköpostiin.</string>
+  <string name="qq_login_notice">Muistutus: Jos olet jo asettanut salasanan, sinun täytyy vahvistaa se kirjautuessasi sisään.</string>
   <string name="qq_login_open_imap">Napauta \"Apua\" ottaaksesi IMAP/SMTP käyttöön</string>
   <string name="qq_login_origin_setting">Kirjaudu syöttämällä käyttäjänimi ja salasana &gt;</string>
   <string name="qq_login_send_message">Napautama \"Lähetä tekstiviesti\" saadaksesi vahvistuskoodin</string>
   <string name="qq_login_webview">Kirjautuessasi QQ sovellukseen verkossa, napauta kirjaudu sisään käyttäen salasanaa.</string>
   <string name="qq_next_generation_auth_toast">Ota salasanan suojaaminen käyttöön selaimessasi</string>
-  <string name="qq_pwd_or_qq_auth_code">QQ-vahvistuskoodi tai sähköpostin salasana</string>
+  <string name="qq_pwd_or_qq_auth_code">Syötä QQ-koodi tai sähköpostin salasana</string>
   <string name="qq_uthentication_failed">Todennus epäonnistui, kirjaudu sisään uudelleen</string>
   <string name="qq_verify_code">(QQ-vahvistuskoodi vaaditaan)</string>
   <string name="qq_webview_loading">Odota hetki…</string>
@@ -966,6 +982,7 @@ vastaanottaaksesi muistutuksia maksuista ja matkoista"</string>
   <string name="recognize_ticket_train_return">Palautettiin</string>
   <string name="recognize_ticket_train_user_name">Matkustaja: %1$s</string>
   <string name="recognize_title">Matkustustiedot</string>
+  <string name="recommend_protocal">Suosituksen protokolla</string>
   <string name="reduce_the_receiving_frequencye_summary">Synkronoi postilaatikko harvemmin, kun Älä Häiritse on käytössä</string>
   <string name="reduce_the_receiving_frequencye_title">Synkronoi harvemmin</string>
   <string name="refresh">Päivitä</string>
@@ -973,6 +990,7 @@ vastaanottaaksesi muistutuksia maksuista ja matkoista"</string>
   <string name="refreshing_done">Valmis</string>
   <string name="release_to_refresh">Päivitä vapauttamalla</string>
   <string name="remind_attachment_size_limit">Sähköpostisi tulisi olla alle %s Mt</string>
+  <string name="remote_no_mail">Palvelimella ei ole enempää sähköposteja.</string>
   <string name="remove_account">Poista tili</string>
   <string name="remove_folder">Poista kansiosta %1$s</string>
   <string name="remove_star">Poista tähti</string>
@@ -1097,12 +1115,13 @@ vastaanottaaksesi muistutuksia maksuista ja matkoista"</string>
   <string name="three_day">3 päivää</string>
   <string name="title_activity_about">Tietoja</string>
   <string name="to_heading">"Vastaanottaja(t): "</string>
-  <string name="toast_bar_fail_synchronization">Verkkoyhteyttä ei voi muodostaa</string>
+  <string name="toast_bar_fail_synchronization">Palvelimelle ei saatu yhteyttä. Odota minuutti tai kaksi ja yritä uudelleen.</string>
   <string name="toast_bar_insufficient_memory_space">Sähköposteja ei voi vastaanottaa. Tallennustilaa ei ole tarpeeksi.</string>
   <string name="toast_bar_invalid_account">Tilitiedot on vanhentuneet. Kirjaudu sisään uudelleen napauttamalla.</string>
   <string name="toast_bar_no_connection_network">Sinulla ei ole internet-yhteyttä</string>
   <string name="toast_bar_open_gmail_synchronization">Gmailiin yhdistäminen epäonnistui. Ota Gmailin välityspalvelin käyttöön.</string>
   <string name="toast_bar_send_fail_remind">Sähköpostia ei voitu lähettää. Sähköposti tallennettiin \"Lähtevät\" kansioon.</string>
+  <string name="toast_bar_sync_failed_mi_authority">Ei voitu synkronoida. Odota minuutti tai kaksi ja yritä uudelleen. Jos olet kirjautumassa ensimmäistä kertaa, vahvista laitteesi intranetin/tekstiviestin avulla.</string>
   <string name="toastbar_calendar_and_contacts_permission_switch_close">Synkronoidaksesi kalenteritiedot ja yhteystiedot, anna Sähköpostille tarvittavat käyttöoikeudet Asetuksissa</string>
   <string name="toastbar_calendar_permission_switch_close">Saadaksesi kalenterimuistutuksia, anna Sähköpostille tarvittavat käyttöoikeudet Asetuksissa</string>
   <string name="toastbar_contacts_permission_switch_close">Lisätäksesi yhteystietoja, anna Sähköpostille tarvittavat käyttöoikeudet Asetuksissa</string>
@@ -1135,6 +1154,8 @@ Poistetaanko tili?"</string>
   <string name="unread_string">keskustelua ei ole luettu</string>
   <string name="unzip_file_failed">Tiedoston purkaminen epäonnistui</string>
   <string name="update_date_format_templete">HH:mm, d.M.</string>
+  <string name="update_domain_summary">Päivitä verkkotunnusluettelo ja määritykset</string>
+  <string name="update_domain_title">Päivitä verkkotunnus</string>
   <string name="updated_at">Päivitetty viimeksi %1$s</string>
   <string name="upload_log">Lähetä</string>
   <string name="upload_log_failed">Lokitiedostojen lähettäminen epäonnistui</string>
@@ -1153,6 +1174,8 @@ Poistetaanko tili?"</string>
   <string name="wait_for_manual_sync_body">"Tätä tiliä ei ole asetettu synkronoimaan automaattisesti.
 Kosketa "&lt;b&gt;Synkronoi nyt&lt;/b&gt; synkronoidaksesi sähköpostin kerran, tai &lt;b&gt;Vaihda Synkronointiasetuksia&lt;/b&gt; ottamalla tälle tilille sähköpostin automaattisen synkronointi käyttöön.</string>
   <string name="wait_for_sync_title">Odotetaan synkronointia</string>
+  <string name="wait_help_context">Odota</string>
+  <string name="wait_while_update_db">Odota hetki, tietokannan päivitys meneillään!</string>
   <string name="webview_logout">Voit yrittää kirjautua uudelleen</string>
   <string name="webview_logout_cancel">Ei nyt</string>
   <string name="webview_logout_sure">Yritä uudelleen</string>
@@ -1163,7 +1186,7 @@ Kosketa "&lt;b&gt;Synkronoi nyt&lt;/b&gt; synkronoidaksesi sähköpostin kerran,
   <string name="widget_large_unread_count">%d+</string>
   <string name="widget_other_views">Muu</string>
   <string name="wipe_account_fail_description">Salli</string>
-  <string name="wipe_account_fail_description_remind">Datan käyttöoikeuden takia tilin poistamisen jälkeen kalenteriin ja yhteystietoihin saattaa jäädä jäännöstietoja, poista ne käsin.</string>
+  <string name="wipe_account_fail_description_remind">Datan käyttörajoituksien takia tilin poistamisen jälkeen Kalenteriin ja Yhteystietoihin saattaa jäädä jäännöstietoja. Poista nämä kohteet manuaalisesti.</string>
   <string name="wipe_account_fail_title">Henkilökohtaista tietoa ei voitu poistaa</string>
   <string name="wps_title">WPS Sähköposti</string>
   <string name="wrong_password">Salasana, jonka syötit on väärin</string>

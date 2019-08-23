@@ -3,7 +3,6 @@
 
   <!-- miui 10 valmis -->
 
-  <string name="action_bar_date_button_title">Laske päivämäärä</string>
   <string name="anniversary_secondary_tag">Vuosipäivä</string>
   <string name="birthday_born">Synnyinpäivä</string>
   <!-- Net mock ??? -->
@@ -46,6 +45,7 @@
   <string name="accessbility_suggestion_dropdown_closed">Ehdotuksia ei saatavilla</string>
   <string name="accessbility_suggestion_dropdown_opened">Yhteystietojen ehdotukset avattiin</string>
   <string name="accessibility_add_attendee">Lisää osallistuja</string>
+  <string name="accessibility_alarm_remind">Hälytyksen muistutukset</string>
   <string name="accessibility_add_reminder">Lisää muistutus</string>
   <string name="accessibility_all_day">Koko päivän tapahtuma</string>
   <string name="accessibility_pick_end_date">Lopetuspäivä</string>
@@ -370,9 +370,14 @@ Tarkista verkkoyhteys ja yritä uudelleen."</string>
   <string name="pref_title_alarm_remind">Muistuta hälytyksellä</string>
   <string name="pref_title_no_remind">Ei muistutusta</string>
   <string name="pref_title_notification_remind">Ilmoituksen muistutus</string>
+  <string name="preferences_alarms_category_title">Hälytyksen muistutukset</string>
+  <string name="preferences_alarms_default_event">Valitse tapahtumat</string>
+  <string name="preferences_alarms_sound">Ääni</string>
+  <string name="preferences_alarms_vibrateWhen">Värinä</string>
   <string name="preferences_alerts_ringtone_title">Ääni</string>
   <string name="preferences_alerts_vibrateWhen_title">Värinä</string>
-  <string name="preferences_alerts_vibrate_title">Värinä ja soittoääni</string>
+  <string name="preferences_alerts_vibrate_title">Oletusmuistutus</string>
+  <string name="preferences_allow_remind">Salli muistutukset</string>
   <string name="preferences_build_version">Ohjelmistoversio</string>
   <string name="preferences_default_allday_reminder_title">Koko päivän muistutuksen oletusaika</string>
   <string name="preferences_default_reminder_dialog">Muistutuksen oletusaika</string>
@@ -391,7 +396,20 @@ Tarkista verkkoyhteys ja yritä uudelleen."</string>
   <string name="reminder_later_notification_time_format">HH:mm</string>
   <string name="reminder_overdue">Vanhentunut</string>
   <string name="repeat_activity_label">Toisto</string>
-  <string name="repeat_custom_activity_label">Oma valinta</string>
+  <string name="repeat_alarm_changed_credit_event">Muistuta aina luottokorttilaskuista</string>
+  <string name="repeat_alarm_changed_electricity_event">Muistuta aina sähkölaskuista</string>
+  <string name="repeat_alarm_changed_event">Aseta toistuva muistutus</string>
+  <string name="repeat_alarm_changed_flight_event">Muistua aina lennoista</string>
+  <string name="repeat_alarm_changed_gas_event">Muistuta aina kaasulaskuista</string>
+  <string name="repeat_alarm_changed_hotel_event">Muistuta aina hotelleista</string>
+  <string name="repeat_alarm_changed_loan_event">Muistuta aina lainan takaisinmaksuista</string>
+  <string name="repeat_alarm_changed_movie_event">Muistuta aina elokuvista</string>
+  <string name="repeat_alarm_changed_ony_selected">Vain tällä kertaa</string>
+  <string name="repeat_alarm_changed_title">Tämä on toistuva tapahtuma. Asetetaanko muistutus?</string>
+  <string name="repeat_alarm_changed_train_event">Muistuta aina junista</string>
+  <string name="repeat_alarm_close_title">Tämä on toistuva tapahtuma. Poistetaanko hälytysmuistutus käytöstä?</string>
+  <string name="repeat_alarm_open_title">Tämä on toistuva tapahtuma. Asetetaanko hälytysmuistutus?</string>
+  <string name="repeat_custom_activity_label">Mukautettu</string>
   <string name="repeat_custom_prompt_daily">joka %1$s</string>
   <string name="repeat_custom_prompt_sentence">Tapahtuma toistuu %1$s</string>
   <string name="repeat_custom_prompt_splitter">", "</string>
@@ -428,11 +446,18 @@ Tarkista verkkoyhteys ja yritä uudelleen."</string>
   <string name="search_menu_title">Haku</string>
   <string name="select_date">Siirry päivämäärään</string>
   <string name="select_today_tip">Tänään</string>
+  <string name="setting">Asetukset</string>
   <string name="setting_about_calendar_version">Kalenterin versio:</string>
   <string name="setting_about_imei">IMEI:</string>
   <string name="setting_about_miui_version">MIUI versio:</string>
   <string name="setting_about_summary">Versio:</string>
   <string name="setting_accounts">Kalenterin tilit</string>
+  <string name="setting_daysoff_no_update">Juhlapyhien tiedot ovat ajan tasalla.</string>
+  <string name="setting_daysoff_update">Päivitä juhlapyhien tiedot</string>
+  <string name="setting_daysoff_update_cta_cancel">Salli Kalenterin yhdistää ensin internetiin</string>
+  <string name="setting_daysoff_update_net_err">Päivityksiä ei voitu tarkistaa. Odota minuutti tai kaksi ja yritä uudelleen.</string>
+  <string name="setting_daysoff_update_schedule">Päivitetään…</string>
+  <string name="setting_daysoff_update_success">Päivitettiin onnistuneesti</string>
   <string name="setting_features_title">Ominaisuuksien asetukset</string>
   <string name="setting_holiday_display_desc">Juhlapyhät näkyvät kotisivulla tapahtumien alapuolella</string>
   <string name="setting_holiday_reminder">Juhlapyhän muistutus</string>
@@ -458,6 +483,7 @@ Voit myös lisätä muistutuksia, jotta et menetä mitään tärkeää."</string
   <string name="subscribing_card">Tilattu</string>
   <string name="talk_back_read_date">%1$s (%2$s kuukalenterin mukaan)</string>
   <string name="talk_back_setting">Asetukset</string>
+  <string name="talk_back_tab_switch">Vaihda näkymien välillä</string>
   <string name="template_announce_item_index">Tapahtuma %1$s / %2$s.</string>
   <string name="time_zone">Aikavyöhyke</string>
   <string name="timezone_label">Aikavyöhyke</string>

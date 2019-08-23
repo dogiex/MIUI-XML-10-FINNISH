@@ -666,6 +666,7 @@ The second line shows the name and version number of Default MBN and Carrier MBN
   <string name="cit_wifi_fail_to_scan">Verkkojen skannaaminen epäonnistui</string>
   <string name="cit_wifi_state_refresh">Päivitä</string>
   <string name="cit_yellow_torch_on">Käynnistä keltainen taskulamppu</string>
+  <string name="close_third_color_led">Sulje kolmen värin ledi</string>
   <string name="copyright">Copyright © 2015 Goodix All Rights Reserved.</string>
   <string name="delete">Poista</string>
   <string name="description_info">Tietoja</string>
@@ -742,6 +743,7 @@ testi onnistui, paina Läpäisi-painiketta"</string>
   <string name="noise">noise:</string>
   <string name="none">N/A</string>
   <string name="ok">Ok</string>
+  <string name="open_third_color_led">Avaa kolmen värin ledi</string>
   <string name="pass">Läpäisi</string>
   <string name="phone_not_been_restarted">Puhelinta ei ole käynnistetty uudelleen</string>
   <string name="picture">Kuva</string>

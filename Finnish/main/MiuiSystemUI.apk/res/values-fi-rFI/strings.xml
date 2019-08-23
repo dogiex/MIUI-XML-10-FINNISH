@@ -1118,8 +1118,6 @@ Kaikki käyttäjät voivat päivittää kaikkien käyttäjien sovelluksia."</str
   <string name="always_use_accessory">Käytä oletuksena tälle USB-lisälaitteelle</string>
   <string name="always_use_device">Käytä oletuksena tälle USB-laitteelle</string>
   <string name="animator_duration_scale_title">Animaattori</string>
-  <string name="aod_lock_screen_date">"EEEE d. MMMM'ta'"</string>
-  <string name="aod_lock_screen_date_12">"EEEE d. MMMM'ta'"</string>
   <string name="apn_settings_not_available">Tämä käyttäjä ei voi käyttää APN-asetuksia</string>
   <string name="app_label">Järjestelmän käyttöliittymä</string>
   <string name="app_process_limit_title">Taustaprosessi</string>

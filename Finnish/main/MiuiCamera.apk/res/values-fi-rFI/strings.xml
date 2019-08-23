@@ -766,6 +766,7 @@ Ultralaajakulmatila tulee apuun, kun et voi liikkua kauemmaksi kohteestasi."</st
   <string name="ultra_wide_open_tip">Ultralaajakulmatila</string>
   <string name="ultra_wide_open_tip_sat">0.6X ultralaajakulma</string>
   <string name="ultra_wide_recommend_tip_hint">Kokeile Ultralaajakulmatilaa</string>
+  <string name="ultra_wide_recommend_tip_hint_sat">Kokeile 0.6X ultralaajakulmatilaa</string>
   <string name="user_agree">Hyväksy</string>
   <string name="user_agreement2">Palveluehdot</string>
   <string name="user_agreement4">Tietosuojakäytäntö</string>

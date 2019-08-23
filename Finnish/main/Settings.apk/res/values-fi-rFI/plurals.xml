@@ -20,10 +20,6 @@
         <item quantity="other">Erittäin lyhyt viive (%1$d ms)</item>
         <item quantity="one">Erittäin lyhyt viive (%1$d ms)</item>
     </plurals>
-    <plurals name="aod_dual_togother_city">
-        <item quantity="other">" %1$s tuntia %2$s"</item>
-        <item quantity="one">" %1$s tunti %2$s"</item>
-    </plurals>
     <plurals name="app_notification_listing_summary_others">
         <item quantity="other">Poistettu käytöstä %d sovelluksessa</item>
         <item quantity="one">Poistettu käytöstä %d sovelluksessa</item>

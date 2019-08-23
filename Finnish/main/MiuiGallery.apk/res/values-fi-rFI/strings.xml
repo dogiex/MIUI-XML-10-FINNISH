@@ -707,6 +707,9 @@
   <string name="cleaner_video_description">Poista tallennustilaa vievät videot</string>
   <string name="cleaner_video_pick_delete_selected">Poista valitut videot</string>
   <string name="cleaner_video_title">Poista videoita</string>
+  <string name="clear_dup_medias">Puhdista kuvien kaksoiskappaleet</string>
+  <string name="clear_dup_success">Puhdistettiin onnistuneesti</string>
+  <string name="clear_dup_tip">Puhdistetaan kuvien kaksoiskappaleita</string>
   <string name="click_download_gif">Lataa GIF napauttamalla</string>
   <string name="click_top_right">Napauta tätä kuvaketta</string>
   <string name="close">Sulje</string>
