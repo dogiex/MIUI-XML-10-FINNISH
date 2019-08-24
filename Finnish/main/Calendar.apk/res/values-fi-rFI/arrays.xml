@@ -108,6 +108,11 @@
         <item>Kalat</item>
         <item>19.2. - 20.3.</item>
     </string-array>
+    <string-array name="prefEntries_alerts_popup">
+        <item>Pois käytöstä</item>
+        <item>Kaikille tapahtumille</item>
+        <item>Merkittävimpiin tapahtumiin</item>
+    </string-array>
     <string-array name="prefEntries_alerts_vibrateWhen">
         <item>Aina</item>
         <item>Vain äänettömällä</item>

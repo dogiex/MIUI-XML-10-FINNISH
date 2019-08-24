@@ -1378,9 +1378,4 @@ Huomautus: Vain Ubuntu 8.04!"</item>
         <item>Soittoääni</item>
         <item>Media</item>
     </string-array>
-    <string-array name="aod_clock_style_entries">
-        <item>Vaakasuora</item>
-        <item>Pystysuora</item>
-        <item>Linjassa</item>
-    </string-array>
 </resources>

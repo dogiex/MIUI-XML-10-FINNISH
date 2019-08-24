@@ -291,7 +291,7 @@ Järjestelmänvalvoja voi valvoa tähän käyttäjäprofiiliin liittyviä asetuk
   <string name="allow_bind_app_widget_activity_allow_bind_title">Luo widget ja salli käyttö?</string>
   <string name="allow_bind_app_widget_activity_always_allow_bind">%1$s saa luoda widgetejä ja käyttää niiden tietoja</string>
   <string name="allow_data_usage_title">Salli roaming-tiedonsiirto</string>
-  <string name="allow_device_id_access">Sovellukset, joilla on Laite ID:n käyttöoikeus</string>
+  <string name="allow_device_id_access">Valitse sovellukset, jotka voivat käyttää laitteen ID:tä</string>
   <string name="allow_float_summary">Salli kelluvat ilmoitukset</string>
   <string name="allow_float_title">Kelluvat ilmoitukset</string>
   <string name="allow_interruption">Salli keskeytykset</string>
@@ -301,6 +301,7 @@ Järjestelmänvalvoja voi valvoa tähän käyttäjäprofiiliin liittyviä asetuk
   <string name="allow_lights_title">Salli LED-valojen käyttö</string>
   <string name="allow_mock_location">Salli sijaintien imitointi</string>
   <string name="allow_mock_location_summary">Salli sijaintien imitointi</string>
+  <string name="allow_oaid_used">Salli laitteen ID:n käyttäminen</string>
   <string name="allow_overlay_description">Anna sovelluksen näkyä muiden avoimien sovellusten päällä. Se voi häiritä muiden sovellusten käyttöä tai muuttaa niiden ulkoasua tai vaikutelmaa käyttäytymisestä.</string>
   <string name="allow_sound_title">Salli ääni</string>
   <string name="allow_vibrate_title">Salli värinä</string>
@@ -595,7 +596,7 @@ Käytetty viimeksi %2$s"</string>
   <string name="backup_set_new_pw_title">Syötä uusi varmuuskopion salasana</string>
   <string name="backup_set_null_pw">Syötä salasana ensin</string>
   <string name="backup_set_pw_confirm_title">Vahvista varmuuskopion uusi salasana</string>
-  <string name="badge_title">Näytä aloitusnäytön kuvakemerkki</string>
+  <string name="badge_title">Näytä sovelluskuvakkeiden merkit</string>
   <string name="band_mode_failed">Epäonnistui</string>
   <string name="band_mode_loading">Ladataan taajuusluetteloa...</string>
   <string name="band_mode_set">Aseta</string>
@@ -981,7 +982,8 @@ Siirtonopeus"</string>
   <string name="bluetooth_unlock_change_device_confirm_msg">Vanha laite korvataan nykyisellä laitteella.</string>
   <string name="bluetooth_unlock_change_matched_device">Valitse muu laite</string>
   <string name="bluetooth_unlock_confirm_device_text">Avaa lukitus koskettamalla laitteita.</string>
-  <string name="bluetooth_unlock_confirm_device_text_for_huami_watch">Avaa lukitus napauttamalla kellossa olevaa painiketta.</string>
+  <string name="bluetooth_unlock_confirm_device_text_for_huami_band">Vahvista rannekkeesta.</string>
+  <string name="bluetooth_unlock_confirm_device_text_for_huami_watch">Vahvista rannekellosta.</string>
   <string name="bluetooth_unlock_confirm_device_text_for_miband2">Avaa lukitus napauttamalla laitteessa olevaa painiketta.</string>
   <string name="bluetooth_unlock_delete_device">Poista tämä laite</string>
   <string name="bluetooth_unlock_delete_device_confirm_msg">Poistetaanko tämä laite?</string>
@@ -1655,7 +1657,7 @@ Asetus vaikuttaa tämän puhelimen kaikkiin käyttäjiin."</string>
   <string name="device_display_layout_title">Ominaisuudet</string>
   <string name="device_edit_title">Nimeä laite uudelleen</string>
   <string name="device_feedback">Lähetä palautetta tästä laitteesta</string>
-  <string name="device_id">Laite ID</string>
+  <string name="device_id">Laite ID henkilökohtaisille suosituksille</string>
   <string name="device_info_default">Tuntematon</string>
   <string name="device_info_label">Laitteen tiedot</string>
   <string name="device_info_not_available">Ei käytettävissä</string>
@@ -1671,6 +1673,7 @@ Asetus vaikuttaa tämän puhelimen kaikkiin käyttäjiin."</string>
   <string name="device_name_input_hint">Syötä nimi</string>
   <string name="device_name_input_overlength">Nimi liian pitkä</string>
   <string name="device_name_usage_point">Muut lähellä olevat laitteet näkevät tämän nimen.</string>
+  <string name="device_oaid">Laite ID</string>
   <string name="device_picker">Valitse Bluetooth-laite</string>
   <string name="device_rear_camera">Takakamera</string>
   <string name="device_screen_consumption">Näytön virrankulutus</string>
@@ -3059,6 +3062,7 @@ Tällä laitteella on muita paikalla olevia käyttäjiä.
   <string name="miui_sos_statusbar_summary">Napauta poistaaksesi käytöstä</string>
   <string name="miui_sos_statusbar_title">Hätätila on aktivoitu</string>
   <string name="miui_special_feature">Erikoisominaisuudet</string>
+  <string name="miui_touch_filtered_touchassistant_warning">Pikavalikko peittää käyttöoikeusikkunan. Siirrä Pikavalikkoa tai poista tämä ominaisuus käytöstä.</string>
   <string name="miui_touch_filtered_warning">Jos sovellus estää käyttöoikeusikkunan, raahaa päällä oleva kohde pois edestä tai sulje sovellus.</string>
   <string name="miui_updater">Järjestelmän päivitys</string>
   <string name="miui_userguide">Käyttöopas</string>
@@ -3571,6 +3575,7 @@ OTG poistetaan käytöstä automaattisesti, kun sitä ei käytetä 10 minuuttiin
   <string name="paper_mode_get_location_dlg_negative_btn_text">Peruuta</string>
   <string name="paper_mode_get_location_dlg_positive_btn_text">Siirry Asetuksiin</string>
   <string name="paper_mode_get_location_dlg_title">Aseta sijainti</string>
+  <string name="paper_mode_side_effect_hint">Suurempi intensiteetti voi vaikuttaa sisällön näyttötapaan.</string>
   <string name="paper_mode_start_time_title">Ota käyttöön</string>
   <string name="passpoint_content">Kohteen %1$s kirjautumistiedot</string>
   <string name="passpoint_label">Tallennettu seuraavan kautta:</string>
@@ -4013,7 +4018,7 @@ Wi-Fi
 Mobiilidata
 Bluetooth."</string>
   <string name="reset_network_final_button_text">Nollaa asetukset</string>
-  <string name="reset_network_final_desc">Nollataanko kaikki verkkoasetukset nyt? Tämä saattaa kestää useita sekunteja. Toimintoa ei voi peruuttaa.</string>
+  <string name="reset_network_final_desc">Nollataanko kaikki verkkoasetukset nyt? Tämä saattaa kestää useita sekunteja. Toimintoa ei voi palauttaa.</string>
   <string name="reset_network_title">Verkkoasetusten nollaus</string>
   <string name="reset_network_wifi">Wi-Fi</string>
   <string name="reset_second_space_passwd">Nollaa Toisen tilan salasana</string>
@@ -4027,11 +4032,14 @@ Bluetooth."</string>
   <string name="resolver_settings_label">Lajittele</string>
   <string name="restore_default_apn">Palautetaan APN-oletusasetuksia</string>
   <string name="restore_default_apn_completed">APN-oletusasetukset on palautettu.</string>
-  <string name="restore_device_id_content">Palauta henkilökohtaiset suositukset</string>
-  <string name="restore_device_id_title">Palauta Laite ID</string>
-  <string name="restore_dialog_content">Laite ID:n palauttaminen palauttaa henkilökohtaiset suosituksesi.</string>
-  <string name="restore_dialog_positive">Palauta</string>
+  <string name="restore_device_id_content">Henkilökohtaiset suositukset nollataan</string>
+  <string name="restore_device_id_title">Nollaa laitteen ID</string>
+  <string name="restore_dialog_content">Nollaamalla laitteen ID:n se nollaa myös henkilökohtaiset suosituksesi. Nollataanko nyt?</string>
+  <string name="restore_dialog_positive">Nollaa</string>
   <string name="restore_dialog_title">Huomio</string>
+  <string name="restore_oaid_content">Nollaamalla laitteen nykyisen ID:n, uusi luodaan. Nollataanko nyt?</string>
+  <string name="restore_oaid_positive">Nollaa</string>
+  <string name="restore_oaid_title">Laitteen ID:n nollaaminen</string>
   <string name="restr_pin_enter_admin_pin">Anna järjestelmänvalvojan PIN-koodi</string>
   <string name="restrict_background_blacklisted">Taustatiedonsiirto ei käytössä</string>
   <string name="restrict_bg_app">Rajoita</string>
@@ -4145,12 +4153,13 @@ Tämä asetus vaikuttaa kaikkiin tämän puhelimen käyttäjiin."</string>
   <string name="screen_paper_mode_global_summary">Käytä Lukutilaa kaikissa sovelluksissa</string>
   <string name="screen_paper_mode_global_title">Kaikki sovellukset</string>
   <string name="screen_paper_mode_hdr_toast">Lukutila poistetaan käytöstä HDR-videon toiston ajaksi. Se otetaan takaisin käyttöön automaattisesti toiston jälkeen.</string>
+  <string name="screen_paper_mode_hdr_toast_new">Lukutila poistetaan automaattisesti käytöstä HDR-videon toistamisen aikana ja sormenjälkitunnistuksen aikana. Laitteesi vaihtaa takaisin Lukutilaan automaattisesti näiden toimintojen jälkeen.</string>
   <string name="screen_paper_mode_local_summary">Käytä Lukutilaa valituissa sovelluksissa</string>
   <string name="screen_paper_mode_local_title">Valitut sovellukset</string>
   <string name="screen_paper_mode_off_apps_title">Älä käytä Lukutilaa</string>
   <string name="screen_paper_mode_range_title">Asetukset</string>
   <string name="screen_paper_mode_set_apps_title">Lukutilan sovellukset</string>
-  <string name="screen_paper_mode_summary">Lukutila tekee näyttösi väreistä lämpimämpiä, jotta silmäsi voi rentoutua.</string>
+  <string name="screen_paper_mode_summary">Lukutila tekee näyttösi väreistä lämpimämpiä, jotta silmäsi voi rentoutua</string>
   <string name="screen_paper_mode_time_summary">Ajasta Lukutilan ottaminen käyttöön ja poistaminen käytöstä</string>
   <string name="screen_paper_mode_time_title">Ajasta</string>
   <string name="screen_paper_mode_title">Lukutila</string>
@@ -4179,7 +4188,6 @@ Näytön kiinnittäminen:
   <string name="screen_pinning_unlock_pattern">Pyydä lukituksenpoistokuviota ennen irrotusta</string>
   <string name="screen_pinning_unlock_pin">Pyydä PIN ennen irrotusta</string>
   <string name="screen_reader_category_title">Näytönlukuohjelmat</string>
-
   <string name="screen_resolution_dialog_title">Vaihda resoluutiota</string>
   <string name="screen_resolution_high_format">Korkea (%1$s)</string>
   <string name="screen_resolution_normal_format">Normaali (%1$s)</string>
@@ -4832,8 +4840,6 @@ Laitteeseesi asennettu luotettu varmenne tekee tämän mahdolliseksi."</string>
   <string name="status_bar_settings_expand_top_notification">Laajenna ylin ilmoitus</string>
   <string name="status_bar_settings_manage_notification">Sovellusilmoitukset</string>
   <string name="status_bar_settings_notification_bar">Ilmoitusalue</string>
-  <string name="status_bar_settings_notification_led_custom">Mukautettu väri</string>
-  <string name="status_bar_settings_notification_sound_custom">Mukautettu ääni</string>
   <string name="status_bar_settings_notification_use_app_icon">Käytä sovelluskuvakkeita ilmoituksissa</string>
   <string name="status_bar_settings_qs_layout">Pika-asetuksien ulkoasu</string>
   <string name="status_bar_settings_show_lte_for_4g">Näytä LTE-kuvake 4G:n tilalla</string>
@@ -5361,7 +5367,7 @@ Se on Googlen tapa synkronoida tietoja, ja sen avulla voit käyttää yhteystiet
   <string name="unlock_set_unlock_pin_title">PIN-koodi</string>
   <string name="unlock_set_unlock_summary">Aseta näytön lukitus</string>
   <string name="unlock_setup_wizard_fingerprint_details">Kun olet määrittänyt näytön lukituksen, voit määrittää myös sormenjälkesi kohdassa Asetukset &gt; Tietoturva.</string>
-  <string name="unlogin_account_summary">Kaikki Mi-palvelut. Yksi Mi Tili</string>
+  <string name="unlogin_account_summary">Kaikki Mi-palvelut. Yksi Mi Tili.</string>
   <string name="unlogin_account_title">Kirjaudu sisään Mi Tiliin</string>
   <string name="unmount_inform_text">USB-tallennustila poistetaan käytöstä</string>
   <string name="unmute_sound_title">Poista mykistys</string>

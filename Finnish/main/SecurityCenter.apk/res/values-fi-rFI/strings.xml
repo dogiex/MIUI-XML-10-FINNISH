@@ -162,7 +162,7 @@ Kaikki laitteellasi olevat tiedot voidaan poistaa ja Lukitusnäytön salasanasi 
   <string name="app_manager_app_storage">"Tallennustila: "</string>
   <string name="app_manager_app_traffic">"Datan käyttö: "</string>
   <string name="app_manager_app_update">Päivitykset</string>
-  <string name="app_manager_app_version_name">Versio:</string>
+  <string name="app_manager_app_version_name">"Versio: "</string>
   <string name="app_manager_appupdate_remind">Ilmoita päivityksistä</string>
   <string name="app_manager_as_dlg_msg">Sovellusten salliminen käynnistyä automaattisesta saattaa vaatia ylimääräistä RAM-muistia ja akun resursseja. Sallitaanko siitä huolimatta?</string>
   <string name="app_manager_as_dlg_title">Huomio</string>
@@ -904,7 +904,7 @@ Se lisätään poikkeuksiin, mutta jo ennestään estetyt kohteet ei ilmesty puh
   <string name="first_aid_item4_content">Akku</string>
   <string name="first_aid_item5_content">Muut ongelmat</string>
   <string name="first_aid_result_feedback_button">Lähetä</string>
-  <string name="first_aid_result_feedback_summary">Ongelmia ei löytynyt. Minä kuitenkin huomasin joitakin.</string>
+  <string name="first_aid_result_feedback_summary">Tietoturvatarkistus ei löytänyt ongelmia. Minä kuitenkin huomasin joitakin.</string>
   <string name="first_aid_result_feedback_title">Palaute</string>
   <string name="first_aid_result_summary_normal">Kaikki näyttää hyvältä!</string>
   <string name="first_aid_scanning_item1">Tarkistetaan suorityskykyongelmia…</string>
@@ -914,9 +914,6 @@ Se lisätään poikkeuksiin, mutta jo ennestään estetyt kohteet ei ilmesty puh
   <string name="first_aid_scanning_item5">Tarkistetaan muita ongelmia…</string>
   <string name="first_aid_stop_scan">Lopeta tarkistus</string>
   <string name="five_percent_total_pkg">%s (5%% kuukausittaisesta datasta)</string>
-  <string name="float_window">桌面悬浮窗</string>
-  <string name="float_window_summary">支持快速跳转至摇一摇与咻一咻页面</string>
-  <string name="float_window_tips">小米手机就是快！</string>
   <string name="fod_authentication_shift_button">Peruuta</string>
   <string name="fod_button_finger">Käytä sormenjälkeä</string>
   <string name="fod_button_password">Anna salasana</string>
@@ -1306,7 +1303,7 @@ vastausta"</string>
   <string name="managed_user_title">Kaikki työsovellukset</string>
   <string name="manual_input_free_traffic">Aseta hiljaisen ajan datan käyttö</string>
   <string name="manual_input_traffic">Aseta datan käyttö</string>
-  <string name="manual_item_white_list_summary">Estä valittuja sovelluksia optimoitumasta</string>
+  <string name="manual_item_white_list_summary">Estä valittuja kohteita optimoitumasta</string>
   <string name="manual_item_white_list_title">Poikkeukset</string>
   <string name="mark_agent">Estä ilmoitetut toimistot</string>
   <string name="mark_agent_block">Ilmoitettu toimistoksi</string>

@@ -266,6 +266,7 @@
   <string name="guild_add_recipients">Lisää vastaanottajia osoitekirjasta napauttamalla</string>
   <string name="guild_msim_switcher">Vaihda SIM-kortteja napauttamalla</string>
   <string name="has_invalid_recipient">Virheelliset vastaanottajat: &lt;%1$s&gt;</string>
+  <string name="heduohao_sub_sim_card">Toissijainen</string>
   <string name="hidden_sender_address">Piilotettu lähettäjän osoite</string>
   <string name="hold_to_talk">Pidä puhuaksesi</string>
   <string name="hybrid_check_network">Verkkoasetukset</string>
@@ -591,6 +592,7 @@
   <string name="received_label">"Vastaanotettu: "</string>
   <string name="recipient_editor_count_format">%d</string>
   <string name="recipient_label">"Vastaanottaja: "</string>
+  <string name="recipients_contain_sub_sim_number">Näyttää siltä, että vastaanottajissa on toissijainen SIM-numero. Lähetetäänkö tämä viesti käyttäen toissijaista SIM-korttia.</string>
   <string name="recipients_over_size">Liian monta vastaanottajaa.</string>
   <string name="recommend_bar_cancel">Hylkää</string>
   <string name="recommend_bar_message_mx">Mi Viestin avulla voit lähettää viestejä toisiin MIUI-käyttäjille ilman maksuja.</string>
@@ -765,6 +767,9 @@
   <string name="storage_limits_setting">Aseta rajat</string>
   <string name="storage_limits_setting_dismiss">Ei rajoja</string>
   <string name="storage_unavailable">Tallennustilaa ei ole tarpeeksi</string>
+  <string name="sub_sim_card">Toissijainen</string>
+  <string name="sub_sim_card_indicator">Toissijainen %d</string>
+  <string name="sub_sim_not_support_mms">Multimediaviestiä ei voi lähettää käyttäen toissijaista SIM-korttia</string>
   <string name="subject_hint">Aihe</string>
   <string name="subject_label">"Aihe: "</string>
   <string name="subscribe">Tilaa</string>

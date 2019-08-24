@@ -666,6 +666,9 @@ Odota…"</string>
   <string name="menu_set_ring_tone">Aseta soittoääni</string>
   <string name="menu_settings">Asetukset</string>
   <string name="menu_share">Jaa</string>
+  <string name="menu_share_qrcode">QR-koodi</string>
+  <string name="menu_share_text">Teksti</string>
+  <string name="menu_share_vcard_file">Tiedosto</string>
   <string name="menu_show_all_calls">Näytä kaikki puhelut</string>
   <string name="menu_show_voicemails_only">Näytä vain ääniviestit</string>
   <string name="menu_splitAggregate">Poista linkitys</string>
@@ -1046,8 +1049,10 @@ Kosketa tähteä yhteystiedon nimen vieressä
   <string name="set_data_package">Aseta datan käyttöraja ensiksi</string>
   <string name="set_default">Aseta oletus</string>
   <string name="set_photo_failed_msg">Kuvaa ei voitu asettaa</string>
+  <string name="share_contact_as">Jaa yhteystieto muodossa</string>
   <string name="share_error">Yhteystieto ei jaettavissa</string>
   <string name="share_over_limit">Yli 1000, ei voida jakaa</string>
+  <string name="share_qrcode">Jaa QR-koodi</string>
   <string name="share_via">Jaa yhteystieto</string>
   <string name="share_visible_contacts">Jaa näkyvät yhteystiedot</string>
   <string name="shortcutActivityTitle">Valitse pikakuvakkeen yhteystieto</string>

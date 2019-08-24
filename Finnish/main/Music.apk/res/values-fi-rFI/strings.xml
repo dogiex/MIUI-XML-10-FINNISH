@@ -527,6 +527,7 @@
   <string name="open_online_service">Sinun täytyy ottaa online palvelut käyttöön käyttääksesi tätä ominaisuutta. Otetaanko käyttöön nyt?</string>
   <string name="open_service">Ota käyttöön</string>
   <string name="other_song_in_album">Muita kappaleita tästä albumista</string>
+  <string name="password_toggle_content_description">Vaihda salasanan näkyvyys</string>
   <string name="paused_by_app">Pysäytetty</string>
   <string name="paused_in_power_save_mode">Pysäytetty Virransäästötilassa</string>
   <string name="paused_insufficient_space">Odotetaan</string>

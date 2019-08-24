@@ -648,7 +648,7 @@ ja tuo henkilöt esiin."</string>
   <string name="pref_front_mirror_entry_on">Käytössä</string>
   <string name="pref_front_mirror_label_auto">Automaattinen</string>
   <string name="pref_front_mirror_title">Peilaa etukamera</string>
-  <string name="pref_google_lens">Google lens</string>
+  <string name="pref_google_lens">Google Lens</string>
   <string name="pref_google_lens_summary">Osoita kameraasi yhteystietoihin, URL-osoitteisiin ja QR-koodeihin nähdäksesi käytettävissä olevat vaihtoehdot</string>
   <string name="pref_google_lens_title">Lens ehdotukset</string>
   <string name="pref_groupshot_with_primitive_title">Tallenna myös alkuperäiset kuvat</string>

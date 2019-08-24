@@ -409,9 +409,13 @@
   <string name="news_change">Vaihda</string>
   <string name="no_network">Verkkoyhteyttä ei voi muodostaa, yritä myöhemmin uudelleen</string>
   <string name="no_network_btn">Yritä uudelleen</string>
+  <string name="notification_garbage_cleanup_summary">Roskien koko saavuttanut %s</string>
+  <string name="notification_garbage_cleanup_title">Tyhjennä roskatiedostot</string>
+  <string name="notification_low_memory_cache_summary">Tallennustilaa käytettävissä alle 1,5 GT</string>
+  <string name="notification_low_memory_cache_title">Tyhjennä välimuisti</string>
+  <string name="notification_low_memory_deepclean_summary">Syväpuhdistus voi vapauttaa tallennustilaa laitteeltasi</string>
+  <string name="notification_low_memory_deepclean_title">Tallennustila on vähissä</string>
   <string name="notification_summary_after_auto_cleanup">Puhdistettu %s.</string>
-  <string name="notification_summary_of_garbage_cleanup">Napauta vapauttaaksesi tilaa.</string>
-  <string name="notification_title_of_garbage_cleanup">%s edestä roskatiedostoja</string>
   <string name="notify_when">Saa ilmoitus, kun roskien koko yltää 100Mt</string>
   <string name="ok">OK</string>
   <string name="one_tap_clean_GB">%s Gt</string>

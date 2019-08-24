@@ -182,6 +182,7 @@ Tarkista paikallinen päivämäärä ja yritä uudelleen."</string>
   <string name="mibi_menu_feedback">Palaute</string>
   <string name="mibi_menu_lock">Lisää Sovelluslukko</string>
   <string name="mibi_menu_qa">UKK</string>
+  <string name="mibi_menu_qa_feedback">UKK &amp; palaute</string>
   <string name="mibi_menu_shotcut">Aseta Aloitusnäytölle</string>
   <string name="mibi_mili_center">Mi Krediitti</string>
   <string name="mibi_milicenter_title">Mi Krediitti</string>
@@ -243,6 +244,7 @@ Tarkista paikallinen päivämäärä ja yritä uudelleen."</string>
   <string name="mibi_paytool_msp_not_installed">Et ole asentanut %1$s mobiilitietoturvalisäosaa, asennetaanko se nyt?</string>
   <string name="mibi_paytool_paypal">Paypal</string>
   <string name="mibi_paytool_tenpay">Tenpay</string>
+  <string name="mibi_paytool_wechat_return_cancel">WeChat palautus peruutettu</string>
   <string name="mibi_paytool_weixin">WeChat</string>
   <string name="mibi_prepaid_card_order_info">%1$s top-up kortti: CNY %2$s</string>
   <string name="mibi_prepaid_carriers_picker_hint">Valitse operaattori</string>

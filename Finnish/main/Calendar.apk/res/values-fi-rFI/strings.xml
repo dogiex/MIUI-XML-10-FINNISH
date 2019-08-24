@@ -384,6 +384,9 @@ Tarkista verkkoyhteys ja yritä uudelleen."</string>
   <string name="preferences_default_reminder_title">Muistutuksen oletusaika</string>
   <string name="preferences_home_tz_title">Kotiaikavyöhyke</string>
   <string name="preferences_notification_ringtone_title">Ääni</string>
+  <string name="preferences_popup_alert_smart_summary">MIUI tunnistaa automaattisesti merkittävimmät tapahtumat</string>
+  <string name="preferences_popup_alert_smart_tips">Korvaa perinteiset ilmoitukset ponnahdushälytyksillä, jotta tärkeät tapahtumat eivät mene ohi. Ponnahdushälytykset eivät ilmesty pelien aikana, katsoessasi videoita kokonäyttötilassa tai käyttäessäsi Autotilaa.</string>
+  <string name="preferences_popup_alert_title">Ponnahdushälytykset</string>
   <string name="preferences_title">Kalenteri</string>
   <string name="preferences_use_home_tz_descrip">Näyttää kalenterit ja tapahtumien ajat oman aikavyöhykkeesi ajassa matkustaessasi</string>
   <string name="preferences_use_home_tz_title">Käytä kotiaikavyöhykettä</string>
