@@ -1246,6 +1246,7 @@ Tämän ominaisuuden voi poistaa käytöstä [Asetuksista]"</string>
   <string name="close_miui_optimization_title">Poista MIUI:n optimointi käytöstä</string>
   <string name="close_optimization_message">Poistamalla tämän ominaisuuden käytöstä saattaa vaikuttaa tekstin ulkoasuun, tileihin, ja muihin MIUI:n osiin.</string>
   <string name="close_optimization_option">Poista käytöstä</string>
+  <string name="close_privacy_thumbnail_blur_title">Esikatseluita ei ole sumennettu</string>
   <string name="cloud_backup_section_title">Mi Pilven varmuuskopiointi</string>
   <string name="cloud_backup_settings_section_title">Varmuuskopioinnin asetukset</string>
   <string name="cloud_restore_section_summary">Palauta järjestelmän asetukset, Aloitusnäytön ulkoasu ja sovellukset</string>
@@ -1321,12 +1322,15 @@ Tämän ominaisuuden voi poistaa käytöstä [Asetuksista]"</string>
   <string name="confirm_enable_oem_unlock_text">VAROITUS: laitteen suojaustoiminnot eivät toimi tämän asetuksen ollessa käytössä.</string>
   <string name="confirm_enable_oem_unlock_title">Sallitaanko OEM:n lukituksen avaus?</string>
   <string name="confirm_erase">Poista</string>
+  <string name="confirm_fingerprint">Vahvista sormenjälkesi</string>
   <string name="confirm_fingerprint_icon_content_description">Jatka sormenjäljen avulla.</string>
   <string name="confirm_fingerprint_msg">Aseta sormesi tunnistimelle</string>
   <string name="confirm_frp_credential_message">Laitteesi palautettiin tehdasasetuksille. Voit avata sen lukituksen käyttämällä edellistä salasanaa.</string>
   <string name="confirm_frp_credential_skip_txt">Käytä Google-tiliäsi tämän sijaan</string>
   <string name="confirm_frp_credential_title">Lukituksen poisto tehdasasetusten palauttamisen jälkeen</string>
   <string name="confirm_new_backup_pw_prompt">Anna uusi varmuuskopioinnin salasana uudelleen</string>
+  <string name="confirm_password_with_fingerprint">Käytä sormenjälkeä</string>
+  <string name="confirm_password_with_password">Syötä salasana</string>
   <string name="confirm_privacy_password">Syötä Yksityisyydensuojan salasana</string>
   <string name="confirm_privacy_password_fingerprint">Skannaa sormenjälki tai syötä Yksityisyydensuojan salasana</string>
   <string name="confirm_reset_aaid">OK</string>
@@ -1913,6 +1917,8 @@ Voit katsoa luotuja lokeja Tiedostohallinnassa."</string>
   <string name="enable_service_pin_reason">Koska palvelun %1$s ottaminen käyttöön vaikuttaa tietojen salaukseen, sinun pitää vahvistaa PIN-koodi.</string>
   <string name="enable_service_title">Otetaanko %1$s käyttöön?</string>
   <string name="enable_snapshot_screenlock">Ota kuva painamalla pitkään Takaisin-painiketta</string>
+  <string name="enable_tcp_rtt_support">Näytä TCP RTT</string>
+  <string name="enable_tcp_rtt_support_summary">Arvioi verkkoviestinnän laadun suorituskyky</string>
   <string name="enable_terminal_summary">Ota käyttöön päätesov. joka mahdollistaa paikall. liittymäkäytön</string>
   <string name="enable_terminal_title">Paikallinen pääte</string>
   <string name="enable_text">Ota käyttöön</string>
@@ -3501,6 +3507,7 @@ Valitse käyttöjärjestelmäsi:"</string>
   <string name="open_miui_optimization_title">Ota MIUI optimointi käyttöön</string>
   <string name="open_optimization_message">Ota MIUI:n optimointi käyttöön nauttiaksesi sulavammasta ja nopeammasta käyttöliittymästä.</string>
   <string name="open_optimization_option">Ota käyttöön</string>
+  <string name="open_privacy_thumbnail_blur_title">Esikatselut on sumennettu</string>
   <string name="open_wifi_connect_summary">Katso tiedot napauttamalla.</string>
   <string name="open_wifi_connect_title">Yhdistetty verkkoon %1$s</string>
   <string name="opening_paragraph_delete_profile_unknown_company">Tätä työprofiilia hallinnoi</string>
@@ -3597,7 +3604,6 @@ OTG poistetaan käytöstä automaattisesti, kun sitä ei käytetä 10 minuuttiin
   <string name="paper_mode_get_location_dlg_negative_btn_text">Peruuta</string>
   <string name="paper_mode_get_location_dlg_positive_btn_text">Siirry Asetuksiin</string>
   <string name="paper_mode_get_location_dlg_title">Aseta sijainti</string>
-  <string name="paper_mode_side_effect_hint">Suurempi intensiteetti voi vaikuttaa sisällön näyttötapaan.</string>
   <string name="paper_mode_start_time_title">Ota käyttöön</string>
   <string name="passpoint_content">Kohteen %1$s kirjautumistiedot</string>
   <string name="passpoint_label">Tallennettu seuraavan kautta:</string>
@@ -3855,6 +3861,8 @@ OTG poistetaan käytöstä automaattisesti, kun sitä ei käytetä 10 minuuttiin
   <string name="privacy_relative">Yksityisyys</string>
   <string name="privacy_settings">Varmuuskopiointi ja nollaus</string>
   <string name="privacy_settings_title">Varmuuskopioi</string>
+  <string name="privacy_thumbnail_blur_progress_message">Odota hetki…</string>
+  <string name="privacy_thumbnail_blur_title">Sumenna sovelluksien esikatselu</string>
   <string name="private_gallery_need_to_unlock">Salasana vaaditaan:</string>
   <string name="private_gallery_recording_intro_header">Piirrä lukituksenpoistokuvio:</string>
   <string name="private_gallery_reset_by_account">Sinun on kirjauduttava Mi Tilillesi, jotta voit palauttaa salasanasi</string>

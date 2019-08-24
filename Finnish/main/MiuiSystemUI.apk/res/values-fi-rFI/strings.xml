@@ -570,8 +570,10 @@ d. MMMM'ta'"</string>
      <string name="lockscreen_sim_error_message_short">SIM-kortti on virheellinen.</string>
      <string name="lockscreen_unlock_left">Vasen oikotie poistaa myös lukituksen</string>
      <string name="lockscreen_unlock_right">Oikea oikotie poistaa myös lukituksen</string>
-     <string name="memory_clear_result_giga">%1$sGt vapautettu</string>
-     <string name="memory_clear_result_mega">%1$sMt vapautettu</string>
+     <string name="long_screenshot_guide_text">"Napauta luodaksesi
+pitkän kuvakaappauksen"</string>
+     <string name="memory_clear_result_giga">%1$s Gt vapautettu</string>
+     <string name="memory_clear_result_mega">%1$s Mt vapautettu</string>
      <string name="menu_ime">Näppäimistön vaihtaja</string>
      <string name="miui_guide_dialog_button_negative_text">Asetukset</string>
      <string name="miui_guide_dialog_button_positive_text">Selvä</string>

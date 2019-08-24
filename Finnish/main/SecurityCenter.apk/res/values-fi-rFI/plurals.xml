@@ -134,6 +134,18 @@ Jos otat mobiilidatan uudelleen käyttöön, operaattorisi saattaa veloittaa sin
         <item quantity="other">Lisää %d minuuttia</item>
         <item quantity="one">Lisää %d minuutti</item>
     </plurals>
+    <plurals name="pc_main_power_center_battery_day">
+        <item quantity="other">%s päivää</item>
+        <item quantity="one">%s päivä</item>
+    </plurals>
+    <plurals name="pc_main_power_center_battery_hour">
+        <item quantity="other">%s tuntia</item>
+        <item quantity="one">%s tunti</item>
+    </plurals>
+    <plurals name="pc_main_power_center_battery_minute">
+        <item quantity="other">%s minuuttia</item>
+        <item quantity="one">%s minuutti</item>
+    </plurals>
     <plurals name="notification_battery_scan_consume_abnormal_title_split">
         <item quantity="other">%2$d sovellusta, mukaan lukien %1$s kuluttaa akkua</item>
         <item quantity="one">%2$d sovellus, mukaan lukien %1$s kuluttaa akkua</item>

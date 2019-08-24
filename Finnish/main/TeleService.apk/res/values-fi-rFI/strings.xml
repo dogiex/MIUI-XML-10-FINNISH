@@ -1021,6 +1021,7 @@ Haluatko kuitenkin vaihtaa operaattoria?"</string>
   <string name="network_info_message">Verkkoviesti</string>
   <string name="network_lte">LTE (suositus)</string>
   <string name="network_message">Verkon viesti</string>
+  <string name="network_mode_updating_title">Verkon tyyppi</string>
   <string name="network_query_error">Virhe haettaessa verkkoja.</string>
   <string name="network_settings_auto_select_title">Valitaanko verkko manuaalisesti?</string>
   <string name="network_settings_automatically_option">Valitse ensisijainen verkko automaattisesti (%s)</string>
@@ -1289,6 +1290,7 @@ Laitteesi lukitaan automaattisesti jos yrityksesi menee vielä väärin"</string
   <string name="preferred_network_type_pref_entries_4g_preferred">Suosi LTE</string>
   <string name="preferred_network_type_pref_entries_4g_preferred_cdma">Suosi 4G (CDMA)</string>
   <string name="preferred_network_type_pref_entries_4g_preferred_lm_cr">Automaattinen LTE/WCDMA/GSM</string>
+  <string name="preferred_network_type_pref_entries_5g_preferred">Suosi 5G</string>
   <string name="preferred_network_type_pref_entries_auto">Automaattinen</string>
   <string name="preferred_network_type_pref_entries_global">Maailmanlaajuinen</string>
   <string name="preferred_network_type_pref_entries_only_2g">Vain 2G (säästää akkua)</string>

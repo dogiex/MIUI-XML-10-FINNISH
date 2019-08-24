@@ -2,10 +2,10 @@
 <resources>
   <!-- 8.9.17 -->
   <string name="added_to_favorites_desc">Added to favorites</string>
-  <string name="card_delete_description">Tätä tarinaa ei enää näytetä. Poistetaanko siitä huolimatta?</string>
+  <string name="card_delete_description">Tätä muistoa ei enää näytetä. Poistetaanko siitä huolimatta?</string>
   <string name="card_delete_negative_text">Peruuta</string>
   <string name="card_delete_positive_text">Poista</string>
-  <string name="card_delete_title">Poista tarina</string>
+  <string name="card_delete_title">Poista muisto</string>
   <string name="card_description_annual_events">Kallisarvoiset ajat yhdessä</string>
   <string name="card_description_annual_foods">Ruokapäiväkirja</string>
   <string name="card_description_annual_pets">Hännät, tassut ja kuonokarvat</string>
@@ -23,26 +23,26 @@
   <string name="card_title_pastyear_sports">Viime vuoden harjoitukset</string>
   <string name="card_title_recent_memory">Viimeaikaisia muistoja</string>
   <string name="card_title_sports">Harjoitukset</string>
-  <string name="empty_title_no_cards">AI-tarina-albumit</string>
+  <string name="empty_title_no_cards">Muistot</string>
   <string name="more">Lisää</string>
   <string name="operation_favorites">Suosikit</string>
   <string name="removed_from_favorites_desc">Poistettiin suosikeista</string>
   <string name="rename_dialog_hint">Anna otsikko</string>
-  <string name="rename_dialog_title">Nimeä tarina uudelleen</string>
-  <string name="story_action_remove">Poista tarinoista</string>
+  <string name="rename_dialog_title">Nimeä uudelleen</string>
+  <string name="story_action_remove">Poista</string>
   <string name="story_action_share">Jaa</string>
   <string name="story_back_stop_download">Napauta uudelleen lopettaaksesi lataamisen</string>
   <string name="story_cancel_download">Peruuta</string>
   <string name="story_download">Lataa</string>
   <string name="story_download_failed_for_notwork">Ei voitu ladata. Yhdistä verkkoon ja yritä uudelleen.</string>
-    <string name="story_option_menu_delete">Poista tarina</string>
+  <string name="story_option_menu_delete">Poista</string>
   <string name="story_option_menu_rename">Nimeä uudelleen</string>
   <string name="story_photo_downloading">Ladataan…</string>
-  <string name="story_remove_confirm_message">Poistetut kuvat ei näy tässä tarinassa uudelleen. Löydät ne silti Galleriasta.</string>
+  <string name="story_remove_confirm_message">Poistetut kuvat ei näy tässä muistossa uudelleen.</string>
   <string name="story_remove_confirm_positive">Poista</string>
   <string name="story_remove_confirm_title">Poistetaan kuvia</string>
-  <string name="story_rename_invalid_char">\"%s\" ei voi käyttää tarinan otsikkona. Käytä kirjaimia, numeroita tai Kiinalaisia kirjaimia.</string>
-  <string name="story_rename_invalid_prefix">Tarinoiden otsikoita ei voi aloittaa \".\" tai \"_\" symboleilla</string>
+  <string name="story_rename_invalid_char">\"%s\" ei voi käyttää muiston otsikkona. Käytä kirjaimia, numeroita tai Kiinalaisia kirjaimia.</string>
+  <string name="story_rename_invalid_prefix">Muistojen otsikoita ei voi aloittaa \".\" tai \"_\" symboleilla</string>
   <!-- // 8.9.17 // -->
   <!-- miui 10 valmis -->
   <string name="ai_album_open_switch_button_title">Aloita kuvien analysointi</string>
@@ -189,7 +189,7 @@
   <string name="app_name_view_picture">Katso kuvia</string>
   <string name="app_name_view_video">Katso videoita</string>
   <string name="application_icon">Sovelluskuvake</string>
-  <string name="assistant_page_label">Tarinat</string>
+  <string name="assistant_page_label">Muistot</string>
   <string name="associate_face_album">Valitse albumi</string>
   <string name="auto_backup_introduce">Varmuuskopioi kuvat ja videot automaattisesti (Mi Tili vaaditaan)</string>
   <string name="auto_download_media_title">Lataa kuvat Mi Pilvestä automaattisesti</string>
@@ -869,8 +869,8 @@
   <string name="editor_talkback_redo">Tee uudelleen</string>
   <string name="editor_talkback_undo">Kumoa</string>
   <string name="email_picker_title">Lisää jaettu sähköposti</string>
-  <string name="empty_description_conditions">Muista merkitykselliset tarinat</string>
-  <string name="empty_description_no_cards">Muista merkitykselliset tarinat</string>
+  <string name="empty_description_conditions">Muista merkitykselliset asiat</string>
+  <string name="empty_description_no_cards">Muista merkitykselliset asiat</string>
   <string name="empty_query_text_msg">En tiedä mitä etsiä…</string>
   <string name="empty_recommend_back">Takaisin</string>
   <string name="empty_recommend_face_page_view">Ei enempää suosituksia</string>
@@ -1073,8 +1073,8 @@ on käytettävissä"</string>
   <string name="free_view_desc">3D-näkymä</string>
   <string name="gallery_setting">Asetukset</string>
   <string name="gallery_sync_disable_toast">Gallerian synkronointi ei ole käytössä</string>
-  <string name="generate_story_summary">MIUI analysoi kuvasi ja luo tarina-albumeita. Poista tämä ominaisuus käytöstä lopettaaksesi tarina-albumien luomisen.</string>
-  <string name="generate_story_title">Tarina-albumit</string>
+  <string name="generate_story_summary">MIUI analysoi kuvasi ja luo muistoja. Poista tämä ominaisuus käytöstä lopettaaksesi muistojen luomisen.</string>
+  <string name="generate_story_title">Muistot</string>
   <string name="get_album_info_in_process">Haetaan jaetun albumin tietoja…</string>
   <string name="gif_tip">GIF</string>
   <string name="gigabyteShort">Gt</string>
@@ -1671,7 +1671,7 @@ mukauttaaksesi Galleriasi"</string>
   <string name="slim_stop">Lopeta optimointi</string>
   <string name="special_type_eye_repair">Korjattiin suljetut silmät käyttäen AI:ta</string>
   <string name="special_type_hdr">HDR</string>
-  <string name="special_type_night_beauty">AI Alhaisen Valon Kaunistus</string>
+  <string name="special_type_night_beauty">AI alhaisen valon muotokuva</string>
   <string name="special_type_night_mode">AI-yötila</string>
   <string name="special_type_portrait">AI kevyt muotokuvamaalaus</string>
   <string name="special_type_wide_angle">AI-ultralaajakulma</string>

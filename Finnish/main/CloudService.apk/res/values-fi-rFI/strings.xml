@@ -256,6 +256,7 @@
   <string name="micloud_request_permission_confirm">Selvä</string>
   <string name="micloud_request_permission_content">Mi Pilvi tarvitsee datan synkronointiin käyttöoikeuksia. Salli Mi Pilvelle pääsy Kalenteriin, Yhteystietoihin, Mi Tiliin, SIM-kortin tilaan, puheluhistoriaan ja viesteihin.</string>
   <string name="micloud_request_permission_title">Mi Pilvi tarvitsee käyttöoikeuksia</string>
+  <string name="micloud_request_sync_too_frequent">Liian monta pyyntöä. Odota minuutti tai kaksi ja yritä uudelleen.</string>
   <string name="micloud_sec_dspt">ja jaa asioita kavereiden kanssa.</string>
   <string name="micloud_setting_antispam_summary">Poikkeukset ja estetyt puhelinnumerot</string>
   <string name="micloud_setting_browser_summary">Kirjanmerkit, historia ja välilehdet</string>
@@ -388,6 +389,7 @@ Tämä toiminto salaa ja lähettää laitteesi ID-tunnuksen Mi:n palvelimille."<
   <string name="sync_sub_1_sms_1_intl_sms">1 maansisäinen ja 1 kansainvälinen tekstiviesti saatetaan vaatia tämän palvelun aktivointia varten. Operaattorisi veloittaa sinua tästä viestistä.</string>
   <string name="sync_sub_2_intl_sms">Kaksi lähtevää kansainvälistä tekstiviestiä saatetaan vaatia tämän palvelun aktivointia varten. Operaattorisi veloittaa sinua tästä viestistä.</string>
   <string name="sync_sub_2_sms">Kaksi lähtevää tekstiviestiä saatetaan vaatia tämän palvelun aktivointia varten. Operaattorisi veloittaa sinua tästä viestistä.</string>
+  <string name="system_busy_or_network_error">Tapahtui virhe. Odota minuutti tai kaksi ja yritä uudelleen.</string>
   <string name="title_back">Takaisin</string>
   <string name="title_reg">Luo Mi Tili</string>
   <string name="trying_to_connect_to_network">Yhdistetään verkkoon…</string>
@@ -399,6 +401,7 @@ Tämä toiminto salaa ja lähettää laitteesi ID-tunnuksen Mi:n palvelimille."<
   <string name="user_detail_agreement">Käyttöehdot</string>
   <string name="user_detail_privacy_policy">Tietosuojakäytäntö</string>
   <string name="user_storage_info_available_text_prefix">%s käytettävissä</string>
+  <string name="waiting_for_sync">Odotetaan…</string>
   <string name="warning_bar_action_add_short_cut">Lisää</string>
   <string name="warning_bar_action_close">Sulje</string>
   <string name="warning_bar_action_turn_on_master_sync">Ota käyttöön</string>
