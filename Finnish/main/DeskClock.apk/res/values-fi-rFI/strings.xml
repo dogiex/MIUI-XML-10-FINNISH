@@ -263,6 +263,7 @@
   <string name="turn_off_this_repeat_alarm">Poista käytöstä kokonaan</string>
   <string name="upcoming_alarm">%s Tuleva hälytys</string>
   <string name="upcoming_alarm_hint">Voit sulkea tämän hälytyksen ennakkoon</string>
+  <string name="update_notification_info">Päivitetään tietoja taustalla…</string>
   <string name="user_agreement">Käyttöehdot</string>
   <string name="vibrate_pref_summary">Värise, kun hälytys soi</string>
   <string name="vibrate_when_ringing">Värise, kun soi</string>

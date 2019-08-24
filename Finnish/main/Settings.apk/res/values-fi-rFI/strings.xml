@@ -2818,9 +2818,7 @@ PIN-koodi"</string>
   <string name="long_press_home_key">Paina Koti-painiketta pitkään</string>
   <string name="long_press_menu_key">Paina Valikko-painiketta pitkään</string>
   <string name="long_press_menu_key_when_lock">Paina Valikkopainiketta pitkään Lukitusnäytöllä</string>
-  <string name="long_press_power_key">Virtapainikkeen pitkä painallus</string>
   <string name="long_press_power_key_half_of_second">Paina ja pidä pohjassa Virtapainiketta 0.5 sekunnin ajan käynnistääksesi Google Assistantin</string>
-  <string name="long_press_power_key_tips">Paina Virtapainiketta pitkään nopeammin ja kätevämmin</string>
   <string name="long_press_volume_down">Paina Äänenvoimakkuus alas-painiketta pitkään</string>
   <string name="lost_internet_access_cancel">Jatka Wi-Fi-yhteydellä</string>
   <string name="lost_internet_access_persist">Älä näytä uudelleen</string>

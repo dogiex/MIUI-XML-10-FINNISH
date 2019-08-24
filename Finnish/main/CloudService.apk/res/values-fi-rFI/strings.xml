@@ -38,8 +38,7 @@
   <string name="find_device_dspt_provision">Jos hävität laitteesi, voit mennä %s paikantamaan, lukitsemaan tai palauttamaan tehdasasetukset siihen. Voit ottaa tämän ominaisuuden käyttöön tai poistaa käytöstä milloin tahansa Asetuksista.</string>
   <string name="find_device_error_network">Tarkista datayhteys ja yritä uudelleen.</string>
   <string name="find_device_error_server">Palvelinvirhe</string>
-  <string name="find_device_gdpr_prompt">Ottamalla Etsi laite -ominaisuus käyttöön, hyväksyt meidän Tietosuojakäytännön. Jos sinun täytyy peruuttaa valtuutus, poista tämä ominaisuus käytöstä.</string>
-  <string name="find_device_gdpr_prompt_policy_doc_name">Tietosuojakäytäntö</string>
+  <string name="find_device_gdpr_prompt">Ottamalla Etsi laite -ominaisuuden käyttöön, hyväksyt meidän Tietosuojakäytännön. Jos sinun täytyy peruuttaa valtuutus, poista tämä ominaisuus käytöstä.</string>
   <string name="find_device_operation_failure_rpc">RPC virheen vuoksi toimintoa ei voitu suorittaa.</string>
   <string name="find_device_send_sms_alert">Jos vaihdat SIM-kortteja, toinen tekstiviesti lähetetään automaattisesti tämän toiminnon uudelleenaktivoimiseksi.</string>
   <string name="find_device_service_title">Etsi laite</string>
