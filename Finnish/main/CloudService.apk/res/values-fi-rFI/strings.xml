@@ -137,7 +137,7 @@
   <string name="micloud_dspt">Käytä Mi Pilveä datan synkronointiin, laitteesi paikantamiseen,</string>
   <string name="micloud_dspt_provision">Käytä Mi Pilveä datan synkronointiin, laitteesi paikantamiseen ja asioiden jakamiseen ystäviesi kanssa.</string>
   <string name="micloud_dspt_provision_xms">Käytä Mi Pilveä tietojen synkronointiin.</string>
-  <string name="micloud_find_device_close_alert_content">Jos poistat tämän ominaisuuden käytöstä, et voi enää paikantaa laitettasi jos se hukkuu.</string>
+  <string name="micloud_find_device_close_alert_content">Jos poistat Etsi laite -ominaisuuden käytöstä, et voi enää paikantaa laitettasi käyttäen tätä ominaisuutta. Jos puhelimesi tukee NFC:tä, kaikki pankkikorttisi ja avainkorttisi poistetaan Mi Pay:stä.</string>
   <string name="micloud_find_device_close_alert_negtive">Poista käytöstä siitä huolimatta</string>
   <string name="micloud_find_device_close_alert_positive">Pidä käytössä</string>
   <string name="micloud_find_device_close_alert_title">Poistetaanko Etsi laite käytöstä?</string>

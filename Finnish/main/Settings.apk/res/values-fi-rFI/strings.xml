@@ -64,6 +64,7 @@
   <string name="wifi_traffic_priority_summary">Priorisoi yhteyden nopeus automaattisesti</string>
   <!-- MIUI 10 valmis -->
   <string name="Accounts_settings_title">Tilit</string>
+  <string name="a11y_settings_label">Esteettömyysasetukset</string>
   <string name="abc_action_bar_home_description">Siirry etusivulle</string>
   <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
   <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
@@ -120,9 +121,23 @@
   <string name="accessibility_feature_state_off">Ei käyt.</string>
   <string name="accessibility_feature_state_on">Käytössä</string>
   <string name="accessibility_global_gesture_preference_title">Esteettömyystilan pikakuvake</string>
+  <string name="accessibility_hearingaid_active_device_summary">%1$s aktiivinen</string>
+  <string name="accessibility_hearingaid_adding_summary">Lisää kuulolaitteita</string>
+  <string name="accessibility_hearingaid_instruction_continue_button">Jatka</string>
+  <string name="accessibility_hearingaid_not_connected_summary">Ei yhdistettyjä kuulolaitteita</string>
+  <string name="accessibility_hearingaid_pair_instructions_first_message">Muodosta pari kuulolaitteen kanssa etsimällä se seuraavalta näytöltä ja napauttamalla sitä.</string>
+  <string name="accessibility_hearingaid_pair_instructions_second_message">Varmista, että kuulolaitteesi on laiteparin muodostustilassa.</string>
+  <string name="accessibility_hearingaid_title">Kuulolaitteet</string>
   <string name="accessibility_lock_screen_progress">%1$d/%2$d merkkiä käytössä</string>
   <string name="accessibility_long_press_timeout_preference_title">Pitkäkestoisen kosketuksen viive</string>
+  <string name="accessibility_manual_zen_less_time">Vähemmän aikaa.</string>
+  <string name="accessibility_manual_zen_more_time">Lisää aikaa.</string>
+  <string name="accessibility_menu_description">"Esteettömyysvalikko tuo puhelimesi näytölle suuren valikon, jonka avulla voit hallita puhelimen eleitä, laitteistopainikkeita, navigointia ja paljon muuta.
+
+Jos haluat käyttää tätä ominaisuutta, ota esteettömyysvalikko käyttöön ja kosketa sitten näytön alareunan esteettömyyskuvaketta."</string>
   <string name="accessibility_menu_item_settings">Asetukset</string>
+  <string name="accessibility_menu_service_name">Esteettömyysvalikko</string>
+  <string name="accessibility_menu_summary">Puhelimen hallinta suuresta valikosta</string>
   <string name="accessibility_more_settings">Lisäasetukset</string>
   <string name="accessibility_no_service_selected">Palvelua ei ole valittuna</string>
   <string name="accessibility_no_services_installed">Ei asennettuja palveluita</string>
@@ -593,6 +608,10 @@ Käytetty viimeksi %2$s"</string>
   <string name="backup_set_enter_pw_title">Syötä varmuuskopion salasana</string>
   <string name="backup_set_error_pw">Syöttämäsi salasana on virheellinen</string>
   <string name="backup_set_modify_title">Vaihda varmuuskopion salasana</string>
+  <string name="backup_set_new_continue">Jatka</string>
+  <string name="backup_set_new_exit">Poistu</string>
+  <string name="backup_set_new_pw_confirm_hint">Huomio</string>
+  <string name="backup_set_new_pw_confirm_summary">Kohteesi varmuuskopioidaan nyt automaattisesti. Varmuuskopion salasanan luominen lopettaa automaattiset varmuuskopiot. Jatketaanko siitä huolimatta?</string>
   <string name="backup_set_new_pw_title">Syötä uusi varmuuskopion salasana</string>
   <string name="backup_set_null_pw">Syötä salasana ensin</string>
   <string name="backup_set_pw_confirm_title">Vahvista varmuuskopion uusi salasana</string>
@@ -1667,6 +1686,7 @@ Asetus vaikuttaa tämän puhelimen kaikkiin käyttäjiin."</string>
   <string name="device_miui_more">Näytä lisää</string>
   <string name="device_miui_version">MIUI-versio</string>
   <string name="device_miui_version_for_POCO">MIUI-versio (POCO)</string>
+  <string name="device_miui_version_parameters">MIUI-versio</string>
   <string name="device_miui_version_update">MIUI-päivitys on saatavilla</string>
   <string name="device_name">Laitteen nimi</string>
   <string name="device_name_input_error">Laitteen nimeä ei voitu tallentaa</string>
@@ -2273,6 +2293,7 @@ Varmuuskopioita ei vähennetä Drive-tallennustilan kiintiöstäsi. Suuria ja ke
   <string name="global_locale_change_title">Vaihda kieltä</string>
   <string name="go_back_button_label">Takaisin</string>
   <string name="go_to_sleep">Sammuta näyttö</string>
+  <string name="google_assistant_label">Google Assistant</string>
   <string name="google_backup_enable">Ota varmuuskopiointi käyttöön</string>
   <string name="google_backup_section_title">Google varmuuskopiointi &amp; palautus</string>
   <string name="google_title">Google</string>
@@ -2807,6 +2828,7 @@ PIN-koodi"</string>
   <string name="lockscreen_glogin_checking_password">Tarkistetaan…</string>
   <string name="lockscreen_glogin_password_hint">Salasana</string>
   <string name="lockscreen_glogin_submit_button">Kirjaudu sisään</string>
+  <string name="lockscreen_label">Lukitusnäyttö</string>
   <string name="lockscreen_magazine">Taustakuvan Karuselli</string>
   <string name="lockscreen_magazine_summary">Korkean kuvanlaadun taustakuvan karuselli</string>
   <string name="lockscreen_magazine_title">Taustakuvan Karuselli</string>
@@ -3655,6 +3677,7 @@ OTG poistetaan käytöstä automaattisesti, kun sitä ei käytetä 10 minuuttiin
   <string name="power_key_how_start_detail">Paina ja pidä pohjassa Virtapainiketta 0.5 sekunnin ajan. Vapauta puhuaksesi.</string>
   <string name="power_key_start_enjoy">Lisätietoja Google Assistantista</string>
   <string name="power_key_start_guide">Google Assistantin herättäminen käyttäen Virtapainiketta koko näytön laitteilla</string>
+  <string name="power_label">Virta</string>
   <string name="power_menu_under_keyguard_summary">Salli virtavalikon käyttäminen laitteen ollessa lukittuna</string>
   <string name="power_menu_under_keyguard_title">Virtavalikon käyttö</string>
   <string name="power_last_full_charge_summary">^1 sitten</string>
@@ -3887,8 +3910,9 @@ OTG poistetaan käytöstä automaattisesti, kun sitä ei käytetä 10 minuuttiin
   <string name="proxy_warning_limited_support">Selain saa käyttää HTTP-välityspalvelinta mutta muut sovellukset eivät.</string>
   <string name="qtifeedback_settings_subtitle">Qualcomm Teknologian Raportointi</string>
   <string name="qtifeedback_settings_title">Laitteistopalaute</string>
-  <string name="query_hint_text">Hae asetuksista</string>
+  <string name="quick_reply_title">Pikavastaukset</string>
   <string name="quick_settings_developer_tiles">Pika-asetusosiot kehittäjille</string>
+  <string name="quick_settings_label">Pika-asetukset</string>
   <string name="quiet">Älä häiritse</string>
   <string name="quiet_group">Älä häiritse</string>
   <string name="quiet_important_interruptions_mode">Salli valitut poikkeukset</string>
@@ -3970,6 +3994,8 @@ UT-käyttöliittymä: %5$s"</string>
   <string name="really_remove_account_title">Poistetaanko tili?</string>
   <string name="rebootiing_for_updates">Käynnistetään uudelleen…</string>
   <string name="receiver_clean">Vapauta tallennustilaa</string>
+  <string name="recent_app_category_title">Viimeksi avatut sovellukset</string>
+  <string name="recent_apps_label">Viimeaikaiset</string>
   <string name="recent_location_requests_summary">Näytä sovellukset, jotka pyytävät käyttöoikeutta sijaintitiedoille</string>
   <string name="recent_location_requests_title">Sijaintipyyntö</string>
   <string name="recommend_item_1">Suojakuori</string>
@@ -4240,6 +4266,7 @@ Näytön kiinnittäminen:
   <string name="screensaver_settings_title">Näytönsäästäjä</string>
   <string name="screensaver_settings_when_to_dream">Aloitus</string>
   <string name="screenshot">Kuvakaappaus</string>
+  <string name="screenshot_label">Kuvakaappaus</string>
   <string name="screenshot_three_gesture">Ota kuvakaappaus pyyhkäisemällä kolmea sormea alaspäin</string>
   <string name="screenshot_three_gesture_summary">Muut kolmen sormen eleet poistetaan käytöstä</string>
   <string name="sd_card_settings_label">USB-tallennustila</string>
@@ -5707,6 +5734,7 @@ Napauta plussaa lisätäksesi sanoja."</string>
   <string name="volume_bluetooth_description">Bluetooth</string>
   <string name="volume_category_title">Äänenvoimakkuus</string>
   <string name="volume_hifi_description">Hi-Fi asetukset</string>
+  <string name="volume_label">Äänenvoimakkuus</string>
   <string name="volume_media_description">Musiikki, video, pelit ja muu media</string>
   <string name="volume_media_mute">Mykistä musiikki &amp; muu media</string>
   <string name="volume_notification_description">Ilmoitukset</string>

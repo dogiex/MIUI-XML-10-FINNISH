@@ -9,6 +9,9 @@
   <string name="button_queue_for_wifi">Odota</string>
   <string name="button_start_now">Lataa</string>
   <string name="call_record">Nauhoitetut puhelut</string>
+  <string name="call_record_list_group_all">Kaikki</string>
+  <string name="call_record_list_group_connected">Yhdistetty</string>
+  <string name="call_record_list_group_unconnected">Ei yhdistetty</string>
   <string name="clear_records">Poista synkronoidut nauhoitukset</string>
   <string name="cloud_record_open">Synkronoi nauhoitukset</string>
   <string name="cloud_record_tip">Synkronoi nauhoitukset Mi Pilveen.</string>
@@ -143,13 +146,14 @@
   <string name="preference_enable_earpiece_summary">Käytä vastaanottimen kaiutinta äänen toistamiseen</string>
   <string name="preference_enable_earpiece_title">Käytä vastaanottimen kaiutinta äänen toistamiseen</string>
   <string name="preference_led_indicator">Lukitusnäytön ilmoitukset</string>
-  <string name="preference_led_indicator_prompt">Näytä ilmoituspalkissa ja vilkuta ilmoitusvaloa lukitusnäytöllä nauhoituksen aikana</string>
+  <string name="preference_led_indicator_prompt">Näytä ilmoituspalkin pikakuvake ja vilkuta ilmoitusvaloa nauhoituksen aikana</string>
   <string name="preference_online_orders">Verkkotilaukset</string>
   <string name="preference_recog_faqs">Verkkotunnistuksen UKK</string>
   <string name="preference_recog_terms">Palveluehdot</string>
   <string name="preference_record_scenes_dialog_title">Valitse nauhoituksen tyyppi</string>
   <string name="preference_scenes">Nauhoituksen tyyppi</string>
   <string name="preference_silent_mode">Mykistä soittoääni nauhoituksen aikana</string>
+  <string name="preference_status_bar_indicator_prompt">Näytä ilmoituspalkin pikakuvake nauhoituksen aikana</string>
   <string name="preference_tip_rename">Nimeä nauhoitukset käsin</string>
   <string name="privacy_policy_title">Tietosuojakäytäntö</string>
   <string name="recognition_error_cancel">Peruutettu</string>
@@ -257,6 +261,9 @@
   <string name="service_instructions">Tietoja iflyrec.com</string>
   <string name="share">Jaa</string>
   <string name="share_dialog_title">Jaa sovelluksessa</string>
+  <string name="shortcut_records">Nauhoitukset</string>
+  <string name="shortcut_start_record">Aloita nauhoittaminen</string>
+  <string name="shortcut_stop_record">Lopeta nauhoittaminen</string>
   <string name="sound_recorder_settings">Asetukset</string>
   <string name="speech_recognition_complete">Kirjoitettu</string>
   <string name="speech_recognition_running_tip">"Valmistellaan "</string>

@@ -972,6 +972,11 @@ Se lisätään poikkeuksiin, mutta jo ennestään estetyt kohteet ei ilmesty puh
   <string name="gamebooster_network_dialog_title">Jotkut ominaisuudet eivät ole käytettävissä</string>
   <string name="gamebox_app_not_find">Asenna sovellus ensin.</string>
   <string name="gamebox_browser_not_find">Asenna Mi Browser ensin</string>
+  <string name="gamebox_display_1">Ei mitään</string>
+  <string name="gamebox_display_2">Kylläinen</string>
+  <string name="gamebox_display_3">Kirkas</string>
+  <string name="gamebox_display_4">Kirkas &amp; kylläinen</string>
+  <string name="gamebox_display_set">"Visuaalinen parannus: "</string>
   <string name="gamebox_dnd">Älä häiritse</string>
   <string name="gamebox_func_antimsg_close">Kelluvat ilmoitukset sallitaan nyt</string>
   <string name="gamebox_func_antimsg_open">Kelluvat ilmoitukset rajoitetaan nyt</string>
@@ -1003,6 +1008,7 @@ Se lisätään poikkeuksiin, mutta jo ennestään estetyt kohteet ei ilmesty puh
   <string name="gateway_exception_summary2">Palvelimeen yhdistäminen epäonnistui</string>
   <string name="gateway_exception_title">Testaa reititin</string>
   <string name="gb_ad_game_size">Mt</string>
+  <string name="gb_add_game_hint">Lisää kohteita sovellusluettelosta</string>
   <string name="gb_advance_settings_edge_gear1">Ei mitään</string>
   <string name="gb_advance_settings_edge_gear2">Pieni</string>
   <string name="gb_advance_settings_edge_gear3">Keskikokoinen</string>
@@ -1040,6 +1046,7 @@ Se lisätään poikkeuksiin, mutta jo ennestään estetyt kohteet ei ilmesty puh
   <string name="gb_first_window_summary">Paranna nopeutta ja suorituskykyä järjestelmätasolla</string>
   <string name="gb_first_window_title">Pelien nopeuttaja</string>
   <string name="gb_get_gift_right_now">Kirjaudu sisään nyt</string>
+  <string name="gb_global_settings">Yleiset asetukset</string>
   <string name="gb_have_signed">Kirjauduttu sisään tänään</string>
   <string name="gb_msg_completely_shielded">Piilota viestit</string>
   <string name="gb_msg_completely_shielded_summary">Piilota</string>
@@ -1868,6 +1875,7 @@ Kalibroinnin aikana, MIUI lähettää tekstiviestin operaattorillesi saadakseen 
   <string name="protocol_exception_title">Verkkoprotokollan diagnostiikat</string>
   <string name="protocol_loop_back_exception_summary">Local loop back test failed. To report this issue to MIUI, go to the Report Bug app and send a log from your device.</string>
   <string name="qq_lucky_warning">QQ红包</string>
+  <string name="qucick_replay_instrument">Käytä pikavastauksia valitun sovelluksen (esim. WhatsApp, WeChat, QQ) ilmoituksista</string>
   <string name="quick_optimize_checking">Skannataan</string>
   <string name="quick_optimize_no_fix_issue_subtitle">Akun kestoa ei voitu pidentää</string>
   <string name="quick_optimize_no_fix_issue_title">Akkuongelmia ei voitu korjata</string>
@@ -1877,6 +1885,8 @@ Kalibroinnin aikana, MIUI lähettää tekstiviestin operaattorillesi saadakseen 
   <string name="quick_optimize_sub_summary_text">Lisättiin %s akun kestoon</string>
   <string name="quick_optimize_suggest_battery_consume_too_fast">Puhelin käyttää paljon akkua, korjaa se</string>
   <string name="quick_optimize_suggest_battery_over_heat">Puhelin käy ylikuumana, korjaa se</string>
+  <string name="quick_replay_list_title">Käytettävissä olevat sovellukset</string>
+  <string name="quick_reply_title">Pikavastaukset</string>
   <string name="quite_all_string">Peruuta</string>
   <string name="random_expression">随机表情</string>
   <string name="reach_daily_limit_value_body">Vähennä mobiilidatan käyttöäsi.</string>
@@ -2171,10 +2181,10 @@ jonka määritit manuaalisesti (%2$s). Vaihdetaanko SIM-kortin sijainniksi %3$s?
   <string name="st_title_show_antispam_notification">Estolistan ilmoitukset</string>
   <string name="st_title_sim_card">%1$s - SIM-kortti %2$s</string>
   <string name="st_title_whitelist_numbers">Poikkeukset</string>
-  <string name="start">Aloita</string>
-  <string name="start_diagnostic_botton">Aloita</string>
+  <string name="start">Käynnistä</string>
+  <string name="start_diagnostic_botton">Käynnistä</string>
   <string name="start_downloading_app">Aloitetaan latausta: %1$s</string>
-  <string name="start_game">Aloita</string>
+  <string name="start_game">Käynnistä</string>
   <string name="status_bar_network_flow_content">Tänään: %1$s&amp;nbsp;&amp;nbsp;&amp;nbsp;Jäljellä: %2$s</string>
   <string name="status_bar_network_flow_content_not_setting">Tänään: %1$s&amp;nbsp;&amp;nbsp;&amp;nbsp;Tässä kuussa: %2$s</string>
   <string name="status_bar_network_flow_content_virtual_card">%1$s&amp;nbsp;&amp;nbsp;&amp;nbsp;%2$s&amp;nbsp;&amp;nbsp;&amp;nbsp;</string>

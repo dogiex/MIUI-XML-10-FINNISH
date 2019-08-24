@@ -204,11 +204,16 @@
   <string name="respond_via_sms_custom_message">Mukautettu tekstiviesti…</string>
   <string name="select_audio_dialog_title">Valitse vastattava tila</string>
   <string name="select_one_sim_title">Voidaan käyttää vain SIM-korttia %1$d</string>
+  <string name="select_one_sim_title_for_heduohao">Voidaan käyttää vain SIM-korttia %1$d Toissijaista %2$d</string>
   <string name="select_sim_hint">SIM-korttia %2$d ei voi käyttää SIM-kortin %1$d ollessa käytössä.</string>
+  <string name="select_sim_hint_for_heduohao">Toista ei voi käyttää, kun SIM-kortti %1$d Toissijainen %2$d on käytössä.</string>
   <string name="select_voice_call_sim">Valitse SIM-kortti</string>
   <string name="separate_from_conference">Erota puhelu</string>
   <string name="sim1_description">SIM-kortti 1</string>
+  <string name="sim1_heduohao_card">Toissijainen 1</string>
   <string name="sim2_description">SIM-kortti 2</string>
+  <string name="sim2_heduohao_card">Toissijainen 2</string>
+  <string name="sim3_heduohao_card">Toissijainen 3</string>
   <string name="sip_call_not_support_record">SIP-puheluita ei voi nauhoittaa</string>
   <string name="supp_service_notification_call_waiting">Soittamasi numero on varattu. Ole hyvä ja odota…</string>
   <string name="suspect_info">Ole varovainen: Aina varmista henkilön henkilöllisyys, joko puhelulla tai videolla, ennen kuin vastaat mihinkään viestiin, jossa käsitellään henkilökohtaisia tietoja.</string>

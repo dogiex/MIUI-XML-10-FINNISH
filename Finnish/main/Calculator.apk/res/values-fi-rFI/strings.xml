@@ -329,6 +329,7 @@
   <string name="tax_param_error">Kirjoita oikeat vakuutusmaksut</string>
   <string name="tax_payment_period">Maksujen määrä</string>
   <string name="tax_rate_provider">Laskettu uusien verosäännösten mukaisesti. Tiedot tarjoaa hexun.com ja East Money.</string>
+  <string name="tax_rate_provider_east_money">Laskettu uusien verosäännösten mukaan. Tiedot tarjoaa East Money.</string>
   <string name="tax_result_real_get">Verojen jälkeen</string>
   <string name="tax_social_insurance">Sosiaalivakuutus</string>
   <string name="tax_thershold_foreign">%s (Ulkomaan kansalaiset)</string>

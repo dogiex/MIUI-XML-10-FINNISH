@@ -12,7 +12,6 @@
   <string name="vigor">Elinvoima</string>
   <!-- miui 10 valmis -->
   <string name="acousticguitar">Akustinen kitara</string>
-  <string name="add_frequent_phrases">Lisää usein käytettyjä lauseita</string>
   <string name="alarmclock">Herätyskello</string>
   <string name="android_ringtone_default_with_actual">Oletus soittoääni (%1$s)</string>
   <string name="android_ringtone_silent">Ei mitään</string>
@@ -60,8 +59,6 @@
   <string name="cuckooclock">Käkikello</string>
   <string name="day_following_good_friday">耶穌受難節翌日</string>
   <string name="daydream">Daydream</string>
-  <string name="delete_frequent_phrases">Poista usein käytettyjä lauseita</string>
-  <string name="delete_frequent_phrases_confirm">Poistetaanko valitut lauseet?</string>
   <string name="device_hongmi">Redmi</string>
   <string name="device_pad">Mi Pad</string>
   <string name="device_poco_global">POCOPHONE</string>
@@ -71,7 +68,6 @@
   <string name="double_seventh_day">七夕</string>
   <string name="easter">復活節</string>
   <string name="echo">Kaiku</string>
-  <string name="edit_frequent_phrases">Muokkaa usein käytettyjä lauseita</string>
   <string name="energy">Energia</string>
   <string name="enthusiastic">Innostunut</string>
   <string name="fadein">Häivytys sisään</string>
@@ -80,8 +76,6 @@
   <string name="fireflies">Tulikärpäset</string>
   <string name="flute">Huilu</string>
   <string name="fools_day">愚人节</string>
-  <string name="frequent_phrases_des">Syötä lauseita muutamalla painalluksella, kun muokkaat tekstiä</string>
-  <string name="frequent_phrases_size_exceeded">Voit lisätä enintään %1$d lausetta. Poista tarpeettomat lisätäksesi lauseita.</string>
   <string name="fresh">Raikas</string>
   <string name="frog">Sammakko</string>
   <string name="future">Tulevaisuus</string>
@@ -133,9 +127,6 @@
   <string name="lunar_yi">一</string>
   <string name="lunar_yue">月</string>
   <string name="lunar_zheng">正</string>
-  <string name="menu_add_frequent_phrases">Lisää</string>
-  <string name="menu_delete">Poista</string>
-  <string name="menu_edit">Muokkaa</string>
   <string name="messagesent">Viesti lähetetty</string>
   <string name="mi">Mi</string>
   <string name="miglass">Mi (Lasi)</string>

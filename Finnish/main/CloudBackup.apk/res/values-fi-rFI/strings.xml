@@ -8,9 +8,12 @@
   <string name="as_new_device_summary">Poista edelliset Mi Pilvi varmuuskopiot</string>
   <string name="authentication_failed">Tiliä ei voitu vahvistaa.</string>
   <string name="back_up_task_in_process">Varmuuskopioidaan…</string>
-  <string name="back_up_task_unfinished">Varmuuskopiointi ei ole vielä valmis</string>
+  <string name="back_up_task_unfinished">Ei voitu varmuuskopioida</string>
   <string name="backing_up_to_micloud">Varmuuskopioidaan…</string>
   <string name="backup_fail_wifi_needed">Varmuuskopiointi epäonnistui, Wi-Fi vaaditaan.</string>
+  <string name="backup_failed_reason_cloud_space_not_enough">Mi Pilvessä ei ole tarpeeksi tallennustilaa. Päivitä suunnitelmasi tai vapauta tallennustilaa.</string>
+  <string name="backup_failed_reason_disk_space_not_enough">Tallennustilaa ei ole tarpeeksi. Vapauta tallennustilaa ensin.</string>
+  <string name="backup_failed_reason_network_error">Verkkovirhe. Odota minuutti tai kaksi ja yritä uudelleen.</string>
   <string name="backup_finished_notification_content">Varmuuskopioitiin Aloitusnäyttö, sovellukset, järjestelmäasetukset, jne.</string>
   <string name="backup_now">Varmuuskopioi nyt</string>
   <string name="backup_size">Koko: %s</string>
@@ -187,6 +190,8 @@ Tarkista verkkoasetukset ja yritä uudelleen."</string>
   <string name="restore_detail_category_settings">Asetukset</string>
   <string name="restore_detail_more">Lisää</string>
   <string name="restore_detail_title">Valitse palautettavat kohteet</string>
+  <string name="restore_failed_reason_disk_space_not_enough">Tallennustilaa ei ole tarpeeksi. Vapauta ensin tallennustilaa.</string>
+  <string name="restore_failed_reason_network_error">Verkkovirhe. Odota minuutti tai kaksi ja yritä uudelleen.</string>
   <string name="restore_finish_description">Palautus valmis</string>
   <string name="restore_finished_notification_content">Palautettiin Aloitusnäytön sovellukset, järjestelmäasetukset jne.</string>
   <string name="restore_from_cloud">Palauta Mi Pilven varmuuskopio</string>
@@ -198,6 +203,7 @@ Tarkista verkkoasetukset ja yritä uudelleen."</string>
   <string name="restore_network_unconnect">%s (Odotetaan yhteyttä)</string>
   <string name="restore_task_cancelling">Peruutetaan…</string>
   <string name="restore_task_in_process">Palautetaan…</string>
+  <string name="restore_task_unfinished">Ei voitu palautaa</string>
   <string name="restore_unfinished">Palautetaan, yritä myöhemmin uudelleen</string>
   <string name="restoring_file_title_no_progress">Palautetaan tiedostoja…</string>
   <string name="restoring_settings">Palautetaan asetuksia…</string>

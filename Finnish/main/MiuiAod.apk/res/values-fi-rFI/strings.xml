@@ -34,7 +34,7 @@
   <string name="aod_mode_time_summary">Ajasta milloin Aina päällä -tila otetaan käyttöön ja poistetaan käytöstä</string>
   <string name="aod_mode_time_title">Ajasta</string>
   <string name="aod_mode_title">Aina päällä -tila</string>
-  <string name="aod_show_style_title">Näytä kohteet</string>
+  <string name="aod_show_style_title">Näytettävät kohteet</string>
   <string name="aod_to_close">Poista käytöstä</string>
   <string name="cancel">Peruuta</string>
   <string name="paper_mode_end_time_title">Poista käytöstä</string>
