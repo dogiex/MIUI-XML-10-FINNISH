@@ -714,12 +714,12 @@
         <item>Aseta käyttöjakso…</item>
     </string-array>
     <string-array name="date_of_app_all">
-        <item>Tänään (data)</item>
-        <item>Tässä kuussa (data)</item>
-        <item>Viime kuussa (data)</item>
-        <item>Tänään Wi-Fi</item>
-        <item>Tässä kuussa Wi-Fi</item>
-        <item>Viime kuussa Wi-Fi</item>
+        <item>"Tänään (mobiilidata) "</item>
+        <item>"Tässä kuussa (mobiilidata) "</item>
+        <item>"Viime kuussa (mobiilidata) "</item>
+        <item>"Tänään (Wi-Fi) "</item>
+        <item>"Tässä kuussa (Wi-Fi) "</item>
+        <item>"Viime kuussa (Wi-Fi) "</item>
     </string-array>
     <string-array name="date_of_traffic">
         <item>"Tänään "</item>
@@ -1154,7 +1154,7 @@ Huomautus: Vain Ubuntu 8.04!"</item>
         <item>Äärimmäinen</item>
     </string-array>
     <string-array name="traffic_type">
-        <item>"Mobiilikäyttö "</item>
+        <item>"Mobiilidatankäyttö "</item>
         <item>"Wi-Fi käyttö "</item>
     </string-array>
     <string-array name="transition_animation_scale_entries">

@@ -146,6 +146,42 @@ Jos otat mobiilidatan uudelleen käyttöön, operaattorisi saattaa veloittaa sin
         <item quantity="other">%s minuuttia</item>
         <item quantity="one">%s minuutti</item>
     </plurals>
+    <plurals name="power_main_battery_last_day">
+        <item quantity="other">%s päivää jäljellä</item>
+        <item quantity="one">%s päivä jäljellä</item>
+    </plurals>
+    <plurals name="power_main_battery_last_hour">
+        <item quantity="other">%s tuntia jäljellä</item>
+        <item quantity="one">%s tunti jäljellä</item>
+    </plurals>
+    <plurals name="power_main_battery_last_minute">
+        <item quantity="other">%s minuuttia jäljellä</item>
+        <item quantity="one">%s minuutti jäljellä</item>
+    </plurals>
+    <plurals name="pc_main_sub_battery_text_day">
+        <item quantity="other">%s päivää jäljellä</item>
+        <item quantity="one">%s päivä jäljellä</item>
+    </plurals>
+    <plurals name="pc_main_sub_battery_text_hour">
+        <item quantity="other">%s tuntia jäljellä</item>
+        <item quantity="one">%s tunti jäljellä</item>
+    </plurals>
+    <plurals name="pc_main_sub_battery_text_minute">
+        <item quantity="other">%s minuuttia jäljellä</item>
+        <item quantity="one">%s minuutti jäljellä</item>
+    </plurals>
+    <plurals name="pc_main_power_manager_day">
+        <item quantity="other">%s päivää kunnes täynnä</item>
+        <item quantity="one">%s päivä kunnes täynnä</item>
+    </plurals>
+    <plurals name="pc_main_power_manager_hour">
+        <item quantity="other">%s tuntia kunnes täynnä</item>
+        <item quantity="one">%s tunti kunnes täynnä</item>
+    </plurals>
+    <plurals name="pc_main_power_manager_minute">
+        <item quantity="other">%s minuuttia kunnes täynnä</item>
+        <item quantity="one">%s minuutti kunnes täynnä</item>
+    </plurals>
     <plurals name="notification_battery_scan_consume_abnormal_title_split">
         <item quantity="other">%2$d sovellusta, mukaan lukien %1$s kuluttaa akkua</item>
         <item quantity="one">%2$d sovellus, mukaan lukien %1$s kuluttaa akkua</item>

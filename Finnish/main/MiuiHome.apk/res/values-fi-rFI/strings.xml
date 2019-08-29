@@ -2,6 +2,7 @@
 <resources>
     <string name="action_add_to_workspace">Lisää työtilaan</string>
     <string name="activity_not_found">Sovellusta ei ole asennettu laitteellesi</string>
+    <string name="activity_not_unlocked">Odota kunnes laitteesi on kokonaan käynnistynyt uudelleen, ennen sovelluksien avaamista</string>
     <string name="add_screen">Lisää näyttö</string>
     <string name="announce_for_app_move_in_folder">Siirrettiin kansiossa sijaintiin %1$d</string>
     <string name="announce_for_checked">%1$s, tarkistettu</string>
@@ -94,6 +95,7 @@
     <string name="defalut_launcher_title">Oletuskäynnistin</string>
     <string name="default_folder_title_claro">Claro</string>
     <string name="default_folder_title_game">Pelit</string>
+    <string name="default_folder_title_meitu">Meitu sovellukset</string>
     <string name="default_folder_title_microsoft">Microsoft</string>
     <string name="default_folder_title_recommend">Lisää sovelluksia</string>
     <string name="default_folder_title_security">Järjestelmä</string>
@@ -321,8 +323,10 @@
     <string name="setting_wallpaper_tip">Säädä nipistämällä tai pyyhkäisemällä</string>
     <string name="settings">Asetukset</string>
     <string name="settings_shortcut">Asetukset</string>
+    <string name="shake_to_align_icons">Ravista laitetta täyttääksesi tyhjät alueet kuvakkeilla</string>
+    <string name="shake_to_align_icons_summary">Ravista laitettasi muokkaustilassa täyttääksesi tyhjät alueet kuvakkeilla automaattisesti</string>
+    <string name="shake_to_align_icons_title">Ravista täyttääksesi tyhjät alueet</string>
     <string name="share">Jaa</string>
-    <string name="sharedUserId">undefined</string>
     <string name="show_all">Näytä kaikki</string>
     <string name="show_mem_info_title">Näytä muistin tila</string>
     <string name="show_recents_recommend_title">Näytä suosituksia</string>
@@ -336,6 +340,7 @@
     <string name="status_installing">Asennetaan</string>
     <string name="status_paused">Pysäytetty</string>
     <string name="status_pending">Odotetaan</string>
+    <string name="system_shortcuts_more_operation">Sovellustiedot</string>
     <string name="title_jeejen">Jeejen Aloitusnäyttö</string>
     <string name="title_select_live_folder">Valitse kansio</string>
     <string name="title_select_shortcut">Valitse pikakuvake</string>

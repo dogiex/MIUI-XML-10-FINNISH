@@ -1,8 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="abc_action_bar_home_description">Siirry etusivulle</string>
-  <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
-  <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
   <string name="abc_action_bar_up_description">Siirry ylös</string>
   <string name="abc_action_menu_overflow_description">Lisää</string>
   <string name="abc_action_mode_done">Valmis</string>
@@ -19,6 +17,8 @@
   <string name="abc_shareactionprovider_share_with">Jakaminen:</string>
   <string name="abc_shareactionprovider_share_with_application">Jaa sovelluksessa %s</string>
   <string name="abc_toolbar_collapse_description">Tiivistä</string>
+  <string name="about_app_name">Tietoja Teemasta</string>
+  <string name="about_version_update">Mitä uutta</string>
   <string name="accessibility_setting_hint">"Napauta painiketta oikeassta yläkulmassa ottaaksesi tämän palvelun käyttöön.
 Teemat tunnistaa, mitä sovelluksia käytät ja näyttää läpinäkyviä taustakuvia valitsemissasi sovelluksissa.​"</string>
   <string name="accessibiliy_description_content_account">Profiili</string>
@@ -48,6 +48,7 @@ Teemat tunnistaa, mitä sovelluksia käytät ja näyttää läpinäkyviä tausta
   <string name="ad_downloading_tip">Tätä kohdetta ladataan. Voit katsoa edistymisen Ilmoitusalueelta.</string>
   <string name="add_resource_detail_fail">Lähdettä ei voi lisätä</string>
   <string name="all_resources">Kaikki</string>
+  <string name="already_latest_version">Ajan tasalla</string>
   <string name="app_ad_title">Päivittäiset Suositukset</string>
   <string name="app_disable_transparent_wallpaper">Ilman läpinäkyvää taustakuvaa</string>
   <string name="app_enable_transparent_wallpaper">Läpinäkyvän taustakuvan kanssa</string>
@@ -77,9 +78,15 @@ Teemat tunnistaa, mitä sovelluksia käytät ja näyttää läpinäkyviä tausta
   <string name="card_retry">Yritä uudelleen</string>
   <string name="change_host_hint">Vaihda isäntää</string>
   <string name="change_wallpaper">Taustakuva</string>
+  <string name="character_counter_content_description">Merkkiraja ylitetty %1$d / %2$d</string>
   <string name="character_counter_pattern">%1$d / %2$d</string>
+  <string name="check_has_new_version">Päivitys saatavilla</string>
   <string name="classification_more_understand_you">Valitse suosikki kategoriasi</string>
   <string name="close">Sulje</string>
+  <string name="common_applying">Asetetaan…</string>
+  <string name="common_downloading">Ladataan…</string>
+  <string name="common_format_date_no_year">d.M.</string>
+  <string name="common_skip">Ohita</string>
   <string name="component_backup_preference_title">Varmuuskopioi teema</string>
   <string name="component_category_finest_title">YLEINEN</string>
   <string name="component_category_more_title">LISÄÄ</string>
@@ -90,6 +97,7 @@ Teemat tunnistaa, mitä sovelluksia käytät ja näyttää läpinäkyviä tausta
   <string name="count_down_tip">%d s jäljellä</string>
   <string name="current_using_desktop_wallpaper_text">Aloitusnäyttö</string>
   <string name="current_using_lockscreen_wallpaper_text">Lukitusnäyttö</string>
+  <string name="current_version">Nykyinen versio: %1$s</string>
   <string name="current_version_incompatible">Ei yhteensopiva</string>
   <string name="deleting">Poistetaan…</string>
   <string name="description_author">Tekijä</string>
@@ -187,6 +195,8 @@ Teemat tunnistaa, mitä sovelluksia käytät ja näyttää läpinäkyviä tausta
   <string name="gift_use_fail_dlg_title">Jotain meni pieleen</string>
   <string name="gift_used">Lähetetty</string>
   <string name="go_accessibility_setting">Valitse</string>
+  <string name="goto_purchased_list">Näytä ostohistoria</string>
+  <string name="goto_wechat">Kopioitiin WeChat-tili \"%1$s\" leikepöydälle. Avataanko WeChat nyt?</string>
   <string name="hide_free">Piilota ilmainen %1$s</string>
   <string name="hide_incompatible">Piilota yhteensopimattomat %1$s</string>
   <string name="hide_pull_down_message">Piilotetaanko nippu?</string>
@@ -224,6 +234,7 @@ Poistaaksesi tämän ominaisuuden käytöstä, siirry Asetukset &gt; Ääni &amp
   <string name="loading_resource_detail_info">Odota hetki…</string>
   <string name="local_photos">Paikalliset kuvat</string>
   <string name="local_resouce_creator_name">Kehittäjä: %1$s</string>
+  <string name="lock_screen_apply">Aseta Lukitusnäytöksi</string>
   <string name="lockscreen_apply_failured">Lukitusnäytön taustakuvaa ei voi asettaa</string>
   <string name="lockscreen_apply_failured_but_home_apply_success">Aloitusnäytön taustakuva asetettu, mutta Lukitusnäytön taustakuvaa ei voi asettaa</string>
   <string name="lockscreen_apply_success">Lukitusnäytön taustakuva asetettu</string>
@@ -264,6 +275,7 @@ Poistaaksesi tämän ominaisuuden käytöstä, siirry Asetukset &gt; Ääni &amp
   <string name="mix_icons_option_des">Aloitusnäytön kuvakkeet. Poista valinta käyttääksesi oletusvalintoja.</string>
   <string name="mix_lockscreen_option_des">Taustakuva ja kello. Poista valinta käyttääksesi oletusvalintoja.</string>
   <string name="mix_tip">Teeman komponentit</string>
+  <string name="mtrl_chip_close_icon_content_description">Poista %1$s</string>
   <string name="multi_sim_mms_ringtone_settings_dialog_message">Tämä soittoääni asetetaan molemmille SIM-korteille.</string>
   <string name="multi_sim_ringtone_settings_dialog_message">Soittoääni asetetaan molemmille SIM-korteille.</string>
   <string name="multi_sim_ringtone_settings_dialog_ok">Selvä</string>
@@ -272,8 +284,10 @@ Poistaaksesi tämän ominaisuuden käytöstä, siirry Asetukset &gt; Ääni &amp
   <string name="my_gifts">Lahjat</string>
   <string name="my_gifts_purchased">Ostetut</string>
   <string name="my_gifts_received">Vastaanotetut</string>
+  <string name="network_exception">Verkkoyhteyttä ei voitu muodostaa. Tarkista verkkoasetuksesi ja yritä uudelleen.</string>
   <string name="no_data">Verkkoyhteyttä ei voi muodostaa</string>
   <string name="no_net_work_connection">Tarkista verkkoasetuksesi ja yritä uudelleen.</string>
+  <string name="official_accounts">WeChat</string>
   <string name="online_no_network">Verkkoyhteyttä ei voi muodostaa</string>
   <string name="online_precust_abstract">Abstrakti</string>
   <string name="online_precust_animal">Eläin</string>
@@ -286,7 +300,7 @@ Poistaaksesi tämän ominaisuuden käytöstä, siirry Asetukset &gt; Ääni &amp
   <string name="online_precust_plant">Kasvi</string>
   <string name="online_precust_scenery">Maisema</string>
   <string name="online_search_hint">Etsi verkkolähteitä</string>
-  <string name="password_toggle_content_description">Vaihda salasanan näkyvyys</string>
+  <string name="password_toggle_content_description">Näytä salasana</string>
   <string name="playing_ringtone">Toistetaan</string>
   <string name="pref_privacy_policy">Tietosuojakäytäntö</string>
   <string name="present_local_fonts">Fonttini</string>
@@ -430,6 +444,7 @@ Poistaaksesi tämän ominaisuuden käytöstä, siirry Asetukset &gt; Ääni &amp
   <string name="resource_import_successful">Valmis</string>
   <string name="resource_importing">Tuodaan…</string>
   <string name="resource_is_off_shelf">Ei käytettävissä</string>
+  <string name="resource_is_off_shelf_can_not_share">Ei voi jakaa. Tämä kohde ei ole enää saatavilla.</string>
   <string name="resource_list_title">Viimeksi valittu</string>
   <string name="resource_local_picker">Valitse paikallinen soittoääni</string>
   <string name="resource_menu_refresh">Päivitä</string>
@@ -557,6 +572,9 @@ Poistaaksesi tämän ominaisuuden käytöstä, siirry Asetukset &gt; Ääni &amp
   <string name="theme_changed_failed_message">Teemaa ei voitu asettaa</string>
   <string name="theme_changed_message">Teema asetettu</string>
   <string name="theme_changing_dialog_title">"Asetetaan "</string>
+  <string name="theme_comment_dialog_cancel">Ei nyt</string>
+  <string name="theme_comment_dialog_message">Tykkäätkö käyttämästäsi teemasta? Arvostaisimme palautettasi!</string>
+  <string name="theme_comment_dialog_ok">Esikatsele</string>
   <string name="theme_component_title_alarm">Herätys</string>
   <string name="theme_component_title_alarmstyle">Herätyksen tyyli</string>
   <string name="theme_component_title_all">Teemat</string>
@@ -672,6 +690,7 @@ Poistaaksesi tämän ominaisuuden käytöstä, siirry Asetukset &gt; Ääni &amp
   <string name="using_theme_next_automatic_update">Automaattiset päivitykset</string>
   <string name="using_theme_next_automatic_update_summary">Päivitä ladatut teemat automaattisesti Wi-Fi-yhteydellä, kun näyttö on lukittu</string>
   <string name="using_theme_show_ad">Suositukset</string>
+  <string name="version_update">Tarkista päivitykset</string>
   <string name="video_ad_click">Kokeile nyt</string>
   <string name="video_ad_try_for_free">Ilmainen kokeilu</string>
   <string name="video_ad_uncomplete_tip">Hanki teema katsomalla video loppuun.</string>
@@ -718,6 +737,8 @@ Poistaaksesi tämän ominaisuuden käytöstä, siirry Asetukset &gt; Ääni &amp
   <string name="wallpaper_settings_no_history">Ei historiaa</string>
   <string name="wallpaper_settings_pad_more_page_title">Lisää taustakuvia</string>
   <string name="wallpaper_settings_page_title">Taustakuva</string>
+  <string name="wechat_not_found">Asenna ensin WeChat</string>
+  <string name="weibo">Weibo</string>
   <string name="wifi_check_cancel">Peruuta</string>
   <string name="wifi_check_confirm">Vahvista</string>
   <string name="wifi_check_message">Käytetäänkö mobiilidataa päivityksien lataamiseen?</string>
@@ -725,4 +746,14 @@ Poistaaksesi tämän ominaisuuden käytöstä, siirry Asetukset &gt; Ääni &amp
   <string name="xiaoai_speech_not_installed_download">Lataa</string>
   <string name="xiaoai_speech_not_installed_message">Lataa ja asenna Mi AI-ääniavustaja jatkaaksesi.</string>
   <string name="xiaoai_speech_not_installed_title">Mi AI-ääniavustajaa ei ole asennettu.</string>
+  <string name="xiaomi_update_sdk_bytes_unit">%1$s t</string>
+  <string name="xiaomi_update_sdk_connect_download_manager_fail">Lataushallinnan yhdistäminen epäonnistui, tarkista Lataushallinnan tila Sovellushallinnasta.</string>
+  <string name="xiaomi_update_sdk_dialog_message">"Versio %1$s
+Koko: %2$s"</string>
+  <string name="xiaomi_update_sdk_dialog_message_diff">"Versio %1$s
+Delta-päivityksen koko: %2$s"</string>
+  <string name="xiaomi_update_sdk_dialog_title">%1$s päivitys!</string>
+  <string name="xiaomi_update_sdk_external_storage_unavailable">Tallennustila ei käytettävissä, tarkista SD-kortti.</string>
+  <string name="xiaomi_update_sdk_kilobytes_unit">%1$s Kt</string>
+  <string name="xiaomi_update_sdk_megabytes_unit">%1$s Mt</string>
 </resources>

@@ -149,13 +149,13 @@
   <string name="permission_intro_phone">Puheluiden aikana otettujen muistioiden merkitsemiseen</string>
   <string name="permission_intro_storage">Muistioiden ja liitteiden tallentamiseen</string>
   <string name="permlab_accessNote">Pääsy muistioihin</string>
-  <string name="pref_desc_skip_confirm_for_quick_delete">Älä kysy vahvistusta, kun muistio poistetaan käyttäen eleitä</string>
+  <string name="pref_desc_skip_confirm_for_quick_delete">Pyyhkäise kahdella sormen ylöspäin poistaaksesi muistioita ilman vahvistusta</string>
   <string name="pref_title_cloud_trash_bin">Poista muistiot Mi Pilvestä</string>
   <string name="pref_title_common">Lisäasetukset</string>
   <string name="pref_title_font_size">Fontin koko</string>
   <string name="pref_title_note_style">Tyyli</string>
   <string name="pref_title_show_root_folder_in_homepage">Näytä vain pikamuistiot aloitussivulla</string>
-  <string name="pref_title_skip_confirm_for_quick_delete">Pikapoistaminen</string>
+  <string name="pref_title_skip_confirm_for_quick_delete">Poista käyttäen eleitä</string>
   <string name="recover_notes_hint">Tapahtui virhe, mene i.mi.com palauttaaksesi muistiot.</string>
   <string name="redo">Tee uudelleen</string>
   <string name="refuse_to_open_as_pic_because_of_loading">Odota, kunnes muistio on ladannut ja yritä uudelleen.</string>
@@ -213,6 +213,7 @@
   <string name="toast_notes_hidden_edit">Tämä muistio piilotettiin onnistuneesti. Vedä alaspäin nähdäksesi piilotetut muistiot.</string>
   <string name="toast_notes_hidden_home">Tämä muistio piilotettiin onnistuneesti. Vedä alaspäin nähdäksesi piilotetut muistiot.</string>
   <string name="toast_notes_unhidden">Poistettiin piilosta onnistuneesti</string>
+  <string name="toast_pic_is_not_really">Tallennetaan kuvaa…</string>
   <string name="toast_reach_text_limit_attachment">Uusia liitetiedostoja ei voi lisätä, koska muistio on liian pitkä</string>
   <string name="toast_reach_text_limit_checkbox">Valintaruutua ei voi lisätä, koska muistio on liian pitkä</string>
   <string name="toast_reach_text_limit_truncate">Tämä muistio on liian pitkä. Joitakin tekstejä poistettiin lopusta.</string>

@@ -178,6 +178,7 @@ ja optimoi valokuvasi näiden tietojen perusteella"</string>
   <string name="custom_watermark_words_input_hint">Anna teksti</string>
   <string name="custom_watermark_words_save_success">Tallennettiin onnistuneesti</string>
   <string name="device_48m_watermark_default_text">48MP KOLMOISKAMERA</string>
+  <string name="device_64m_watermark_default_text">64MP KAKSOISKAMERA</string>
   <string name="device_watermark_default_text">AI-KOLMOISKAMERA</string>
   <string name="dialog_google_lens_option_0">Google Lens (Suositeltu)</string>
   <string name="dialog_ok">OK</string>

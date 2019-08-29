@@ -102,16 +102,7 @@
   <string name="cm_privacy_dialog_tips">Älyviestintäpalvelut tarjoaa operaattorisi. Viestinnän on yhdistettävä internetiin ja saatava sijaintitietosi tarjotakseen näitä palveluita. Sinun täytyy hyväksyä operaattorisi %1s ennen näiden palveluiden käyttämistä. Hyväksytkö?</string>
   <string name="cm_privacy_dialog_title">Huomio</string>
   <string name="cmcc_privacy">China Mobile Operaattorin Tietosuojasopimus</string>
-  <string name="complain_input_number">Anna puhelinnumerosi</string>
-  <string name="complain_jump">Ohita</string>
   <string name="complain_message_title">Ilmoita</string>
-  <string name="complain_ok">OK</string>
-  <string name="complain_phone_number">Puhelinnumero (valinnainen)</string>
-  <string name="complain_reason">Miksi ilmoitat tämän viestin?</string>
-  <string name="complain_success">Kiitos palautteestasi. Se auttaa meitä luomaan Viestit -sovelluksesta paremman!</string>
-  <string name="complain_tips">"Ilmoittamasi viimeaikaisimman viestin sisältö lähetetään palvelimillemme antamasi puhelinnumeron kera. Palveluntarjoajamme tarkistavat ilmoitetun viestin.
-"</string>
-  <string name="complain_upload">Complaint has been submitted</string>
   <string name="compressing">Kuva on liian iso. Pakataan…</string>
   <string name="confirm">OK</string>
   <string name="confirm_add_blacklist_dialog_dspt">Lisätäänkö tämä numero estolistallesi?</string>
@@ -175,6 +166,7 @@
   <string name="delete_wild_sims_title">Poista valitut numerot</string>
   <string name="delivery_report_activity">Toimitusraportti</string>
   <string name="delivery_toast_body">%s vastaanotti viestin</string>
+  <string name="dialog_complain_tips">Salli Viesti-sovelluksen yhdistää verkkoon ilmoittaakseen kohteista.</string>
   <string name="dialog_message_fake_cell_detect_error">Haluatko korjata tämän viestin virheitä? MIUI:n tulee lähettää puhelinnumero (%1$s), viestin sisältö ja sijaintitiedot palvelimilleen tehdäkseen tämän.</string>
   <string name="dialog_message_mx">Mi Viestin avulla voit lähettää viestejä toisille MIUI-käyttäjille ilman maksuja. Mi Viestin aktivoimiseen vaaditaan lähtevä tekstiviesti. Operaattorisi veloittaa sinua tästä viestistä. Sinun täytyy hyväksyä meidän \"%1$s\" ja \"%2$s\" ennen Mi Viestin käyttämistä.</string>
   <string name="dialog_message_networking">Viestisovelluksen täytyy käyttää Keltaisiasivuja tarjotakseen Lähettäjän ID-tunnistuksen. Viestisovelluksen ja Keltaisensivujen on yhdistettävä internetiin ja saatava sijaintitietosi toimiakseen normaalisti. Hyväksytkö?</string>
@@ -421,7 +413,7 @@
   <string name="networking_allow_desc_without_mx">Mi Viestin täytyy yhdistää internetiin toimiakseen normaalisti. Tunnistaakseen tuntemattomia numeroita, suodattaakseen roskaposteja ja ottaakseen muita ominaisuuksia käyttöön, Mi Viestin täytyy käyttää Hakemistoa. Sallitaanko Hakemiston yhdistää internetiin, hakea sijaintitietosi ja lukea yhteystietosi?</string>
   <string name="networking_allow_title">Huomio</string>
   <string name="new_message">Kirjoita</string>
-  <string name="new_message_arrived">Sinulla on uusi viesti</string>
+  <string name="new_message_arrived">Katso napauttamalla</string>
   <string name="new_phrase">Lisää vastaus</string>
   <string name="new_phrase_hint">Anna uusi vastaus</string>
   <string name="no">Peruuta</string>
@@ -670,7 +662,7 @@
   <string name="security_alert_dialog_title">Raportoi</string>
   <string name="select_audio">Valitse ääni</string>
   <string name="select_bottom_text">Teksti alhaalla</string>
-  <string name="select_copy_text">Valitse kopioitava teksti</string>
+  <string name="select_copy_text">Valitse ja kopioi teksti</string>
   <string name="select_different_attachment">Valitse toinen liite.</string>
   <string name="select_different_audio">Valitse toinen ääni.</string>
   <string name="select_different_picture">Valitse toinen kuva.</string>
@@ -812,7 +804,7 @@ Yritys tehty: %s."</string>
   <string name="undelivered_msg_dialog_title">Toimittamaton viesti</string>
   <string name="undelivered_sms_dialog_body">Tätä viestiä ei voitu lähettää.</string>
   <string name="unknown_num">Tuntematon numero</string>
-  <string name="unknown_sender">Tuntematon lähettäjä</string>
+  <string name="unknown_sender">Sinulla on uusi viesti</string>
   <string name="unstick">Poista kiinnitys</string>
   <string name="unstick_conversation">Poista nykyisen keskustelun kiinnitys</string>
   <string name="unsticked_conversation">Keskustelun kiinnitys on jo poistettu</string>

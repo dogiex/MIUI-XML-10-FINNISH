@@ -502,6 +502,7 @@ Et menetä mitään sovellustietoja."</string>
   <string name="button_background_connection">Salli</string>
   <string name="button_block_calls_from_cantacts">Poista esto</string>
   <string name="button_block_calls_from_strangers">Poista esto</string>
+  <string name="button_dark_mode">Korjaa</string>
   <string name="button_do_not_disturb">Poista käytöstä</string>
   <string name="button_eye_shield">Poista käytöstä</string>
   <string name="button_first_aid_kit">Korjaa nyt</string>
@@ -1651,6 +1652,15 @@ Kokeile käyttää toista ethernet-kaapelia reitittimesi yhdistämiseen. Jos luu
   <string name="pc_battery_history_show_imei">IMEI:</string>
   <string name="pc_install_manager">Asenna USB:n kautta</string>
   <string name="pc_main_activity_back">Takaisin</string>
+  <string name="pc_main_battery_text_day">Lisättiin %1$s min, noin %2$s pv jäljellä</string>
+  <string name="pc_main_battery_text_day_hour">Lisättiin %1$s min, noin %2$s pv %3$s t jäljellä</string>
+  <string name="pc_main_battery_text_hour">Lisättiin %1$s min, noin %2$s t jäljellä</string>
+  <string name="pc_main_battery_text_hour_minute">Lisättiin %1$s min, noin %2$s t %3$s min jäljellä</string>
+  <string name="pc_main_battery_text_minute">Lisättiin %1$s min, noin %2$s min jäljellä</string>
+  <string name="pc_main_power_manager_day_hour">%1$s pv %2$s t kunnes täynnä</string>
+  <string name="pc_main_power_manager_hour_minute">%1$s t %2$s min kunnes täynnä</string>
+  <string name="pc_main_sub_battery_text_day_hour">%1$s pv %2$s t jäljellä</string>
+  <string name="pc_main_sub_battery_text_hour_minute">%1$s t %2$s min jäljellä</string>
   <string name="pc_settings_title">Akun optimointiasetukset</string>
   <string name="pc_to_phone_install">Estettiin USB:n kautta asennettava %s</string>
   <string name="per_month_pkg_traffic_settings">Aseta tiedonsiirtoraja</string>
@@ -1741,6 +1751,8 @@ Kokeile käyttää toista ethernet-kaapelia reitittimesi yhdistämiseen. Jos luu
   <string name="power_dialog_super_save_msg">Äärimmäinen virransäästö rajoittaa paljon virtaa vieviä ominaisuuksia ja vähentää laitteen suorituskykyä, jotta laitteen perusominaisuudet (esim. puhelut, tekstiviestit ja verkkoon yhdistäminen) ovat käytettävissä mahdollisimman kauan. Otetaanko Äärimmäinen virransäästö käyttöön?</string>
   <string name="power_dialog_super_save_title">Äärimmäinen virransäästö</string>
   <string name="power_idle">Puhelin toimettomana</string>
+  <string name="power_main_battery_last_day_hour">%1$s pv %2$s t jäljellä</string>
+  <string name="power_main_battery_last_hour_minute">%1$s t %2$s min jäljellä</string>
   <string name="power_optimize_auto_catagory_title">Akkuongelmia</string>
   <string name="power_optimize_battery_save_idea">Optimoi akku</string>
   <string name="power_optimize_battery_save_more">Lisää</string>
@@ -2229,6 +2241,7 @@ jonka määritit manuaalisesti (%2$s). Vaihdetaanko SIM-kortin sijainniksi %3$s?
   <string name="summary_cloud_space_full">Hanki lisää tallennustilaa ja pääse käsiksi lisätoimintoihin</string>
   <string name="summary_cmcc_app_check">Joitakin sovelluksia ei voitu vahvistaa</string>
   <string name="summary_consume_power">Lämpenemisen ongelmia löytyi, ne voivat vaikuttaa akun elinikään</string>
+  <string name="summary_dark_mode">Jotkut sivut muuttuvat mustiksi kolmansien osapuolten palveluiden takia</string>
   <string name="summary_data_flow">Hallitse mobiilidatan käyttöä, jotta vältät lisämaksuilta</string>
   <string name="summary_default_app">%s ei ole asetettu järjestelmän oletussovellukseksi</string>
   <string name="summary_dev">Vältä haittaohjelmia ja suojaa henkilökohtaiset tiedot</string>
@@ -2399,6 +2412,7 @@ Tässä ohjeet:
   <string name="title_cloud_space_full">Pilvi on täynnä</string>
   <string name="title_cmcc_app_check">Vahvistus ei ole valmis</string>
   <string name="title_consume_power_rank">Sovelluksen virrankäyttö</string>
+  <string name="title_dark_mode">Joitakin kohteita ei näytetä oikein</string>
   <string name="title_data_flow">Hallitse mobiilidataa</string>
   <string name="title_data_flow_monitor">Datan käytön monitorointi on päällä</string>
   <string name="title_dev_model_off">Kehittäjäasetukset on pois päältä</string>
@@ -2454,6 +2468,7 @@ Tässä ohjeet:
   <string name="toast_add_virus_white_list_no_need_repeat">Tämä poikkeus on jo olemassa!</string>
   <string name="toast_auto_traffic_correct">Datan käyttö säädetään automaattisesti</string>
   <string name="toast_cleaner_cloudscan">Puhdistaja käyttää verkkotunnisteita</string>
+  <string name="toast_dark_mode_fixed">Korjattiin onnistuneesti. Poistu tältä sivulta ottaaksesi muutokset käyttöön.</string>
   <string name="toast_flow_notification">Datan käytön ilmoitukset otettiin käyttöön</string>
   <string name="toast_garbage_lib">Puhdistajan automaattiset päivitykset otettiin käyttöön</string>
   <string name="toast_keyword_blank">Sinun pitää syöttää avainsana</string>

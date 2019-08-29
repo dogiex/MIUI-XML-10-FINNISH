@@ -894,7 +894,7 @@ Yritä uudelleen %2$d sekunnin kuluttua."</string>
   <string name="mmiFdnError">Voit suorittaa toiminnon vain sallitut puhelut -numeroihin.</string>
   <string name="month_day_year" formatted="false">%-e. %B %Y</string>
   <string name="more_item_label">Lisää</string>
-  <string name="move_button_text">Vaihda</string>
+  <string name="move_button_text">Napauta kehyspainiketta siirtääksesi koko ikkunaa</string>
   <string name="muted_by">%1$s mykistää joitakin ääniä</string>
   <string name="needPuk">SIM-korttisi on PUK-lukittu. Poista lukitus antamalla PUK-koodi.</string>
   <string name="needPuk2">Pura SIM-kortin esto antamalla PUK2-koodi.</string>

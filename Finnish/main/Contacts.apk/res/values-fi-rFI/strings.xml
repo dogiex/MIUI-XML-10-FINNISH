@@ -57,6 +57,7 @@
   <string name="blacklist">Estä</string>
   <string name="bluetooth_connection_failed_toast">Bluetooth-yhteys keskeytyi</string>
   <string name="blurbJoinContactDataWith">Valitse kontakti, jonka haluat yhdistää kontaktiin %s:</string>
+  <string name="btn_call_fuhao_txt">Toissijainen</string>
   <string name="btn_rotation">Käännä</string>
   <string name="btn_split_contact">Erota</string>
   <string name="button_cancel_scan">Lopeta</string>
@@ -172,6 +173,7 @@
   <string name="chat_skype">Keskustele Skypen avulla</string>
   <string name="chat_yahoo">Keskustele Yahoon avulla</string>
   <string name="checkhint">Tarkista kohdelaite</string>
+  <string name="china_mobile_palm_hall">CMCC Online Service Hall</string>
   <string name="clearCallLogConfirmation">Kaikki soittohistorian tiedot poistetaan</string>
   <string name="clearCallLogConfirmation_title">Tyhjennetäänkö soittohistoria?</string>
   <string name="clearCallLogProgress_title">Tyhjennetään soittohistoriaa…</string>
@@ -260,6 +262,7 @@ Yhteystietokortit on poistettu käytöstä"</string>
   <string name="contact_import_methods_dialog_bluetooth">Bluetooth</string>
   <string name="contact_import_methods_dialog_mi_mover">Mi Mover</string>
   <string name="contact_import_methods_dialog_title">Valitse tuontitapa</string>
+  <string name="contact_is_deleted">Yhteystieto poistettiin</string>
   <string name="contact_is_readOnly">Vain-luku muodossa olevia yhteystietoja ei voida muokata</string>
   <string name="contact_list_loading">Ladataan…</string>
   <string name="contact_pick_photo">Kuva</string>
@@ -338,6 +341,7 @@ Yhteystietokortit on poistettu käytöstä"</string>
   <string name="description_image_button_eight">kahdeksan</string>
   <string name="description_image_button_five">viisi</string>
   <string name="description_image_button_four">neljä</string>
+  <string name="description_image_button_fuhao_named_dial">Toissijainen puhelu</string>
   <string name="description_image_button_nine">yhdeksän</string>
   <string name="description_image_button_one">yksi</string>
   <string name="description_image_button_plus">plus</string>
@@ -523,10 +527,11 @@ Syy: %s"</string>
   <string name="group_sms_progress_msg">Ryhmitellään tekstiviestejä…</string>
   <string name="groupsLabel">Ryhmät</string>
   <string name="groups_list_empty">Ei ryhmiä</string>
-  <string name="help_url_people_add"/>
-  <string name="help_url_people_edit"/>
-  <string name="help_url_people_main"/>
-  <string name="hint_distance"/>
+  <string name="heduohao_fuhao_call_menu_title">Soita sub%d</string>
+  <string name="heduohao_fuhao_order">Sub%d</string>
+  <string name="heduohao_label">HeDuoHao</string>
+  <string name="heduohao_main_call_menu_title">Soita pää</string>
+  <string name="heduohao_popup_txt">Sub%d</string>
   <string name="hint_findContacts">Etsi yhteystietoja</string>
   <string name="hint_more_contact">Yhdistä yhteystietojen kopiot</string>
   <string name="hybrid_check_network">Verkon asetukset</string>
