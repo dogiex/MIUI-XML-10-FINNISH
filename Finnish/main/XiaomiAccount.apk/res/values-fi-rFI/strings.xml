@@ -79,14 +79,17 @@
   <string name="app_name">Mi Tili</string>
   <string name="auth_fail_warning">Istunto on vanhentunut, kirjaudu myöhemmin uudelleen</string>
   <string name="authorize_title">Valtuutus</string>
-  <string name="bind_facebook">Yhdistä Facebook Tilisi</string>
+  <string name="bind_facebook">Yhdistä Facebook-tilisi</string>
+  <string name="bind_google">Yhdistä Google-tilisi</string>
   <string name="bind_qq">QQ</string>
   <string name="bind_safe_phone_msg">Lisää puhelinnumerosi, jotta voit kirjautua sisään Mi Tilillesi seuraavalla kerralla.</string>
   <string name="bind_sina_weibo">Yhdistä Sina Weibo Tili</string>
   <string name="bind_sns_description">Kirjaudu sisään käyttäen %s</string>
   <string name="bind_weibo_description">Lisää ystäviäsi Sina Weibo:sta</string>
+  <string name="bind_weixin">Yhdistä WeChat-tilisi</string>
   <string name="binded">Yhdistetty</string>
-  <string name="binded_description" formatted="false">%s on yhdistettynä Mi Tiliisi. Profiilisi on päivitetty %s Tilistä saaduilla tiedoilla.</string>
+  <string name="binded_description" formatted="false">"%s on yhdistettynä Mi Tiliisi.
+Voit nyt kirjautua Mi Tilillesi käyttäen %s."</string>
   <string name="button_unbind">Katkaise</string>
   <string name="change_activate_email">Vaihda sähköpostiosoite</string>
   <string name="change_email_address">Vaihda sähköpostiosoite</string>
@@ -191,6 +194,7 @@ Lähetä tämä koodi valvojalle."</string>
   <string name="get_device_list_failed">Laitteita ei voitu hakea</string>
   <string name="get_phone_bind_exceed_limit">Voit liittää puhelinnumeroita enintään kolmelle Mi Tilille. Tilejä ei voi lisätä.</string>
   <string name="get_phone_verifycode_exceed_limit">Liian monta vahvistuskoodia on lähetetty tälle numerolle. Odota 24 tuntia ja yritä uudelleen.</string>
+  <string name="google">Google</string>
   <string name="guest_account_label">Mi Vierastili</string>
   <string name="i_agree">OK</string>
   <string name="i_agree_continue">Hyväksyn</string>
@@ -228,6 +232,7 @@ Lähetä tämä koodi valvojalle."</string>
   <string name="multi_user_not_show_sync_activity_message_2">Tällaisessa tapauksessa kaikki tiedot synkronoidaan Toisen tilasi kanssa. Tämän välttämiseksi, älä ota Mi Pilven synkronointia käyttöön.</string>
   <string name="multi_user_not_show_sync_activity_title">Älä ota Mi Pilven synkronointia käyttöön</string>
   <string name="my_device_title">Nykyinen laite</string>
+  <string name="need_install_wechat">Asenna ensin WeChat</string>
   <string name="no_network_btn">Päivitä</string>
   <string name="no_network_title">Verkkoyhteyttä ei voi muodostaa.</string>
   <string name="no_phone">Ei puhelinnumeroa</string>
@@ -534,5 +539,6 @@ Aktivoi tilisi seuraamalla
   <string name="user_avatar_uploading">Odota hetki…</string>
   <string name="vip_account_settings">VIP Asetukset</string>
   <string name="vip_settings_info">VIP asetukset</string>
+  <string name="weixin">WeChat</string>
   <string name="xiao_mi_vip">Mi VIP</string>
 </resources>

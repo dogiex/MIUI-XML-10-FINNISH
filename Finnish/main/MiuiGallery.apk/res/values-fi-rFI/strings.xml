@@ -1396,6 +1396,7 @@ mukauttaaksesi Galleriasi"</string>
   <string name="photo_editor_talkback_crop_16_9">Kuudentoista suhde yhdeksään</string>
   <string name="photo_editor_talkback_crop_1_1">Yhden suhde yhteen</string>
   <string name="photo_editor_talkback_crop_2_3">Kahden suhde kolmeen</string>
+  <string name="photo_editor_talkback_crop_3_2">Kolmen suhde kahteen</string>
   <string name="photo_editor_talkback_crop_3_4">Kolmen suhde neljään</string>
   <string name="photo_editor_talkback_crop_4_3">Neljän suhde kolmeen</string>
   <string name="photo_editor_talkback_crop_9_16">Yhdeksän suhde kuuteentoista</string>

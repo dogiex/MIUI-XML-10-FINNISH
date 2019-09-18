@@ -664,6 +664,7 @@ Operaattorisi saattaa veloittaa sinulta lisäkustannuksia jos otat mobiilidatan 
   <string name="deep_save_memory_clean_summary">Tyhjennä välimuisti, kun laite lukitaan estääksesi sovelluksia kuluttamasta akkua</string>
   <string name="deep_save_ontime_boot_shutdown_summary">Ajasta laitteen käynnistys ja sammutus</string>
   <string name="delete">Poista</string>
+  <string name="delete_all_sms">Poista kaikki</string>
   <string name="delete_from_manual_item_white_list">Poista poikkeuksista</string>
   <string name="delete_input">Poista</string>
   <string name="deleted_apps">Poistetut sovellukset</string>
@@ -2057,6 +2058,7 @@ jonka määritit manuaalisesti (%2$s). Vaihdetaanko SIM-kortin sijainniksi %3$s?
   <string name="sms_blacklist">Tekstiviestien estolista</string>
   <string name="sms_cloud_block">Pilven estolista</string>
   <string name="sms_contact_block">Estä tekstiviestit yhteystiedoilta</string>
+  <string name="sms_delete_all_hint">Poistetaanko kaikki viestit nyt?</string>
   <string name="sms_delete_hint">Poistetaanko kaikki estetyt viestit tästä numerosta?</string>
   <string name="sms_delete_title">Poista viestit</string>
   <string name="sms_detail_correct_success_text">Tässä on edellisen kalibroinnin (%1$s) datan käyttötilastot:</string>

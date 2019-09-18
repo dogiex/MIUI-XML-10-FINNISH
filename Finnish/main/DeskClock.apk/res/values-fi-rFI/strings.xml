@@ -49,8 +49,11 @@
   <string name="timer_running">Ajastin on käynnissä</string>
   <string name="timer_start_timer">Käynnistä ajastin</string>
   <string name="worldclock_input_hint_text">Hae maata tai kaupunkia</string>
+  <string name="worldclock_resident_city_text">Toinen kello: %s</string>
+  <string name="worldclock_resident_city_text_detail">Kaksoiskello on käytössä</string>
   <string name="worldclock_search_city">Valitse kaupunki</string>
   <string name="worldclock_world_time">Aikavyöhykkeet</string>
+  <string name="worldcolock_date_display_prefix">Nykyinen: </string>
   <string name="worldcolock_timezone_current">Nykyinen: %1$s</string>
   <string name="worldcolock_timezone_date">d.M.</string>
   <string name="worldcolock_timezone_gap">%s T</string>
@@ -131,6 +134,7 @@
   <string name="done">Valmis</string>
   <string name="dynamic_alarm_speech">Älykäs hälytys</string>
   <string name="edit_systemtime">Muokkaa järjestelmän aikaa</string>
+  <string name="edit_systemtime_setting_summary">Päivämäärä, aika ja Kaksoiskello</string>
   <string name="elapsed_time_format">+%s</string>
   <string name="every_day">Joka päivä</string>
   <string name="expired_timers_dismissed">Hylättiin ajastin onnistuneesti</string>
@@ -219,8 +223,8 @@
   <string name="shortcut_start_timer">Käynnistä ajastin</string>
   <string name="shortcut_stop_watch">Käynnistä sekuntikello</string>
   <string name="shut_down_keep_screen">Näyttöä ei pidetä päällä</string>
-  <string name="shutdown_alarm_disable_summary">Hälytys ei soi, kun laite sammutetaan</string>
-  <string name="shutdown_alarm_enable_summary">Hälytys soi, jos se on asetettu vähintään 5 minuuttia laitteesi sammuttamisen jälkeen</string>
+  <string name="shutdown_alarm_disable_summary">Hälytys ei soi, kun laite on sammutettu</string>
+  <string name="shutdown_alarm_enable_summary">Hälytys soi, jos se on asetettu vähintään 10 minuutin päähän laitteesi sammuttamisesta</string>
   <string name="shutdown_alarm_title">Sammutetun laitteen hälytys</string>
   <string name="silent_alarm_summary">Äänetön</string>
   <string name="skip_alarm_once_hint">Poista käytöstä kerran: %s</string>

@@ -16,6 +16,8 @@
   <string name="channel_downloading">Lataaminen kesken</string>
   <string name="channel_update">Uusi versio saatavilla</string>
   <string name="check_new_version">Tarkista</string>
+  <string name="default_filedownloader_notification_content">FileDownloader on käynnissä.</string>
+  <string name="default_filedownloader_notification_title">FileDownloader</string>
   <string name="dialog_3g_desc">Huomioithan, että käyttämällä mobiilidataa ROM:ien lataamiseen saattaa viedä suuren osan datapaketistasi.</string>
   <string name="dialog_3g_title">Varoitus!</string>
   <string name="dialog_btn_3g">Jatka siitä huolimatta</string>

@@ -1,5 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="April">Huhtikuu</string>
+  <string name="August">Elokuu</string>
+  <string name="December">Joulukuu</string>
+  <string name="February">Helmikuu</string>
+  <string name="January">Tammikuu</string>
+  <string name="July">Heinäkuu</string>
+  <string name="June">Kesäkuu</string>
+  <string name="March">Maaliskuu</string>
+  <string name="May">Toukokuu</string>
+  <string name="November">Marraskuu</string>
+  <string name="October">Lokakuu</string>
+  <string name="September">Syyskuu</string>
+  <string name="Updated_at">"Päivitetty: "</string>
   <string name="abc_action_bar_home_description">Siirry etusivulle</string>
   <string name="abc_action_bar_up_description">Siirry ylös</string>
   <string name="abc_action_menu_overflow_description">Lisää</string>
@@ -88,6 +101,7 @@
   <string name="available_playlist_name_format">Uusi soittolista %d</string>
   <string name="avoid_to_use_traffic_summary">Älä käytä mobiilidata-yhteyttä musiikin suoratoistoon</string>
   <string name="avoid_to_use_traffic_title">Näytä ponnahdusikkuna, kun käytät mobiilidataa kappaleiden soittamiseen</string>
+  <string name="back">Takaisin</string>
   <string name="back_confirm">Siirrä sovellus taustalle napauttamalla uudelleen</string>
   <string name="banner_op">Mi Musiikki</string>
   <string name="bluetooth_device">Bluetooth äänilaite</string>
@@ -359,15 +373,22 @@
   <string name="hide_lyric">Piilota sanoitukset</string>
   <string name="higher_quality_music">Korkea äänenlaatu</string>
   <string name="higher_quality_music_summary">Suoratoista ja lataa korkeamman bitraten tiedostoja</string>
+  <string name="home_tab_joox">JOOX Musiikki</string>
   <string name="home_tab_local">Musiikkini</string>
   <string name="home_tab_online">Online-musiikki</string>
+  <string name="home_tab_yandex">Yandex Musiikki</string>
   <string name="hot_icon_in_fast_indexer">H</string>
   <string name="hungama">Hungama</string>
   <string name="hungama_batch_download_alert_summary">Vain PRO-jäsenet voi ladata useita kappaleita. Hankitaanko PRO-jäsenyys nys?</string>
+  <string name="hungama_category_chart">Lista</string>
   <string name="hungama_category_playlist">Soittolista</string>
   <string name="hungama_category_radio">Radio</string>
   <string name="hungama_category_video">Video</string>
   <string name="hungama_free_download_out_summary">Et voi ladata enempää ilmaisia kappaleita. Hankitaanko PRO-jäsenyys ladataksesi rajattoman määrän kappaleita?</string>
+  <string name="hungama_playlist_category">Soittolistakategoria</string>
+  <string name="hungama_privacy_desc">Hungaman Tietosuojakäytäntö (valinnainen)</string>
+  <string name="hungama_privacy_tips_content">Käyttääksesi online-sisältöä, sinun täytyy hyväksyä Hungaman Tietosuojakäytäntö.</string>
+  <string name="hungama_privacy_tips_title">Hungaman Tietosuojakäytäntö</string>
   <string name="hungama_pro">Hungama Pro</string>
   <string name="hungama_subscribe_message">Osta PRO-jäsenyys lataaksesi korkealaatuista musiikkia.</string>
   <string name="hungama_subscribe_positive_button">Osta PRO-jäsenyys</string>
@@ -510,14 +531,29 @@
   <string name="nowplaying_dialog_title_delete_tracks">Poistetaanko tämä kappale jonosta?</string>
   <string name="nowplaying_menu_item_delete">Poista jonosta</string>
   <string name="ok">OK</string>
+  <string name="online_apk_acquired">Ladattu %d%%</string>
+  <string name="online_apk_acquiring">Ladataan… %d%%</string>
   <string name="online_apk_download_error_no_enough_space">Ei voitu ladata liian vähäisen tallennustilan vuoksi.</string>
   <string name="online_apk_downloading">Ladataan… %d %%</string>
   <string name="online_apk_install_alert_confirm">Lataa</string>
+  <string name="online_apk_install_alert_continue">Jatka</string>
+  <string name="online_apk_install_alert_failed_text">Ei voitu ladata. Yritä uudelleen.</string>
   <string name="online_apk_install_alert_message">Sinun täytyy ladata Yandex.Music liitännäinen. Ladataanko nyt?</string>
+  <string name="online_apk_install_alert_mobile_net_text">Käytät tällä hetkellä mobiilidataa. Mobiilidatan käyttäminen kohteiden lataamiseen voi lisätä maksuja.</string>
   <string name="online_apk_install_alert_note">Tämän palvelun tarjoaa Yandex.Music</string>
+  <string name="online_apk_install_alert_note_new">Online-sisällön tarjoaa %s</string>
+  <string name="online_apk_install_alert_pause">Pysäytä</string>
+  <string name="online_apk_install_alert_retry">Yritä uudelleen</string>
+  <string name="online_apk_install_alert_start">Aloita</string>
+  <string name="online_apk_install_completed">Online-sisältö ladattiin onnistuneesti. Napauta %s katsoaksesi.</string>
   <string name="online_apk_install_error_no_enough_space">Ei voitu asentaa liian vähäisen tallennustilan vuoksi.</string>
   <string name="online_apk_install_error_with_reason">Ei voitu asentaa (Virhe %d)</string>
+  <string name="online_apk_install_failed_with_reason" formatted="false">Online-sisältöä ei voitu ladata. Napauta %s yrittääksesi uudelleen. Virhekoodi: %d.</string>
+  <string name="online_apk_install_in_background">Ladataan online-sisältöä taustalla…</string>
+  <string name="online_apk_install_network_change_paused">Käytät mobiilidataa. Kohteiden lataaminen pysäytettiin. Napauta %s katsoaksesi.</string>
+  <string name="online_apk_install_network_error">Verkkoyhteyttä ei voitu muodostaa. Tarkista verkkoasetuksesi ja yritä uudelleen.</string>
   <string name="online_list_delete_message">Tämän soittolistan kaikki ladatut kappaleet poistetaan sisäiseltä tallennustilalta.</string>
+  <string name="online_playlist_category">Soittolistat</string>
   <string name="online_recommend">Soittolista</string>
   <string name="online_service_open_tip">Online musiikkipalvelut on käytössä</string>
   <string name="online_service_title">Online palvelut</string>
@@ -556,6 +592,7 @@
   <string name="play_video_with_traffic">JATKA</string>
   <string name="play_video_with_traffic_toast">Käytät nyt mobiilidataa.</string>
   <string name="playlist_empty">Soittolistoja ei löytynyt.</string>
+  <string name="playlist_recommend_title">Suosittele</string>
   <string name="playlist_title">Soittolistan nimi</string>
   <string name="playlist_title_is_empty">Soittolistan nimi ei voi olla tyhjä</string>
   <string name="playlist_title_is_invalid">Soittolista on jo olemassa</string>
@@ -609,6 +646,8 @@ Ole onnellinen"</string>
   <string name="save_changes">Tallenna muutokset</string>
   <string name="search_album_and_lyric">Hae albumien kansikuvia ja sanoituksia</string>
   <string name="search_empty">Ei tulosta. Kokeile toisia sanoja</string>
+  <string name="search_empty_subtitle_online_music">Napauta alla olevaa painiketta avataksesi %s.</string>
+  <string name="search_empty_title_online_music">Täällä ei ole kohteita vielä.</string>
   <string name="search_for_album">Albumi</string>
   <string name="search_for_artist">Artisti</string>
   <string name="search_hint">Hae artisteja, kappaleita, albumeja ja suosituksia</string>
@@ -730,6 +769,8 @@ Ole onnellinen"</string>
   <string name="toast_not_pro">Tämä ominaisuus on käytettävissä vain PRO-jäsenillä.</string>
   <string name="toast_uhd_songs_for_download">Latauksen laatu asetettu korkealle</string>
   <string name="toast_uhd_songs_for_stream">Suoratoiston laatu asetettu korkealle</string>
+  <string name="today">Tänään</string>
+  <string name="top_chart_title">Listat</string>
   <string name="ultra_high_quality">Korkein</string>
   <string name="unknown_album_name">Tuntematon albumi</string>
   <string name="unknown_artist_name">Tuntematon artisti</string>

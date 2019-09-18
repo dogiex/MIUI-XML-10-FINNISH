@@ -306,6 +306,9 @@
   <string name="confirm_send_message_with_no_body">Viestin runko-osassa ei ole tekstiä.</string>
   <string name="confirm_send_message_with_no_subject">Viestin aiherivillä ei ole tekstiä.</string>
   <string name="confirm_send_title">Lähetetäänkö viesti?</string>
+  <string name="contact_add_options">Lisää yhteystietoihin</string>
+  <string name="contact_add_options_details1">Kaikki</string>
+  <string name="contact_add_options_details2">Vain vastaanottajat</string>
   <string name="contact_edit_set_black_list_from">Siirrä kaikki sähköpostit tältä henkilöltä Roskakoriin</string>
   <string name="contact_edit_set_black_list_receive">Siirrä sähköpostit tältä henkilöltä Roskakoriin (vain uudet sähköpostit)</string>
   <string name="contact_edit_set_black_list_receive_summary">Poista sähköpostit tältä henkilöltä, joka löytyy Vastaanottajan tai Cc kentistä</string>
@@ -455,8 +458,8 @@
   <string name="failed">Kuvan lataus epäonnistui</string>
   <string name="failed_parse_eml_file">EML-tiedostoa ei voitu avata, yritä uudelleen.</string>
   <string name="failed_read_phone_state_permission">Salli pääsy laitteen tilaan</string>
-  <string name="failed_read_write_calendar_permission">Salli pääsy Kalenteriin</string>
-  <string name="failed_read_write_contacts_permission">Salli pääsy Yhteystietoihin</string>
+  <string name="failed_read_write_calendar_permission">Kalenterin käyttöoikeus on rajoitettu</string>
+  <string name="failed_read_write_contacts_permission">Yhteystietojen käyttöoikeus on rajoitettu</string>
   <string name="feedback">Lähetä palautetta</string>
   <string name="feedback_body">Viesti</string>
   <string name="feedback_sent">Kiitos palautteestasi</string>
@@ -538,6 +541,7 @@
   <string name="general_preference_text_zoom_tiny">Pikkuruinen</string>
   <string name="generic_attachment_problem">Tiedostoa ei voi liittää.</string>
   <string name="get_database_exception">Tyhjennä tämän sovelluksen tiedot paikassa Asetukset &gt; Järjestelmäsovellukset ja yritä uudelleen.</string>
+  <string name="get_oauth_code">Hanki koodi</string>
   <string name="gmail_acceleration">Käytä Gmail-tilille välityspalvelinta</string>
   <string name="gmail_login_confirm_to_use_proxy">Käytetäänkö Gmail-tilille välityspalvelinta?</string>
   <string name="gmail_login_failed_non_proxy_title">Gmail-palvelimelle ei päästy</string>
@@ -550,6 +554,7 @@
   <string name="header_label_general_preferences">Yleistä</string>
   <string name="help_and_info">Ohje</string>
   <string name="help_me_get_qq_auth">Hanki QQ-koodi</string>
+  <string name="help_weixin_title">"Jos sinulla on kysyttävää, lähetä meille viestiä virallisessa WeChat-tilillemme: "</string>
   <string name="hide_elided">▼ Piilota lainattu teksti</string>
   <string name="hide_password">Piilota salasana</string>
   <string name="hierarchical_folder_parent_top">%1$s∕%2$s∕</string>
@@ -585,6 +590,7 @@
   <string name="login_failed_ticker">Kirjautuminen tiliin %s epäonnistui.</string>
   <string name="login_failed_title">Kirjautuminen ei onnistu</string>
   <string name="login_mail">Kirjaudu sisään</string>
+  <string name="login_qq_psw">Kirjaudu sisään käyttäen QQ-salasanaa/autentikaattori/vahvistuskoodia</string>
   <string name="login_support_tip_text">Tukee kaikkia yleisimpiä sähköpostitilejä</string>
   <string name="long_press_to_select_tip">Valitse yksi keskustelu koskettamalla sitä pitkään ja valitse sitten lisää keskusteluja koskettamalla niitä.</string>
   <string name="long_string">pitkäääääääääääääääääääääääääääääääääääääääääääääääääääääääääääääääääääääääääääääääääääääääääääääääääääääääääääääääääääääääääääääää</string>
@@ -696,6 +702,8 @@
   <string name="message_invite_title">Kalenterikutsu</string>
   <string name="message_saved">Viesti tallennettu luonnokseksi.</string>
   <string name="message_view_attachment_background_load">Liitetiedostot välitetyssä viestissäsi ladataan ensin ennen niiden lähetystä.</string>
+  <string name="mi_sync_erroe_toast">"Tapahtui verkkovirhe: "</string>
+  <string name="mi_sync_erroe_toast_other">"Tapahtui palvelinvirhe: "</string>
   <string name="mibill_privacy_policy_button1">Myöhemmin</string>
   <string name="mibill_privacy_policy_button2">Hyväksy</string>
   <string name="mibill_privacy_policy_description">Salli Mi Lompakon tutkia ja hallita laskujasi automaattisesti. Tämä toiminto on oletuksena pois käytöstä työhön liittyvissä sähköpostiosoitteissa.</string>
@@ -730,8 +738,10 @@ Kokeile vaihtaa toiseen sähköpostitiliin."</string>
   <string name="no_filtrable_email_account">Ei suodatettavia tilejä</string>
   <string name="no_mails">Ei sähköpostia.</string>
   <string name="no_matched_attachment">Ei hakutuloksia.</string>
+  <string name="no_more_mail">Ei enempää viestejä</string>
   <string name="no_recognize_describe">"Lippuja tai varauksia sisältäviä sähköposteja ei löytynyt.
 Kokeile toista postilaatikkoa."</string>
+<string name="no_search_results">Tuloksia ei löytynyt</string>
   <string name="not_subject">(Ei otsikkoa)</string>
   <string name="not_synced_title">Tiliä ei ole synkronoitu</string>
   <string name="note_text">China Mobile -verkon kautta ja tekstiviestivahvistuksella tämä lisää vain tiedonsiirtoa. Tekstiviestiveloituksia ei tule.</string>
@@ -872,7 +882,7 @@ vastaanottaaksesi muistutuksia maksuista ja matkoista"</string>
   <string name="preview_attachment">Esikatsele</string>
   <string name="previous_action">Takaisin</string>
   <string name="print">Tulosta</string>
-  <string name="print_scheduler_title">Tulostuksen ajastaminen</string>
+  <string name="print_scheduler_title">Tulosta kaikki aikataulut</string>
   <string name="privacy_des">Lokitiedot sisältävät vianhakutiedot sähköpostisovelluksestasi ja laitteesi tiedoista. Näitä tietoja käytetään ongelmien nopeampaan paikantamiseen. Napauttamalla alla olevaa \"%1$s\", hyväksyt meidän \"%2$s\".</string>
   <string name="privacy_policy">Tietosuojakäytäntö</string>
   <string name="prompt_title">Ilmoitus</string>
@@ -881,6 +891,7 @@ vastaanottaaksesi muistutuksia maksuista ja matkoista"</string>
   <string name="protocol_legacy_imap">imap</string>
   <string name="protocol_pop3">pop3</string>
   <string name="protocol_setting_toast">Napauta oikeaa yläkulmaa mennäksesi asetuksiin hyväksymisen jälkeen</string>
+  <string name="pull_load_more">Vedä ylhäältä ladataksesi lisää</string>
   <string name="pull_to_refresh">Päivitä vetämällä alas</string>
   <string name="push_wps_better_confirm_download">Lataa</string>
   <string name="push_wps_better_confirm_exit">Ei nyt</string>
@@ -982,7 +993,7 @@ vastaanottaaksesi muistutuksia maksuista ja matkoista"</string>
   <string name="recognize_ticket_train_return">Palautettiin</string>
   <string name="recognize_ticket_train_user_name">Matkustaja: %1$s</string>
   <string name="recognize_title">Matkustustiedot</string>
-  <string name="recommend_protocal">Suosituksen protokolla</string>
+  <string name="recommend_protocal">Suosituksenkäyttöprotokolla</string>
   <string name="reduce_the_receiving_frequencye_summary">Synkronoi postilaatikko harvemmin, kun Älä Häiritse on käytössä</string>
   <string name="reduce_the_receiving_frequencye_title">Synkronoi harvemmin</string>
   <string name="refresh">Päivitä</string>
@@ -990,6 +1001,9 @@ vastaanottaaksesi muistutuksia maksuista ja matkoista"</string>
   <string name="refreshing_done">Valmis</string>
   <string name="release_to_refresh">Päivitä vapauttamalla</string>
   <string name="remind_attachment_size_limit">Sähköpostisi tulisi olla alle %s Mt</string>
+  <string name="remote_no_mail">Palvelimella ei ole enempää sähköposteja.</string>
+  <string name="remote_search_body_too_large_prompt">"Tämä sähköposti on liian pitkä.
+Odota kunnes se on kokonaan synkronoitu tai katso viesti tietokoneellasi."</string>
   <string name="remove_account">Poista tili</string>
   <string name="remove_folder">Poista kansiosta %1$s</string>
   <string name="remove_star">Poista tähti</string>
@@ -1015,6 +1029,7 @@ vastaanottaaksesi muistutuksia maksuista ja matkoista"</string>
   <string name="sdcard_cannot_use">SD-korttia ei voi käyttää</string>
   <string name="search_bar_text">Hae lähettäjiä tai yhteystietoja</string>
   <string name="search_hint">Hae sähköposteja</string>
+  <string name="search_remote_again">Verkko ei käytettävissä, napauta Yritä uudelleen</string>
   <string name="search_result">"Hakutulokset "</string>
   <string name="search_tabs_name_all">Kaikki</string>
   <string name="search_tabs_name_recipient">Vastaanottaja</string>
@@ -1095,6 +1110,7 @@ vastaanottaaksesi muistutuksia maksuista ja matkoista"</string>
   <string name="sync_contacts_req_per_ignored">Synkronoidaksesi salli Sähköpostin käyttää yhteystietojasi</string>
   <string name="sync_error">Synkronointi epäonnistui.</string>
   <string name="sync_error_message">Laitteessa ei ole tarpeeksi tallennustilaa synkronointiin.</string>
+  <string name="sync_failed_mi_authority_view_detail">Näytä tiedot</string>
   <string name="syncing_wait_restart">Yritä uudelleen</string>
   <string name="syncing_wait_restart_title">Palvelimen yhteys aikakatkaistiin</string>
   <string name="system_account_create_failed">Tiliä ei voitu luoda. Yritä uudelleen.</string>
@@ -1120,7 +1136,8 @@ vastaanottaaksesi muistutuksia maksuista ja matkoista"</string>
   <string name="toast_bar_no_connection_network">Sinulla ei ole internet-yhteyttä</string>
   <string name="toast_bar_open_gmail_synchronization">Gmailiin yhdistäminen epäonnistui. Ota Gmailin välityspalvelin käyttöön.</string>
   <string name="toast_bar_send_fail_remind">Sähköpostia ei voitu lähettää. Sähköposti tallennettiin \"Lähtevät\" kansioon.</string>
-  <string name="toast_bar_sync_failed_mi_authority">Ei voitu synkronoida. Odota minuutti tai kaksi ja yritä uudelleen. Jos olet kirjautumassa ensimmäistä kertaa, vahvista laitteesi intranetin/tekstiviestin avulla.</string>
+  <string name="toast_bar_sync_failed_mi_authority">"Ei voitu synkronoida. Odota minuutti tai kaksi ja yritä uudelleen. Katso tiedot.
+(Jos käytät valtuuttamatonta laitetta, yhdistä intranetiin tai käytä vahvistuskoodia.)"</string>
   <string name="toastbar_calendar_and_contacts_permission_switch_close">Synkronoidaksesi kalenteritiedot ja yhteystiedot, anna Sähköpostille tarvittavat käyttöoikeudet Asetuksissa</string>
   <string name="toastbar_calendar_permission_switch_close">Saadaksesi kalenterimuistutuksia, anna Sähköpostille tarvittavat käyttöoikeudet Asetuksissa</string>
   <string name="toastbar_contacts_permission_switch_close">Lisätäksesi yhteystietoja, anna Sähköpostille tarvittavat käyttöoikeudet Asetuksissa</string>
@@ -1153,8 +1170,8 @@ Poistetaanko tili?"</string>
   <string name="unread_string">keskustelua ei ole luettu</string>
   <string name="unzip_file_failed">Tiedoston purkaminen epäonnistui</string>
   <string name="update_date_format_templete">HH:mm, d.M.</string>
-  <string name="update_domain_summary">Päivitä verkkotunnusluettelo ja määritykset</string>
-  <string name="update_domain_title">Päivitä verkkotunnus</string>
+  <string name="update_domain_summary">Päivitä käytettävien verkkotunnusten ja määritysten luettelo</string>
+  <string name="update_domain_title">Päivitä verkkotunnusasetukset</string>
   <string name="updated_at">Päivitetty viimeksi %1$s</string>
   <string name="upload_log">Lähetä</string>
   <string name="upload_log_failed">Lokitiedostojen lähettäminen epäonnistui</string>

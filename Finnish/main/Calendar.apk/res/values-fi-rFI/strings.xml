@@ -93,8 +93,7 @@
   <string name="birthday_notification_type_term_lunar"/>
   <string name="birthday_saved">Syntymäpäivä tallennettu</string>
   <string name="birthday_term">Syntymäpäivä</string>
-  <string name="book_card_free">免费</string>
-  <string name="book_card_rating_text">|   %1$s 条评论</string>
+  <string name="birthday_term_chinese_calendar">Henkilön %1$s syntymäpäivä (Perinteinen kiinalainen kalenteri)</string>
   <string name="can_not_create_long_event">Tapahtuman nimi on liian pitkä</string>
   <string name="can_not_modify_allday_event">Koko päivän tapahtumaa ei voida muokata</string>
   <string name="can_not_modify_event">Tapahtumaa ei voida muokata</string>
@@ -113,6 +112,7 @@
   <string name="chips_action_copy">Kopioi</string>
   <string name="chips_permission_text">Salli yhteystietojen ehdotukset</string>
   <string name="close_alarm">Poista käytöstä</string>
+  <string name="content_confirm_close_chinese_calendar">Kaikki tapahtumasi, jotka perustuvat Perinteiseen kiinalaiseen kalenteriin muunnetaan Gregoriaaniseen kalenteriin, kun poistat tämän ominaisuuden käytöstä. Gregoriaanisen vuosia ja kuukausia käytetään toistuvissa tapahtumissa.</string>
   <string name="copy_email">Kopioi sähköpostiosoite</string>
   <string name="copy_number">Kopioi puhelinnumero</string>
   <string name="countdown_event_title">Laskenta: %1$s</string>
@@ -279,6 +279,7 @@
   <string name="local_owner_account_name">Tallennetaan tähän laitteeseen</string>
   <string name="login_failed_toast">Kirjautuminen epäonnistui, päivitä ja yritä uudelleen</string>
   <string name="lunar_date">Lunar date</string>
+  <string name="lunar_to_solar_chinese_calendar">Kiinalaisesta Gregoriaaniseen</string>
   <string name="match_select_activity_label">Liigat</string>
   <string name="menu_general_preferences">Yleiset asetukset</string>
   <string name="menu_reminder_preferences">Muistutukset</string>
@@ -455,6 +456,7 @@ Tarkista verkkoyhteys ja yritä uudelleen."</string>
   <string name="setting_about_miui_version">MIUI versio:</string>
   <string name="setting_about_summary">Versio:</string>
   <string name="setting_accounts">Kalenterin tilit</string>
+  <string name="setting_chinese_calendar">Kiinalainen kalenteri</string>
   <string name="setting_daysoff_no_update">Juhlapyhien tiedot ovat ajan tasalla.</string>
   <string name="setting_daysoff_update">Päivitä juhlapyhien tiedot</string>
   <string name="setting_daysoff_update_cta_cancel">Salli Kalenterin yhdistää ensin internetiin</string>
@@ -470,7 +472,13 @@ Tarkista verkkoyhteys ja yritä uudelleen."</string>
   <string name="share_not_install_wechat">Asenna wechat.</string>
   <string name="share_not_install_weibo">Asenna weibo.</string>
   <string name="share_title">Jaa</string>
+  <string name="shortcut_new_event">Lisää tapahtuma</string>
+  <string name="shortcut_next_agenda">Seuraava tapahtuma</string>
+  <string name="shortcut_settings">Asetukset</string>
   <string name="show_day_view">Näytä päivä</string>
+  <string name="solar_lunar_convert_description">Gregoriaanisesta Perinteiseksi kiinalaiseksi</string>
+  <string name="solar_lunar_convert_tab">Muunna</string>
+  <string name="solar_to_lunar_chinese_calendar">Gregoriaanisesta Kiinalaiseksi</string>
   <string name="start_date_calculate">Laske</string>
   <string name="subscribe_card">Tilaa nyt</string>
   <string name="subscribe_card_success">Tilattiin onnistuneesti! Tarkista tiedot kotisivulta.</string>
@@ -490,6 +498,7 @@ Voit myös lisätä muistutuksia, jotta et menetä mitään tärkeää."</string
   <string name="template_announce_item_index">Tapahtuma %1$s / %2$s.</string>
   <string name="time_zone">Aikavyöhyke</string>
   <string name="timezone_label">Aikavyöhyke</string>
+  <string name="title_confirm_close_chinese_calendar">Poistetaan Kiinalainen kalenteri käytöstä</string>
   <string name="today">Tänään</string>
   <string name="today_at_time_fmt">Tänään klo %s</string>
   <string name="today_icon_voice_contentdescription">Takaisin tähän päivään</string>

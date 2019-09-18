@@ -271,7 +271,9 @@
   <string name="status_bar_back">Palaa takaisin Ääninauhuriin napauttamalla</string>
   <string name="status_bar_recording">Nauhoitetaan…</string>
   <string name="status_bar_recording_pause">Nauhoitus pysäytetty</string>
+  <string name="text_btn_backward_3_seconds">3 sekuntia takaisin</string>
   <string name="text_btn_complete">Lopeta</string>
+  <string name="text_btn_forward_3_seconds">3 sekuntia eteenpäin</string>
   <string name="text_btn_list">Nauhoitukset</string>
   <string name="text_btn_mark">Merkitse</string>
   <string name="text_btn_pause">Pysäytä</string>
@@ -281,6 +283,10 @@
   <string name="text_btn_recording">Nauhoita</string>
   <string name="text_btn_wave">Aalto</string>
   <string name="text_finish">Vahvista</string>
+  <string name="text_play_speed_0_5">0.5X toistonopeus</string>
+  <string name="text_play_speed_1_0">Normaali toistonopeus</string>
+  <string name="text_play_speed_1_5">1.5X toistonopeus</string>
+  <string name="text_play_speed_2_0">2X toistonopeus</string>
   <string name="timer_format" formatted="false">%02d:%02d</string>
   <string name="timer_format_three_sections" formatted="false">%02d:%02d:%02d</string>
   <string name="toast_max_record_time">%1$s voi nauhoittaa noin %2$s</string>

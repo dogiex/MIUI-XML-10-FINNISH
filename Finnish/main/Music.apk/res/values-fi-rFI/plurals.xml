@@ -48,6 +48,10 @@ yhteensä %2$d kappale"</item>
         <item quantity="other">%d kommenttia</item>
         <item quantity="one">%d kommentti</item>
     </plurals>
+    <plurals name="days_ago">
+        <item quantity="other">%d päivää sitten</item>
+        <item quantity="one">päivä sitten</item>
+    </plurals>
     <plurals name="dialog_confirm_delete_downloads_message">
         <item quantity="other">Poistetaanko %d kohdetta?</item>
         <item quantity="one">Poistetaanko %d kohde?</item>

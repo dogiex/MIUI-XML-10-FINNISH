@@ -827,6 +827,8 @@ Varmista, että laite esittää tämän koodin:
   <string name="bluetooth_devices">Bluetooth-laitteet</string>
   <string name="bluetooth_disable_absolute_volume">Poista yleinen äänenvoimakkuuden säätö käytöstä</string>
   <string name="bluetooth_disable_absolute_volume_summary">Bluetoothin yleinen äänenvoimakkuuden säätö poistetaan käytöstä ongelmien välttämiseksi esimerkiksi silloin, kun laitteen äänenvoimakkuus on liian kova tai sitä ei voi säätää.</string>
+  <string name="bluetooth_disable_inband_ringing">Poista kaistan sisäinen soitto käytöstä</string>
+  <string name="bluetooth_disable_inband_ringing_summary">Älä toista mukautettuja puhelimen soittoääniä Bluetooth-kuulokkeilla</string>
   <string name="bluetooth_disable_profile_message">"Tämä poistaa profiilin
 %1$s
 
@@ -1437,6 +1439,7 @@ Voit jatkaa puhelimesi käyttöä, kun palautat tehdasasetukset. Kun olet määr
   <string name="current_zone">(nykyinen)</string>
   <string name="custom_carrier_title">Muokkaa operaattorin nimeä</string>
   <string name="custom_wifi_name_title">Muokkaa Wi-Fin nimeä</string>
+  <string name="customize_function">Käytettävissä olevat kuviot</string>
   <string name="cutout_mode_always">Näytä näyttölovi aina</string>
   <string name="cutout_mode_default">Automaattinen</string>
   <string name="cutout_mode_settings_title">Jotkut sovellukset saattavat esiintyä väärin, jos mukautat näyttöloven esiintymismuotoa.</string>
@@ -2283,10 +2286,22 @@ Varmuuskopioita ei vähennetä Drive-tallennustilan kiintiöstäsi. Suuria ja ke
   <string name="game_controller_settings_category">Peliohjaimet</string>
   <string name="game_mode_settings">Pelitila</string>
   <string name="game_storage_settings">Pelit</string>
-  <string name="gesture_preference_summary">Puhelin ohjaamisen pikaeleet</string>
+  <string name="gesture_c">C-kuvio</string>
+  <string name="gesture_m">M-kuvio</string>
+  <string name="gesture_open_alipay">Avaa Alipay</string>
+  <string name="gesture_open_camera">Avaa Kamera</string>
+  <string name="gesture_open_music">Avaa Musiikki</string>
+  <string name="gesture_open_wechat">Avaa WeChat</string>
+  <string name="gesture_preference_summary">Pikaeleet hallitaksesi puhelintasi</string>
   <string name="gesture_preference_title">Liikkeet</string>
+  <string name="gesture_prevent_ringing_screen_title">Estä soitto</string>
+  <string name="gesture_prevent_ringing_sound_title">Oikotie soiton estämiseen</string>
+  <string name="gesture_prevent_ringing_title">Paina Virta &amp; Äänenvoimakkuus Ylös yhtäaikaa</string>
   <string name="gesture_setting_off">Ei käytössä</string>
   <string name="gesture_setting_on">Käytössä</string>
+  <string name="gesture_w">W-kuvio</string>
+  <string name="gesture_wakeup_title">Tuplanapauta näyttöä herättääksesi</string>
+  <string name="gesture_z">Z-kuvio</string>
   <string name="getConfiguredNetworks">getConfiguredNetworks</string>
   <string name="getConnectionInfo">getConnectionInfo</string>
   <string name="giga_hertz">GHz</string>
@@ -3018,6 +3033,11 @@ Tällä laitteella on muita paikalla olevia käyttäjiä.
   <string name="miui_allow_vibrate">Värinät</string>
   <string name="miui_data_usage_menu_metered">Mobiili hotspotit</string>
   <string name="miui_experience_optimization">Ota MIUI optimointi käyttöön</string>
+  <string name="miui_input_method_settings">Syöttötavan asetukset</string>
+  <string name="miui_lab_3d_gesture_desc">Avaa Aloitusnäyttö ja piirrä puhelimellasi ilmaan yksi kuvioistasi avataksesi valittuja sovelluksia</string>
+  <string name="miui_lab_3d_gesture_slogan">Piirrä puhelimellasi ilmaan kuvio avataksesi sovelluksen</string>
+  <string name="miui_lab_3d_gesture_summary">Piirrä puhelimellasi ilmaan kuvio avataksesi sovelluksen</string>
+  <string name="miui_lab_3d_gesture_title">3D-kuviot</string>
   <string name="miui_ime_xiaoai_voice_hint">Nopeampi ja mukavampi tapa syöttää tekstiä</string>
   <string name="miui_ime_xiaoai_voice_title">Mi AI-äänisyöttö</string>
   <string name="miui_lab_ai_cloud_closed">AI-ennakkolataus ei ole vielä käytettävissä.</string>
@@ -3031,6 +3051,8 @@ Tällä laitteella on muita paikalla olevia käyttäjiä.
   <string name="miui_lab_gallery_search_title">Löydä kuvia Galleriassa</string>
   <string name="miui_lab_gesture_desc">Käytä navigointiin eleitä painikkeiden sijaan</string>
   <string name="miui_lab_gesture_title">Kokonäytön eleet</string>
+  <string name="miui_lab_home_feed_desc">Hyviä ideoita. Kiinnostavia tarinoita.</string>
+  <string name="miui_lab_home_feed_title">Media Center</string>
   <string name="miui_lab_install_drive_mode_error">Ei voitu asentaa, yritä uudelleen.</string>
   <string name="miui_lab_install_drive_mode_summary">Autotila on järjestelmäsovellus. Asentaminen ei vaadi internetyhteyttä.</string>
   <string name="miui_lab_install_drive_mode_title">Asenna Autotila</string>
@@ -5096,6 +5118,7 @@ Nopeampi ^1 voi toimia tehokkaammin."</string>
   <string name="support_account_picker_add_account">Lisää tili</string>
   <string name="support_account_request_prefix">Pyytäjä</string>
   <string name="support_country_format">%1$s – %2$s</string>
+  <string name="support_gesture_title">3D-kuviot</string>
   <string name="support_country_list_title">Tuki:</string>
   <string name="support_disclaimer_do_not_show">Älä näytä uudelleen</string>
   <string name="support_disclaimer_title">Lähetä järjestelmätiedot</string>

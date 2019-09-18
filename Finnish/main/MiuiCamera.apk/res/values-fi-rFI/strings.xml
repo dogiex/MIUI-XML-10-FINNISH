@@ -177,8 +177,7 @@ ja optimoi valokuvasi näiden tietojen perusteella"</string>
   <string name="custom_watermark_words">Mukautettu vesileima</string>
   <string name="custom_watermark_words_input_hint">Anna teksti</string>
   <string name="custom_watermark_words_save_success">Tallennettiin onnistuneesti</string>
-  <string name="device_48m_watermark_default_text">48MP KOLMOISKAMERA</string>
-  <string name="device_64m_watermark_default_text">64MP KAKSOISKAMERA</string>
+  <string name="device_ultra_pixel_watermark_default_text">48MP KOLMOISKAMERA</string>
   <string name="device_watermark_default_text">AI-KOLMOISKAMERA</string>
   <string name="dialog_google_lens_option_0">Google Lens (Suositeltu)</string>
   <string name="dialog_ok">OK</string>
@@ -710,6 +709,9 @@ ja tuo henkilöt esiin."</string>
   <string name="pref_video_time_lapse_frame_interval_entry_90">90X (3 sekunnin intervalli)</string>
   <string name="pref_video_time_lapse_frame_interval_entry_900">900X (30 sekunnin intervalli)</string>
   <string name="pref_video_time_lapse_frame_interval_title">Time-lapsen nopeus</string>
+  <string name="pref_watermark_off">Pois käytöstä</string>
+  <string name="pref_watermark_on">Käytössä</string>
+  <string name="pref_watermark_title">Vesileima</string>
   <string name="preparing_sd">Tarkistetaan sisäistä tallennustilaa…</string>
   <string name="record_back_pressed_hint">Lopeta nauhoittaminen napauttamalla uudelleen</string>
   <string name="screen_on_proximity_sensor_hint">Poistaaksesi tämän ominaisuuden käytöstä, paina Äänenvoimakkuus ylös ja Takaisin -painikkeita samanaikaisesti.</string>
@@ -771,6 +773,8 @@ Ultralaajakulmatila tulee apuun, kun et voi liikkua kauemmaksi kohteestasi."</st
   <string name="ultra_wide_recommend_tip_hint">Kokeile Ultralaajakulmatilaa</string>
   <string name="ultra_wide_recommend_tip_hint_sat">Kokeile 0.6X ultralaajakulmatilaa</string>
   <string name="user_agree">Hyväksy</string>
+  <string name="user_define_watermark_cancel">Peruuta</string>
+  <string name="user_define_watermark_save">Tallenna</string>
   <string name="user_agreement2">Palveluehdot</string>
   <string name="user_agreement4">Tietosuojakäytäntö</string>
   <string name="user_notice_identify_summary_format">Ennen Kameran käyttämistä sinun täytyy hyväksyä meidän Käyttöehdot ja Tietosuojakäytäntö. Kameran täytyy yhdistää internetiin toimiakseen normaalisti. Hyväksytkö?</string>
