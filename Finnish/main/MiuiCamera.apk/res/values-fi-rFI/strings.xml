@@ -530,6 +530,8 @@ ja tuo henkilöt esiin."</string>
   <string name="pref_camera_long_pressing_shutter_title">Paina &amp; pidä Sulkija-painiketta lukitaksesi AE/AF/AWB</string>
   <string name="pref_camera_long_pressing_viewfinder_entry_google_lens">Google Lens</string>
   <string name="pref_camera_long_pressing_viewfinder_entry_lock_ae_af">AE/AF lukko</string>
+  <string name="pref_camera_lying_summary">Ilmoita nykyisestä suunnasta, kun puhelin on yhdensuuntainen maan kanssa</string>
+  <string name="pref_camera_lying_title">Ilmoita nykyisestä suunnasta</string>
   <string name="pref_camera_magic_mirror_title">Taikapeili</string>
   <string name="pref_camera_manual_mode_title">Manuaalinen</string>
   <string name="pref_camera_mfnr_sat_enable_title">Ota MFNR käyttöön</string>

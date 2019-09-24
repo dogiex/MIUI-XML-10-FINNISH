@@ -25,6 +25,10 @@
   <string name="auto_start_warning_deny">Kiellä</string>
   <string name="auto_start_warning_title">Sallitaanko %s käynnistyä automaattisesti?</string>
   <string name="autofill">Automaattinen täyttö</string>
+  <string name="autofill_save_message">Sallitaanko MIUI:n tallentaa tilisi ja salasanasi?</string>
+  <string name="autofill_save_ok">Salli</string>
+  <string name="autofill_save_sub_message">Voit hallita tallennettuja salasanoja asetuksista Asetukset &gt; Lisäasetukset &gt; Yksityisyys &gt; Hallitse salasanoja.</string>
+  <string name="autofill_save_title">Tallenna salasanat automaattisesti</string>
   <string name="button_text_cancel">Peruuta</string>
   <string name="button_text_delete">Poista asennus</string>
   <string name="button_text_delete_timer">Poista asennus (%d)</string>
@@ -99,9 +103,12 @@
   <string name="popup_camera_calibrate_failed">Ei voitu kalibroida</string>
   <string name="popup_camera_calibrate_now">Kalibroi</string>
   <string name="popup_camera_calibrate_success">Kalibroitiin onnistuneesti. Voit avata etukameran nyt.</string>
+  <string name="popup_camera_cancel_popup">Peruuta</string>
+  <string name="popup_camera_continue_popup">Avaa Kamera</string>
   <string name="popup_camera_front_failed">Etukameraa ei voitu avata. Yritä uudelleen</string>
   <string name="popup_camera_front_when_use">Kamerasovelluksen täytyy avata etukamera uudelleen. Avataanko nyt?</string>
   <string name="popup_camera_popup_falied_times_calibrate">Etukameraa ei voitu avata useaan kertaan. Yritä kameran kalibrointia.</string>
+  <string name="popup_camera_remove_hid_device">Näyttää siltä, että laitteesi on yhdistettynä peliohjaimeen. Et pysty välttämättä avata etukameraa peliohjaimen ollessa yhdistettynä.</string>
   <string name="popup_camera_sure">Selvä</string>
   <string name="popup_camera_sure_wait">Selvä (%d s)</string>
   <string name="popup_camera_takeback_falied_times_calibrate">Etukameraa ei voitu sulkea useaan kertaan. Yritä kameran kalibrointia.</string>

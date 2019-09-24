@@ -135,6 +135,8 @@ Vedä alaspäin päivittääksesi tai tarkasta verkkoasetukset"</string>
   <string name="feedback_overcast">Pilvinen</string>
   <string name="feedback_report_privacy_msg">Ilmoitus sisältää sijaintitietosi</string>
   <string name="feedback_result_fail_no_choice">Valitse nykyinen sääolosuhde</string>
+  <string name="feedback_result_fail_no_reason">Kiitos palautteestasi!</string>
+  <string name="feedback_result_fail_same_type">Näyttää siltä, että ilmoituksesi ei eroa nykyisestä säästä. Yritä uudelleen.</string>
   <string name="feedback_result_success">Lähetettiin onnistuneesti, kiitos palautteestasi.</string>
   <string name="feedback_sandy">Hiekkainen</string>
   <string name="feedback_sunny">Selkeä</string>

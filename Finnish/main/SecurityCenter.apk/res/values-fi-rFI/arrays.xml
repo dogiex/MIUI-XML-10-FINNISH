@@ -23,14 +23,14 @@
         <item>"Tässä kuussa: "</item>
     </string-array>
     <string-array name="date_of_app_all">
-        <item>Eilen (data)</item>
-        <item>Tänään (data)</item>
-        <item>Viime kuussa (data)</item>
-        <item>Tässä kuussa (data)</item>
-        <item>Eilen Wi-Fi</item>
-        <item>Tänään Wi-Fi</item>
-        <item>Viime kuussa Wi-Fi</item>
-        <item>Tässä kuussa Wi-Fi</item>
+        <item>"Eilen (mobiilidata) "</item>
+        <item>"Tänään (mobiilidata) "</item>
+        <item>"Viime kuussa (mobiilidata) "</item>
+        <item>"Tässä kuussa (mobiilidata) "</item>
+        <item>"Eilen (Wi-Fi) "</item>
+        <item>"Tänään (Wi-Fi) "</item>
+        <item>"Viime kuussa (Wi-Fi) "</item>
+        <item>"Tässä kuussa (Wi-Fi) "</item>
     </string-array>
     <string-array name="traffic_type">
         <item>"Mobiilidatan käyttö "</item>

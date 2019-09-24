@@ -949,6 +949,7 @@ Se lisätään poikkeuksiin, mutta jo ennestään estetyt kohteet ei ilmesty puh
   <string name="function_shield_summary">Rajoita valittuja järjestelmän ominaisuuksia pelaamisen aikana</string>
   <string name="function_shield_three_finger">Rajoita kuvakaappauksen eleitä</string>
   <string name="function_shield_title">Paranneltu kokemus</string>
+  <string name="function_shield_voice_trigger">Älä herätä Mi AI:ta äänellä</string>
   <string name="fw_blocked">Estolista</string>
   <string name="fw_blocked_count">"Estetty "</string>
   <string name="fw_blocked_join">" ja "</string>
@@ -1039,6 +1040,11 @@ Se lisätään poikkeuksiin, mutta jo ennestään estetyt kohteet ei ilmesty puh
   <string name="gb_description_image_button_answer">Vastaa</string>
   <string name="gb_description_image_button_reject">Hylkää</string>
   <string name="gb_description_image_button_video_answer">Videopuhelu</string>
+  <string name="gb_first_guide_function_shiled_title">Poista järjestelmätoiminnot käytöstä Game Turbon ollessa käytössä</string>
+  <string name="gb_first_guide_gamebox_des">Käytä pikakuvakkeita pelaamisen aikana</string>
+  <string name="gb_first_guide_handsfree_des">Vastaa puheluihin taustalla</string>
+  <string name="gb_first_guide_shortcut_des">Aloitusnäytön pikakuvake luotiin Game Turbolle</string>
+  <string name="gb_first_guide_title">Paranna nopeutta ja suorituskykyä järjestelmätasolla</string>
   <string name="gb_first_window_antimsg_summary_quick_answer">Käytä pikavastauksia</string>
   <string name="gb_first_window_antimsg_summary_transparent_show">Näytä teksti läpinäkyvällä taustalla</string>
   <string name="gb_first_window_antimsg_title">Kätevät ilmoitukset</string>
